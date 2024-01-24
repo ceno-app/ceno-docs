@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-01-26 00:01+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/censorship-no/"
+"user-manual-conceptspublic-personal/es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #: concepts/public-personal.md:block 1 (header)
 msgid "Public vs. Personal browsing"
-msgstr ""
+msgstr "Navegación pública versus navegación personal"
 
 #: concepts/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -19,32 +25,46 @@ msgid ""
 "let others know that you are trying to or did retrieve), and fortunately "
 "Ceno can help you in this instance as well."
 msgstr ""
+"Debido a las muchas técnicas utilizadas para superar los problemas de "
+"conectividad, Ceno puede convertirse en una forma conveniente de obtener "
+"todo tipo de contenido web. Y, como ya habrás leído en secciones anteriores, "
+"cada vez que recuperas y generas una página usando Ceno Browser, ésta queda "
+"disponible para otros. Sin embargo, es posible que haya contenido que no "
+"desees compartir (o que no quieras que otros sepan que estás intentando "
+"recuperarlo o que lo recuperaste) y, afortunadamente, Ceno también puede "
+"ayudarte en este caso."
 
 #: concepts/public-personal.md:block 3 (paragraph)
 msgid ""
 "The default mode when you launch the application is **Public browsing**. In "
 "it, Ceno accesses Web content as described previously:"
 msgstr ""
+"El modo por defecto al iniciar la aplicación es **Navegación pública**. En "
+"él, Ceno accede a los contenidos Web como se ha descrito anteriormente:"
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Direct access is attempted."
-msgstr ""
+msgstr "Se intenta el acceso directo."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Failing that, the distributed cache is searched."
-msgstr ""
+msgstr "En su defecto, se busca en la caché distribuida."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid ""
 "Failing that, the content is requested via an injector (maybe via another "
 "client)."
 msgstr ""
+"En su defecto, el contenido se solicita a través de un inyector (tal vez a "
+"través de otro cliente)."
 
 #: concepts/public-personal.md:block 5 (paragraph)
 msgid ""
 "Ceno also has a **Personal browsing** mode. In it, the distributed cache is "
 "never searched, and injection is never attempted:"
 msgstr ""
+"Ceno también tiene un modo de **Navegación personal**. En él, nunca se busca "
+"en la caché distribuida y nunca se intenta la inyección:"
 
 #: concepts/public-personal.md:block 6 (ordered list)
 msgid ""
@@ -52,48 +72,66 @@ msgid ""
 "*as a normal proxy server*. Note that in this case, neither the injector nor "
 "your client updates the distributed cache with your page."
 msgstr ""
+"En su defecto, se contacta con un inyector (quizás a través de otro cliente) "
+"y se utiliza *como un servidor proxy normal*. Ten en cuenta que, en este "
+"caso, ni el inyector ni tu cliente actualizan la caché distribuida con tu "
+"página."
 
 #: concepts/public-personal.md:block 7 (paragraph)
 msgid ""
 "The different behavior results in different characteristics. Thus, in Public "
 "mode:"
 msgstr ""
+"El diferente comportamiento se traduce en diferentes características. Así, "
+"en modo Público:"
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "You have better chances to get Web content, and help others get that content "
 "(from you)."
 msgstr ""
+"Tienes más posibilidades de conseguir contenidos web y de ayudar a otros a "
+"conseguir esos contenidos (de ti)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages with dynamic content (e.g. updated in real time) may break in obvious "
 "or subtle ways."
 msgstr ""
+"Las páginas con contenido dinámico (por ejemplo, actualizadas en tiempo real)"
+" pueden romperse de forma evidente o sutil."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages requiring authentication do not work (as passwords and cookies are "
 "removed by the client)."
 msgstr ""
+"Las páginas que requieren autenticación no funcionan (ya que las contraseñas "
+"y las cookies son eliminadas por el cliente)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to other users (see [risks](risks.md))."
 msgstr ""
+"Parte de la actividad de navegación puede filtrarse a otros usuarios (véase "
+"[risks](risks.md))."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to injectors (see [risks](risks.md))."
 msgstr ""
+"Parte de la actividad de navegación puede filtrarse a los inyectores (véase "
+"[risks](risks.md))."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid "You need to trust injectors to retrieve and sign Web content."
 msgstr ""
+"Es necesario confiar en los inyectores para recuperar y firmar contenidos "
+"web."
 
 #: concepts/public-personal.md:block 9 (paragraph)
 msgid "While in Personal mode:"
-msgstr ""
+msgstr "Estando en modo Personal:"
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
@@ -101,32 +139,41 @@ msgid ""
 "connectivity is too scarce; even if you could, other Ceno users would not "
 "get that content from you."
 msgstr ""
+"Es posible que no pueda acceder a contenidos Web bloqueados si la "
+"conectividad internacional es demasiado escasa; incluso si pudiera, otros "
+"usuarios de Ceno no obtendrían ese contenido de usted."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Pages with dynamic content will probably work."
-msgstr ""
+msgstr "Las páginas con contenido dinámico probablemente funcionarán."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Pages requiring authentication may work (when your connection is protected "
 "by HTTPS, the injector does not see your passwords)."
 msgstr ""
+"Las páginas que requieren autenticación pueden funcionar (cuando su conexión "
+"está protegida por HTTPS, el inyector no ve sus contraseñas)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Browsing activity is not leaked to other users."
-msgstr ""
+msgstr "La actividad de navegación no se filtra a otros usuarios."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Limited browsing activity is leaked to injectors (with HTTPS, only the "
 "origin server name or address)."
 msgstr ""
+"Se filtra una actividad de navegación limitada a los inyectores (con HTTPS, "
+"sólo el nombre o la dirección del servidor de origen)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "You need not trust injectors (with HTTPS, usual certificate-based security "
 "still works)."
 msgstr ""
+"No es necesario confiar en los inyectores (con HTTPS, la seguridad habitual "
+"basada en certificados sigue funcionando)."
 
 #: concepts/public-personal.md:block 11 (paragraph)
 msgid ""
@@ -136,6 +183,11 @@ msgid ""
 "to login to Twitter or edit your WordPress website, use *Personal browsing* "
 "mode."
 msgstr ""
+"En conclusión: si utilizas Ceno para leer las noticias, ver vídeos, navegar "
+"por Wikipedia y otros recursos estáticos que de otro modo estarían "
+"censurados en tu red, considera utilizar el modo predeterminado *Navegación "
+"pública*. Y si desea iniciar sesión en Twitter o editar su sitio web "
+"WordPress, utilice el modo *Navegación personal*."
 
 #: concepts/public-personal.md:block 12 (paragraph)
 msgid ""
@@ -145,3 +197,8 @@ msgid ""
 "greater detail in the [Helping others](../browser/bridging.md) section of "
 "the manual."
 msgstr ""
+"Por favor, lea la sección sobre [riesgos](risks.md) para una explicación más "
+"detallada. Ten en cuenta también que tu cliente puede seguir funcionando "
+"como puente y como sembrador independientemente de la navegación Pública o "
+"Personal. Explicamos esto con más detalle en la sección [Ayudando a "
+"otros](../browser/bridging.md) del manual."
