@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-01-30 06:01+0000\n"
+"Last-Translator: Mya Myintzu Hlaing <myamyintzu10@gmail.com>\n"
+"Language-Team: Burmese <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-public-private/my/>\n"
 "Language: my\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
-msgstr ""
+msgstr "အများသုံးနှင့် တစ်ကိုယ်ရည်သုံး ရှာဖွေခြင်း မုဒ်များ"
 
 #: browser/public-personal.md:block 2 (paragraph)
 msgid ""
