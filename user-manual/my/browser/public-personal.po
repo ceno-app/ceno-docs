@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 06:01+0000\n"
+"PO-Revision-Date: 2024-02-09 17:02+0000\n"
 "Last-Translator: Mya Myintzu Hlaing <myamyintzu10@gmail.com>\n"
 "Language-Team: Burmese <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-public-private/my/>\n"
@@ -22,6 +22,12 @@ msgid ""
 "the content that you browse with others (Public browsing) or not (Personal "
 "browsing)."
 msgstr ""
+"[ပြီးခဲ့သည့်အပိုင်း](../concepts/public-personal.md)တွင် ဖော်ပြခဲ့သည့်အတိုင်း"
+" သင်ရှာဖွေထားသည့် ဝဘ်အကြောင်းအရာများကို အခြားအသုံးပြုသူများနှင့် "
+"မျှဝေလိုခြင်း(အများသုံး ရှာဖွေခြင်း) သို့မဟုတ် တစ်ကိုယ်ရည် သီးသန့် "
+"အသုံးပြုလိုခြင်း(တစ်ကိုယ်ရည်သုံး ရှာဖွေခြင်း)ကဲ့သို့သော "
+"လုပ်ဆောင်ချက်ပေါ်မူတည်ပြီး CENO တွင် မတူညီသော လုပ်ဆောင်ချက် မုဒ် နှစ်မျိုး "
+"ရှိပါသည်။"
 
 #: browser/public-personal.md:block 3 (paragraph)
 msgid ""
