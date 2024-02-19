@@ -1,13 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-20 20:02+0000\n"
+"Last-Translator: Anatoly Bogomolov <tolya.bogomolov2019@gmail.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/censorship-no/"
+"user-manual-conceptspublic-personal/ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: concepts/public-personal.md:block 1 (header)
 msgid "Public vs. Personal browsing"
-msgstr ""
+msgstr "Отличия публичного и персонального просмотра"
 
 #: concepts/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -19,32 +26,46 @@ msgid ""
 "let others know that you are trying to or did retrieve), and fortunately "
 "Ceno can help you in this instance as well."
 msgstr ""
+"Благодаря множеству методов, используемых для преодоления проблем с "
+"подключением, Ceno может стать для вас удобным способом получения "
+"всевозможного веб-контента. И, как вы, возможно, уже читали в предыдущих "
+"разделах, каждый раз, когда вы получаете и передаете страницу с помощью "
+"Браузера Ceno, она становится доступной для других. В то же время, есть "
+"контент, которым вы бы не хотели делиться (или не хотите, чтобы другие "
+"знали, что вы пытаетесь или пытались получить к нему доступ), и, к счастью, "
+"Ceno может помочь вам и в этом случае."
 
 #: concepts/public-personal.md:block 3 (paragraph)
 msgid ""
 "The default mode when you launch the application is **Public browsing**. In "
 "it, Ceno accesses Web content as described previously:"
 msgstr ""
+"По умолчанию при запуске приложения используется режим **Публичный просмотр**"
+". В нем Ceno получает доступ к веб-контенту, как описано ранее:"
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Direct access is attempted."
-msgstr ""
+msgstr "Осуществляется попытка прямого доступа."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Failing that, the distributed cache is searched."
-msgstr ""
+msgstr "Если это не удается, выполняется поиск в распределенном кэше."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid ""
 "Failing that, the content is requested via an injector (maybe via another "
 "client)."
 msgstr ""
+"В противном случае содержимое запрашивается через инжектор (возможно, через "
+"другого пользователя)."
 
 #: concepts/public-personal.md:block 5 (paragraph)
 msgid ""
 "Ceno also has a **Personal browsing** mode. In it, the distributed cache is "
 "never searched, and injection is never attempted:"
 msgstr ""
+"В Ceno также есть режим **Личный просмотр**. В нем не используется "
+"распределенный кэш и инъекции не выполняются:"
 
 #: concepts/public-personal.md:block 6 (ordered list)
 msgid ""
@@ -64,12 +85,16 @@ msgid ""
 "You have better chances to get Web content, and help others get that content "
 "(from you)."
 msgstr ""
+"У вас больше шансов получить веб-контент и помочь другим получить этот "
+"контент (от вас)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages with dynamic content (e.g. updated in real time) may break in obvious "
 "or subtle ways."
 msgstr ""
+"Страницы с динамическим контентом (например, обновляемым в режиме реального "
+"времени) могут ломаться как очевидным, так и малозаметным образом."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
@@ -93,7 +118,7 @@ msgstr ""
 
 #: concepts/public-personal.md:block 9 (paragraph)
 msgid "While in Personal mode:"
-msgstr ""
+msgstr "Когда как в \"Личном\" режиме:"
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
@@ -104,7 +129,7 @@ msgstr ""
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Pages with dynamic content will probably work."
-msgstr ""
+msgstr "Страницы с динамическим контентом, вероятнее всего, будут работать."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
