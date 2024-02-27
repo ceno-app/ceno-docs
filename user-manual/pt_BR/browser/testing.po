@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-17 03:04+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2024-02-29 00:02+0000\n"
+"Last-Translator: delvani <inavleb@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
-"censorship-no/browser-testing/pt_BR/>\n"
+"censorship-no/manual/browser-testing/pt_BR/>\n"
 "Language: pt_BR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/testing.md:block 1 (header)
 msgid "Testing the Browser"
@@ -84,20 +84,15 @@ msgstr ""
 "Primeiramente, instale o Ceno e o inicie. A página de início aparecerá."
 
 #: browser/testing.md:block 8 (ordered list)
-#, fuzzy
-#| msgid ""
-#| "Open the app's main menu and choose *Ceno* to open the *Ceno Settings* "
-#| "page. Since we only want to test injector access, uncheck all the boxes "
-#| "for content sources except *Via the Ceno network (public)*."
 msgid ""
 "Open the app's main menu and choose *Settings* to open the *Ceno Settings* "
 "page. Since we only want to test injector access, uncheck all the boxes for "
 "content sources except *Via the Ceno network (public)*."
 msgstr ""
-"Abra o menu principal do aplicativo e escolha *Ceno* para abrir a página "
-"*Configurações do Ceno*. Já que apenas queremos testar o acesso do injetor, "
-"desmarque todas as caixas para sources de conteúdo exceto *Via rede do Ceno "
-"(pública)*."
+"Abra o menu principal do aplicativo e escolha *Configurações* para abrir a "
+"página *Configurações do Ceno*. Como queremos apenas testar o acesso ao "
+"injetor, desmarque todas as caixas das fontes de conteúdo, exceto *Via rede "
+"Ceno (pública)*."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
@@ -156,19 +151,14 @@ msgstr ""
 "![Figura: Sources usadas ao testar a injeção](images/sources-inject.png)"
 
 #: browser/testing.md:block 13 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "In contrast, if you had used private browsing with default settings, you "
-#| "may have seen a popup like the one below, with non-zero counts in *Direct "
-#| "from website* or *Via Ceno network (private)*."
 msgid ""
 "In contrast, if you had used Personal browsing with default settings, you "
 "may have seen a popup like the one below, with non-zero counts in *Direct "
 "from website* or *Via Ceno network (private)*."
 msgstr ""
-"Em contrapartida, se usou a navegação privativa com configurações padrão, "
-"você pode ter visto um popup como o abaixo, com contagens diferentes de zero "
-"em *Direto do website* ou *Via rede Ceno (privativa)*."
+"Por outro lado, se você usou a navegação Pessoal com a configurações padrão, "
+"você pode ter visto um pop-up como o abaixo, com contagens diferentes de "
+"zero em *Direto do site* ou *Via rede Ceno (privada)*."
 
 #: browser/testing.md:block 14 (paragraph)
 msgid "![Figure: Sources used with private browsing](images/sources-proxy.png)"
