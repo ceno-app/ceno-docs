@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-05 22:50+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2024-02-29 00:02+0000\n"
+"Last-Translator: delvani <inavleb@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "censorship-no/ceno/pt_BR/>\n"
 "Language: pt_BR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: intro/ceno.md:block 1 (header)
 msgid "What is Ceno Browser?"
@@ -138,14 +138,6 @@ msgstr ""
 "conteúdo Web para outros usuários."
 
 #: intro/ceno.md:block 11 (quote)
-#, fuzzy
-#| msgid ""
-#| "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may "
-#| "allow others to know whether you have accessed or are sharing certain Web "
-#| "content. Please take careful consideration of which risks you can assume "
-#| "by using this tool. See the sections on [public vs. private browsing](../"
-#| "concepts/public-private.md) and [risks](../concepts/risks.md) for further "
-#| "information."
 msgid ""
 "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may allow "
 "others to know whether you have accessed or are sharing certain Web content. "
@@ -156,10 +148,10 @@ msgid ""
 msgstr ""
 "**Aviso:** *Ceno não é uma ferramenta de anonimato.* Na verdade, usar o Ceno "
 "pode permitir que outras pessoas saibam se você acessou ou está "
-"compartilhando determinado conteúdo Web. Por favor, tenha bastante cautela "
-"ao considerar os riscos que você pode assumir ao usar essa ferramenta. Veja "
-"as seções sobre [navegação pública versus navegação privativa](../concepts/"
-"public-private.md) e [riscos](../concepts/risks.md) para mais informações."
+"compartilhando determinado conteúdo da Web. Por favor, considere "
+"cuidadosamente quais riscos você pode assumir ao usar esta ferramenta. "
+"Consulte as seções sobre [navegação Pública vs. Pessoal](../concepts/public-"
+"personal.md) e [riscos](../concepts/risks.md) para obter mais informações."
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[Censorship.no!]: https://censorship.no/"
