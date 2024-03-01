@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-05 21:33+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "browser-troubleshooting/pt/>\n"
 "Language: pt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/troubleshooting.md:block 1 (header)
 msgid "Troubleshooting"
@@ -32,16 +32,13 @@ msgstr ""
 "utilizadores recuperaram e as características das conexões deles."
 
 #: browser/troubleshooting.md:block 3 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "If problems still persist, please report them to [cenoers@equalit.ie]"
-#| "(mailto:cenoers@equalit.ie). We will try to help you with them."
 msgid ""
 "If problems still persist, please report them to [cenoers@equalitie.org]"
 "(mailto:cenoers@equalitie.org). We will try to help you with them."
 msgstr ""
-"Se os problemas persistirem, por favor os relate para [cenoers@equalitie.org]"
-"(mailto:cenoers@equalitie.org). Tentaremos ajudar a resolvê-los."
+"Se os problemas persistirem, comunique-os a [cenoers@equalitie."
+"org](mailto:cenoers@equalitie.org). Tentaremos ajudá-lo a resolver o "
+"problema."
 
 #: browser/troubleshooting.md:block 4 (header)
 msgid "There is no Ceno entry in the app menu"
