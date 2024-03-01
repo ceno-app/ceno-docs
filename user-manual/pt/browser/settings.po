@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-26 18:50+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
+"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
-"browser-settings/pt/>\n"
+"manual/browser-settings/pt/>\n"
 "Language: pt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/settings.md:block 1 (header)
 msgid "Ceno settings"
@@ -64,23 +64,17 @@ msgid "Choosing access mechanisms"
 msgstr "Escolhendo os mecanismos de acesso"
 
 #: browser/settings.md:block 7 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "The four checkboxes on the top of the page selectively enable or disable "
-#| "the different mechanisms or *sources* that Ceno as a Ouinet client uses "
-#| "to retrieve content while using either [public or private browsing]"
-#| "(public-private.md) tabs. All boxes are enabled by default."
 msgid ""
 "The four checkboxes on the top of the page selectively enable or disable the "
 "different mechanisms or *sources* that Ceno as a Ouinet client uses to "
 "retrieve content while using either [Public or Personal browsing](public-"
 "personal.md) tabs. All boxes are enabled by default."
 msgstr ""
-"As quatro caixas de seleção no topo da página seletivamente ativam ou "
-"desativam os diferentes mecanismos ou *sources* que o Ceno, como um cliente "
-"Ouinet, usa para recuperar conteúdo enquanto utiliza tanto as guias de "
-"[navegação pública quanto privativa](public-private.md). Todas as caixas "
-"estão ativadas por padrão."
+"As quatro caixas de verificação no topo da página activam ou desactivam "
+"seletivamente os diferentes mecanismos ou *fontes* que o Ceno, enquanto "
+"cliente Ouinet, utiliza para obter conteúdos enquanto utiliza os separadores "
+"[Public or Personal browsing] (public-personal.md). Todas as caixas estão "
+"activadas por defeito."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -92,17 +86,12 @@ msgstr ""
 "mecanismos ativados abaixo."
 
 #: browser/settings.md:block 8 (unordered list)
-#, fuzzy
-#| msgid ""
-#| "Although this mechanism works in both private and public browsing modes, "
-#| "content thus retrieved cannot be shared with others."
 msgid ""
 "Although this mechanism works in both Personal and Public browsing modes, "
 "content thus retrieved cannot be shared with others."
 msgstr ""
-"Embora esse mecanismo funcione em ambos os modos de navegação, pública e "
-"privativa, o conteúdo assim recuperado não pode ser partilhado com outras "
-"pessoas."
+"Embora este mecanismo funcione nos modos de navegação Pessoal e Público, o "
+"conteúdo assim recuperado não pode ser partilhado com outros."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
