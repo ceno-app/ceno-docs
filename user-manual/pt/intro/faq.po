@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-26 18:50+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
+"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "faq/pt/>\n"
 "Language: pt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: intro/faq.md:block 1 (header)
 msgid "Frequently Asked Questions"
@@ -71,10 +71,8 @@ msgid "Can I use Ceno Browser to access Twitter, Facebook and Gmail?"
 msgstr "Posso usar o Navegador CENO para aceder Twitter, Facebook e Gmail?"
 
 #: intro/faq.md:block 9 (paragraph)
-#, fuzzy
-#| msgid "Short answer: yes, by using private tabs."
 msgid "Short answer: yes, by using Personal tabs."
-msgstr "Resposta curta: sim, usando guias privativas."
+msgstr "Resposta curta: sim, utilizando separadores pessoais."
 
 #: intro/faq.md:block 10 (paragraph)
 msgid ""
@@ -94,13 +92,6 @@ msgstr ""
 "utilizadores não confiáveis do CENO ou da Ouinet."
 
 #: intro/faq.md:block 11 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "To avoid this and enable the use of such dynamic sites in Ceno, you can "
-#| "use private tabs (i.e. private browsing), which leave private data intact "
-#| "and keep connections to the sites encrypted and thus protected from "
-#| "everyone else. However, this requires that network traffic from your "
-#| "device can reach those websites in some way."
 msgid ""
 "To avoid this and enable the use of such dynamic sites in Ceno, you can use "
 "Personal tabs (i.e. private browsing), which leave private data intact and "
@@ -108,24 +99,20 @@ msgid ""
 "else. However, this requires that network traffic from your device can reach "
 "those websites in some way."
 msgstr ""
-"Para evitar este cenário e permitir ao utilizador o uso desses websites "
-"dinâmicos no CENO, pode usar as guias privativas (isto é, navegação "
-"privativa), a qual deixa os dados privados intactos e mantém as conexões aos "
-"websites criptografadas e, assim, protegidas de todas as outras pessoas. "
-"Esse processo requer, contudo, que o tráfego do seu aparelho possa alcançar "
-"esses websites de alguma maneira."
+"Para evitar este cenário e permitir ao utilizador o uso de tais sítios "
+"dinâmicos no CENO, pode usar separadores pessoais (isto é, navegação privada)"
+", que deixam os dados privados intactos e mantêm as ligações aos sites "
+"encriptadas e, assim, protegidas de todos os outros. Este processo requer, "
+"contudo, que o tráfego do seu dispositivo possa chegar a esses websites de "
+"alguma forma."
 
 #: intro/faq.md:block 12 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "For further details, please refer to the section on the differences "
-#| "between [public and private browsing](../concepts/public-private.md)."
 msgid ""
 "For further details, please refer to the section on the differences between "
 "[Public and Personal browsing](../concepts/public-personal.md)."
 msgstr ""
-"Para mais detalhes, por favor consulte a secção sobre diferenças entre "
-"[navegação pública e privativa](../concepts/public-private.md)."
+"Para mais detalhes, por favor consulte a secção sobre diferenças entre ["
+"navegação pública e pessoal](../concepts/public-private.md)."
 
 #: intro/faq.md:block 13 (header)
 msgid "Privacy and security"
