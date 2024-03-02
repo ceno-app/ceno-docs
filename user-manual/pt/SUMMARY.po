@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"PO-Revision-Date: 2024-03-03 20:01+0000\n"
 "Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "user-manual/pt/>\n"
@@ -68,10 +68,8 @@ msgid "[Installing Ceno](browser/install.md)"
 msgstr "[Instalar o Ceno](browser/install.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
-#, fuzzy
-#| msgid "[Using public or private browsing](browser/public-private.md)"
 msgid "[Using Public or Personal browsing](browser/public-personal.md)"
-msgstr "[Usar navegação pública ou privativa](browser/public-private.md)"
+msgstr "[Usar navegação Pública ou Pessoal](browser/public-private.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Ceno settings](browser/settings.md)"
