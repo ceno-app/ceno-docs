@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"PO-Revision-Date: 2024-03-03 20:01+0000\n"
 "Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-testing/pt/>\n"
@@ -151,19 +151,14 @@ msgstr ""
 "![Figura: Sources usadas ao testar a injeção](images/sources-inject.png)"
 
 #: browser/testing.md:block 13 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "In contrast, if you had used private browsing with default settings, you "
-#| "may have seen a popup like the one below, with non-zero counts in *Direct "
-#| "from website* or *Via Ceno network (private)*."
 msgid ""
 "In contrast, if you had used Personal browsing with default settings, you "
 "may have seen a popup like the one below, with non-zero counts in *Direct "
 "from website* or *Via Ceno network (private)*."
 msgstr ""
-"Em contrapartida, se usou a navegação privativa com configurações padrão, "
-"pode ter visto um popup como o abaixo, com contagens diferentes de zero em "
-"*Direto do website* ou *Via rede Ceno (privativa)*."
+"Em contrapartida, se usou a navegação Pessoal com configurações padrão, pode "
+"ter visto um pop-up como o abaixo, com contagens diferentes de zero em *"
+"Direto do website* ou *Via rede Ceno (privada)*."
 
 #: browser/testing.md:block 14 (paragraph)
 msgid "![Figure: Sources used with private browsing](images/sources-proxy.png)"
