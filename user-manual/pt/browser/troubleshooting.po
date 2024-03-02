@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"PO-Revision-Date: 2024-03-03 20:01+0000\n"
 "Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "browser-troubleshooting/pt/>\n"
@@ -616,7 +616,5 @@ msgstr ""
 "[aqui](bridging.md) para maiores instruções."
 
 #: browser/troubleshooting.md:block 51 (quote)
-#, fuzzy
-#| msgid "[HTTPS by default]: https://github.com/Rob--W/https-by-default"
 msgid "[HTTPS by default]: https://github.com/Rob--W/https-by-default"
 msgstr "[HTTPS by default]: https://github.com/Rob--W/https-by-default"
