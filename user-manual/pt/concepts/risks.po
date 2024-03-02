@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"PO-Revision-Date: 2024-03-03 20:01+0000\n"
 "Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "risks/pt/>\n"
@@ -141,14 +141,6 @@ msgstr ""
 "que é de natureza privada, o Ceno também não irá semeá-lo."
 
 #: concepts/risks.md:block 15 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "Still, there could be cases of badly designed or malicious pages which "
-#| "may collect some information from you (like an email address in a form or "
-#| "some browser fingerprints using JavaScript) and stuff it in another link "
-#| "URL as normal path components (e.g. `http://example.com/subscribe/"
-#| "you@example.org`). If you suspect that a page may be doing that, better "
-#| "be on the safe side and use private browsing for it."
 msgid ""
 "Still, there could be cases of badly designed or malicious pages which may "
 "collect some information from you (like an email address in a form or some "
@@ -162,8 +154,8 @@ msgstr ""
 "formulário ou fingerprints de algum navegador que use JavaScript) e incluí-"
 "los em outro link URL como componentes de um caminho normal (exemplo, "
 "`http://example.com/subscribe/you@example.org`). Se suspeita que uma página "
-"pode estar fazendo isso, melhor se prevenir e usar a navegação privativa "
-"para navegá-la."
+"pode estar fazendo isso, melhor se prevenir e usar a navegação Pessoal para "
+"navegá-la."
 
 #: concepts/risks.md:block 16 (header)
 msgid "Can the origin server know whether I am using Ceno?"
