@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-02 16:01+0000\n"
+"PO-Revision-Date: 2024-03-03 20:01+0000\n"
 "Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-settings/pt/>\n"
@@ -135,10 +135,8 @@ msgstr ""
 "de origem."
 
 #: browser/settings.md:block 8 (unordered list)
-#, fuzzy
-#| msgid "This mechanism only works in private browsing mode."
 msgid "This mechanism only works in Personal browsing mode."
-msgstr "Esse mecanismo somente funciona no modo de navegação privativa."
+msgstr "Este mecanismo só funciona no modo de navegação Pessoal."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -187,19 +185,14 @@ msgstr ""
 "e Ouinet que o estão semeando."
 
 #: browser/settings.md:block 9 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "Disabling all of the mechanisms available for either public or private "
-#| "browsing mode will render them useless. If you establish such a "
-#| "configuration, a warning will be shown as depicted below:"
 msgid ""
 "Disabling all of the mechanisms available for either Public or Personal "
 "browsing mode will render them useless. If you establish such a "
 "configuration, a warning will be shown as depicted below:"
 msgstr ""
-"Desativar todos os mecanismos disponíveis tanto para o modo de navegação "
-"pública quanto para o privativo irá torná-los inúteis. Se estabelecer tais "
-"configurações, um aviso será exibido como ilustrado abaixo:"
+"A desativação de todos os mecanismos disponíveis para o modo de navegação "
+"Público ou Pessoal torná-los-á inúteis. Se estabelecer uma configuração "
+"deste tipo, será apresentado um aviso, conforme ilustrado abaixo:"
 
 #: browser/settings.md:block 10 (paragraph)
 msgid ""
