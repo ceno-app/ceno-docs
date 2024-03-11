@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-11 20:51+0000\n"
+"PO-Revision-Date: 2024-03-11 21:14+0000\n"
 "Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-public-private/ru/>\n"
