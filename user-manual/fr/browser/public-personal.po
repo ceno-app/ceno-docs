@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-14 23:09+0000\n"
-"Last-Translator: Charlie Mann-Ray <funkycharlie4@gmail.com>\n"
+"PO-Revision-Date: 2024-03-11 21:10+0000\n"
+"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-public-private/fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
