@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-05 22:50+0000\n"
+"PO-Revision-Date: 2024-03-12 21:44+0000\n"
 "Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
-"browser-install/pt/>\n"
+"manual/browser-install/pt/>\n"
 "Language: pt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/install.md:block 1 (header)
 msgid "Installing Ceno"
@@ -154,8 +154,8 @@ msgid ""
 "![Figure: The last action stops Ceno and clears all its data](images/tap-"
 "purge.png)"
 msgstr ""
-"![Figura: A última ação interrompe o Ceno e limpa todos os seus dados]"
-"(images/tap-purge.png)"
+"![Figura: A última ação interrompe o Ceno e limpa todos os seus dados]("
+"images/tap-purge.png)"
 
 #: browser/install.md:block 15 (paragraph)
 msgid ""
