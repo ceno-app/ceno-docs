@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-03 20:01+0000\n"
-"Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
+"PO-Revision-Date: 2024-03-12 21:45+0000\n"
+"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-testing/pt/>\n"
 "Language: pt\n"
@@ -80,8 +80,7 @@ msgstr "No primeiro aparelho, realize as seguintes etapas:"
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "First of all, install Ceno and start it. Its home page will appear."
-msgstr ""
-"Primeiramente, instale o Ceno e o inicie. A página de início aparecerá."
+msgstr "Primeiramente, instale o Ceno e o inicie. A página de início aparecerá."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
@@ -247,8 +246,8 @@ msgid ""
 "![Figure: Sources used when testing distributed cache retrieval](images/"
 "sources-dcache.png)"
 msgstr ""
-"![Figura: Sources usadas durante o teste de recuperação do cache distribuído]"
-"(images/sources-dcache.png)"
+"![Figura: Sources usadas durante o teste de recuperação do cache "
+"distribuído](images/sources-dcache.png)"
 
 #: browser/testing.md:block 22 (paragraph)
 msgid ""
@@ -282,8 +281,8 @@ msgid ""
 msgstr ""
 "Após completar com sucesso o teste acima, mantenha a execução do Ceno no "
 "primeiro aparelho como no teste anterior e interrompa o Ceno no segundo "
-"aparelho (para interromper, exiba as notificações do Ceno e pressione "
-"\"Toque para interromper\")."
+"aparelho (para interromper, exiba as notificações do Ceno e pressione \"Toque"
+" para interromper\")."
 
 #: browser/testing.md:block 26 (paragraph)
 msgid ""
