@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-05 22:53+0000\n"
+"PO-Revision-Date: 2024-03-12 21:40+0000\n"
 "Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "ouinet/pt/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: intro/ouinet.md:block 1 (header)
 msgid "What is Ouinet?"
@@ -50,8 +50,8 @@ msgstr ""
 "de ficheiros (tabela de hash distribuído do BitTorrent), a comunicação com "
 "eles utiliza protocolos comuns da Web e de partilha de ficheiros (pedidos de "
 "proxy HTTP e µTP do BitTorrent), e normas industriais modernas garantem a "
-"segurança das comunicações e a autenticidade do conteúdo trocado "
-"(encriptação TLS e assinaturas Ed25519). Ouinet permite substituir "
+"segurança das comunicações e a autenticidade do conteúdo trocado ("
+"encriptação TLS e assinaturas Ed25519). Ouinet permite substituir "
 "tecnologias particulares por outras, se necessário (por exemplo, algumas "
 "utilizações do µTP podem ser substituídas pelo Tor's Pluggable Transports)."
 
