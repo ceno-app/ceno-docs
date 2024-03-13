@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-13 19:44+0000\n"
+"Last-Translator: Semih <semihbrn10@gmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
+"user-manual-conceptspublic-personal/tr/>\n"
 "Language: tr\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: concepts/public-personal.md:block 1 (header)
 msgid "Public vs. Personal browsing"
-msgstr ""
+msgstr "Genel vs. Kişisel tarama"
 
 #: concepts/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -19,32 +25,46 @@ msgid ""
 "let others know that you are trying to or did retrieve), and fortunately "
 "Ceno can help you in this instance as well."
 msgstr ""
+"Bağlantı sorunlarının üstesinden gelmek için kullanılan birçok teknik "
+"nedeniyle Ceno, her türlü Web içeriğine erişmeniz için uygun bir yol haline "
+"gelebilir. Ve önceki bölümlerde okumuş olabileceğiniz gibi, Ceno Tarayıcıyı "
+"kullanarak bir sayfayı alıp yayınladığınızda, bu sayfa başkalarının "
+"kullanımına açılır. Bununla birlikte, paylaşmak istemediğiniz (veya "
+"başkalarının, almaya çalıştığınızı ya da almaya çalıştığınızı bilmesini "
+"istemediğiniz) bazı içerikler olabilir ve neyse ki Ceno bu durumda da size "
+"yardımcı olabilir."
 
 #: concepts/public-personal.md:block 3 (paragraph)
 msgid ""
 "The default mode when you launch the application is **Public browsing**. In "
 "it, Ceno accesses Web content as described previously:"
 msgstr ""
+"Uygulamayı başlattığınızda varsayılan mod **Genel tarama**'dır. İçinde Ceno, "
+"daha önce açıklandığı gibi Web içeriğine erişir:"
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Direct access is attempted."
-msgstr ""
+msgstr "Doğrudan erişim deneniyor."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Failing that, the distributed cache is searched."
-msgstr ""
+msgstr "Başarısız olursa dağıtılmış önbellek aranır."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid ""
 "Failing that, the content is requested via an injector (maybe via another "
 "client)."
 msgstr ""
+"Aksi takdirde içerik bir enjektör aracılığıyla (belki başka bir istemci "
+"aracılığıyla) talep edilir."
 
 #: concepts/public-personal.md:block 5 (paragraph)
 msgid ""
 "Ceno also has a **Personal browsing** mode. In it, the distributed cache is "
 "never searched, and injection is never attempted:"
 msgstr ""
+"Ceno'da ayrıca **Kişisel tarama** modu da bulunur. İçinde dağıtılmış "
+"önbellek hiçbir zaman aranmaz ve enjeksiyona asla teşebbüs edilmez:"
 
 #: concepts/public-personal.md:block 6 (ordered list)
 msgid ""
@@ -52,48 +72,64 @@ msgid ""
 "*as a normal proxy server*. Note that in this case, neither the injector nor "
 "your client updates the distributed cache with your page."
 msgstr ""
+"Başarısız olunduğunda enjektörle bağlantı kurulur (belki başka bir istemci "
+"aracılığıyla) ve *normal bir proxy sunucusu* olarak kullanılır. Bu durumda "
+"ne enjektörün ne de istemcinizin dağıtılmış önbelleği sayfanızla "
+"güncellemediğini unutmayın."
 
 #: concepts/public-personal.md:block 7 (paragraph)
 msgid ""
 "The different behavior results in different characteristics. Thus, in Public "
 "mode:"
 msgstr ""
+"Farklı davranışlar farklı özelliklerin ortaya çıkmasına neden olur. Böylece, "
+"Herkese Açık modda:"
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "You have better chances to get Web content, and help others get that content "
 "(from you)."
 msgstr ""
+"Web içeriğini alma ve başkalarının bu içeriği (sizden) almasına yardımcı "
+"olma şansınız daha yüksektir."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages with dynamic content (e.g. updated in real time) may break in obvious "
 "or subtle ways."
 msgstr ""
+"Dinamik içeriğe sahip sayfalar (ör. gerçek zamanlı olarak güncellenen) bariz "
+"veya incelikli şekilde bozulabilir."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages requiring authentication do not work (as passwords and cookies are "
 "removed by the client)."
 msgstr ""
+"Kimlik doğrulaması gerektiren sayfalar çalışmaz (şifreler ve çerezler "
+"istemci tarafından kaldırıldığı için)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to other users (see [risks](risks.md))."
 msgstr ""
+"Bazı tarama etkinlikleri diğer kullanıcılara sızdırılabilir (bkz. "
+"[risks](risks.md))."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to injectors (see [risks](risks.md))."
 msgstr ""
+"Bazı tarama etkinlikleri enjektörlere sızdırılmış olabilir (bkz. "
+"[risks](risks.md))."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid "You need to trust injectors to retrieve and sign Web content."
-msgstr ""
+msgstr "Web içeriğini almak ve imzalamak için enjektörlere güvenmeniz gerekir."
 
 #: concepts/public-personal.md:block 9 (paragraph)
 msgid "While in Personal mode:"
-msgstr ""
+msgstr "Kişisel moddayken:"
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
@@ -101,32 +137,40 @@ msgid ""
 "connectivity is too scarce; even if you could, other Ceno users would not "
 "get that content from you."
 msgstr ""
+"Uluslararası bağlantı çok azsa, engellenen Web içeriğine erişemeyebilirsiniz;"
+" yapabilseniz bile diğer Ceno kullanıcıları bu içeriği sizden alamazlar."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Pages with dynamic content will probably work."
-msgstr ""
+msgstr "Dinamik içeriğe sahip sayfalar muhtemelen işe yarayacaktır."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Pages requiring authentication may work (when your connection is protected "
 "by HTTPS, the injector does not see your passwords)."
 msgstr ""
+"Kimlik doğrulama gerektiren sayfalar çalışabilir (bağlantınız HTTPS "
+"tarafından korunduğunda enjektör şifrelerinizi görmez)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Browsing activity is not leaked to other users."
-msgstr ""
+msgstr "Tarama etkinliği diğer kullanıcılara sızdırılmaz."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Limited browsing activity is leaked to injectors (with HTTPS, only the "
 "origin server name or address)."
 msgstr ""
+"Sınırlı tarama etkinliği enjektörlere sızdırılır (HTTPS ile yalnızca kaynak "
+"sunucu adı veya adresi)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "You need not trust injectors (with HTTPS, usual certificate-based security "
 "still works)."
 msgstr ""
+"Enjektörlere güvenmenize gerek yoktur (HTTPS ile olağan sertifika tabanlı "
+"güvenlik hala çalışır)."
 
 #: concepts/public-personal.md:block 11 (paragraph)
 msgid ""
@@ -136,6 +180,11 @@ msgid ""
 "to login to Twitter or edit your WordPress website, use *Personal browsing* "
 "mode."
 msgstr ""
+"Sonuç olarak: Ceno'yu haberleri okumak, video izlemek, Wikipedia'ya ve "
+"ağınızda sansürlenen diğer statik kaynaklara göz atmak için kullanıyorsanız, "
+"varsayılan *Genel tarama* modunu kullanmayı düşünün. Twitter'da oturum açmak "
+"veya WordPress web sitenizi düzenlemek istiyorsanız *Kişisel tarama* modunu "
+"kullanın."
 
 #: concepts/public-personal.md:block 12 (paragraph)
 msgid ""
@@ -145,3 +194,8 @@ msgid ""
 "greater detail in the [Helping others](../browser/bridging.md) section of "
 "the manual."
 msgstr ""
+"Daha ayrıntılı bir açıklama için lütfen [risks](risks.md) bölümünü okuyun. "
+"Ayrıca istemcinizin Genel veya Kişisel gezinmeden bağımsız olarak köprü ve "
+"ekme makinesi olarak çalışmaya devam edebileceğini unutmayın. Bunu kılavuzun "
+"[Başkalarına yardım etmek](../browser/bridging.md) bölümünde daha ayrıntılı "
+"olarak açıklıyoruz."
