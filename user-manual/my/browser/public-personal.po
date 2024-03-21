@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-20 20:41+0000\n"
+"PO-Revision-Date: 2024-03-21 18:01+0000\n"
 "Last-Translator: Mya Myintzu Hlaing <myamyintzu10@gmail.com>\n"
 "Language-Team: Burmese <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-public-private/my/>\n"
@@ -56,18 +56,23 @@ msgid ""
 "You can tell public tabs from personal ones because public tabs have a "
 "lighter (or white) tool bar:"
 msgstr ""
+"အများသုံးတပ်ဗ်များနှင့် တစ်ကိုယ်ရည်သုံးတပ်ဗ်များကို သင့်အနေဖြင့် "
+"ခွဲခြားသိရှိနိုင်သည်။ အဘယ်ကြောင့်ဆိုသော် အများသုံးတပ်ဗ်များသည် "
+"ပိုမိုဖျော့တော့သော (သို့မဟုတ် အဖြူရောင်) tool bar ဖြစ်ပါသည်။"
 
 #: browser/public-personal.md:block 5 (paragraph)
 msgid "![Figure: A Public browsing tab](images/public-tab.png)"
-msgstr ""
+msgstr "![ပုံ - အများသုံးရှာဖွေခြင်းတပ်ဗ်တစ်ခု](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
 msgstr ""
+"ဆန့်ကျင်ဘက်အားဖြင့် တစ်ကိုယ်ရည်သုံးတပ်ဗ်များသည် ပိုမို အရောင်ရင့်သော tool "
+"bar ရှိပါသည်။"
 
 #: browser/public-personal.md:block 7 (paragraph)
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
-msgstr ""
+msgstr "![ပုံ - တစ်ကိုယ်ရည်သုံးရှာဖွေခြင်းတပ်ဗ်တစ်ခု](images/private-tab.png)"
 
 #: browser/public-personal.md:block 8 (paragraph)
 msgid ""
@@ -75,3 +80,7 @@ msgid ""
 "help you know how it actually retrieved the different elements of the "
 "content. We will cover this icon later on."
 msgstr ""
+"သင် တပ်ဗ်တစ်ခုတွင် စာမျက်နှာတစ်ခုအား ရှာဖွေပြီးပါက လိပ်စာဘားရှိ Ceno "
+"အိုင်ကွန်သည် အကြောင်းအရာ၏ မတူညီသောအစိတ်အပိုင်းများအား မည်ကဲ့သို့ ရယူခဲ့သည်ကို"
+" သင်သိနိုင်ရန် ကူညီနိုင်လိမ့်မည်။ ယခု အိုင်ကွန်အား နောက်ပိုင်းတွင် "
+"ဖော်ပြသွားပါမည်။"
