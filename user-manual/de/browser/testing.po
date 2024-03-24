@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-30 18:33+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2024-03-25 18:01+0000\n"
+"Last-Translator: Stzyxh <amannjuri@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/censorship-no/"
-"browser-testing/de/>\n"
+"manual/browser-testing/de/>\n"
 "Language: de\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/testing.md:block 1 (header)
 msgid "Testing the Browser"
@@ -86,11 +86,6 @@ msgstr ""
 "angezeigt."
 
 #: browser/testing.md:block 8 (ordered list)
-#, fuzzy
-#| msgid ""
-#| "Open the app's main menu and choose *Ceno* to open the *Ceno Settings* "
-#| "page. Since we only want to test injector access, uncheck all the boxes "
-#| "for content sources except *Via the Ceno network (public)*."
 msgid ""
 "Open the app's main menu and choose *Settings* to open the *Ceno Settings* "
 "page. Since we only want to test injector access, uncheck all the boxes for "
