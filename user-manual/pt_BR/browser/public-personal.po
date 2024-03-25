@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-26 19:01+0000\n"
+"Last-Translator: Jose Delvani <delvani.eletricista@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"censorship-no/manual/browser-public-private/pt_BR/>\n"
 "Language: pt_BR\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
-msgstr ""
+msgstr "Modos de navegação Pública e Pessoal"
 
 #: browser/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +22,10 @@ msgid ""
 "the content that you browse with others (Public browsing) or not (Personal "
 "browsing)."
 msgstr ""
+"Conforme descrito [em uma seção anterior](../concepts/public-personal.md), o "
+"Navegador Ceno possui dois modos diferentes de operação dependendo se você "
+"deseja compartilhar o conteúdo que você navega com outras pessoas (Navegação "
+"Pública) ou não (Navegação Pessoal)."
 
 #: browser/public-personal.md:block 3 (paragraph)
 msgid ""
@@ -27,24 +37,35 @@ msgid ""
 "choose *Personal Tabs* on the homepage or switch to the Personal mode icon "
 "in the Tabs menu."
 msgstr ""
+"Esta configuração se aplica *a cada guia* que você abre no navegador, ou "
+"seja, você pode ter guias de navegação pública e guias de navegação pessoal. "
+"O padrão do Navegador Ceno sempre que você iniciá-lo ou abrir uma nova aba ("
+"através da opção \"Abas Públicas\" na página inicial ou do ícone \"Abas\" "
+"próximo ao ícone \"Limpar\" na barra de endereço) é usar a Navegação "
+"Pública. Para abrir uma nova aba no modo de navegação Pessoal, basta "
+"escolher *Guias Pessoais* na página inicial ou mudar para o ícone do \"Modo "
+"Pessoal\" no menu \"Abas\"."
 
 #: browser/public-personal.md:block 4 (paragraph)
 msgid ""
 "You can tell public tabs from personal ones because public tabs have a "
 "lighter (or white) tool bar:"
 msgstr ""
+"Você pode diferenciar as guias públicas das pessoais porque as guias "
+"públicas têm uma barra de ferramentas mais clara (ou branca):"
 
 #: browser/public-personal.md:block 5 (paragraph)
 msgid "![Figure: A Public browsing tab](images/public-tab.png)"
-msgstr ""
+msgstr "![Figure: Guia de navegação Pública](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
 msgstr ""
+"Por outro lado, as guias privadas têm uma barra de ferramentas mais escura:"
 
 #: browser/public-personal.md:block 7 (paragraph)
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
-msgstr ""
+msgstr "![Figure: Guia de navegação Pessoal](images/private-tab.png)"
 
 #: browser/public-personal.md:block 8 (paragraph)
 msgid ""
@@ -52,3 +73,6 @@ msgid ""
 "help you know how it actually retrieved the different elements of the "
 "content. We will cover this icon later on."
 msgstr ""
+"Depois de carregar uma página em uma aba, o ícone do Navegador Ceno na barra "
+"de endereço irá ajudá-lo a saber como ele realmente recuperou os diferentes "
+"elementos do conteúdo. Abordaremos esse ícone mais tarde."
