@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-04 20:09+0200\n"
-"PO-Revision-Date: 2023-12-28 08:07+0000\n"
+"PO-Revision-Date: 2024-03-29 01:01+0000\n"
 "Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "risks/tr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #
 #: concepts/risks.md:block 1 (header)
@@ -42,8 +42,8 @@ msgid ""
 "as a *seeder* sharing content over the distributed cache that you previously "
 "visited"
 msgstr ""
-"önceden eriştiğiniz içerikleri dağıtılmış ön bellekte paylaşan bir "
-"*gönderici* olarak"
+"önceden eriştiğiniz içerikleri dağıtılmış ön bellekte paylaşan bir *dağıtıcı*"
+" olarak"
 
 #: concepts/risks.md:block 3 (unordered list)
 msgid "as a *bridge* allowing other users to reach an injector"
@@ -138,10 +138,10 @@ msgid ""
 msgstr ""
 "Umarız sızmaz. Yukarıda belirtildiği gibi Ceno Browser içerik ekleyicilerine "
 "yapılan isteklerden tüm kişisel verileri (parolalar, çerezler...) çıkarak "
-"şekilde ayarlanmıştır. Ayrıca içerik ekleyicileri hiçbir gönderme işlemi "
-"yapmaz, yalnızca diğer Ouinet istemcilerinin içerik gönderimi yapabilmesi "
+"şekilde ayarlanmıştır. Ayrıca içerik ekleyicileri hiçbir dağıtma işlemi "
+"yapmaz, yalnızca diğer Ouinet istemcilerinin içerik dağıtımı yapabilmesi "
 "için içeriği imzalar. İçerik istemciye geldiğinde, yeniden incelenir ve "
-"kaynak sunucu kişisel gibi görünüyorsa, Ceno gönderim yapmaz."
+"kaynak sunucu kişisel gibi görünüyorsa, Ceno dağıtım yapmaz."
 
 #: concepts/risks.md:block 15 (paragraph)
 msgid ""
@@ -230,11 +230,11 @@ msgstr ""
 
 #: concepts/risks.md:block 22 (header)
 msgid "As a seeder"
-msgstr "Gönderici olarak"
+msgstr "Dağıtıcı olarak"
 
 #: concepts/risks.md:block 23 (header)
 msgid "What data is seeded from my device?"
-msgstr "Aygıtımdaki hangi veriler gönderilir?"
+msgstr "Aygıtımdaki hangi veriler dağıtılır?"
 
 #: concepts/risks.md:block 24 (paragraph)
 msgid ""
@@ -244,12 +244,12 @@ msgid ""
 "past."
 msgstr ""
 "Ceno şu anda yalnızca herkese açık gezinme kipinde erişilen tüm internet "
-"içeriklerini gönderir. Yani kullanıcıların yakın zamanda erişmediği hiçbir "
-"şeyi göndermez."
+"içeriklerini dağıtır. Yani kullanıcıların yakın zamanda erişmediği hiçbir "
+"şeyi dağıtmaz."
 
 #: concepts/risks.md:block 25 (header)
 msgid "Can an anyone find out what I seed?"
-msgstr "Ne gönderdiğimi herhangi bir kişi öğrenebilir mi?"
+msgstr "Ne dağıttığımı herhangi bir kişi öğrenebilir mi?"
 
 #: concepts/risks.md:block 26 (paragraph)
 msgid ""
@@ -260,9 +260,9 @@ msgid ""
 "behind it."
 msgstr ""
 "Hem evet, hem hayır. Ouinet altyapısının çalışma şeklini yeterince anlayan "
-"bir kişi belirli bir içeriğin hangi IP adreslerinden paylaşıldığını "
-"(BitTorrent ile olduğu gibi) gösteren bir araç geliştirebilir. Fakat bir IP "
-"adresini seçerek buradan gönderilen tüm içerik ve arkasındaki istemciler "
+"bir kişi belirli bir içeriğin hangi IP adreslerinden paylaşıldığını ("
+"BitTorrent ile olduğu gibi) gösteren bir araç geliştirebilir. Fakat bir IP "
+"adresini seçerek buradan dağıtılan tüm içerik ve arkasındaki istemciler "
 "öğrenilemez."
 
 #: concepts/risks.md:block 27 (header)
