@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-13 19:44+0000\n"
-"Last-Translator: Semih <semihbrn10@gmail.com>\n"
+"PO-Revision-Date: 2024-03-29 01:01+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "user-manual-conceptspublic-personal/tr/>\n"
 "Language: tr\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: concepts/public-personal.md:block 1 (header)
 msgid "Public vs. Personal browsing"
-msgstr "Genel vs. Kişisel tarama"
+msgstr "Herkese açık ile Kişisel gezinme karşılaştırması"
 
 #: concepts/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -26,45 +26,44 @@ msgid ""
 "Ceno can help you in this instance as well."
 msgstr ""
 "Bağlantı sorunlarının üstesinden gelmek için kullanılan birçok teknik "
-"nedeniyle Ceno, her türlü Web içeriğine erişmeniz için uygun bir yol haline "
-"gelebilir. Ve önceki bölümlerde okumuş olabileceğiniz gibi, Ceno Tarayıcıyı "
-"kullanarak bir sayfayı alıp yayınladığınızda, bu sayfa başkalarının "
+"nedeniyle Ceno, her türlü İnternet içeriğine erişmenizi sağlayacak bir yol "
+"olabilir. Önceki bölümlerde okumuş olabileceğiniz gibi, Ceno Browser "
+"kullanarak bir sayfayı alıp dağıttığınızda, bu sayfa başkalarının da "
 "kullanımına açılır. Bununla birlikte, paylaşmak istemediğiniz (veya "
-"başkalarının, almaya çalıştığınızı ya da almaya çalıştığınızı bilmesini "
-"istemediğiniz) bazı içerikler olabilir ve neyse ki Ceno bu durumda da size "
-"yardımcı olabilir."
+"başkalarının, aldığınızı ya da almaya çalıştığınızı bilmesini istemediğiniz) "
+"bazı içerikler olabilir. Ceno bu durumda da size yardımcı olabilir."
 
 #: concepts/public-personal.md:block 3 (paragraph)
 msgid ""
 "The default mode when you launch the application is **Public browsing**. In "
 "it, Ceno accesses Web content as described previously:"
 msgstr ""
-"Uygulamayı başlattığınızda varsayılan mod **Genel tarama**'dır. İçinde Ceno, "
-"daha önce açıklandığı gibi Web içeriğine erişir:"
+"Uygulama varsayılan olarak **Herkese açık gezinme** kipinde açılır. Bu kipte "
+"Ceno İnternet içeriğine daha önce açıklandığı gibi erişir:"
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Direct access is attempted."
-msgstr "Doğrudan erişim deneniyor."
+msgstr "Doğrudan erişim denenir."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Failing that, the distributed cache is searched."
-msgstr "Başarısız olursa dağıtılmış önbellek aranır."
+msgstr "Erişilemezse dağıtılmış ön bellek aranır."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid ""
 "Failing that, the content is requested via an injector (maybe via another "
 "client)."
 msgstr ""
-"Aksi takdirde içerik bir enjektör aracılığıyla (belki başka bir istemci "
-"aracılığıyla) talep edilir."
+"Yoksa içerik bir içerik ekleyici üzerinden (belki başka bir istemci "
+"aracılığıyla) istenir."
 
 #: concepts/public-personal.md:block 5 (paragraph)
 msgid ""
 "Ceno also has a **Personal browsing** mode. In it, the distributed cache is "
 "never searched, and injection is never attempted:"
 msgstr ""
-"Ceno'da ayrıca **Kişisel tarama** modu da bulunur. İçinde dağıtılmış "
-"önbellek hiçbir zaman aranmaz ve enjeksiyona asla teşebbüs edilmez:"
+"Ceno içinde ayrıca **Kişisel gezinme** kipi de bulunur. Bu kipte dağıtılmış "
+"ön bellek hiçbir zaman aranmaz ve asla içerik ekleyicilere başvurulmaz:"
 
 #: concepts/public-personal.md:block 6 (ordered list)
 msgid ""
@@ -72,10 +71,10 @@ msgid ""
 "*as a normal proxy server*. Note that in this case, neither the injector nor "
 "your client updates the distributed cache with your page."
 msgstr ""
-"Başarısız olunduğunda enjektörle bağlantı kurulur (belki başka bir istemci "
-"aracılığıyla) ve *normal bir proxy sunucusu* olarak kullanılır. Bu durumda "
-"ne enjektörün ne de istemcinizin dağıtılmış önbelleği sayfanızla "
-"güncellemediğini unutmayın."
+"Başarısız olunduğunda içerik ekleyici ile bağlantı kurulur (belki başka bir "
+"istemci aracılığıyla) ve *normal bir vekil sunucu* olarak kullanılır. Bu "
+"durumda ne içerik ekleyicinin ne de istemcinizin sayfanızı dağıtılmış ön "
+"belleğe eklemeyeceğini unutmayın."
 
 #: concepts/public-personal.md:block 7 (paragraph)
 msgid ""
@@ -83,53 +82,55 @@ msgid ""
 "mode:"
 msgstr ""
 "Farklı davranışlar farklı özelliklerin ortaya çıkmasına neden olur. Böylece, "
-"Herkese Açık modda:"
+"Herkese açık kipte:"
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "You have better chances to get Web content, and help others get that content "
 "(from you)."
 msgstr ""
-"Web içeriğini alma ve başkalarının bu içeriği (sizden) almasına yardımcı "
-"olma şansınız daha yüksektir."
+"İnternet içeriğini alma ve başkalarının bu içeriği (sizden) almasına "
+"yardımcı olma şansınız daha yüksektir."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages with dynamic content (e.g. updated in real time) may break in obvious "
 "or subtle ways."
 msgstr ""
-"Dinamik içeriğe sahip sayfalar (ör. gerçek zamanlı olarak güncellenen) bariz "
-"veya incelikli şekilde bozulabilir."
+"Değişken içeriği olan sayfalar (gerçek zamanlı olarak güncellenen sayfalar "
+"gibi) açıkça veya gizlice bozulabilir."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages requiring authentication do not work (as passwords and cookies are "
 "removed by the client)."
 msgstr ""
-"Kimlik doğrulaması gerektiren sayfalar çalışmaz (şifreler ve çerezler "
-"istemci tarafından kaldırıldığı için)."
+"Kimlik doğrulaması gereken sayfalar çalışmaz (parolalar ve çerezler istemci "
+"tarafından kaldırıldığı için)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to other users (see [risks](risks.md))."
 msgstr ""
-"Bazı tarama etkinlikleri diğer kullanıcılara sızdırılabilir (bkz. "
-"[risks](risks.md))."
+"Bazı gezinme etkinlikleri diğer kullanıcılara sızdırılabilir ([riskler](risks"
+".md) bölümüne bakın)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to injectors (see [risks](risks.md))."
 msgstr ""
-"Bazı tarama etkinlikleri enjektörlere sızdırılmış olabilir (bkz. "
-"[risks](risks.md))."
+"Bazı gezinme etkinlikleri içerik ekleyicilere sızdırılmış olabilir "
+"([riskler](risks.md) bölümüne bakın)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid "You need to trust injectors to retrieve and sign Web content."
-msgstr "Web içeriğini almak ve imzalamak için enjektörlere güvenmeniz gerekir."
+msgstr ""
+"İnternet içeriğini almak ve imzalamak için içerik ekleyicilere güvenmeniz "
+"gerekir."
 
 #: concepts/public-personal.md:block 9 (paragraph)
 msgid "While in Personal mode:"
-msgstr "Kişisel moddayken:"
+msgstr "Kişisel kipi kullanırken:"
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
@@ -137,40 +138,41 @@ msgid ""
 "connectivity is too scarce; even if you could, other Ceno users would not "
 "get that content from you."
 msgstr ""
-"Uluslararası bağlantı çok azsa, engellenen Web içeriğine erişemeyebilirsiniz;"
-" yapabilseniz bile diğer Ceno kullanıcıları bu içeriği sizden alamazlar."
+"Uluslararası bağlantı çok kısıtlıysa, engellenen İnternet içeriğine "
+"erişemeyebilirsiniz. Bunu yapabilseniz bile diğer Ceno kullanıcıları bu "
+"içeriği sizden alamazlar."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Pages with dynamic content will probably work."
-msgstr "Dinamik içeriğe sahip sayfalar muhtemelen işe yarayacaktır."
+msgstr "Değişken içeriği olan sayfalar büyük olasılıkla çalışır."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Pages requiring authentication may work (when your connection is protected "
 "by HTTPS, the injector does not see your passwords)."
 msgstr ""
-"Kimlik doğrulama gerektiren sayfalar çalışabilir (bağlantınız HTTPS "
-"tarafından korunduğunda enjektör şifrelerinizi görmez)."
+"Kimlik doğrulaması gereken sayfalar çalışabilir (bağlantınız HTTPS "
+"tarafından korunduğunda içerik ekleyici parolalarınızı görmez)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Browsing activity is not leaked to other users."
-msgstr "Tarama etkinliği diğer kullanıcılara sızdırılmaz."
+msgstr "Gezinme etkinliği diğer kullanıcılara sızdırılmaz."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Limited browsing activity is leaked to injectors (with HTTPS, only the "
 "origin server name or address)."
 msgstr ""
-"Sınırlı tarama etkinliği enjektörlere sızdırılır (HTTPS ile yalnızca kaynak "
-"sunucu adı veya adresi)."
+"Sınırlı gezinme etkinliği içerik ekleyicilere sızdırılır (HTTPS ile yalnızca "
+"kaynak sunucu adı veya adresi)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "You need not trust injectors (with HTTPS, usual certificate-based security "
 "still works)."
 msgstr ""
-"Enjektörlere güvenmenize gerek yoktur (HTTPS ile olağan sertifika tabanlı "
-"güvenlik hala çalışır)."
+"İçerik ekleyicilere güvenmeniz gerekmez (HTTPS ile olağan sertifika tabanlı "
+"güvenlik geçerlidir)."
 
 #: concepts/public-personal.md:block 11 (paragraph)
 msgid ""
@@ -180,11 +182,10 @@ msgid ""
 "to login to Twitter or edit your WordPress website, use *Personal browsing* "
 "mode."
 msgstr ""
-"Sonuç olarak: Ceno'yu haberleri okumak, video izlemek, Wikipedia'ya ve "
-"ağınızda sansürlenen diğer statik kaynaklara göz atmak için kullanıyorsanız, "
-"varsayılan *Genel tarama* modunu kullanmayı düşünün. Twitter'da oturum açmak "
-"veya WordPress web sitenizi düzenlemek istiyorsanız *Kişisel tarama* modunu "
-"kullanın."
+"Sonuç olarak: Ceno ile haberleri okumak, video izlemek, Wikipedia ve "
+"ağınızda sansürlenen diğer sabit kaynaklara erişiyorsanız, varsayılan *"
+"Herkese açık gezinme* kipini kullanmayı düşünün. X oturumu açmak veya "
+"WordPress sitenizi düzenlemek istiyorsanız *Kişisel gezinme* kipini kullanın."
 
 #: concepts/public-personal.md:block 12 (paragraph)
 msgid ""
@@ -194,8 +195,8 @@ msgid ""
 "greater detail in the [Helping others](../browser/bridging.md) section of "
 "the manual."
 msgstr ""
-"Daha ayrıntılı bir açıklama için lütfen [risks](risks.md) bölümünü okuyun. "
-"Ayrıca istemcinizin Genel veya Kişisel gezinmeden bağımsız olarak köprü ve "
-"ekme makinesi olarak çalışmaya devam edebileceğini unutmayın. Bunu kılavuzun "
-"[Başkalarına yardım etmek](../browser/bridging.md) bölümünde daha ayrıntılı "
-"olarak açıklıyoruz."
+"Ayrıntılı bilgi almak için [riskler](risks.md) bölümüne bakabilirsiniz. "
+"Ayrıca istemcinizin Herkese açık ya da Kişisel gezinmeden bağımsız olarak "
+"köprü ve içerik dağıtıcı olarak çalışmayı sürdürebileceğini unutmayın. Bunu "
+"rehberin [Başkalarına yardımcı olmak](../browser/bridging.md) bölümünde "
+"ayrıntılı olarak açıklıyoruz."
