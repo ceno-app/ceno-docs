@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-04-04 04:19+0000\n"
+"Last-Translator: cwpute <collan+weblate@free.fr>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/censorship-no/"
+"user-manual-conceptspublic-personal/fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: concepts/public-personal.md:block 1 (header)
 msgid "Public vs. Personal browsing"
-msgstr ""
+msgstr "Navigation en Public vs. Personnel"
 
 #: concepts/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -19,32 +25,48 @@ msgid ""
 "let others know that you are trying to or did retrieve), and fortunately "
 "Ceno can help you in this instance as well."
 msgstr ""
+"À cause des multiples techniques utilisées pour surmonter les problèmes de "
+"connectivité, Ceno peut devenir un moyen utile pour vous d'accéder à toutes "
+"de sortes de contenus Web. Et, comme vous avez déjà pu le lire dans les "
+"sections précédentes, dès que vous récupérez et essaimez une page en "
+"utilisant le Navigateur CENO, elle devient disponible pour les autres. Il "
+"est possible, cependant, que vous ne souhaitiez pas partager certains "
+"contenus (ou que vous ne souhaitez pas que d'autres sachent quels contenus "
+"vous avez essayé ou réussi à récupérer), et heureusement Ceno peut aussi "
+"vous aider dans ce cas."
 
 #: concepts/public-personal.md:block 3 (paragraph)
 msgid ""
 "The default mode when you launch the application is **Public browsing**. In "
 "it, Ceno accesses Web content as described previously:"
 msgstr ""
+"Quand vous lancez l'application, le mode par défaut est **Navigation Public**"
+". Par ce biais, Ceno accède au contenu Web comme décrit précédemment :"
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Direct access is attempted."
-msgstr ""
+msgstr "L'accès direct est tenté."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid "Failing that, the distributed cache is searched."
-msgstr ""
+msgstr "Si cela échoue, une recherche du cache distribué est effectuée."
 
 #: concepts/public-personal.md:block 4 (ordered list)
 msgid ""
 "Failing that, the content is requested via an injector (maybe via another "
 "client)."
 msgstr ""
+"Si cela échoue, une requête pour ce contenu est effectuée via un injecteur "
+"(peut-être via un autre client)."
 
 #: concepts/public-personal.md:block 5 (paragraph)
 msgid ""
 "Ceno also has a **Personal browsing** mode. In it, the distributed cache is "
 "never searched, and injection is never attempted:"
 msgstr ""
+"Ceno possède aussi un mode **Naigation Personnelle**. Dans celui-ci, le "
+"cache distribué n'est jamais recherché, et aucune tentative d'injection "
+"n'est effectuée :"
 
 #: concepts/public-personal.md:block 6 (ordered list)
 msgid ""
@@ -52,48 +74,65 @@ msgid ""
 "*as a normal proxy server*. Note that in this case, neither the injector nor "
 "your client updates the distributed cache with your page."
 msgstr ""
+"Si cela échoue, un injecteur est contacté (peut-être via un autre client) et "
+"utilisé comme *un serveur proxy normal*. Notez que dans ce cas, ni "
+"l'injecteur ni le client ne met à jour le cache distribué de cette page."
 
 #: concepts/public-personal.md:block 7 (paragraph)
 msgid ""
 "The different behavior results in different characteristics. Thus, in Public "
 "mode:"
 msgstr ""
+"Ce comportement différent résulte en des caractéristiques différentes. "
+"Ainsi, pour le Mode Public :"
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "You have better chances to get Web content, and help others get that content "
 "(from you)."
 msgstr ""
+"Vous aurez de meilleures chances d'accéder au contenu Web, et d'aider les "
+"autres à y accéder (en passant par vous)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages with dynamic content (e.g. updated in real time) may break in obvious "
 "or subtle ways."
 msgstr ""
+"Les pages contenant du contenu dynamique (ex : mises à jour en temps réel) "
+"peuvent casser de manières plus ou moins subtiles."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Pages requiring authentication do not work (as passwords and cookies are "
 "removed by the client)."
 msgstr ""
+"Les pages qui requièrent une authentification peuvent ne pas marcher ("
+"puisque les mots de passe et les cookies sont retirés du client)."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to other users (see [risks](risks.md))."
 msgstr ""
+"Certaines activités de navigation pourraient être divulguées à d'autres "
+"utilisateurs (voir [risques](risks.md))."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid ""
 "Some browsing activity may be leaked to injectors (see [risks](risks.md))."
 msgstr ""
+"Certaines activités de navigation peuvent être divulguées à des injecteurs ("
+"voir [risques](risks.md))."
 
 #: concepts/public-personal.md:block 8 (ordered list)
 msgid "You need to trust injectors to retrieve and sign Web content."
 msgstr ""
+"Vous devez faire confiance aux injecteurs qui récupèrent et signent le "
+"contenu Web."
 
 #: concepts/public-personal.md:block 9 (paragraph)
 msgid "While in Personal mode:"
-msgstr ""
+msgstr "En utilisant le Mode Personnel :"
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
@@ -101,32 +140,45 @@ msgid ""
 "connectivity is too scarce; even if you could, other Ceno users would not "
 "get that content from you."
 msgstr ""
+"Il est possible que vous n'ayez pas accès au contenu Web bloqué si la "
+"connectivité internationale et trop pauvre ; et même si vous le pouviez, "
+"d'autres utilisateurs de Ceno ne pourraient pas accéder à ce contenu pour "
+"vous."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Pages with dynamic content will probably work."
 msgstr ""
+"Les pages qui contiennent du contenu dynamique pourront probablement "
+"fonctionner."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Pages requiring authentication may work (when your connection is protected "
 "by HTTPS, the injector does not see your passwords)."
 msgstr ""
+"Les pages qui requièrent une authentification pourraient fonctionner ("
+"lorsque la connexion est protégée par HTTPS, l'injecteur ne voit pas les "
+"mots de passe)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid "Browsing activity is not leaked to other users."
-msgstr ""
+msgstr "L'activité de navigation n'est pas divulguée aux autres utilisateurs."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "Limited browsing activity is leaked to injectors (with HTTPS, only the "
 "origin server name or address)."
 msgstr ""
+"Une part limitée de l'activité de navigation est divulguée aux injecteurs ("
+"avec HTTPS, seul le nom du serveur d'origine ou l'adresse)."
 
 #: concepts/public-personal.md:block 10 (ordered list)
 msgid ""
 "You need not trust injectors (with HTTPS, usual certificate-based security "
 "still works)."
 msgstr ""
+"Vous devez faire confiance aux injecteurs (avec HTTPS, la sécurité "
+"habituelle basée sur les certificats marche toujours)."
 
 #: concepts/public-personal.md:block 11 (paragraph)
 msgid ""
@@ -136,6 +188,11 @@ msgid ""
 "to login to Twitter or edit your WordPress website, use *Personal browsing* "
 "mode."
 msgstr ""
+"En conclusion : si vous utilisez Ceno pour lire les actualités, regarder des "
+"vidéos, consulter Wikipedia et d'autres ressources statiques qui seraient "
+"par ailleurs censurées sur votre réseau, envisagez d'utiliser le mode *"
+"Navigation Public* par défaut. Et si vous voulez vous connecter à Twitter ou "
+"modifier votre site Wordpress, utilisez le mode *Navigation Personnel*."
 
 #: concepts/public-personal.md:block 12 (paragraph)
 msgid ""
@@ -145,3 +202,8 @@ msgid ""
 "greater detail in the [Helping others](../browser/bridging.md) section of "
 "the manual."
 msgstr ""
+"Merci de lire la section sur les [risques](risks.md) for une explication "
+"plus détaillée. Notez également que vote client peut continuer à fonctionner "
+"comme pont et essaimeur que vous choisissiez la navigation Public ou "
+"Personnel. Nous expliquons cela en de plus amples détails dans la section ["
+"Aider les autres](../browser/bridging.md) du manuel."
