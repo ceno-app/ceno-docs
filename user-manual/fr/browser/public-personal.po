@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-11 21:10+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2024-04-04 04:19+0000\n"
+"Last-Translator: cwpute <collan+weblate@free.fr>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-public-private/fr/>\n"
 "Language: fr\n"
@@ -56,18 +56,17 @@ msgstr ""
 "onglets publics ont une barre d’outils plus clair (ou blanc) :"
 
 #: browser/public-personal.md:block 5 (paragraph)
-#, fuzzy
 msgid "![Figure: A Public browsing tab](images/public-tab.png)"
-msgstr "![Figure : A Public browsing tab](images/public-tab.png)"
+msgstr "![Illustration : un onglet de navigation Public](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
 msgstr "Au contraire, les onglets privés ont une barre d’outils plus sombre :"
 
 #: browser/public-personal.md:block 7 (paragraph)
-#, fuzzy
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
-msgstr "![Figure : A Personal browsing tab](images/private-tab.png)"
+msgstr ""
+"![Illustration : un onglet de navigation Personnel](images/private-tab.png)"
 
 #: browser/public-personal.md:block 8 (paragraph)
 msgid ""
