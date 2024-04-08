@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-04-09 22:01+0000\n"
+"Last-Translator: sudomakethis <e.pezzotti006@studenti.unibs.it>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/censorship-no/"
+"how/it/>\n"
 "Language: it\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: concepts/how.md:block 1 (header)
 msgid "How does it work?"
-msgstr ""
+msgstr "Come funziona?"
 
 #: concepts/how.md:block 2 (paragraph)
 msgid ""
@@ -16,10 +22,14 @@ msgid ""
 "introduced (highlighted **in bold letters**) and used afterwards for "
 "efficiency and to avoid confusion."
 msgstr ""
+"In questa sezione verranno spiegate le operazioni Ceno e Ouinet attraverso "
+"una serie di scenari. La terminologia e i concetti importanti per Ouinet ("
+"evidenziati in **grassetto**) verranno introdotti e successivamente usati "
+"affinchè la spiegazione sia efficiente e non generi confusione."
 
 #: concepts/how.md:block 3 (header)
 msgid "Accessing content directly"
-msgstr ""
+msgstr "Accedere direttamente al contenuto"
 
 #: concepts/how.md:block 4 (paragraph)
 msgid ""
@@ -33,6 +43,15 @@ msgid ""
 "desired content. This is no different from the way in which any normal Web "
 "browser works."
 msgstr ""
+"Ceno Browser è un esempio di applicazione che usa la tecnologia Ouinet per "
+"ottenere e condividere contenuti Web. Un'applicazione di questo genere si "
+"chiama **client**. Qunado usi il tuo client (Ceno) per tentare di accedere "
+"ad un contenuto *X*, ospitato su un server Web (che chiameremo server **di "
+"origine** di **X**), il tuo client prova a contattare il server di origine "
+"direttamente attraverso Internet o tramite qualche altra macchina "
+"configurata per contattare il server Web per conto di altri (un cosiddetto "
+"server **proxy**), dopo di chè richiede il contenuto desiderato. Di fatto "
+"funziona come ogni altro server Web."
 
 #: concepts/how.md:block 5 (quote)
 msgid ""
@@ -145,7 +164,7 @@ msgstr ""
 
 #: concepts/how.md:block 17 (header)
 msgid "Sharing new content"
-msgstr ""
+msgstr "Condividere un nuovo contenuto"
 
 #: concepts/how.md:block 18 (header)
 msgid "Proxies on steroids"
