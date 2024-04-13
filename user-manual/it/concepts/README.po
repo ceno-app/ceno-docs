@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-04-14 04:18+0000\n"
+"Last-Translator: ambi <oskar@marvi.it>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/censorship-no/"
+"concepts-readme/it/>\n"
 "Language: it\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: concepts/README.md:block 1 (header)
 msgid "Main concepts"
-msgstr ""
+msgstr "Concetti principali"
 
 #: concepts/README.md:block 2 (paragraph)
 msgid ""
@@ -17,6 +23,12 @@ msgid ""
 "cryptography. These techniques are cleverly combined by Ouinet so as to make "
 "the experience of using Ceno as close as possible to normal Web browsing."
 msgstr ""
+"Per portare a termine il suo obiettivo di aggirare diversi tipi di "
+"interferenze e carenze di rete, Ceno utilizza diverse tecniche dai diversi "
+"campi del World Wide Web, sistemi di condivisone file e cittografia "
+"avanzata. Queste tecniche sono tutte combinate da Quinet per rendere "
+"l'utilizzo di Ceno il più vicino possibile ad un esperienza di Web browsing "
+"normale."
 
 #: concepts/README.md:block 3 (paragraph)
 msgid ""
@@ -25,3 +37,7 @@ msgid ""
 "content we are trying to access, and the advantages and risks that they "
 "entail. This chapter will cover these topics."
 msgstr ""
+"Nonostante ciò, per utilizzare Ceno al meglio è utile sapere come Ouinet "
+"funziona, i vari modi in cui può essere utilizzato dipendono dal tipo di "
+"contenuto che si sta cercando di accedere, e i vantaggi e i rischi che "
+"comportano. Questo capitolo prenderà in considerazione questi argomenti."
