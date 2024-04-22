@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-17 03:01+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2024-04-23 05:07+0000\n"
+"Last-Translator: \"Denovan Flick (Kaneki)\" <denovanflick68@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/censorship-no/"
 "browser-bridging/sv/>\n"
 "Language: sv\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/bridging.md:block 1 (header)
 msgid "Helping other Ceno users browse the Web"
@@ -27,6 +27,15 @@ msgid ""
 "through an encrypted tunnel), nor will any of this traffic remain on your "
 "device."
 msgstr ""
+"Ett peer-to-peer-nätverk byggs upp av alla noder som är anslutna till det ("
+"ja, det betyder även du!). Ju fler noder, desto starkare och mer mångsidigt "
+"blir nätverket. Om du kör Ceno Browser från ett land som inte censurerar "
+"Internet (eller inte lika hårt som vissa), överväg att hjälpa andra Ceno-"
+"användare genom att bli en **bridge**-nod. Du kommer då att börja dirigera "
+"trafik mellan klienter som bor i starkt censurerade länder och Ceno-"
+"injektorer. Du kommer inte att kunna se deras trafik (den kommer att skickas "
+"genom en krypterad tunnel), inte heller kommer någon av denna trafik att "
+"finnas kvar på din enhet."
 
 #: browser/bridging.md:block 3 (quote)
 msgid ""
@@ -36,6 +45,11 @@ msgid ""
 "(but keep in mind the [risks](../concepts/risks.md) of serving such content "
 "to others)."
 msgstr ""
+"**Note:** Konfigurationen som beskrivs i detta avsnitt kan också hjälpa din "
+"enhet att effektivt seeda innehåll till andra på den distribuerade cachen, "
+"så överväg att tillämpa den också när du använder Ceno i ett censurerande "
+"land (men kom ihåg [riskerna](../concepts/risks.md) med att servera sådant "
+"innehåll till andra)."
 
 #: browser/bridging.md:block 4 (header)
 msgid "How to become a Ceno bridge"
@@ -59,6 +73,9 @@ msgid ""
 "a proper bridge while you are actively using it, as power-saving features "
 "will throttle the operation of Ceno otherwise."
 msgstr ""
+"Observera dock att Android endast tillåter att en mobil enhet fungerar som "
+"en korrekt brygga när du aktivt använder den, eftersom energisparfunktioner "
+"annars kommer att strypa driften av Ceno."
 
 #: browser/bridging.md:block 7 (quote)
 msgid ""
@@ -71,12 +88,22 @@ msgid ""
 "interfere with Ceno; please check [Don't kill my app!][Don't kill my app!] "
 "for your device's brand."
 msgstr ""
+"**Teknisk anmärkning:** Detta beror främst på att Androids [Doze "
+"mode](https://developer.android.com/training/monitoring-device-state/doze-"
+"standby \"Android Developers - Optimize for Doze and App Standby\") saktar "
+"ner driften av det inbyggda Ouinet-biblioteket. Tyvärr verkar det som om "
+"Ouinet inte omfattas av batterioptimeringen för Ceno om man inaktiverar den. "
+"Din specifika enhet kan också innehålla egna energisparfunktioner som kan "
+"störa Ceno; kontrollera [Don't kill my app!][Don't kill my app!] för din "
+"enhets varumärke."
 
 #: browser/bridging.md:block 8 (paragraph)
 msgid ""
 "Thus if you intend to have Ceno acting as a permanent, always-reachable "
 "bridge, besides a properly configured Wi-Fi network you will need to:"
 msgstr ""
+"Om du vill att Ceno ska fungera som en permanent, alltid nåbar brygga "
+"behöver du alltså, förutom ett korrekt konfigurerat Wi-Fi-nätverk, följande:"
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid "Have your device plugged in to power at all times."
@@ -84,7 +111,7 @@ msgstr ""
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid "Have the device's screen on at all times."
-msgstr ""
+msgstr "Ha alltid enhetens skärm påslagen."
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid ""
@@ -95,6 +122,12 @@ msgid ""
 "select *While charging* or *Either*. A very dimmed down clock will appear on "
 "a black background while the device is not active."
 msgstr ""
+"Ett bekvämt sätt att göra detta utan stor strömförbrukning och irriterande, "
+"permanent belysning är att använda Androids skärmsläckare: aktivera den "
+"under *Inställningar / Display / Skärmsläckare* (eller *Daydream* i vissa "
+"versioner), välj widgeten *Klocka*, välj *När skärmsläckaren ska starta* i "
+"menyn och välj *Under laddning* eller *Eller*. En mycket nedtonad klocka "
+"visas på en svart bakgrund när enheten inte är aktiv."
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid ""
@@ -102,6 +135,9 @@ msgid ""
 "this will turn the screen off. Instead, just wait for the device to lock "
 "itself with the screen on."
 msgstr ""
+"Observera att du inte ska använda strömknappen för att låsa enheten eftersom "
+"skärmen då stängs av. Vänta istället tills enheten låser sig själv med "
+"skärmen på."
 
 #: browser/bridging.md:block 10 (paragraph)
 msgid ""
@@ -109,10 +145,13 @@ msgid ""
 "computer with good connectivity that stays on most of the time, please "
 "continue reading."
 msgstr ""
+"Om den inställningen inte är ett alternativ för dig, ge inte upp än! Om du "
+"har en dator med bra anslutningsmöjligheter som är påslagen större delen av "
+"tiden kan du fortsätta läsa."
 
 #: browser/bridging.md:block 11 (header)
 msgid "Running a bridge on a computer"
-msgstr ""
+msgstr "Kör en bridge på en dator"
 
 #: browser/bridging.md:block 12 (paragraph)
 msgid ""
@@ -122,6 +161,11 @@ msgid ""
 "[docker-install] in your platform. For Debian derivatives like Ubuntu or "
 "Linux Mint, you can just run: `sudo apt install docker.io`"
 msgstr ""
+"Om din dator stöder [Docker-containrar][docker] kan du köra en "
+"förkonfigurerad Ceno-klient på den för att fungera som en brygga. Om Docker "
+"ännu inte är installerat, följ instruktionerna för att [installera Docker "
+"Engine][docker-install] på din plattform. För Debian-derivat som Ubuntu "
+"eller Linux Mint kan du bara köra: `sudo apt install docker.io`"
 
 #: browser/bridging.md:block 13 (paragraph)
 msgid ""
@@ -129,12 +173,17 @@ msgid ""
 "on a terminal (it looks scary but you can just copy and paste it as is on "
 "the command line):"
 msgstr ""
+"För att distribuera en Ceno-klientcontainer behöver du bara köra följande "
+"kommando på en terminal (det ser läskigt ut men du kan bara kopiera och "
+"klistra in det som det är på kommandoraden):"
 
 #: browser/bridging.md:block 15 (paragraph)
 msgid ""
 "If your computer is not based on GNU/Linux, the command needs to be slightly "
 "different:"
 msgstr ""
+"Om din dator inte är baserad på GNU/Linux måste kommandot vara något "
+"annorlunda:"
 
 #: browser/bridging.md:block 17 (paragraph)
 msgid ""
@@ -150,10 +199,13 @@ msgid ""
 "access that page, open instead the [client front-end](../client/front-end."
 "md), which contains mostly equivalent information."
 msgstr ""
+"**Note:** Denna klient har inga *Ceno Settings*: när du instrueras nedan att "
+"öppna den sidan, öppna istället [klientens front-end](../client/front-end.md)"
+", som innehåller mestadels likvärdig information."
 
 #: browser/bridging.md:block 19 (header)
 msgid "Enabling UPnP on your Wi-Fi router"
-msgstr ""
+msgstr "Aktivera UPnP på din Wi-Fi-router"
 
 #: browser/bridging.md:block 20 (paragraph)
 msgid ""
@@ -161,6 +213,9 @@ msgid ""
 "client) reachable to the Ceno network. The [Ceno Settings](settings.md) page "
 "will indicate the UPnP status on your local network."
 msgstr ""
+"[UPnP][UPnP] är det enklaste sättet att göra din Ceno Browser (eller dator "
+"klient) nåbar till Ceno nätverket. Sidan [Ceno Settings](settings.md) kommer "
+"att indikera UPnP status på ditt lokala nätverk."
 
 #: browser/bridging.md:block 21 (quote)
 msgid ""
@@ -168,16 +223,21 @@ msgid ""
 "network to external interference. Please make yourself [aware of the risks]"
 "[upnp-risks] and also consider using alternative methods as explained below."
 msgstr ""
+"**Note:** Om du aktiverar UPnP på Wi-Fi-routern kan enheter i ditt nätverk "
+"utsättas för externa störningar. Gör dig [medveten om riskerna][upnp-risks] "
+"och överväg även att använda alternativa metoder enligt nedan."
 
 #: browser/bridging.md:block 22 (paragraph)
 msgid ""
 "A status like the one below indicates that UPnP is not available or not "
 "working on your WiFi router:"
 msgstr ""
+"En status som den nedan indikerar att UPnP inte är tillgängligt eller inte "
+"fungerar på din WiFi-router:"
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**Reachability status**"
-msgstr ""
+msgstr "**Status för nåbarhet**"
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**UPnP status**"
@@ -188,12 +248,16 @@ msgid ""
 "The status below indicates that UPnP is likely working and Ceno is currently "
 "verifying connectivity:"
 msgstr ""
+"Statusen nedan indikerar att UPnP sannolikt fungerar och att Ceno för "
+"närvarande verifierar anslutningen:"
 
 #: browser/bridging.md:block 26 (paragraph)
 msgid ""
 "The status below indicates that UPnP is working and you can bridge "
 "connections for other Ceno users:"
 msgstr ""
+"Statusen nedan indikerar att UPnP fungerar och att du kan överbrygga "
+"anslutningar för andra Ceno-användare:"
 
 #: browser/bridging.md:block 28 (quote)
 msgid ""
@@ -213,6 +277,9 @@ msgid ""
 "features. Herein a list of some manufacturers' instructions for enabling "
 "UPnP:"
 msgstr ""
+"Det finns många Wi-Fi-routrar på marknaden och alla har sina egna speciella "
+"egenskaper. Här följer en lista med några tillverkares anvisningar för "
+"aktivering av UPnP:"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[Linksys](https://www.linksys.com/us/support-article?articleNum=138290)"
@@ -252,7 +319,7 @@ msgstr ""
 
 #: browser/bridging.md:block 31 (header)
 msgid "Using port forwarding as an alternative to UPnP"
-msgstr ""
+msgstr "Använda port vidarebefordran som ett alternativ till UPnP"
 
 #: browser/bridging.md:block 32 (paragraph)
 msgid ""
@@ -263,10 +330,17 @@ msgid ""
 "forward the connections to and the relevant port, open the *Ceno Settings* "
 "page and look under the *Local UDP endpoints*."
 msgstr ""
+"Istället för att aktivera UPnP på din router kan du skapa en port "
+"vidarebefordringsregel för att se till att anslutningar från Ceno-nätverket "
+"vidarebefordras till din enhet. Du måste logga in på routerns administrativa "
+"gränssnitt och leta reda på alternativet *port vidarebefordran*. För att se "
+"vilken IP-adress du behöver vidarebefordra anslutningarna till och den "
+"relevanta porten, öppna sidan *Ceno Settings* och titta under *Local UDP "
+"endpoints*."
 
 #: browser/bridging.md:block 33 (quote)
 msgid "**Local UDP endpoints**"
-msgstr ""
+msgstr "**Lokala UDP-slutpunkter**"
 
 #: browser/bridging.md:block 34 (paragraph)
 msgid ""
@@ -276,6 +350,11 @@ msgid ""
 "periodically review the *Ceno Settings* page to see that your device is "
 "reachable to the Ceno network."
 msgstr ""
+"Portvidarebefordran måste vara för UDP-protokollet (inte TCP). Ceno väljer "
+"en slumpmässig port vid första körningen och behåller den för efterföljande "
+"körningar, men din enhets IP-adress för det lokala nätverket kan ändras från "
+"tid till annan. Därför bör du regelbundet granska sidan *Ceno Settings* för "
+"att se att din enhet är nåbar för Ceno-nätverket."
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
@@ -283,6 +362,9 @@ msgid ""
 "assigns the same IP address to your device (e.g. via a static DHCP lease for "
 "the device's MAC address)."
 msgstr ""
+"**Teknisk anmärkning:** Alternativt kan du se till att routern alltid "
+"tilldelar din enhet samma IP-adress (t.ex. via ett statiskt DHCP-lease för "
+"enhetens MAC-adress)."
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
