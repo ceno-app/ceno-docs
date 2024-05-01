@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-01 20:40+0000\n"
-"Last-Translator: \"lii.saaaaaaa\" <kale04@vse.cz>\n"
+"PO-Revision-Date: 2024-05-02 03:11+0000\n"
+"Last-Translator: multiflexi <multi.flexi@seznam.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-testing/cs/>\n"
 "Language: cs\n"
@@ -16,6 +16,7 @@ msgid "Testing the Browser"
 msgstr "Testování prohlížeče"
 
 #: browser/testing.md:block 2 (paragraph)
+#, fuzzy
 msgid ""
 "Now that you know how to [install](install.md) and [configure](settings.md) "
 "Ceno, let us follow some steps to test whether different Ouinet-specific "
@@ -30,6 +31,7 @@ msgstr ""
 "potřebovat měnit výchozí nastavení."
 
 #: browser/testing.md:block 3 (paragraph)
+#, fuzzy
 msgid ""
 "To complete all the tests below you will need at least two devices connected "
 "to the same Wi-Fi network, and a third one on a completely different network."
@@ -38,6 +40,7 @@ msgstr ""
 "zařízení připojená k témuž Wi-Fi síti a třetí zařízení na zcela odlišné síti."
 
 #: browser/testing.md:block 4 (paragraph)
+#, fuzzy
 msgid ""
 "All of the tests will be performed using [public browsing](public-private."
 "md). If something does not work as expected, please be patient and check the "
@@ -93,6 +96,7 @@ msgstr ""
 "(veřejná)*."
 
 #: browser/testing.md:block 8 (ordered list)
+#, fuzzy
 msgid ""
 "Go back to Ceno's home page. Either select one of the recommended Web sites, "
 "or enter the URL of some other site at the address bar at the top of the "
@@ -109,6 +113,7 @@ msgid "The chosen site should eventually show up."
 msgstr "Vybraný web by se měl nakonec zobrazit."
 
 #: browser/testing.md:block 9 (paragraph)
+#, fuzzy
 msgid ""
 "**Note:** If you get a fake page instead of a legitimate one, use the "
 "address bar to enter the site's URL with `https://` at the beginning "
@@ -119,6 +124,7 @@ msgstr ""
 "test opakujte."
 
 #: browser/testing.md:block 10 (paragraph)
+#, fuzzy
 msgid ""
 "If the site does load, you can be happy that your device can reach the "
 "injector! Since you are able to query swarms and contact other clients, you "
@@ -130,6 +136,7 @@ msgstr ""
 "distribuované cache."
 
 #: browser/testing.md:block 11 (paragraph)
+#, fuzzy
 msgid ""
 "By the way, if you push the Ceno icon in the address bar, it will open a "
 "popup like the one below, showing how many elements from the site were "
@@ -142,12 +149,14 @@ msgstr ""
 "nenulovou hodnotu, protože ostatní zdroje byly zakázány."
 
 #: browser/testing.md:block 12 (paragraph)
+#, fuzzy
 msgid ""
 "![Figure: Sources used when testing injection](images/sources-inject.png)"
 msgstr ""
 "![Obrázek: Zdroje použité při testování injektáže](images/sources-inject.png)"
 
 #: browser/testing.md:block 13 (paragraph)
+#, fuzzy
 msgid ""
 "In contrast, if you had used Personal browsing with default settings, you "
 "may have seen a popup like the one below, with non-zero counts in *Direct "
@@ -163,10 +172,12 @@ msgstr ""
 "![Obrázek: Zdroje použité při soukromém prohlížení](images/sources-proxy.png)"
 
 #: browser/testing.md:block 15 (header)
+#, fuzzy
 msgid "Getting content from close users"
 msgstr "Získávání obsahu od blízkých uživatelů"
 
 #: browser/testing.md:block 16 (paragraph)
+#, fuzzy
 msgid ""
 "Since your first device was able to get some content from an injector, let "
 "us test if it is able to share it with another device over the distributed "
@@ -200,6 +211,7 @@ msgstr ""
 "způsobem."
 
 #: browser/testing.md:block 18 (ordered list)
+#, fuzzy
 msgid ""
 "Open the *Ceno Settings* page as above. Since we only want to test "
 "distributed cache access, uncheck all the boxes for content sources except "
@@ -210,6 +222,7 @@ msgstr ""
 "obsahu kromě Sdíleno ostatními uživateli Ceno."
 
 #: browser/testing.md:block 18 (ordered list)
+#, fuzzy
 msgid ""
 "Go back to Ceno's home page and visit the same site in the same manner as "
 "you did above (i.e. by selecting one of the recommended web sites or "
@@ -220,6 +233,7 @@ msgstr ""
 "URL do adresního řádku)."
 
 #: browser/testing.md:block 19 (paragraph)
+#, fuzzy
 msgid ""
 "If it does not work, your Wi-Fi network may be blocking direct communication "
 "between its devices. This \"client isolation\" may happen in public networks "
@@ -230,6 +244,7 @@ msgstr ""
 "například v parcích, barech nebo hotelech. Zkuste to znovu v jiné síti."
 
 #: browser/testing.md:block 20 (paragraph)
+#, fuzzy
 msgid ""
 "If it works, it means that both devices are able to deliver that content to "
 "other clients. Pushing the Ceno address bar icon should show a popup like "
@@ -241,6 +256,7 @@ msgstr ""
 "uživateli Ceno má nenulovou hodnotu."
 
 #: browser/testing.md:block 21 (paragraph)
+#, fuzzy
 msgid ""
 "![Figure: Sources used when testing distributed cache retrieval](images/"
 "sources-dcache.png)"
@@ -249,6 +265,7 @@ msgstr ""
 "images/sources-dcache.png)"
 
 #: browser/testing.md:block 22 (paragraph)
+#, fuzzy
 msgid ""
 "Finally, you may have also noticed that there is a counter for *Shared by "
 "you*. This is not a different source *per se*: elements counted here are "
@@ -265,6 +282,7 @@ msgid "Getting content from remote users"
 msgstr "Získávání obsahu od vzdálených uživatelů"
 
 #: browser/testing.md:block 24 (paragraph)
+#, fuzzy
 msgid ""
 "We have done a small-scale test of the distributed cache. Let us now test "
 "how it works over the Internet."
@@ -273,6 +291,7 @@ msgstr ""
 "funguje přes internet."
 
 #: browser/testing.md:block 25 (paragraph)
+#, fuzzy
 msgid ""
 "After successfully completing the test above, leave Ceno running on the "
 "first device as with the previous test, and stop Ceno on the second device "
@@ -283,6 +302,7 @@ msgstr ""
 "zastavte (zobrazením jeho notifikací a stisknutím \"Tap to stop\")."
 
 #: browser/testing.md:block 26 (paragraph)
+#, fuzzy
 msgid ""
 "This time you will need a third device, but it must be connected to a "
 "different Wi-Fi network (maybe another friend can help from home). The steps "
@@ -293,6 +313,7 @@ msgstr ""
 "na tomto zařízení dodržet, jsou přesně stejné jako u předchozího testu."
 
 #: browser/testing.md:block 27 (paragraph)
+#, fuzzy
 msgid ""
 "If the third device can load the site used for the test, you are all set. "
 "The first device is able to seed content to others, and it can most probably "
@@ -303,5 +324,6 @@ msgstr ""
 "může také fungovat jako most."
 
 #: browser/testing.md:block 28 (paragraph)
+#, fuzzy
 msgid "Congratulations!"
 msgstr "Gratuluji!"
