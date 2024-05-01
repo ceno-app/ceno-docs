@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-05-01 20:40+0000\n"
+"Last-Translator: \"lii.saaaaaaa\" <kale04@vse.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-testing/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.3-dev\n"
 
 #: browser/testing.md:block 1 (header)
 msgid "Testing the Browser"
-msgstr ""
+msgstr "Testování prohlížeče"
 
 #: browser/testing.md:block 2 (paragraph)
 msgid ""
@@ -17,12 +23,19 @@ msgid ""
 "different access mechanisms. Keep in mind however that in day-to-day usage "
 "of Ceno, you will seldom need to change the default settings at all."
 msgstr ""
+"Nyní, když už víte, jak nainstalovat a nastavit Ceno, podívejme se na "
+"několik kroků, jak ověřit funkčnost různých specifických funkcí Ouinet. Bude "
+"to zahrnovat selektivní zapínání a vypínání různých přístupových mechanismů. "
+"Mějte však na paměti, že při běžném používání Ceno obvykle nebudete "
+"potřebovat měnit výchozí nastavení."
 
 #: browser/testing.md:block 3 (paragraph)
 msgid ""
 "To complete all the tests below you will need at least two devices connected "
 "to the same Wi-Fi network, and a third one on a completely different network."
 msgstr ""
+"Pro provedení všech níže uvedených testů budete potřebovat alespoň dva "
+"zařízení připojená k témuž Wi-Fi síti a třetí zařízení na zcela odlišné síti."
 
 #: browser/testing.md:block 4 (paragraph)
 msgid ""
@@ -32,10 +45,15 @@ msgid ""
 "browser gets stuck for more than a couple of minutes while loading a page, "
 "you may hit stop and reload it (although this may alter results slightly)."
 msgstr ""
+"Všechny testy budou prováděny s využitím veřejného prohlížení. Pokud něco "
+"nefunguje podle očekávání, buďte trpěliví a podívejte se do sekce řešení "
+"problémů. Konkrétně, pokud se prohlížeč zasekne na více než několik minut "
+"při načítání stránky, můžete stisknout stop a stránku znovu načíst (i když "
+"to může mírně ovlivnit výsledky)."
 
 #: browser/testing.md:block 5 (header)
 msgid "Accessing an injector"
-msgstr ""
+msgstr "Přístup k injektoru"
 
 #: browser/testing.md:block 6 (paragraph)
 msgid ""
@@ -46,14 +64,22 @@ msgid ""
 "provider or country, looking up the bridge swarm and trying to contact the "
 "injector via some other Ouinet client."
 msgstr ""
+"Nejprve ověřme, zda váš prohlížeč Ceno může dosáhnout injektoru. Toto může "
+"vypadat jako triviální úkol, ale váš klient bude během tohoto procesu "
+"využívat několik funkcí Ouinet: vyhledání adresy injektoru ve swarmu "
+"injektorů, pokus o přímý kontakt a v případě, že je přístup blokován vaším "
+"poskytovatelem přístupu nebo státem, vyhledání swarmu mostů a pokus o "
+"kontakt s injektorem prostřednictvím jiného klienta Ouinet."
 
 #: browser/testing.md:block 7 (paragraph)
 msgid "In the first device perform the following steps:"
-msgstr ""
+msgstr "V prvním zařízení proveďte následující kroky:"
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "First of all, install Ceno and start it. Its home page will appear."
 msgstr ""
+"Nejprve nainstalujte program Ceno a spusťte jej. Zobrazí se jeho domovská "
+"stránka."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
@@ -61,6 +87,10 @@ msgid ""
 "page. Since we only want to test injector access, uncheck all the boxes for "
 "content sources except *Via the Ceno network (public)*."
 msgstr ""
+"Otevřete hlavní nabídku aplikace a výběrem možnosti *Nastavení* otevřete "
+"stránku *Nastavení aplikace Ceno*. Protože chceme testovat pouze přístup k "
+"injektoru, zrušte zaškrtnutí všech políček u zdrojů obsahu kromě *Síť Ceno "
+"(veřejná)*."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
@@ -69,10 +99,14 @@ msgid ""
 "window. If you know about a site which is usually blocked for you, go ahead "
 "and enter it!"
 msgstr ""
+"Vraťte se na domovskou stránku společnosti Ceno. Buď vyberte jednu z "
+"doporučených webových stránek, nebo zadejte adresu URL jiné stránky do "
+"adresního řádku v horní části okna. Pokud víte o nějakém webu, který je pro "
+"vás obvykle blokován, klidně ho zadejte!"
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "The chosen site should eventually show up."
-msgstr ""
+msgstr "Vybraný web by se měl nakonec zobrazit."
 
 #: browser/testing.md:block 9 (paragraph)
 msgid ""
@@ -80,6 +114,9 @@ msgid ""
 "address bar to enter the site's URL with `https://` at the beginning "
 "(instead of `http://`) and repeat the test."
 msgstr ""
+"Poznámka: Pokud se místo legitimní stránky zobrazí falešná, použijte adresní "
+"řádek pro zadání URL adresy webu s https:// na začátku (namísto http://) a "
+"test opakujte."
 
 #: browser/testing.md:block 10 (paragraph)
 msgid ""
@@ -87,6 +124,10 @@ msgid ""
 "injector! Since you are able to query swarms and contact other clients, you "
 "are also likely to be able to retrieve content from the distributed cache."
 msgstr ""
+"Pokud se stránka načte, můžete být spokojeni, že vaše zařízení dokáže "
+"dosáhnout injektoru! Jelikož jste schopni dotazovat swarms a kontaktovat "
+"ostatní klienty, pravděpodobně budete moci také načítat obsah z "
+"distribuované cache."
 
 #: browser/testing.md:block 11 (paragraph)
 msgid ""
@@ -95,11 +136,16 @@ msgid ""
 "retrieved form the different sources. Only *Via Ceno network (public)* "
 "should have a non-zero value since the other sources were disabled."
 msgstr ""
+"Mimochodem, pokud kliknete na ikonu Ceno v adresním řádku, otevře se "
+"vyskakovací okno podobné tomu níže, které ukáže, kolik prvků ze stránky bylo "
+"načteno z různých zdrojů. Pouze Via Ceno network (public) by mělo mít "
+"nenulovou hodnotu, protože ostatní zdroje byly zakázány."
 
 #: browser/testing.md:block 12 (paragraph)
 msgid ""
 "![Figure: Sources used when testing injection](images/sources-inject.png)"
 msgstr ""
+"![Obrázek: Zdroje použité při testování injektáže](images/sources-inject.png)"
 
 #: browser/testing.md:block 13 (paragraph)
 msgid ""
@@ -107,14 +153,18 @@ msgid ""
 "may have seen a popup like the one below, with non-zero counts in *Direct "
 "from website* or *Via Ceno network (private)*."
 msgstr ""
+"Naopak, pokud byste použili osobní prohlížení s výchozími nastaveními, mohli "
+"byste vidět vyskakovací okno jako to níže, s nenulovými počty v Přímo z "
+"webové stránky nebo Přes Ceno síť (soukromá)."
 
 #: browser/testing.md:block 14 (paragraph)
 msgid "![Figure: Sources used with private browsing](images/sources-proxy.png)"
 msgstr ""
+"![Obrázek: Zdroje použité při soukromém prohlížení](images/sources-proxy.png)"
 
 #: browser/testing.md:block 15 (header)
 msgid "Getting content from close users"
-msgstr ""
+msgstr "Získávání obsahu od blízkých uživatelů"
 
 #: browser/testing.md:block 16 (paragraph)
 msgid ""
@@ -123,6 +173,11 @@ msgid ""
 "cache. The simplest way is to use Ceno's device-to-device support to check "
 "whether getting and verifying signed content works."
 msgstr ""
+"Protože vaše první zařízení bylo schopné získat nějaký obsah z injektoru, "
+"pojďme otestovat, zda jej dokáže sdílet s dalším zařízením prostřednictvím "
+"distribuované cache. Nejjednodušší způsob, jak to provést, je použít podporu "
+"zařízení na zařízení Ceno a zkontrolovat, zda funguje získávání a ověřování "
+"podepsaného obsahu."
 
 #: browser/testing.md:block 17 (paragraph)
 msgid ""
@@ -132,10 +187,17 @@ msgid ""
 "connect it to the same Wi-Fi network. Next, follow the steps below on the "
 "second device:"
 msgstr ""
+"Po úspěšném dokončení výše uvedeného testu na prvním zařízení nechte Ceno "
+"běžet (ikonka Ceno by měla být viditelná v notifikační liště). Poté vezměte "
+"druhé zařízení (můžete pozvat přítele, aby vám s testováním pomohl) a "
+"připojte ho ke stejné Wi-Fi síti. Následně na druhém zařízení postupujte "
+"podle kroků níže:"
 
 #: browser/testing.md:block 18 (ordered list)
 msgid "Install Ceno if needed and start it as above."
 msgstr ""
+"V případě potřeby nainstalujte program Ceno a spusťte jej výše uvedeným "
+"způsobem."
 
 #: browser/testing.md:block 18 (ordered list)
 msgid ""
@@ -143,6 +205,9 @@ msgid ""
 "distributed cache access, uncheck all the boxes for content sources except "
 "*Shared by other Ceno users*."
 msgstr ""
+"Otevřete stránku Nastavení Ceno jako výše. Jelikož chceme testovat pouze "
+"přístup k distribuované cache, zrušte zaškrtnutí všech políček pro zdroje "
+"obsahu kromě Sdíleno ostatními uživateli Ceno."
 
 #: browser/testing.md:block 18 (ordered list)
 msgid ""
@@ -150,6 +215,9 @@ msgid ""
 "you did above (i.e. by selecting one of the recommended web sites or "
 "entering its URL in the address bar)."
 msgstr ""
+"Vraťte se na domovskou stránku Ceno a navštivte stejný web stejným způsobem "
+"jako výše (tj. výběrem jednoho z doporučených webů nebo zadáním jeho adresy "
+"URL do adresního řádku)."
 
 #: browser/testing.md:block 19 (paragraph)
 msgid ""
@@ -157,6 +225,9 @@ msgid ""
 "between its devices. This \"client isolation\" may happen in public networks "
 "like those of parks, bars or hotels. Please try again on a different network."
 msgstr ""
+"Pokud nefunguje, může síť Wi-Fi blokovat přímou komunikaci mezi svými "
+"zařízeními. K této \"izolaci klienta\" může docházet ve veřejných sítích, "
+"například v parcích, barech nebo hotelech. Zkuste to znovu v jiné síti."
 
 #: browser/testing.md:block 20 (paragraph)
 msgid ""
@@ -164,12 +235,18 @@ msgid ""
 "other clients. Pushing the Ceno address bar icon should show a popup like "
 "the one below, where only *Shared by other Ceno users* has a non-zero value."
 msgstr ""
+"Pokud to funguje, znamená to, že obě zařízení jsou schopna doručit tento "
+"obsah ostatním klientům. Kliknutím na ikonu Ceno v adresním řádku by se mělo "
+"zobrazit vyskakovací okno, jako je to níže, kde pouze Sdíleno ostatními "
+"uživateli Ceno má nenulovou hodnotu."
 
 #: browser/testing.md:block 21 (paragraph)
 msgid ""
 "![Figure: Sources used when testing distributed cache retrieval](images/"
 "sources-dcache.png)"
 msgstr ""
+"![Obrázek: Zdroje použité při testování získávání z distribuované cache]("
+"images/sources-dcache.png)"
 
 #: browser/testing.md:block 22 (paragraph)
 msgid ""
@@ -178,16 +255,22 @@ msgid ""
 "indeed part of the distributed cache, but they happen to already be stored "
 "in your device, so Ceno does not need to retrieve them over the network."
 msgstr ""
+"Nakonec jste si možná všimli, že existuje počítadlo Sdíleno vámi. To není "
+"samostatný zdroj jako takový: prvky zde uvedené jsou skutečně součástí "
+"distribuované cache, ale jsou již uloženy ve vašem zařízení, takže Ceno je "
+"nemusí načítat přes síť."
 
 #: browser/testing.md:block 23 (header)
 msgid "Getting content from remote users"
-msgstr ""
+msgstr "Získávání obsahu od vzdálených uživatelů"
 
 #: browser/testing.md:block 24 (paragraph)
 msgid ""
 "We have done a small-scale test of the distributed cache. Let us now test "
 "how it works over the Internet."
 msgstr ""
+"Provedli jsme malý test distribuované cache. Nyní pojďme otestovat, jak "
+"funguje přes internet."
 
 #: browser/testing.md:block 25 (paragraph)
 msgid ""
@@ -195,6 +278,9 @@ msgid ""
 "first device as with the previous test, and stop Ceno on the second device "
 "(by showing its notifications and pushing \"Tap to stop\")."
 msgstr ""
+"Po úspěšném dokončení výše uvedeného testu nechte Ceno běžet na prvním "
+"zařízení, stejně jako při předchozím testu, a na druhém zařízení Ceno "
+"zastavte (zobrazením jeho notifikací a stisknutím \"Tap to stop\")."
 
 #: browser/testing.md:block 26 (paragraph)
 msgid ""
@@ -202,6 +288,9 @@ msgid ""
 "different Wi-Fi network (maybe another friend can help from home). The steps "
 "to follow for that device are exactly the same as those in the previous test."
 msgstr ""
+"Tentokrát budete potřebovat třetí zařízení, ale musí být připojeno k jiné Wi-"
+"Fi síti (možná vám může pomoci další přítel z domova). Kroky, které je třeba "
+"na tomto zařízení dodržet, jsou přesně stejné jako u předchozího testu."
 
 #: browser/testing.md:block 27 (paragraph)
 msgid ""
@@ -209,7 +298,10 @@ msgid ""
 "The first device is able to seed content to others, and it can most probably "
 "also act as a bridge."
 msgstr ""
+"Pokud třetí zařízení dokáže načíst stránku použitou pro test, vše je "
+"připraveno. První zařízení dokáže sdílet obsah s ostatními a pravděpodobně "
+"může také fungovat jako most."
 
 #: browser/testing.md:block 28 (paragraph)
 msgid "Congratulations!"
-msgstr ""
+msgstr "Gratuluji!"
