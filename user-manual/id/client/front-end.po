@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-28 16:01+0000\n"
-"Last-Translator: wahyu adi pribadi <wahyutsarii@gmail.com>\n"
+"PO-Revision-Date: 2024-05-02 03:11+0000\n"
+"Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/censorship-no/"
 "client-front-end/id/>\n"
 "Language: id\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"X-Generator: Weblate 5.5.3-dev\n"
 
 #: client/front-end.md:block 1 (header)
 msgid "Annex: The Ouinet client front-end"
@@ -129,7 +129,7 @@ msgid ""
 "cache."
 msgstr ""
 "Kunci publik yang digunakan untuk memverifikasi tanda tangan dari injektor "
-"di cache terdistribusi."
+"di tembolok terdistribusi."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
@@ -137,17 +137,17 @@ msgid ""
 "size of the cache, a button to purge it completely, and a link to the list "
 "of announced cache entries."
 msgstr ""
-"Informasi tentang cache lokal Anda seperti usia konten maksimum, perkiraan "
-"ukuran cache, tombol untuk membersihkannya sepenuhnya, dan tautan ke daftar "
-"entri cache yang diumumkan."
+"Informasi tentang tembolok lokal Anda seperti usia konten maksimum, "
+"perkiraan ukuran tembolok, tombol untuk membersihkannya sepenuhnya, dan "
+"tautan ke daftar entri tembolok yang diumumkan."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
 "The directory of the external, static cache if enabled (Ceno does not "
 "currently use this)."
 msgstr ""
-"Direktori cache eksternal dan statis jika diaktifkan (Ceno saat ini tidak "
-"menggunakan ini)."
+"Direktori cache eksternal, statis jika diaktifkan (Ceno saat ini tidak "
+"menggunakannya)."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid "[Ceno Extension]: https://gitlab.com/censorship-no/ceno-ext-settings/"
