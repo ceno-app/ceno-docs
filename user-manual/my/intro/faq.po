@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-03 02:50+0200\n"
-"PO-Revision-Date: 2024-03-30 04:12+0000\n"
+"PO-Revision-Date: 2024-05-19 11:01+0000\n"
 "Last-Translator: Mya Myintzu Hlaing <myamyintzu10@gmail.com>\n"
 "Language-Team: Burmese <https://hosted.weblate.org/projects/censorship-no/"
 "faq/my/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #
 #: intro/faq.md:block 1 (header)
@@ -33,18 +33,18 @@ msgid "Short answer: yes, at least for some non-critical browsing."
 msgstr "အဖြေတို - အနည်းဆုံး အရေးမကြီးသော ရှာဖွေမှုအချို့အတွက် အစားထိုးနိုင်သည်။"
 
 #: intro/faq.md:block 5 (paragraph)
-#, fuzzy
 msgid ""
 "Since Ceno is based on Mozilla Firefox for Android, it provides all the "
 "features that are expected from a modern browser. However, its reliance on "
 "Ouinet technology for retrieving web content may affect its operation in "
 "subtle ways (some of them potentially involving your privacy)."
 msgstr ""
-"CENO သည် Mozilla Firefox for Android ကို အခြေခံသည့်အတွက် ၎င်းသည် ခေတ်မီ "
+"CENO သည် Android အတွက် Mozilla Firefox ကို အခြေခံသည့်အတွက် ၎င်းသည် ခေတ်မီ "
 "ဘရောက်ဇာတစ်ခုထံမှ မျှော်လင့်နိုင်သော လုပ်ဆောင်ချက်အားလုံးဖြင့် ပံ့ပိုးသည်။ "
-"သို့သော် ဝက်ဘ်အကြောင်းအရာကို ပြန်ထုတ်ရန် Ouinet နည်းပညာပေါ် ၎င်း၏ မှီခိုမှုက "
-"၎င်း၏ လုပ်ဆောင်ချက်အပေါ် မသိမသာ အကျိုးသက်ရောက်မှု ရှိနိုင်သည် (၎င်းတို့ထဲမှ "
-"အချို့တွင် သင့်ကိုယ်ရေးလုံခြုံမှု ပါဝင်ပတ်သက်နိုင်သည်)။"
+"မည်သို့ပင် ဖြစ်စေကာမူ ဝက်ဘ်အကြောင်းအရာကို ပြန်လည်ရယူရန် Ouinet နည်းပညာပေါ် "
+"၎င်း၏ မှီခိုမှုက ၎င်း၏ လုပ်ဆောင်ချက်အပေါ် မသိမသာ အကျိုးသက်ရောက်မှု "
+"ရှိနိုင်သည် (၎င်းတို့ထဲမှ အချို့တွင် သင့်ကိုယ်ရေးလုံခြုံမှု "
+"ပါဝင်ပတ်သက်နိုင်သည်)။"
 
 #: intro/faq.md:block 6 (paragraph)
 msgid ""
@@ -274,8 +274,9 @@ msgid ""
 "Although Ceno should work fine on a mobile connection, there are two reasons "
 "why we recommend using a Wi-Fi connection instead:"
 msgstr ""
-"CENO သည် မိုဘိုင်းချိတ်ဆက်မှုဖြင့် ကောင်းစွာ အလုပ်လုပ်နိုင်သော်လည်း ဝိုင်ဖိုင်ချိတ်ဆက်မှုကို အစားထိုး အသုံးပြုရန် ကျွန်ုပ်တို့ "
-"အကြံပြုရသည့် အကြောင်းရင်းနှစ်ခု ရှိပါသည်။"
+"အဘယ်ကြောင့် CENO သည် မိုဘိုင်းချိတ်ဆက်မှုဖြင့် ကောင်းစွာ "
+"အလုပ်လုပ်နိုင်သင့်သော်လည်း ဝိုင်ဖိုင်ချိတ်ဆက်မှုကို အစားထိုး အသုံးပြုရန် "
+"ကျွန်ုပ်တို့ အကြံပြုရသည့် အကြောင်းရင်းနှစ်ခု ရှိပါသည်။"
 
 #: intro/faq.md:block 35 (ordered list)
 msgid ""
