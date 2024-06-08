@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2023-05-17 03:01+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2024-06-09 02:09+0000\n"
+"Last-Translator: 电棍老板 <qwertyuiop9296@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "censorship-no/browser-bridging/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #
 #: browser/bridging.md:block 1 (header)
@@ -84,6 +84,12 @@ msgid ""
 "interfere with Ceno; please check [Don't kill my app!][Don't kill my app!] "
 "for your device's brand."
 msgstr ""
+"** 技术性说明:** 这主要归功于安卓的[Doze mode](https://developer.android.com/"
+"training/monitoring-device-state/doze-standby \"Android Developers – "
+"Optimize for Doze and App Standby\")。 减缓了本地的Ouinet库的运作。 "
+"不幸的是,对于Ceno的电池优化似乎并不排除Ouinet。 "
+"你的特殊设备还可能包括自己可能干扰Ceno的省电功能;请查看[Don't kill my app!]["
+"Don't kill my app!]中贵设备的品牌。"
 
 #: browser/bridging.md:block 8 (paragraph)
 msgid ""
@@ -130,11 +136,12 @@ msgid ""
 "If that setup is not an option for you, do not desist yet! If you have a "
 "computer with good connectivity that stays on most of the time, please "
 "continue reading."
-msgstr ""
+msgstr "如果该设置不适合您，请不要停止！如果您的计算机具有良好的连接性，并且大部分时"
+"间都保持打开状态，请继续阅读。"
 
 #: browser/bridging.md:block 11 (header)
 msgid "Running a bridge on a computer"
-msgstr ""
+msgstr "在计算机上架设一座桥梁(桥接)"
 
 #: browser/bridging.md:block 12 (paragraph)
 msgid ""
@@ -144,19 +151,24 @@ msgid ""
 "[docker-install] in your platform. For Debian derivatives like Ubuntu or "
 "Linux Mint, you can just run: `sudo apt install docker.io`"
 msgstr ""
+"如果你的计算机支持[Docker容器][docker],你可以操作一个事先配置的Ceno客户端作为"
+"桥梁。 若尚未安装Docker,请在你的平台上[安装Docker引擎][docker-install]。对于 "
+"Debian 衍生类 Ubuntu 或 Linux Mint, 你只需要运行：`sudo apt install docker."
+"io`"
 
 #: browser/bridging.md:block 13 (paragraph)
 msgid ""
 "To deploy a Ceno client container you only need to run the following command "
 "on a terminal (it looks scary but you can just copy and paste it as is on "
 "the command line):"
-msgstr ""
+msgstr "要部署一个Ceno客户端容器,你只需要在终端上运行以下命令(它看起来很吓人，但是您"
+"只要在命令行上复制并粘贴它):"
 
 #: browser/bridging.md:block 15 (paragraph)
 msgid ""
 "If your computer is not based on GNU/Linux, the command needs to be slightly "
 "different:"
-msgstr ""
+msgstr "如果你的电脑不是GNU/Linux, 那么需要的指令会有所不同："
 
 #: browser/bridging.md:block 17 (paragraph)
 msgid ""
