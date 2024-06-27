@@ -1,19 +1,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-26 19:01+0000\n"
-"Last-Translator: Pavel Kraus <pavel.kraus@anycomp.cz>\n"
+"PO-Revision-Date: 2024-06-28 08:12+0000\n"
+"Last-Translator: David Bauer <dbs23.dbs23@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-readme/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #: browser/README.md:block 1 (header)
 msgid "Using Ceno Browser"
-msgstr "Pomocí prohlížeče cen"
+msgstr "Pomocí prohlížeče Ceno"
 
 #: browser/README.md:block 2 (paragraph)
 msgid ""
