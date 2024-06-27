@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-26 19:01+0000\n"
-"Last-Translator: Pavel Kraus <pavel.kraus@anycomp.cz>\n"
+"PO-Revision-Date: 2024-06-28 08:12+0000\n"
+"Last-Translator: David Bauer <dbs23.dbs23@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-install/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #: browser/install.md:block 1 (header)
 msgid "Installing Ceno"
@@ -17,23 +17,27 @@ msgstr "Instalace prohlížeče Ceno"
 
 #: browser/install.md:block 2 (paragraph)
 msgid "Ceno Browser can be installed via the following means:"
-msgstr ""
+msgstr "Prohlížeč Ceno může být nainstalován následujícími způsoby:"
 
 #: browser/install.md:block 3 (unordered list)
 msgid ""
 "[Google Play][ceno-gplay] (*Ceno Browser* from *eQualitie*): the recommended "
 "source for most Android users."
 msgstr ""
+"Google Play][ceno-gplay] (*Ceno Browser* od *eQualitie*): doporučený zdroj "
+"pro vetšinu uživatelů Android."
 
 #: browser/install.md:block 3 (unordered list)
 msgid "[Gitlab][ceno-gh]: for Android devices without Google Play."
-msgstr ""
+msgstr "[Gitlab][ceno-gh]: pro zařízení Android bez Google Play."
 
 #: browser/install.md:block 3 (unordered list)
 msgid ""
 "[Paskoocheh][ceno-pask]: for users in countries blocking access to the "
 "previous channels."
 msgstr ""
+"[Paskoocheh][ceno-pask]: pro uživatele jejichž země blokuje přístup k "
+"předchozím způsobům."
 
 #: browser/install.md:block 4 (paragraph)
 msgid ""
@@ -51,10 +55,18 @@ msgid ""
 "Ouinet users. If in doubt, please contact [cenoers@equalitie.org](mailto:"
 "cenoers@equalitie.org) before installing a suspicious app."
 msgstr ""
+"**Varování:** Prosím buďte *extrémně obezřetní* pokud budete instalovat "
+"prohlížeč Ceno z jiných zdrojů než výše uvedených. Z důvodů vlastností "
+"aplikace, její potenciální uživatelé se mohou stát cílem všech možných "
+"falešných nebo zmanipulovaných verzí, použitých k porušení soukromí "
+"uživatelů nebo cílem útoků na ostatní Ceno a Ouinet uživatele. Pokud máte "
+"pochybnosti, prosím kontaktujte [cenoers@equalitie."
+"org](mailto:cenoers@equalitie.org) před tím než nainstalujete podezřelou "
+"aplikaci."
 
 #: browser/install.md:block 6 (header)
 msgid "Stopping Ceno completely"
-msgstr ""
+msgstr "Úplné zastavení Ceno"
 
 #: browser/install.md:block 7 (paragraph)
 msgid ""
@@ -64,6 +76,11 @@ msgid ""
 "allows other clients to use your device as a bridge and retrieve content "
 "from it at any time."
 msgstr ""
+"Pokaždé, když spustíte aplikaci, se objeví ikona Ceno v oznamovací liště "
+"zařízení. Tato ikona představuje *službu prohlížeče Ceno*, která je částín "
+"Ceno jež běží stále (i v případě pokud zrovna neprohlížíte) a umožňuje "
+"ostatním klientům použít Vaše zařízení jako Most a získat z něj obsah "
+"kdykoli."
 
 #: browser/install.md:block 8 (paragraph)
 msgid ""
@@ -78,10 +95,11 @@ msgid ""
 "![Figure: Tap on the notification to stop the Ceno service](images/tap-stop."
 "png)"
 msgstr ""
+"![Obrazec: Klepněte na oznámení k zastavení služby Ceno](images/tap-stop.png)"
 
 #: browser/install.md:block 10 (header)
 msgid "Purging all Ceno data (the \"panic button\")"
-msgstr ""
+msgstr "Vymazání všech Ceno dat (\"panické tlačítko\")"
 
 #: browser/install.md:block 11 (paragraph)
 msgid ""
