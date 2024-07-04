@@ -1,13 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-07-05 22:09+0000\n"
+"Last-Translator: Ahmed seif al-nasr <ahmdsyfalnsr2@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-public-private/ar/>\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
-msgstr ""
+msgstr "أوضاع التصفح العامة و الشخصية"
 
 #: browser/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +23,9 @@ msgid ""
 "the content that you browse with others (Public browsing) or not (Personal "
 "browsing)."
 msgstr ""
+"وكما هو موصوف [سابقاً](/المفاهيم/الشخصية و العامة، فإن ceno لديه أسلوبان "
+"مختلفان من أساليب العمل، وذلك على أساس ما إذا كنت ترغب في مشاركة المحتوى "
+"الذي تتصفحه  مع الآخرين(التصفح العام) أو عدمه (التصفح الشخصي)"
 
 #: browser/public-personal.md:block 3 (paragraph)
 msgid ""
@@ -27,24 +37,33 @@ msgid ""
 "choose *Personal Tabs* on the homepage or switch to the Personal mode icon "
 "in the Tabs menu."
 msgstr ""
+"ينطبق هذا الإعداد *على كل علامة تبويب* تفتحها في المتصفح، أي أنه يمكنك "
+"الحصول على علامات تبويب التصفح العامة وعلامات تبويب التصفح الشخصي.  الإعداد "
+"الافتراضي لـ Ceno عند بدء تشغيله أو فتح علامة تبويب جديدة (عبر خيار \"علامات "
+"التبويب العامة\" على الصفحة الرئيسية أو رمز علامات التبويب بجوار أيقونة "
+"المسح في شريط العناوين) هو استخدام التصفح العام.  لفتح علامة تبويب جديدة في "
+"وضع التصفح الشخصي، ما عليك سوى اختيار *علامات التبويب الشخصية* على الصفحة "
+"الرئيسية أو التبديل إلى أيقونة الوضع الشخصي في قائمة علامات التبويب."
 
 #: browser/public-personal.md:block 4 (paragraph)
 msgid ""
 "You can tell public tabs from personal ones because public tabs have a "
 "lighter (or white) tool bar:"
 msgstr ""
+"يمكنك التمييز بين علامات التبويب العامة وعلامات التبويب الشخصية لأن علامات "
+"التبويب العامة تحتوي على شريط أدوات أفتح (أو أبيض):"
 
 #: browser/public-personal.md:block 5 (paragraph)
 msgid "![Figure: A Public browsing tab](images/public-tab.png)"
-msgstr ""
+msgstr "![الشكل: علامة تبويب التصفح العام](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
-msgstr ""
+msgstr "في المقابل، لعلامات التبويب الخاصة شريط أدوات أغمق:"
 
 #: browser/public-personal.md:block 7 (paragraph)
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
-msgstr ""
+msgstr "![Figure: A Personal browsing tab](images/private-tab.png)"
 
 #: browser/public-personal.md:block 8 (paragraph)
 msgid ""
@@ -52,3 +71,6 @@ msgid ""
 "help you know how it actually retrieved the different elements of the "
 "content. We will cover this icon later on."
 msgstr ""
+"بمجرد قيامك بتحميل صفحة في علامة تبويب، سيساعدك رمز Ceno الموجود في شريط "
+"العناوين على معرفة كيفية استرداد العناصر المختلفة للمحتوى بالفعل. سنغطي هذا "
+"الرمز لاحقًا."
