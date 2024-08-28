@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-05-01 20:40+0000\n"
+"PO-Revision-Date: 2024-08-29 05:09+0000\n"
 "Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/censorship-no/"
 "browser-troubleshooting/id/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5.3-dev\n"
+"X-Generator: Weblate 5.7.1-dev\n"
 
 #: browser/troubleshooting.md:block 1 (header)
 msgid "Troubleshooting"
@@ -588,7 +588,7 @@ msgstr ""
 "akses Wi-Fi yang sama), mungkin saja jaringan tersebut tidak mengizinkan "
 "komunikasi langsung ke sesama perangkat yang terhubung dengannya. Hal ini "
 "terjadi pada beberapa jaringan Wi-Fi publik, jadi cobalah untuk menggunakan "
-"jaringan pribadi."
+"jaringan privat."
 
 #: browser/troubleshooting.md:block 50 (paragraph)
 msgid ""
