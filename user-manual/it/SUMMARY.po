@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-08-30 09:09+0000\n"
+"Last-Translator: Scorza9999 <oliva.scorza@gmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/censorship-no/"
+"user-manual/it/>\n"
 "Language: it\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.1-dev\n"
 
 #: SUMMARY.md:block 1 (header)
 msgid "Summary"
-msgstr ""
+msgstr "Riassunto"
 
 #: SUMMARY.md:block 2 (paragraph)
 msgid "[Censorship.no!](README.md)"
