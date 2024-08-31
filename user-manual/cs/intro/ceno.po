@@ -1,19 +1,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-10 09:03+0000\n"
-"Last-Translator: Kamil Rumanuel Rukola <kamca87@gmail.com>\n"
+"PO-Revision-Date: 2024-08-31 14:09+0000\n"
+"Last-Translator: Daniel  Alker <daniel.alker@seznam.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/ceno/"
 "cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: intro/ceno.md:block 1 (header)
 msgid "What is Ceno Browser?"
-msgstr ""
+msgstr "Co je prohlížeč Ceno?"
 
 #: intro/ceno.md:block 2 (paragraph)
 msgid ""
@@ -105,7 +105,7 @@ msgstr ""
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[Censorship.no!]: https://censorship.no/"
-msgstr ""
+msgstr "[Censorship.no!]: https://censorship.no/"
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[P2P]: https://en.wikipedia.org/wiki/Peer-to-peer"
@@ -121,7 +121,7 @@ msgstr "[Firefox pro Android]: https://www.mozilla.org/firefox/android/"
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[eQualitie]: https://equalit.ie/"
-msgstr ""
+msgstr "[eQualitie]: https://equalit.ie/"
 
 #: intro/ceno.md:block 11 (quote)
 msgid ""
