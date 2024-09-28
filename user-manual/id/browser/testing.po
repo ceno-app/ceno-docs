@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-29 23:08+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
+"PO-Revision-Date: 2024-09-29 16:16+0000\n"
+"Last-Translator: Eji-san <ejierubani@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-testing/id/>\n"
 "Language: id\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: browser/testing.md:block 1 (header)
 msgid "Testing the Browser"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: browser/testing.md:block 5 (header)
 msgid "Accessing an injector"
-msgstr ""
+msgstr "Mengakses injektor"
 
 #: browser/testing.md:block 6 (paragraph)
 msgid ""
@@ -58,11 +58,11 @@ msgstr ""
 
 #: browser/testing.md:block 7 (paragraph)
 msgid "In the first device perform the following steps:"
-msgstr ""
+msgstr "Pada perangkat pertama lakukan langkah-langkah berikut:"
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "First of all, install Ceno and start it. Its home page will appear."
-msgstr ""
+msgstr "Pertama-tama, instal Ceno dan jalankan. Halaman berandanya akan muncul."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
@@ -81,7 +81,7 @@ msgstr ""
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "The chosen site should eventually show up."
-msgstr ""
+msgstr "Situs yang dipilih pada akhirnya akan muncul."
 
 #: browser/testing.md:block 9 (paragraph)
 msgid ""
@@ -123,7 +123,7 @@ msgstr ""
 
 #: browser/testing.md:block 15 (header)
 msgid "Getting content from close users"
-msgstr ""
+msgstr "Mendapatkan konten dari pengguna terdekat"
 
 #: browser/testing.md:block 16 (paragraph)
 msgid ""
@@ -144,7 +144,7 @@ msgstr ""
 
 #: browser/testing.md:block 18 (ordered list)
 msgid "Install Ceno if needed and start it as above."
-msgstr ""
+msgstr "Instal Ceno jika diperlukan dan mulai seperti di atas."
 
 #: browser/testing.md:block 18 (ordered list)
 msgid ""
@@ -190,7 +190,7 @@ msgstr ""
 
 #: browser/testing.md:block 23 (header)
 msgid "Getting content from remote users"
-msgstr ""
+msgstr "Mendapatkan konten dari pengguna jarak jauh"
 
 #: browser/testing.md:block 24 (paragraph)
 msgid ""
