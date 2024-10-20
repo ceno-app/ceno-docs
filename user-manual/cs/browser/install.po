@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-28 08:12+0000\n"
-"Last-Translator: David Bauer <dbs23.dbs23@gmail.com>\n"
+"PO-Revision-Date: 2024-10-20 11:17+0000\n"
+"Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-install/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8-rc\n"
 
 #: browser/install.md:block 1 (header)
 msgid "Installing Ceno"
@@ -45,6 +45,10 @@ msgid ""
 "4.1 Jelly Bean, thus most mobile devices released from late 2012 onward "
 "should work. Ceno needs *no special permissions* to run."
 msgstr ""
+"Ceno vyžaduje zařízení ARM64 nebo Neon podporující ARM32 s operačním "
+"systémem Android 4.1 Jelly Bean, takže by měla fungovat většina mobilních "
+"zařízení vydaných od konce roku 2012. Ceno nepotřebuje ke svému běhu *žádná "
+"zvláštní oprávnění*."
 
 #: browser/install.md:block 5 (quote)
 msgid ""
@@ -89,6 +93,11 @@ msgid ""
 "far from a charger). Tapping on the notification attached to the icon will "
 "stop both Ceno and its service at once (until you open Ceno again)."
 msgstr ""
+"Vzhledem k tomu, že spuštění takové služby využívá síťové a procesorové "
+"prostředky, můžete ji zastavit, kdykoli jste na cestách (tj. nejste "
+"připojeni k Wi-Fi nebo nejste daleko od nabíječky). Klepnutím na oznámení "
+"připojené k ikoně zastavíte Ceno i jeho službu najednou (dokud Ceno znovu "
+"neotevřete)."
 
 #: browser/install.md:block 9 (paragraph)
 msgid ""
