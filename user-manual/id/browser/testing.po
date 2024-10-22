@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 16:16+0000\n"
+"PO-Revision-Date: 2024-10-23 14:15+0000\n"
 "Last-Translator: Eji-san <ejierubani@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-testing/id/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 #: browser/testing.md:block 1 (header)
 msgid "Testing the Browser"
@@ -29,9 +29,9 @@ msgid ""
 "To complete all the tests below you will need at least two devices connected "
 "to the same Wi-Fi network, and a third one on a completely different network."
 msgstr ""
-"Untuk menyelesaikan semua tes di bawah ini, Anda memerlukan setidaknya dua "
-"perangkat yang terhubung ke jaringan Wi-Fi yang sama, dan perangkat ketiga "
-"pada jaringan yang sama sekali berbeda."
+"Untuk menyelesaikan semua pengujian di bawah ini, Anda memerlukan setidaknya "
+"dua perangkat yang terhubung ke jaringan Wi-Fi yang sama, dan perangkat "
+"ketiga pada jaringan yang berbeda."
 
 #: browser/testing.md:block 4 (paragraph)
 msgid ""
