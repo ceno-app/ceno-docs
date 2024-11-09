@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-11-10 08:00+0000\n"
+"Last-Translator: mojtaba piri <Mpcuteangel@gmail.com>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-public-private/fa/>\n"
 "Language: fa\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
-msgstr ""
+msgstr "حالت های مرور عمومی و شخصی"
 
 #: browser/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +22,9 @@ msgid ""
 "the content that you browse with others (Public browsing) or not (Personal "
 "browsing)."
 msgstr ""
+"همانطور که توضیح داده شد [در بخش قبلی](.. /concepts/public-personal.md)، "
+"Ceno بسته به اینکه آیا می خواهید محتوایی را که مرور می کنید با دیگران به "
+"اشتراک بگذارید (مرور عمومی) یا خیر (مرور شخصی) دو حالت عملکرد مختلف دارد."
 
 #: browser/public-personal.md:block 3 (paragraph)
 msgid ""
@@ -27,24 +36,33 @@ msgid ""
 "choose *Personal Tabs* on the homepage or switch to the Personal mode icon "
 "in the Tabs menu."
 msgstr ""
+"این تنظیم *برای هر برگه* که در مرورگر باز می کنید اعمال می شود، یعنی می "
+"توانید برگه های مرور عمومی و برگه های مرور شخصی داشته باشید. پیش فرض Ceno هر "
+"زمان که آن را شروع می کنید یا یک برگه جدید باز می کنید (از طریق گزینه \"برگه "
+"های عمومی\" در صفحه اصلی یا نماد برگه ها در کنار نماد پاک کردن در نوار آدرس) "
+"استفاده از مرور عمومی است. برای باز کردن یک برگه جدید در حالت مرور شخصی، "
+"کافی است *برگه های شخصی* را در صفحه اصلی انتخاب کنید یا به نماد حالت شخصی در "
+"منوی برگه ها بروید."
 
 #: browser/public-personal.md:block 4 (paragraph)
 msgid ""
 "You can tell public tabs from personal ones because public tabs have a "
 "lighter (or white) tool bar:"
 msgstr ""
+"می توانید برگه های عمومی را از برگه های شخصی تشخیص دهید زیرا برگه های عمومی "
+"دارای نوار ابزار روشن تر (یا سفید) هستند:"
 
 #: browser/public-personal.md:block 5 (paragraph)
 msgid "![Figure: A Public browsing tab](images/public-tab.png)"
-msgstr ""
+msgstr "! [شکل: برگه مرور عمومی](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
-msgstr ""
+msgstr "در مقابل، برگه های خصوصی نوار ابزار تیره تری دارند:"
 
 #: browser/public-personal.md:block 7 (paragraph)
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
-msgstr ""
+msgstr "! [شکل: برگه مرور شخصی](images/private-tab.png)"
 
 #: browser/public-personal.md:block 8 (paragraph)
 msgid ""
@@ -52,3 +70,6 @@ msgid ""
 "help you know how it actually retrieved the different elements of the "
 "content. We will cover this icon later on."
 msgstr ""
+"هنگامی که یک صفحه را در یک برگه بارگذاری کردید، نماد Ceno در نوار آدرس به "
+"شما کمک می کند تا بدانید که چگونه عناصر مختلف محتوا را بازیابی کرده است. "
+"بعدا به این نماد خواهیم پرداخت."
