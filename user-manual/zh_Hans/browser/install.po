@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
 "PO-Revision-Date: 2024-12-08 12:00+0000\n"
-"Last-Translator: Cube Kassaki <2524737581@qq.com>\n"
+"Last-Translator: Cookie987 <bili.cookie987@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/censorship-no/manual/browser-install/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: browser/install.md:block 6 (header)
 msgid "Stopping Ceno completely"
-msgstr ""
+msgstr "彻底停止 Ceno"
 
 #: browser/install.md:block 7 (paragraph)
 msgid ""
