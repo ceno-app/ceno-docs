@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2024-02-19 03:02+0000\n"
-"Last-Translator: Cookie987 <bili.cookie987@outlook.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"censorship-no/manual/browser-install/zh_Hans/>\n"
+"PO-Revision-Date: 2024-12-08 12:00+0000\n"
+"Last-Translator: Cube Kassaki <2524737581@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/manual/browser-install/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #
 #: browser/install.md:block 1 (header)
@@ -97,16 +97,19 @@ msgid ""
 "far from a charger). Tapping on the notification attached to the icon will "
 "stop both Ceno and its service at once (until you open Ceno again)."
 msgstr ""
+"由于运行此类服务会消耗网络和处理器资源，因此您可能希望在移动时（即未连接到 "
+"Wi-Fi 或远离充电器）停止它。点击图标附带的通知将立即停止 Ceno 及其服务（"
+"直到您再次打开 Ceno）。"
 
 #: browser/install.md:block 9 (paragraph)
 msgid ""
 "![Figure: Tap on the notification to stop the Ceno service](images/tap-stop."
 "png)"
-msgstr ""
+msgstr "![图：点击通知以停止 Ceno 服务]（图片/tap-stop.png）"
 
 #: browser/install.md:block 10 (header)
 msgid "Purging all Ceno data (the \"panic button\")"
-msgstr ""
+msgstr "清除所有 Ceno 数据（“紧急按钮”）"
 
 #: browser/install.md:block 11 (paragraph)
 msgid ""
@@ -115,6 +118,9 @@ msgid ""
 "action will just open Ceno with a new public browsing tab showing its home "
 "page. The *Erase* action demands more explanation."
 msgstr ""
+"上面显示的 *Ceno 浏览器服务* "
+"通知包括一些随附的操作，可以通过点击它们来触发这些操作。*Home* 操作将打开 "
+"Ceno 并显示一个新的公共浏览选项卡，显示其主页。*擦除* 操作需要更多解释。"
 
 #: browser/install.md:block 12 (quote)
 msgid ""
@@ -123,6 +129,8 @@ msgid ""
 "only see the *Home* action, your device may be too old to support the "
 "*Erase* action."
 msgstr ""
+"**注意：** 如果通知下方的操作不可见，请将通知从其中心拖向底部以展开它。"
+"如果您只能看到 *Home* 操作，则您的设备可能太旧，无法支持 *Erase* 操作。"
 
 #: browser/install.md:block 13 (paragraph)
 msgid ""
@@ -132,23 +140,27 @@ msgid ""
 "your data accidentally, this will not remove anything yet, but just show an "
 "additional action for a brief moment, as pictured below:"
 msgstr ""
+"如果您需要快速停止 Ceno 并清除与其相关的所有数据（不仅是缓存内容，还包括收藏"
+"夹、密码和所有浏览历史记录等设置），您可以点击 *擦除*。为避免意外丢失数据，这"
+"不会删除任何内容，而只是短暂地显示一个额外的操作，如下图所示："
 
 #: browser/install.md:block 14 (paragraph)
 msgid ""
 "![Figure: The last action stops Ceno and clears all its data](images/tap-"
 "purge.png)"
-msgstr ""
+msgstr "![图：最后一个操作停止 Ceno 并清除其所有数据]（图片/tap-purge.png）"
 
 #: browser/install.md:block 15 (paragraph)
 msgid ""
 "If you tap on the *Yes* action, Ceno will be stopped and all its data "
 "removed *without further questions*, effectively leaving your device as if "
 "Ceno had never been used."
-msgstr ""
+msgstr "如果您点击 *Yes* 操作，Ceno 将被停止并删除其所有数据*无需进一步的问题*，从而"
+"有效地让您的设备就好像从未使用过一样。"
 
 #: browser/install.md:block 16 (paragraph)
 msgid "If you do not tap on the action, it will go away in a few seconds."
-msgstr ""
+msgstr "如果您不点击该操作，它将在几秒钟内消失。"
 
 #: browser/install.md:block 17 (quote)
 msgid ""
@@ -157,26 +169,32 @@ msgid ""
 "Android's general *Settings* page and, under the *Apps* entry, choose Ceno "
 "and then *Clear data*."
 msgstr ""
+"**注意：** 上述方法要求在您的设备上运行 Ceno。要在 Ceno "
+"停止时实现相同的效果，您可以使用 Android 的通用 *设置* 页面，然后在 "
+"*应用程序* 条目下，选择 Ceno，然后选择 *清除数据*。"
 
 #: browser/install.md:block 17 (quote)
 msgid "As a harsher alternative, you may completely uninstall the app."
-msgstr ""
+msgstr "作为更严厉的选择，您可以完全卸载该应用程序。"
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "**Warning:** Android may still keep other traces of having used an app "
 "besides its data, for instance in its system log."
-msgstr ""
+msgstr "**警告：** Android "
+"可能仍会保留除数据之外的其他使用过应用程序的痕迹，例如在其系统日志中。"
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 msgstr ""
+"[ceno-Google Play]: https://play.google.com/store/apps/details?id=ie.equalit."
+"ceno"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
-msgstr ""
+msgstr "[ceno-GitLab]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
-msgstr ""
+msgstr "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
