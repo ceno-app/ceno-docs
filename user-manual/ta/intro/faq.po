@@ -1,25 +1,32 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/faq/"
+"ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: intro/faq.md:block 1 (header)
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "அடிக்கடி கேட்கப்படும் கேள்விகள்"
 
 #: intro/faq.md:block 2 (header)
 msgid "Usage"
-msgstr ""
+msgstr "பயன்பாடு"
 
 #: intro/faq.md:block 3 (header)
 msgid "Can Ceno Browser replace my current browser (Chrome/Firefox/Safari)?"
 msgstr ""
+"செனோ உலாவி எனது தற்போதைய உலாவியை (Chrome/Firefox/safari) மாற்ற முடியுமா?"
 
 #: intro/faq.md:block 4 (paragraph)
 msgid "Short answer: yes, at least for some non-critical browsing."
-msgstr ""
+msgstr "குறுகிய பதில்: ஆம், குறைந்தபட்சம் சில முக்கியமான உலாவலுக்கு."
 
 #: intro/faq.md:block 5 (paragraph)
 msgid ""
@@ -28,6 +35,10 @@ msgid ""
 "Ouinet technology for retrieving web content may affect its operation in "
 "subtle ways (some of them potentially involving your privacy)."
 msgstr ""
+"CENO ஆண்ட்ராய்டு க்கான மொசில்லா பயர்பாக்சை அடிப்படையாகக் கொண்டிருப்பதால், இது நவீன "
+"உலாவியில் இருந்து எதிர்பார்க்கப்படும் அனைத்து அம்சங்களையும் வழங்குகிறது. எவ்வாறாயினும், வலை"
+" உள்ளடக்கத்தை மீட்டெடுப்பதற்கான OUinet தொழில்நுட்பத்தை நம்பியிருப்பது அதன் செயல்பாட்டை "
+"நுட்பமான வழிகளில் பாதிக்கலாம் (அவற்றில் சில உங்கள் தனியுரிமையை உள்ளடக்கியது)."
 
 #: intro/faq.md:block 6 (paragraph)
 msgid ""
@@ -36,6 +47,10 @@ msgid ""
 "changes are introduced which require you to uninstall the application or "
 "remove stored data (including bookmarks and site settings) before upgrading."
 msgstr ""
+"மேலும், செனோ மற்றும் ஓயினெட் தொடர்ச்சியான வளர்ச்சியில் இருப்பதால், நீங்கள் சில உறுதியற்ற "
+"தன்மையை அனுபவிக்கலாம். பின்னோக்கி-இணக்கமான மாற்றங்கள் அறிமுகப்படுத்தப்படுகின்றன என்பதையும் "
+"குறிக்கலாம், இது மேம்படுத்துவதற்கு முன் பயன்பாட்டை நிறுவல் நீக்க அல்லது சேமிக்கப்பட்ட தரவை "
+"(புக்மார்க்குகள் மற்றும் தள அமைப்புகள் உட்பட) அகற்ற வேண்டும்."
 
 #: intro/faq.md:block 7 (paragraph)
 msgid ""
@@ -43,14 +58,18 @@ msgid ""
 "you use your habitual Web browser instead of Ceno. Please read the section "
 "on [risks](../concepts/risks.md) for more information."
 msgstr ""
+"தணிக்கைக்கு உட்பட்ட வலைத்தளங்களில் முக்கியமான பணிகளுக்கு, CENO க்கு பதிலாக உங்கள் பழக்கமா"
+"ன வலை உலாவியைப் பயன்படுத்த பரிந்துரைக்கிறோம். மேலும் தகவலுக்கு [அபாயங்கள்] (../ "
+"கருத்துக்கள்/அபாயங்கள்) பற்றிய பகுதியைப் படியுங்கள்."
 
 #: intro/faq.md:block 8 (header)
 msgid "Can I use Ceno Browser to access Twitter, Facebook and Gmail?"
 msgstr ""
+"ட்விட்டர், பேச்புக் மற்றும் சிமெயில் அணுக நான் செனோ உலாவியைப் பயன்படுத்தலாமா?"
 
 #: intro/faq.md:block 9 (paragraph)
 msgid "Short answer: yes, by using Personal tabs."
-msgstr ""
+msgstr "குறுகிய பதில்: ஆம், தனிப்பட்ட தாவல்களைப் பயன்படுத்துவதன் மூலம்."
 
 #: intro/faq.md:block 10 (paragraph)
 msgid ""
@@ -61,6 +80,12 @@ msgid ""
 "down all private data (like passwords and cookies) from Web traffic to "
 "ensure that it does not leak to other untrusted Ceno or Ouinet users."
 msgstr ""
+"சாதாரண வலை உலாவலுக்கு ஒத்த ஒரு பயனர் அனுபவத்தை வழங்க செனோ பாடுபட்டாலும், பிணைய "
+"குறுக்கீட்டைத் தவிர்ப்பதற்குப் பயன்படுத்தப்படும் சில நுட்பங்கள் அத்தகைய மாறும் தளங்களுடன் சிறப்பா"
+"க இயங்காது. CENO இன் இயல்புநிலை செயல்பாட்டு முறையின் (அதாவது பொது உலாவல்) இதுதான், "
+"ஏனெனில் இது அனைத்து தனியார் தரவுகளையும் (கடவுச்சொற்கள் மற்றும் குக்கீகள் போன்றவை) வலை "
+"போக்குவரத்திலிருந்து அகற்றுவதால், இது மற்ற நம்பத்தகாத CENO அல்லது OUinet பயனர்களுக்கு "
+"கசியாது என்பதை உறுதிசெய்கிறது."
 
 #: intro/faq.md:block 11 (paragraph)
 msgid ""
@@ -70,30 +95,40 @@ msgid ""
 "else. However, this requires that network traffic from your device can reach "
 "those websites in some way."
 msgstr ""
+"இதைத் தவிர்த்து, செனோவில் இதுபோன்ற மாறும் தளங்களைப் பயன்படுத்துவதை செயல்படுத்த, நீங்கள் "
+"தனிப்பட்ட தாவல்களை (அதாவது தனியார் உலாவல்) பயன்படுத்தலாம், அவை தனியார் தரவை அப்படியே "
+"விட்டுவிட்டு, குறியாக்கம் செய்யப்பட்ட தளங்களுக்கான இணைப்புகளை வைத்திருக்கும், இதனால் "
+"எல்லோரிடமிருந்தும் பாதுகாக்கப்படுகின்றன. இருப்பினும், உங்கள் சாதனத்திலிருந்து பிணைய "
+"போக்குவரத்து அந்த வலைத்தளங்களை ஏதேனும் ஒரு வகையில் அடைய முடியும் என்பதற்கு இது "
+"தேவைப்படுகிறது."
 
 #: intro/faq.md:block 12 (paragraph)
 msgid ""
 "For further details, please refer to the section on the differences between "
 "[Public and Personal browsing](../concepts/public-personal.md)."
 msgstr ""
+"மேலும் விவரங்களுக்கு, [பொது மற்றும் தனிப்பட்ட உலாவல்] (../ கருத்துக்கள்/பொது-நபர்கள்) "
+"இடையிலான வேறுபாடுகள் குறித்த பகுதியைப் பார்க்கவும்."
 
 #: intro/faq.md:block 13 (header)
 msgid "Privacy and security"
-msgstr ""
+msgstr "தனியுரிமை மற்றும் பாதுகாப்பு"
 
 #: intro/faq.md:block 14 (header)
 msgid "Will my device store content that I did not request?"
-msgstr ""
+msgstr "நான் கோராத உள்ளடக்கத்தை எனது சாதனம் சேமிக்குமா?"
 
 #: intro/faq.md:block 15 (paragraph)
 msgid "Short answer: no."
-msgstr ""
+msgstr "குறுகிய பதில்: இல்லை."
 
 #: intro/faq.md:block 16 (paragraph)
 msgid ""
 "Ceno only shares content that you requested (using [Public browsing](../"
 "concepts/public-personal.md))."
 msgstr ""
+"CENO நீங்கள் கோரிய உள்ளடக்கத்தை மட்டுமே பகிர்ந்து கொள்கிறது ([பொது உலாவல்] (../ "
+"கருத்துக்கள்/பொது-personal.md) ஐப் பயன்படுத்தி)."
 
 #: intro/faq.md:block 17 (paragraph)
 msgid ""
@@ -103,20 +138,29 @@ msgid ""
 "already does a pretty good job at detecting and blocking such attempts, you "
 "should still avoid visiting suspicious sites."
 msgstr ""
+"தீங்கிழைக்கும் வலைத்தளம் உங்கள் உலாவியை மற்ற தளங்களிலிருந்து உள்ளடக்கத்தை மீட்டெடுக்க உங்கள் "
+"உலாவியை ஏமாற்ற முயற்சிக்கலாம், இதனால் உங்கள் சாதனத்தை மற்ற பயனர்களுடன் சேமித்து பகிரும்படி"
+" கட்டாயப்படுத்தலாம். இதுபோன்ற முயற்சிகளைக் கண்டறிந்து தடுப்பதில் பயர்பாக்ச் குறியீடு ஏற்கனவே "
+"ஒரு நல்ல வேலையைச் செய்யும் போது, சந்தேகத்திற்கிடமான தளங்களைப் பார்வையிடுவதை நீங்கள் இன்னும் "
+"தவிர்க்க வேண்டும்."
 
 #: intro/faq.md:block 18 (paragraph)
 msgid ""
 "Read more about how your Ceno Browser retrieves and shares Web content with "
 "others [here](../concepts/how.md)."
 msgstr ""
+"உங்கள் செனோ உலாவி வலை உள்ளடக்கத்தை மற்றவர்களுடன் எவ்வாறு மீட்டெடுக்கிறது மற்றும் பகிர்ந்து "
+"கொள்கிறது என்பதைப் பற்றி மேலும் வாசிக்கவும் [இங்கே] (../ கருத்துக்கள்/எப்படி."
 
 #: intro/faq.md:block 19 (header)
 msgid "Can anyone see if I am using Ceno Browser to access censored Web sites?"
 msgstr ""
+"தணிக்கை செய்யப்பட்ட வலைத்தளங்களை அணுக நான் செனோ உலாவியைப் பயன்படுத்துகிறேனா என்று "
+"யாராவது பார்க்க முடியுமா?"
 
 #: intro/faq.md:block 20 (paragraph)
 msgid "Short answer: yes, with some technical knowledge and resources."
-msgstr ""
+msgstr "குறுகிய பதில்: ஆம், சில தொழில்நுட்ப அறிவு மற்றும் வளங்களுடன்."
 
 #: intro/faq.md:block 21 (paragraph)
 msgid ""
@@ -126,6 +170,11 @@ msgid ""
 "particular website, although they cannot list all the content that you are "
 "sharing."
 msgstr ""
+"செனோ ஒரு பெயர் தெரியாத கருவி அல்ல. உங்கள் பிணைய போக்குவரத்தை உளவு பார்க்கக்கூடிய "
+"தாக்குபவர் உங்கள் சாதனத்திலிருந்து மற்றொரு பயனரிடமிருந்து கோரப்படுவதையோ அல்லது "
+"வழங்கப்படுவதையோ காணலாம். நீங்கள் ஒரு குறிப்பிட்ட வலைத்தளத்தைப் பகிர்கிறீர்களா என்பதையும் "
+"தாக்குபவர் மதிப்பிடலாம், இருப்பினும் நீங்கள் பகிரும் அனைத்து உள்ளடக்கங்களையும் அவர்களால் "
+"பட்டியலிட முடியாது."
 
 #: intro/faq.md:block 22 (paragraph)
 msgid ""
@@ -134,18 +183,21 @@ msgid ""
 "encrypted connections. See [how content retrieval works](../concepts/how.md) "
 "and the associated [risks](../concepts/risks.md) for more information."
 msgstr ""
+"இருப்பினும், உள்ளடக்கம் முதன்முறையாக நெட்வொர்க்கில் மீட்டெடுக்கப்படுகிறது அல்லது [தனிப்பட்ட "
+"உலாவல்] (../ கருத்துக்கள்/பொது-நபர்கள். மேலும் தகவலுக்கு [உள்ளடக்க மீட்டெடுப்பு எவ்வாறு "
+"செயல்படுகிறது] (../ கருத்துக்கள்/எப்படி."
 
 #: intro/faq.md:block 23 (header)
 msgid "Resource usage"
-msgstr ""
+msgstr "வள பயன்பாடு"
 
 #: intro/faq.md:block 24 (header)
 msgid "Does Ceno Browser use a lot of data?"
-msgstr ""
+msgstr "செனோ உலாவி நிறைய தரவைப் பயன்படுத்துகிறதா?"
 
 #: intro/faq.md:block 25 (paragraph)
 msgid "Short answer: more than your usual browser."
-msgstr ""
+msgstr "குறுகிய பதில்: உங்கள் வழக்கமான உலாவியை விட."
 
 #: intro/faq.md:block 26 (paragraph)
 msgid ""
@@ -154,6 +206,10 @@ msgid ""
 "large the content is, and how well-connected your device is. Sharing more "
 "content also implies more overhead."
 msgstr ""
+"உங்கள் செனோ உலாவி மற்றொரு பயனருக்கு உள்ளடக்கத்தை வழங்கும்போதோ அல்லது அவற்றின் போக்குவரத்தை "
+"அனுப்பும் போதோ, உள்ளடக்கம் எவ்வளவு பிரபலமானது அல்லது பெரியது, உங்கள் சாதனம் எவ்வளவு நன்கு"
+" இணைக்கப்பட்டுள்ளது போன்ற காரணிகளைப் பொறுத்து கூடுதல் தரவை உட்கொள்கிறது. மேலும் "
+"உள்ளடக்கத்தைப் பகிர்வது அதிக மேல்நிலைகளையும் குறிக்கிறது."
 
 #: intro/faq.md:block 27 (paragraph)
 msgid ""
@@ -162,10 +218,14 @@ msgid ""
 "recommend keeping an eye on the app's data usage (under Android settings) "
 "and running Ceno while connected to Wi-Fi instead of using mobile data."
 msgstr ""
+"மற்ற தரவு பகிர்வு பயன்பாடுகளை விட CENO வளங்களில் மிகவும் இலகுவாக இருந்தாலும், அது "
+"இன்னும் தரவு பயன்பாடு மற்றும் கட்டணங்களை அதிகரிக்கும். மொபைல் தரவைப் பயன்படுத்துவதற்குப் "
+"பதிலாக Wi-Fi உடன் இணைக்கப்படும்போது பயன்பாட்டின் தரவு பயன்பாட்டை (Android அமைப்புகளின் "
+"கீழ்) ஒரு கண் வைத்திருக்கவும், CENO ஐ இயக்கவும் பரிந்துரைக்கிறோம்."
 
 #: intro/faq.md:block 28 (header)
 msgid "Does Ceno Browser use a lot of battery on my device?"
-msgstr ""
+msgstr "செனோ உலாவி எனது சாதனத்தில் நிறைய பேட்டரியைப் பயன்படுத்துகிறதா?"
 
 #: intro/faq.md:block 30 (paragraph)
 msgid ""
@@ -175,6 +235,12 @@ msgid ""
 "not actively helping other users, it still needs to stay reachable over the "
 "network, which prevents the use of some energy-saving features."
 msgstr ""
+"பிணையம் குறுக்கீடு மற்றும் செயலிழப்புகளைத் தவிர்ப்பதில் ஒத்துழைக்க வெவ்வேறு பயனர்களுக்கு "
+"CENO மற்றும் OUinet ஆகியவை பல்வேறு நுட்பங்களைப் பயன்படுத்துகின்றன. உள்ளடக்கத்திற்கு பணி "
+"செய்வது மற்றும் பிற பயனர்களுக்கான போக்குவரத்தை அனுப்புவது கூடுதல் சக்தியைப் "
+"பயன்படுத்துகிறது. மேலும், உங்கள் சாதனம் மற்ற பயனர்களுக்கு தீவிரமாக உதவாதபோது கூட, அது "
+"இன்னும் நெட்வொர்க்கில் அடைய வேண்டும், இது சில ஆற்றல் சேமிப்பு அம்சங்களைப் பயன்படுத்துவதைத் "
+"தடுக்கிறது."
 
 #: intro/faq.md:block 31 (paragraph)
 msgid ""
@@ -184,26 +250,35 @@ msgid ""
 "completely (it offers a convenient shortcut for this, see [here](../browser/"
 "install.md))."
 msgstr ""
+"நிகர முடிவு என்னவென்றால், பயன்பாட்டில் இல்லாதபோது கூட செனோ உங்கள் பேட்டரியை "
+"வடிகட்டுகிறது. எங்கள் சோதனைகள் மின் நுகர்வு நடைபயணத்தை அதிகம் காட்டவில்லை, ஆனால் உங்கள் "
+"மைலேச் மாறுபடலாம். பேட்டரி தேவைப்படும்போது, செனோவை முழுவதுமாக நிறுத்த "
+"பரிந்துரைக்கிறோம் (இது இதற்கான வசதியான குறுக்குவழியை வழங்குகிறது, [இங்கே] (../ "
+"உலாவி/நிறுவல். எம்.டி) ஐப் பார்க்கவும்)."
 
 #: intro/faq.md:block 32 (header)
 msgid "Do I need to be connected to Wi-Fi to use Ceno Browser?"
-msgstr ""
+msgstr "செனோ உலாவியைப் பயன்படுத்த நான் வைஃபை உடன் இணைக்க வேண்டுமா?"
 
 #: intro/faq.md:block 33 (paragraph)
 msgid "Short answer: no, but we strongly recommend it."
-msgstr ""
+msgstr "குறுகிய பதில்: இல்லை, ஆனால் நாங்கள் அதை கடுமையாக பரிந்துரைக்கிறோம்."
 
 #: intro/faq.md:block 34 (paragraph)
 msgid ""
 "Although Ceno should work fine on a mobile connection, there are two reasons "
 "why we recommend using a Wi-Fi connection instead:"
 msgstr ""
+"மொபைல் இணைப்பில் செனோ சிறப்பாக செயல்பட வேண்டும் என்றாலும், அதற்கு பதிலாக வைஃபை இணைப்பைப் "
+"பயன்படுத்த பரிந்துரைக்க இரண்டு காரணங்கள் உள்ளன:"
 
 #: intro/faq.md:block 35 (ordered list)
 msgid ""
 "Ceno consumes an extra amount of data which may result in a higher phone "
 "bill (see above)."
 msgstr ""
+"CENO கூடுதல் தரவை பயன்படுத்துகிறது, இதன் விளைவாக அதிக தொலைபேசி பில் ஏற்படலாம் (மேலே "
+"காண்க)."
 
 #: intro/faq.md:block 35 (ordered list)
 msgid ""
@@ -211,3 +286,6 @@ msgid ""
 "outside than Wi-Fi ones, thus decreasing the chances that you can help other "
 "users get content."
 msgstr ""
+"மொபைல் இணைப்புகள் பெரும்பாலும் WI-Fi ஐ விட வெளிப்புறத்திலிருந்து உங்கள் சாதனத்தை அடைவது "
+"மிகவும் கடினமாக்குகின்றன, இதனால் மற்ற பயனர்கள் உள்ளடக்கத்தைப் பெற நீங்கள் உதவக்கூடிய "
+"வாய்ப்புகளை குறைக்கிறது."
