@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"browser-troubleshooting/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: browser/troubleshooting.md:block 1 (header)
 msgid "Troubleshooting"
-msgstr ""
+msgstr "சரிசெய்தல்"
 
 #: browser/troubleshooting.md:block 2 (paragraph)
 msgid ""
@@ -18,24 +24,33 @@ msgid ""
 "network infrastructure, as well as which content other users have retrieved "
 "and the characteristics of their connections."
 msgstr ""
+"செனோ மற்றும் ஓவினெட் ஆகியவற்றுடன் வேறுபட்ட, அறியப்பட்ட சிக்கல்கள் எழும்போது என்ன செய்வது "
+"என்பது பற்றிய சில குறிப்புகளை இந்த பிரிவு உங்களுக்கு வழங்கும். இவை சோதனைத் திட்டங்கள் "
+"என்பதையும், அவற்றின் செயல்பாடு எங்கள் கட்டுப்பாட்டிற்கு அப்பாற்பட்ட பல காரணிகளுக்கு உட்பட்டது "
+"என்பதையும், பிணையம் உள்கட்டமைப்பின் குறிப்பிட்ட உள்ளமைவு மற்றும் நிலை, அத்துடன் பிற பயனர்கள் "
+"எந்த உள்ளடக்கத்தை மீட்டெடுத்துள்ளனர் மற்றும் அவற்றின் இணைப்புகளின் பண்புகள் போன்றவை என்பதை "
+"நினைவில் கொள்ளுங்கள் ."
 
 #: browser/troubleshooting.md:block 3 (paragraph)
 msgid ""
 "If problems still persist, please report them to [cenoers@equalitie.org]"
 "(mailto:cenoers@equalitie.org). We will try to help you with them."
 msgstr ""
+"சிக்கல்கள் இன்னும் தொடர்ந்தால், தயவுசெய்து அவற்றை [cenoers@equalitie.org] (mailto: "
+"cenoers@equalitie.org) க்கு புகாரளிக்கவும். நாங்கள் அவர்களுக்கு உதவ முயற்சிப்போம்."
 
 #: browser/troubleshooting.md:block 4 (header)
 msgid "There is no Ceno entry in the app menu"
-msgstr ""
+msgstr "பயன்பாட்டு பட்டியலில் செனோ நுழைவு இல்லை"
 
 #: browser/troubleshooting.md:block 5 (paragraph)
 msgid "The Ceno Extension may still be loading. Please be patient."
-msgstr ""
+msgstr "CENO நீட்டிப்பு இன்னும் ஏற்றப்படலாம். தயவுசெய்து பொறுமையாக இருங்கள்."
 
 #: browser/troubleshooting.md:block 6 (header)
 msgid "All widgets are grayed-out in the *Ceno Settings* page"
 msgstr ""
+"அனைத்து விட்செட்டுகளும் * செனோ அமைப்புகள் * பக்கத்தில் சாம்பல் நிறத்தில் உள்ளன"
 
 #: browser/troubleshooting.md:block 7 (paragraph)
 msgid ""
@@ -43,12 +58,17 @@ msgid ""
 "status from Ouinet. Since it may take a moment for Ouinet to be ready, "
 "please be patient."
 msgstr ""
+"CENO நீட்டிப்பு ஏற்றப்பட்டுள்ளது, ஆனால் அது இன்னும் ஓவினெட்டிலிருந்து நிலையை மீட்டெடுக்க "
+"முடியவில்லை. ஓயினெட் தயாராக இருக்க ஒரு கணம் ஆகலாம் என்பதால், தயவுசெய்து பொறுமையாக "
+"இருங்கள்."
 
 #: browser/troubleshooting.md:block 8 (paragraph)
 msgid ""
 "If the Settings page stays like that after more than two minutes, Ouinet may "
 "have encountered some issue while starting."
 msgstr ""
+"அமைப்புகள் பக்கம் இரண்டு நிமிடங்களுக்கும் மேலாக அப்படியே இருந்தால், ஓவினெட் தொடங்கும் போது "
+"சில சிக்கல்களை சந்தித்திருக்கலாம்."
 
 #: browser/troubleshooting.md:block 9 (paragraph)
 msgid ""
@@ -58,6 +78,11 @@ msgid ""
 "connectivity (like being unable to join the BitTorrent network). If you are "
 "on a mobile connection, try again with Wi-Fi."
 msgstr ""
+"முடிந்தால் சில பக்கங்களைப் பார்வையிட முயற்சிக்கவும். \"வளத்தை மீட்டெடுப்பதில் தோல்வியுற்றது "
+"(அனைத்து கட்டமைக்கப்பட்ட வழிமுறைகளையும் முயற்சித்த பிறகு)\" போன்ற பிழையைப் பெற்றால், "
+"CENO பொது இணைப்பில் சில சிக்கல்களை அனுபவிக்கக்கூடும் (பிட்டோரண்ட் நெட்வொர்க்கில் சேர "
+"முடியாமல் இருப்பது போன்றவை). நீங்கள் மொபைல் இணைப்பில் இருந்தால், வைஃபை உடன் மீண்டும் "
+"முயற்சிக்கவும்."
 
 #: browser/troubleshooting.md:block 10 (paragraph)
 msgid ""
@@ -65,21 +90,28 @@ msgid ""
 "visiting the page, try to stop other applications which may be offering some "
 "service to the device, then restart Ceno."
 msgstr ""
+"பக்கத்தைப் பார்வையிடும்போது \"பதிலாள் சேவையகம் இணைப்புகளை மறுக்கிறது\" போன்ற பிழையைப் "
+"பெற்றால், சாதனத்திற்கு சில சேவைகளை வழங்கக்கூடிய பிற பயன்பாடுகளை நிறுத்த முயற்சிக்கவும், "
+"பின்னர் செனோவை மறுதொடக்கம் செய்யுங்கள்."
 
 #: browser/troubleshooting.md:block 11 (quote)
 msgid ""
 "**Technical note:** This may happen if another application is already "
 "listening on TCP ports `127.0.0.1:8077` or `127.0.0.1:8078`."
 msgstr ""
+"** தொழில்நுட்ப குறிப்பு: ** TCP துறைமுகங்களில் மற்றொரு பயன்பாடு ஏற்கனவே "
+"கேட்டுக்கொண்டிருந்தால் இது நிகழலாம் `127.0.0.1: 8077` அல்லது` 127.0.0.1: 8078`."
 
 #: browser/troubleshooting.md:block 12 (header)
 msgid "The *Ouinet client state* under *Ceno Settings* is not `started`"
-msgstr ""
+msgstr "* செனோ அமைப்புகளின் கீழ் * ouinet கிளையன்ட் நிலை * `தொடங்கப்படவில்லை`"
 
 #: browser/troubleshooting.md:block 13 (paragraph)
 msgid ""
 "The Ouinet client run by Ceno is finding problems starting on your device."
 msgstr ""
+"CENO ஆல் நடத்தப்படும் OUineint Client உங்கள் சாதனத்தில் தொடங்கும் சிக்கல்களைக் "
+"கண்டறிந்துள்ளது."
 
 #: browser/troubleshooting.md:block 14 (paragraph)
 msgid ""
@@ -91,6 +123,12 @@ msgid ""
 "`starting`, please contact us (especially if the state was `started` in some "
 "previous run)."
 msgstr ""
+"நீங்கள் செனோவைத் தொடங்கும்போது, சில நொடிகள் `தொடங்கும் 'மாநிலம் படிக்கலாம்; இது "
+"சாதாரணமானது. எவ்வாறாயினும், அரசு நீண்ட காலமாக `தொடங்கினால் 'இருந்தால், இது பிட்டோரண்ட் "
+"நெட்வொர்க்கை அடைவதைத் தடுக்கும் தீவிர இணைப்பு சிக்கல்களின் சமிக்ஞையாக இருக்கலாம். உங்கள் பிணை"
+"ய இணைப்பை சரிபார்த்து, செனோவை மறுதொடக்கம் செய்ய முயற்சிக்கவும். உங்களுக்கு வேலை இணைப்பு "
+"இருந்தால், ஆனால் மாநிலம் `தொடங்குகிறது 'என்றால், தயவுசெய்து எங்களை தொடர்பு கொள்ளவும் "
+"(குறிப்பாக மாநிலம் முந்தைய சில ஓட்டங்களில்` தொடங்கப்பட்டால்)."
 
 #: browser/troubleshooting.md:block 15 (paragraph)
 msgid ""
@@ -102,28 +140,40 @@ msgid ""
 "server. After setting the extra bootstraps, please restart the application. "
 "If the problem persists, contact us."
 msgstr ""
+"பிட்டோரெண்டில் இறங்க முடியாமல் இருப்பதற்கு ஒரு சாத்தியமான காரணம் (மேலும் நீங்கள் முதல் "
+"முறையாக செனோவை இயக்கும்போது), ஓவினெட் கிளையன்ட் பயன்படுத்தும் இயல்புநிலை தொடக்கவார் "
+"சேவையகங்கள் தடுக்கப்படுகின்றன அல்லது அடைய முடியாதவை. அவ்வாறான நிலையில், [அமைப்புகள் "
+"பக்கம்] (Settings.md) இல் கூடுதல் பிட்டோரண்ட் தொடக்கவார் சேவையகங்களுடன் செனோவுக்கு வழங்க "
+"முயற்சிக்க விரும்பலாம். அத்தகைய சேவையகம் உங்களுக்குத் தெரியாவிட்டால் நீங்கள் எங்களிடம் "
+"கேட்கலாம். கூடுதல் பூட்ச்ட்ராப்களை அமைத்த பிறகு, தயவுசெய்து விண்ணப்பத்தை மறுதொடக்கம் "
+"செய்யுங்கள். சிக்கல் தொடர்ந்தால், எங்களை தொடர்பு கொள்ளவும்."
 
 #: browser/troubleshooting.md:block 16 (paragraph)
 msgid ""
 "If you ever see some other state, there may be some internal error in the "
 "Ouinet client. Please report the issue to us."
 msgstr ""
+"நீங்கள் எப்போதாவது வேறு சில நிலைகளைக் கண்டால், ஓயினெட் கிளையண்டில் சில உள் பிழைகள் "
+"இருக்கலாம். தயவுசெய்து எங்களுக்கு பிரச்சினையைப் புகாரளிக்கவும்."
 
 #: browser/troubleshooting.md:block 17 (header)
 msgid "Accessing some content shows \"Failed to retrieve the resource\""
-msgstr ""
+msgstr "சில உள்ளடக்க நிகழ்ச்சிகளை அணுகுவது \"வளத்தை மீட்டெடுப்பதில் தோல்வி\""
 
 #: browser/troubleshooting.md:block 18 (paragraph)
 msgid ""
 "This means that Ceno tried all available mechanisms to access the content, "
 "but none of them succeeded."
 msgstr ""
+"இதன் பொருள் உள்ளடக்கத்தை அணுக செனோ கிடைக்கக்கூடிய அனைத்து வழிமுறைகளையும் முயற்சித்தது, "
+"ஆனால் அவை எதுவும் வெற்றிபெறவில்லை."
 
 #: browser/troubleshooting.md:block 19 (paragraph)
 msgid ""
 "You should make sure that the following requirements are fulfilled for Ceno "
 "to work:"
 msgstr ""
+"செனோ வேலை செய்ய பின்வரும் தேவைகள் நிறைவு செய்யப்படுகின்றன என்பதை உறுதிப்படுத்த வேண்டும்:"
 
 #: browser/troubleshooting.md:block 20 (unordered list)
 msgid ""
@@ -131,6 +181,10 @@ msgid ""
 "be able to communicate with newer injectors or other clients. Check the "
 "[installation instructions](install.md) to know where to get new versions."
 msgstr ""
+"நீங்கள் செனோ உலாவியின் அண்மைக் கால பதிப்பை இயக்குகிறீர்கள். வழக்கற்றுப் போன பதிப்புகள் புதிய "
+"உட்செலுத்திகள் அல்லது பிற வாடிக்கையாளர்களுடன் தொடர்பு கொள்ள முடியாமல் போகலாம். புதிய "
+"பதிப்புகளை எங்கு பெறுவது என்பதை அறிய [நிறுவல் வழிமுறைகள்] (Install.md) ஐ "
+"சரிபார்க்கவும்."
 
 #: browser/troubleshooting.md:block 20 (unordered list)
 msgid ""
@@ -138,6 +192,8 @@ msgid ""
 "Otherwise Ceno will not be able to circumvent some connectivity issues when "
 "accessing content."
 msgstr ""
+"[அமைப்புகள் பக்கம்] (settings.md) இல் உள்ள அனைத்து அணுகல் வழிமுறைகளும் இயக்கப்பட்டுள்ளன. "
+"இல்லையெனில் உள்ளடக்கத்தை அணுகும்போது சில இணைப்பு சிக்கல்களை CENO தவிர்க்க முடியாது."
 
 #: browser/troubleshooting.md:block 20 (unordered list)
 msgid ""
@@ -146,6 +202,10 @@ msgid ""
 "network connectivity is shut down (although users may still find a common Wi-"
 "Fi access point to do device-to-device sharing)."
 msgstr ""
+"உங்கள் சாதனத்தில் பிணையத்துடன் பணி இணைப்பு உள்ளது, அதாவது உங்கள் சாதாரண வலை உலாவி சில "
+"வலைத்தளங்களைத் திறக்க முடியும். அனைத்து பிணைய இணைப்புகளும் மூடப்படும்போது செனோ மற்றும் "
+"ஓவினெட் செயல்பட முடியாது (பயனர்கள் சாதனத்திலிருந்து சாதனப் பகிர்வு செய்ய பொதுவான வைஃபை"
+" அணுகல் புள்ளியைக் காணலாம் என்றாலும்)."
 
 #: browser/troubleshooting.md:block 21 (paragraph)
 msgid ""
@@ -153,10 +213,13 @@ msgid ""
 "access mechanisms to fail, to give you an idea of your chances for getting "
 "content using Ceno."
 msgstr ""
+"அப்படியானால், அனைத்து அணுகல் வழிமுறைகளும் தோல்வியடையும் என்ன நடக்கிறது என்பதை விளக்குவது"
+" மதிப்பு, CENO ஐப் பயன்படுத்தி உள்ளடக்கத்தைப் பெறுவதற்கான உங்கள் வாய்ப்புகளைப் பற்றிய ஒரு "
+"யோசனையை உங்களுக்குத் தெரிவிக்க வேண்டும்."
 
 #: browser/troubleshooting.md:block 22 (header)
 msgid "Origin access"
-msgstr ""
+msgstr "மூல அணுகல்"
 
 #: browser/troubleshooting.md:block 23 (paragraph)
 msgid ""
@@ -164,16 +227,20 @@ msgid ""
 "the server is having some difficulties itself (e.g. it is down or under some "
 "attack), or someone is interfering with your connection to it."
 msgstr ""
+"உங்கள் செனோ உலாவி உள்ளடக்கத்தின் தோற்றம் சேவையகத்தை நேரடியாக அடைய முடியாது. "
+"சேவையகத்திற்கு சில சிரமங்கள் உள்ளன (எ.கா. இது குறைந்துவிட்டது அல்லது சில தாக்குதலுக்கு "
+"உள்ளாகியுள்ளது), அல்லது யாராவது அதற்கான உங்கள் தொடர்பில் தலையிடுகிறார்கள்."
 
 #: browser/troubleshooting.md:block 24 (paragraph)
 msgid ""
 "This is the main use case for Ceno and the other mechanisms should "
 "compensate for it."
 msgstr ""
+"இது CENO க்கான முக்கிய பயன்பாட்டு வழக்கு, மற்ற வழிமுறைகள் அதற்கு ஈடுசெய்ய வேண்டும்."
 
 #: browser/troubleshooting.md:block 25 (header)
 msgid "Proxy/Injector access"
-msgstr ""
+msgstr "ப்ராக்சி/இன்செக்டர் அணுகல்"
 
 #: browser/troubleshooting.md:block 26 (paragraph)
 msgid ""
@@ -182,11 +249,15 @@ msgid ""
 "Ouinet) gain traction, Ceno resorts to reaching injectors via other clients "
 "acting as bridges."
 msgstr ""
+"இன்செக்டர் திரளில் இணைய முகவரிகளுடனான உங்கள் இணைப்பில் யாரோ தலையிடுகிறார்கள். செனோ "
+"(மற்றும் ஓவினெட்) இழுவைப் பெறுவதால் இது இறுதியில் நடக்கும் என்று எதிர்பார்க்கப்படுவதால், "
+"செனோ பாலங்களாக செயல்படும் பிற வாடிக்கையாளர்கள் வழியாக உட்செலுத்திகளை அடைய "
+"முயற்சிக்கிறார்."
 
 #: browser/troubleshooting.md:block 27 (paragraph)
 msgid ""
 "There are different reasons for Ceno being unable to reach such clients:"
-msgstr ""
+msgstr "அத்தகைய வாடிக்கையாளர்களை அடைய செனோவால் வேறுபட்ட காரணங்கள் உள்ளன:"
 
 #: browser/troubleshooting.md:block 28 (unordered list)
 msgid ""
@@ -195,6 +266,11 @@ msgid ""
 "be reached from the outside. This should become less likely as Ceno and "
 "Ouinet get popular and more clients with diverse connectivity come online."
 msgstr ""
+"வேறு எந்த வாடிக்கையாளரும் உங்களை அடைய முடியாது. ஒரு சில ஓயினெட் வாடிக்கையாளர்கள் "
+"மட்டுமே ஆன்லைனில் இருந்தால், அவை எதுவும் வெளியில் இருந்து அடையக்கூடிய நெட்வொர்க்கில் இல்லை "
+"என்பது முற்றிலும் சாத்தியம். செனோ மற்றும் ஓவினெட் பிரபலமடைவதால் இது குறைவாக இருக்க "
+"வேண்டும், மேலும் மாறுபட்ட இணைப்புகளைக் கொண்ட அதிகமான வாடிக்கையாளர்கள் ஆன்லைனில் வர "
+"வேண்டும்."
 
 #: browser/troubleshooting.md:block 28 (unordered list)
 msgid ""
@@ -203,6 +279,11 @@ msgid ""
 "may entail blocking all BitTorrent traffic) and currently beyond what Ouinet "
 "supports, but we plan to make it more resistant against these attacks."
 msgstr ""
+"இங்கே தீவிர வழக்கு என்னவென்றால், ஓயினெட் வாடிக்கையாளர்களுக்கிடையேயான தொடர்புகள் ஒரு "
+"தணிக்கை மூலம் கண்டறியப்பட்டு தடுக்கப்படுகின்றன. இது மிகவும் சாத்தியமில்லை (இது அனைத்து "
+"பிட்டோரண்ட் போக்குவரத்தையும் தடுப்பதை ஏற்படுத்தக்கூடும் என்பதால்) மற்றும் தற்போது ஓயினெட் "
+"ஆதரிப்பதைத் தாண்டி, ஆனால் இந்த தாக்குதல்களுக்கு எதிராக அதை மேலும் எதிர்ப்புத் தெரிவிக்க "
+"நாங்கள் திட்டமிட்டுள்ளோம்."
 
 #: browser/troubleshooting.md:block 28 (unordered list)
 msgid ""
@@ -211,6 +292,9 @@ msgid ""
 "Ouinet clients which are themselves affected by similar network interference "
 "as yours."
 msgstr ""
+"வேறு எந்த வாடிக்கையாளரும் ஒரு இன்செக்டரை அடைய முடியாது. அனைத்து ஊசி மருந்துகளும் ஒரே "
+"நேரத்தில் கீழே இருப்பது சாத்தியமில்லை என்பதால், உங்களுடையது போன்ற பிணையம் குறுக்கீட்டால் "
+"பாதிக்கப்பட்டுள்ள ஓவினெட் வாடிக்கையாளர்களை மட்டுமே நீங்கள் அடைய முடியும் என்று பொருள்."
 
 #: browser/troubleshooting.md:block 28 (unordered list)
 msgid ""
@@ -218,6 +302,10 @@ msgid ""
 "is interrupted. Ceno would resort in this case to getting and using the "
 "content from the distributed cache, even if it is stale."
 msgstr ""
+"நீங்கள் இருக்கும் நாட்டிலிருந்து வெளியேறும்போது அல்லது நுழையும் அனைத்து போக்குவரத்தும் "
+"தடைபடும் போது இது நிகழலாம். இந்த விசயத்தில் செனோ இந்த விசயத்தில் விநியோகிக்கப்பட்ட "
+"தற்காலிக சேமிப்பிலிருந்து உள்ளடக்கத்தைப் பெறுவதற்கும் பயன்படுத்துவதற்கும், அது பழையதாக "
+"இருந்தாலும் அதை நாடுகிறது."
 
 #: browser/troubleshooting.md:block 28 (unordered list)
 msgid ""
@@ -228,6 +316,11 @@ msgid ""
 "spread (over the distributed cache) without further need to access the "
 "outside world."
 msgstr ""
+"மீண்டும், செனோவும் ஓவினெட்டும் மிகவும் பிரபலமடைவதால், பன்னாட்டு தளங்களுக்கு ஒருவித "
+"அணுகலைக் கொண்ட குறைந்தது ஒரு சில வாடிக்கையாளர்கள் இருப்பதற்கான வாய்ப்புகள் அதிகரிக்கின்"
+"றன. அணுகல் ஆபத்தானது என்றாலும், வெளி உலகத்தை மேலும் அணுக வேண்டிய அவசியமின்றி "
+"(விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பிற்கு மேல்) பரவுவதற்கு சில உள்ளடக்கங்களை நாட்டிற்குள் "
+"செலுத்தக்கூடிய ஒற்றை ஓநெட் வாங்கி போதுமானது."
 
 #: browser/troubleshooting.md:block 29 (paragraph)
 msgid ""
@@ -236,10 +329,14 @@ msgid ""
 "note that clients with such stable Internet addresses could get blocked as "
 "well."
 msgstr ""
+"இறுதியாக, அந்த இரண்டு சூழ்நிலைகளையும் தவிர்க்க முயற்சிக்க (வட்டம்) தணிக்கை இல்லாத "
+"நாடுகளில் நல்ல இணைப்புடன் சில ஓயினெட் வாடிக்கையாளர்களை நாங்கள் இயக்குகிறோம், ஆனால் இதுபோன்"
+"ற நிலையான இணைய முகவரிகளைக் கொண்ட வாடிக்கையாளர்களும் தடுக்கப்படலாம் என்பதை நினைவில் "
+"கொள்க."
 
 #: browser/troubleshooting.md:block 30 (header)
 msgid "Distributed cache"
-msgstr ""
+msgstr "விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பு"
 
 #: browser/troubleshooting.md:block 31 (paragraph)
 msgid ""
@@ -251,6 +348,13 @@ msgid ""
 "other Ouinet client to inject and keep seeding it (which may further expose "
 "them to some [risks](../concepts/risks.md))."
 msgstr ""
+"விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பிலிருந்து எந்தவொரு உள்ளடக்கத்தையும் மீட்டெடுக்க ஒரு "
+"முழுமையான தேவை என்பதை நினைவில் கொள்ளுங்கள், இது ஏற்கனவே வேறு சில செனோ அல்லது ஓவினெட் "
+"பயனரால் செலுத்தப்பட்டுள்ளது. இதன் பொருள், பிரபலமான உள்ளடக்கம் இறுதியில் ஊசி போடவும், "
+"இயற்கையான முறையில் பிரதிபலிக்கவும் அதிக வாய்ப்புள்ளது, அதே நேரத்தில் மிகவும் தெளிவற்ற "
+"உள்ளடக்கம் குறைவாகவே உள்ளது, யாராவது செனோ அல்லது வேறு சில ஓவினெட் கிளையண்டைப் "
+"பயன்படுத்துவதை கவனித்துக்கொள்ளாமல், அதை விதைக்கவும் (இது மேலும் அம்பலப்படுத்தக்கூடும் அவை "
+"சில [அபாயங்கள்] (../ கருத்துக்கள்/அபாயங்கள். எம்.டி))."
 
 #: browser/troubleshooting.md:block 32 (paragraph)
 msgid ""
@@ -260,6 +364,10 @@ msgid ""
 "content that requires authentication, and some traffic exchanged by certain "
 "dynamic Web applications."
 msgstr ""
+"பகிரங்கத்திற்கு பாதுகாப்பாக கருதப்படாத சில உள்ளடக்கம் ஒருபோதும் செலுத்தப்படாது என்பதை "
+"நினைவில் கொள்க, பொது உலாவலைப் பயன்படுத்தி எத்தனை பேர் அதை மீட்டெடுத்தாலும். ஆரிசின் "
+"சேவையகத்தால் தனிப்பட்டதாக குறிக்கப்பட்ட உள்ளடக்கம், ஏற்பு தேவைப்படும் உள்ளடக்கம் மற்றும் சில "
+"மாறும் வலை பயன்பாடுகளால் பரிமாறிக்கொள்ளப்பட்ட சில போக்குவரத்து ஆகியவை இதில் அடங்கும்."
 
 #: browser/troubleshooting.md:block 33 (paragraph)
 msgid ""
@@ -267,10 +375,13 @@ msgid ""
 "reachable by you. The same observations described in the previous point for "
 "reaching bridge clients do apply here."
 msgstr ""
+"ஊசி போடப்பட்ட உள்ளடக்கத்தின் நகல்களை வைத்திருக்கும் வாடிக்கையாளர்கள் நீங்கள் அடைய வேண்டும் "
+"என்பதையும் நினைவில் கொள்க. பாலம் வாடிக்கையாளர்களை அடைவதற்கான முந்தைய புள்ளியில் "
+"விவரிக்கப்பட்ட அதே அவதானிப்புகள் இங்கே பொருந்தும்."
 
 #: browser/troubleshooting.md:block 34 (header)
 msgid "A note on HTTP-only sites"
-msgstr ""
+msgstr "HTTP- மட்டும் தளங்கள் குறித்த குறிப்பு"
 
 #: browser/troubleshooting.md:block 35 (paragraph)
 msgid ""
@@ -281,6 +392,12 @@ msgid ""
 "example.com/…` in the location bar, or when you follow a link with such a "
 "URL in a page."
 msgstr ""
+"CENO தானாகவே தளங்களை அணுக மிகவும் பாதுகாப்பான HTTPS நெறிமுறைக்கு மாறுகிறது, "
+"இல்லையெனில் வெற்று, பாதுகாப்பற்ற HTTP ஐப் பயன்படுத்தி அணுகப்படும். இது உட்பொதிக்கப்பட்ட "
+"[இயல்புநிலையாக] [இயல்புநிலையாக] [HTTPS] நீட்டிப்பால் செய்யப்படுகிறது, நீங்கள் "
+"`எடுத்துக்காட்டு.காம்` போன்ற வெற்று டொமைன் பெயரை உள்ளிடும்போது அல்லது இருப்பிட பட்டியில்` "
+"http: // example.com/… `போன்ற HTTP முகவரி , அல்லது ஒரு பக்கத்தில் அத்தகைய முகவரி "
+"உடன் இணைப்பைப் பின்பற்றும்போது."
 
 #: browser/troubleshooting.md:block 36 (paragraph)
 msgid ""
@@ -290,6 +407,11 @@ msgid ""
 "trivial to detect with HTTPS, so Ceno can work around it instead of being "
 "tricked into loading the bogus content."
 msgstr ""
+"HTTP களுக்கு தானாக மாறுவது யாராவது ஒரு HTTP இணைப்பை இடைமறிப்பதைத் தடுக்கவும், அதை "
+"சட்டவிரோத சேவையகத்திற்கு இயக்குவதைத் தடுக்கவும் செய்யப்படுகிறது, இதன் விளைவாக போலி "
+"உள்ளடக்கம் (ஒரு தொகுதி செய்தி போன்றவை). இந்த வகையான கடத்தல் HTTP களுடன் கண்டறிய "
+"அற்பமானது, எனவே போலி உள்ளடக்கத்தை ஏற்றுவதற்கு ஏமாற்றப்படுவதற்குப் பதிலாக செனோ அதைச் "
+"சுற்றி வேலை செய்யலாம்."
 
 #: browser/troubleshooting.md:block 37 (paragraph)
 msgid ""
@@ -298,18 +420,26 @@ msgid ""
 "case for a site which just failed to load in Ceno, you can edit its URL in "
 "the location bar, change `https://` to `http://`, and try again."
 msgstr ""
+"மிகவும் அசாதாரணமானது என்றாலும், சில தளங்கள் HTTP களை ஆதரிக்கவில்லை, மேலும் அவர்களுக்கு "
+"எந்த அணுகல் பொறிமுறையும் வேலை செய்யாது. செனோவில் ஏற்றத் தவறிய ஒரு தளத்திற்கான நிலை "
+"இதுதான் என்று நீங்கள் உறுதியாக நம்பினால், அதன் முகவரி ஐ இருப்பிடப் பட்டியில் திருத்தலாம், "
+"`https: //` `http: //` என மாற்றலாம், மீண்டும் முயற்சிக்கவும்."
 
 #: browser/troubleshooting.md:block 38 (paragraph)
 msgid ""
 "If you want to always access a particular site over plain HTTP, you can add "
 "a permanent exception like this:"
 msgstr ""
+"வெற்று HTTP க்கு மேல் ஒரு குறிப்பிட்ட தளத்தை எப்போதும் அணுக விரும்பினால், இது போன்ற நிரந்"
+"தர விதிவிலக்கைச் சேர்க்கலாம்:"
 
 #: browser/troubleshooting.md:block 39 (ordered list)
 msgid ""
 "In the app's main menu, choose *HTTPS by default*. You will see that "
 "extension's settings page."
 msgstr ""
+"பயன்பாட்டின் முதன்மையான பட்டியலில், இயல்புநிலையாக *https ஐத் தேர்வுசெய்க *. அந்த "
+"நீட்டிப்பின் அமைப்புகள் பக்கத்தைக் காண்பீர்கள்."
 
 #: browser/troubleshooting.md:block 39 (ordered list)
 msgid ""
@@ -318,16 +448,22 @@ msgid ""
 "Please note that entering `example.com` will also include all sites under "
 "that domain, like `www.example.com` or `x.y.example.com`."
 msgstr ""
+"கீழே காட்டப்பட்டுள்ளபடி, உரை பெட்டியில் தளத்தின் டொமைன் பெயரை உள்ளிடவும். பல தளங்களை "
+"இடைவெளிகள் அல்லது புதிய வரிகளுடன் பிரிப்பதன் மூலம் அவற்றை எவ்வாறு நுழையலாம் என்பதைப் "
+"பாருங்கள். `Example.com` உள்ளிடுவது அந்த டொமைனின் கீழ்` www.example.com` அல்லது `x.y."
+"example.com` போன்ற அனைத்து தளங்களையும் உள்ளடக்கும் என்பதை நினைவில் கொள்க."
 
 #: browser/troubleshooting.md:block 39 (ordered list)
 msgid "When done, go back or close the tab."
-msgstr ""
+msgstr "முடிந்ததும், திரும்பிச் செல்லுங்கள் அல்லது தாவலை மூடு."
 
 #: browser/troubleshooting.md:block 40 (paragraph)
 msgid ""
 "![Figure: Adding exceptions for HTTP-only sites](images/httpsbd-exceptions."
 "png)"
 msgstr ""
+"! [படம்: HTTP- மட்டும் தளங்களுக்கான விதிவிலக்குகளைச் சேர்ப்பது] (படங்கள்/httpsbd-"
+"expections.png)"
 
 #: browser/troubleshooting.md:block 41 (paragraph)
 msgid ""
@@ -338,10 +474,14 @@ msgid ""
 "for subsequent runs. We encourage you to contact the site administrators and "
 "tell them to enable HTTPS support."
 msgstr ""
+"** குறிப்பு. மீண்டும் முயற்சிக்கவும். இந்த அமைப்பு எல்லா தளங்களையும் பாதிக்கிறது என்பதை "
+"நினைவில் கொள்க, மேலும் இது அடுத்தடுத்த ரன்களுக்கு செனோவால் நினைவில் இல்லை. தள "
+"நிர்வாகிகளைத் தொடர்பு கொள்ளவும், HTTPS ஆதரவை இயக்கச் சொல்லவும் நாங்கள் உங்களை "
+"ஊக்குவிக்கிறோம்."
 
 #: browser/troubleshooting.md:block 42 (header)
 msgid "A page shows bogus content (like a block message)"
-msgstr ""
+msgstr "ஒரு பக்கம் போலி உள்ளடக்கத்தைக் காட்டுகிறது (ஒரு தொகுதி செய்தி போன்றது)"
 
 #: browser/troubleshooting.md:block 43 (paragraph)
 msgid ""
@@ -350,6 +490,10 @@ msgid ""
 "illegitimate server. Ceno then remembered that redirection, and now it "
 "automatically opens the latter site when trying to visit the former."
 msgstr ""
+"கடந்த காலங்களில் தடுக்கப்பட்ட தளத்தைப் பார்வையிட நீங்கள் செனோவின் பழைய பதிப்பைப் "
+"பயன்படுத்தும்போது இது நிகழலாம், மேலும் யாரோ இணைப்பைத் தடுத்து சட்டவிரோத சேவையகத்திற்கு "
+"அனுப்பினர். செனோ அந்த திருப்பிவிடலை நினைவில் வைத்திருந்தார், இப்போது முந்தையதைப் பார்வையி"
+"ட முயற்சிக்கும்போது அது தானாகவே பிந்தைய தளத்தைத் திறக்கும்."
 
 #: browser/troubleshooting.md:block 44 (paragraph)
 msgid ""
@@ -357,16 +501,24 @@ msgid ""
 "choosing *Settings* in the app's main menu, then *Clear private data*, and "
 "disabling all boxes but *Cache* before tapping on *Clear data*."
 msgstr ""
+"இந்த சிக்கலை சரிசெய்வதற்கான ஒரு வழி, பயன்பாட்டின் முதன்மையான பட்டியலில் *அமைப்புகளை "
+"*தேர்ந்தெடுப்பதன் மூலம் செனோவின் இயல்பான உலாவல் தற்காலிக சேமிப்பை அழிப்பது, பின்னர் "
+"*தனியார் தரவை அழிக்கவும், மற்றும் அனைத்து பெட்டிகளையும் முடக்குவது ஆனால் *தெளிவான தரவைத்"
+" தட்டுவதற்கு முன் *கேச் *."
 
 #: browser/troubleshooting.md:block 45 (paragraph)
 msgid ""
 "Please note that Ceno version 1.3.0 and newer avoid that hijacking of newly "
 "visited sites by always using HTTPS, as explained in the previous section."
 msgstr ""
+"முந்தைய பிரிவில் விளக்கப்பட்டுள்ளபடி, எப்போதும் HTTPS ஐப் பயன்படுத்துவதன் மூலம் புதிதாக "
+"பார்வையிடப்பட்ட தளங்களை கடத்திச் செல்வதை செனோ பதிப்பு 1.3.0 மற்றும் புதியது தவிர்க்கவும் "
+"என்பதை நினைவில் கொள்க."
 
 #: browser/troubleshooting.md:block 46 (header)
 msgid "Others cannot retrieve content seeded by my device"
 msgstr ""
+"மற்றவர்கள் எனது சாதனத்தால் விதைக்கப்பட்ட உள்ளடக்கத்தை மீட்டெடுக்க முடியாது"
 
 #: browser/troubleshooting.md:block 47 (paragraph)
 msgid ""
@@ -376,6 +528,12 @@ msgid ""
 "load (at least partially), and tapping the Ceno address bar icon should only "
 "show non-zero values under *Shared by other Ceno users* or *Shared by you*."
 msgstr ""
+"முதலில், [* CENO அமைப்புகள்* பக்கம்] (Settings.md) க்குச் செல்வதன் மூலம் உங்கள் சாதனம் "
+"இன்னும் உள்ளடக்கத்தை விதைக்கிறது என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள், மற்ற செனோ பயனர்களால் "
+"பகிரப்பட்ட* மட்டுமே விட்டுவிட்டு, மூல பெட்டி சரிபார்க்கவும், பின்னர் அந்த உள்ளடக்கத்தை மீண்டும்"
+" அணுகவும்: ஏற்ற வேண்டும் (குறைந்தது ஓரளவு), மற்றும் செனோ முகவரி பார் ஐகானைத் தட்டுவது "
+"மற்ற செனோ பயனர்களால் பகிரப்பட்ட *அல்லது *நீங்கள் பகிரப்பட்ட *கீழ் பூச்சியமற்ற மதிப்புகளைக் காட்"
+"ட வேண்டும்."
 
 #: browser/troubleshooting.md:block 48 (paragraph)
 msgid ""
@@ -388,6 +546,13 @@ msgid ""
 "box again and access the content once more; if it still does not load, it "
 "may be that the particular content is not deemed safe for sharing by Ouinet."
 msgstr ""
+"உள்ளடக்கம் ஏற்றப்படாவிட்டால், உங்கள் உள்ளக தற்காலிக சேமிப்பிலிருந்து பழைய உள்ளடக்கத்தை "
+"(இயல்புநிலையாக ஒரு வாரத்திற்கு மேல்) தானாகவே தூய்மை செய்வதால், செனோ ஏற்கனவே அதை "
+"அகற்றிவிட்டது. அமைப்புகள் பக்கத்தில் CENO பிணையம் (பொது) * மூலத்தை இயக்கவும், உள்ளடக்கத்தை "
+"மீண்டும் அணுகவும். விநியோகிக்கப்பட்ட கேச் குறியீட்டில் உள்ளடக்கத்தை அறிவிக்க சாதனத்திற்கு "
+"இரண்டு நிமிடங்கள் அனுப்ப அனுமதிக்கவும். மற்ற செனோ பயனர்களால் பகிரப்பட்ட * * மீண்டும் "
+"சரிபார்க்கப்பட்ட ஒரே பெட்டி மீண்டும் உள்ளடக்கத்தை அணுகவும்; அது இன்னும் ஏற்றப்படாவிட்டால், "
+"குறிப்பிட்ட உள்ளடக்கம் ஓவினெட் பகிர்வதற்கு பாதுகாப்பாக கருதப்படவில்லை."
 
 #: browser/troubleshooting.md:block 49 (paragraph)
 msgid ""
@@ -398,6 +563,12 @@ msgid ""
 "network does not allow direct communication between devices connected to it. "
 "This happens in some public Wi-Fi networks, so try using a private one."
 msgstr ""
+"முந்தைய படி செயல்பட்டால், ஆனால் மற்ற செனோ பயனர்களால் பகிரப்பட்ட * மற்றொரு சாதனம் * மூலத்தை"
+" இயக்கியது இன்னும் \"வளத்தை மீட்டெடுப்பதில் தோல்வியுற்றது ...\" என்பதைக் காட்டுகிறது, "
+"இரண்டு சாத்தியமான காட்சிகள் உள்ளன. இரண்டு சாதனங்களும் ஒரே நெட்வொர்க்கில் இருந்தால் (எ.கா. "
+"ஒரே வைஃபை அணுகல் புள்ளியில்), அதனுடன் இணைக்கப்பட்ட சாதனங்களுக்கு இடையில் நேரடி "
+"தகவல்தொடர்புகளை பிணையம் அனுமதிக்காது. இது சில பொது வைஃபை நெட்வொர்க்குகளில் நிகழ்கிறது"
+", எனவே தனிப்பட்ட ஒன்றைப் பயன்படுத்த முயற்சிக்கவும்."
 
 #: browser/troubleshooting.md:block 50 (paragraph)
 msgid ""
@@ -407,6 +578,11 @@ msgid ""
 "*Reachability status* it should say *reachable* or *likely reachable*. "
 "Otherwise seeding may not be possible from that network as it is."
 msgstr ""
+"சாதனங்கள் வெவ்வேறு நெட்வொர்க்குகளில் இருந்தால், அது பல்வேறு காரணங்களால் இருக்கலாம். அவற்றில் "
+"ஒன்று, முதல் சாதனத்தின் பிணையம் உள்வரும் இணைப்புகளை அனுமதிக்காது: நீங்கள் அதன் *செனோ "
+"அமைப்புகள் *பக்கத்தைத் திறந்தால், *அணுகல் நிலையின் கீழ் *அது *அடையக்கூடிய *அல்லது "
+"*அடையக்கூடியது *என்று சொல்ல வேண்டும். இல்லையெனில் அந்த நெட்வொர்க்கிலிருந்து விதைப்பு "
+"சாத்தியமில்லை."
 
 #: browser/troubleshooting.md:block 51 (quote)
 msgid ""
@@ -414,8 +590,8 @@ msgid ""
 "can change the configuration of the access point, you may create a permanent "
 "port forwarding rule towards your client. See [here](bridging.md) for "
 "further instructions."
-msgstr ""
+msgstr ". மேலதிக வழிமுறைகளுக்கு [இங்கே] (பிரிட்சிங்.ம்டி) காண்க."
 
 #: browser/troubleshooting.md:block 51 (quote)
 msgid "[HTTPS by default]: https://github.com/Rob--W/https-by-default"
-msgstr ""
+msgstr "[HTTPS by default]: https://github.com/Rob--W/https-by-default"
