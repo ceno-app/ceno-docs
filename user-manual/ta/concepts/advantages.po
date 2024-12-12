@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"manual/advantages/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: concepts/advantages.md:block 1 (header)
 msgid "Advantages of using Ceno/Ouinet"
-msgstr ""
+msgstr "Ceno/Ouinet ஐப் பயன்படுத்துவதன் நன்மைகள்"
 
 #: concepts/advantages.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +22,10 @@ msgid ""
 "traffic for one another, sign content for later verification, and store "
 "signed content for seeding to others. Some advantages worth mentioning are:"
 msgstr ""
+"மற்ற சுற்றறிக்கை தொழில்நுட்பங்களை விட செனோ மற்றும் ஓவினெட் பயன்படுத்துவதன் முக்கிய நன்மைகள் "
+"வாடிக்கையாளர்கள் மற்றும் உட்செலுத்துபவர்களின் ஒத்துழைப்பிலிருந்து ஒருவருக்கொருவர் "
+"போக்குவரத்தை அனுப்பவும், பின்னர் சரிபார்ப்புக்கான உள்ளடக்கத்தில் கையொப்பமிடவும், மற்றவர்களுக்கு"
+" விதைப்பதற்கான கையொப்பமிடப்பட்ட உள்ளடக்கத்தை சேமிக்கவும். குறிப்பிட வேண்டிய சில நன்மைகள்:"
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid ""
@@ -24,6 +34,10 @@ msgid ""
 "blocking. There is no need for new custom links to popular content, or "
 "special actions from the user (like transferring files between applications)."
 msgstr ""
+"** பழக்கமான பயன்பாடு: ** செனோ உலாவியைப் பயன்படுத்தி வலை உள்ளடக்கத்தை அணுகுவது, "
+"முழுமையான தடுப்பின் போது கூட, உங்கள் பழக்கவழக்க உலாவியில் வலையில் உலாவுவதைப் போல "
+"உணர்கிறது. பிரபலமான உள்ளடக்கத்திற்கான புதிய தனிப்பயன் இணைப்புகள் அல்லது பயனரிடமிருந்து "
+"சிறப்புச் செயல்கள் (பயன்பாடுகளுக்கு இடையில் கோப்புகளை மாற்றுவது போன்றவை) தேவையில்லை."
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid ""
@@ -32,6 +46,10 @@ msgid ""
 "interference. The more popular some particular content gets, the more copies "
 "of it get seeded by Ceno/Ouinet clients, and the more available it becomes."
 msgstr ""
+"** உள்ளடக்கத்தின் அதிகரித்த கிடைக்கும் தன்மை: ** தீவிர பிணையம் குறுக்கீட்டின் சூழ்நிலைகளில் "
+"உள்ளடக்கத்தை திறமையான மற்றும் நம்பகமான முறையில் வழங்க ஓவினெட் முடியும். சில குறிப்பிட்ட "
+"உள்ளடக்கம் மிகவும் பிரபலமாகப் பெறுகிறது, அதன் அதிக நகல்கள் செனோ/ஓவினெட் "
+"வாடிக்கையாளர்களால் விதைக்கப்படுகின்றன, மேலும் இது கிடைக்கிறது."
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid ""
@@ -39,6 +57,9 @@ msgid ""
 "over offline means (e.g. a USB drive) and thus made available to other "
 "clients."
 msgstr ""
+"கையொப்பமிடப்பட்ட உள்ளடக்கம் குறிப்பிட்ட வாடிக்கையாளர்களுக்கு இணைப்பில்லாத வழிமுறைகளில் (எ."
+"கா. ஒரு யூ.எச்.பி டிரைவ்) துண்டிக்கப்பட்ட பகுதியில் கொண்டு வரப்படலாம், இதனால் மற்ற "
+"வாடிக்கையாளர்களுக்கு கிடைக்கக்கூடும்."
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid ""
@@ -51,6 +72,15 @@ msgid ""
 "resource usage spikes at origin servers when some of their content becomes "
 "very popular (the so-called [Slashdot effect][Slashdot effect])."
 msgstr ""
+"** விரைவான உலாவல்: ** உங்கள் வாடிக்கையாளர் ஒரே நேரத்தில் பல்வேறு "
+"வாடிக்கையாளர்களிடமிருந்து ஒரே உள்ளடக்கத்தின் வெவ்வேறு பகுதிகளை மீட்டெடுக்க முடியும் "
+"என்பதால், உள்ளடக்கத்தை வழங்குவதற்கான சுமை வெவ்வேறு நெட்வொர்க்குகள் மற்றும் சாதனங்களுக்கிடையில்"
+" விநியோகிக்கப்படுகிறது, இதனால் ஒரு கிளையண்டிற்கு பாதைகளை அடைப்பதைத் தவிர்க்கிறது "
+"குறிப்பாக வீடியோ போன்ற பெரிய வளத்தை வழங்கும்போது). மற்ற நாடுகளுடன் இணைக்கும் உள்கட்டமைப்பு"
+" குறைவாக இருக்கும்போது இது பயனுள்ளதாக இருக்கும், ஆனால் வெளியீட்டாளர்களுக்கு அவற்றின் சில "
+"உள்ளடக்கம் மிகவும் பிரபலமாகும்போது (ச்லாச்டாட் விளைவு] [ச்லாச்டாட் விளைவு] என்று "
+"அழைக்கப்படும்) ஆரிசின் சேவையகங்களில் வள பயன்பாட்டு கூர்முனைகளைத் தவிர்க்கவும் இது பயனுள்ளதா"
+"க இருக்கும்."
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid ""
@@ -62,10 +92,17 @@ msgid ""
 "of a [national intranet][National intranet]), this can actually save you "
 "money."
 msgstr ""
+"** மலிவான உலாவல்: ** ஒரு குறிப்பிட்ட பிராந்தியத்தில் பிரபலமான உள்ளடக்கம் அந்த "
+"பிராந்தியத்தில் உள்ள செனோ/ஓவினெட் வாடிக்கையாளர்களில் நகலெடுக்க முனைகிறது, தோற்றம் "
+"சேவையகம் வெளிநாட்டில் இருந்தாலும் கூட. அந்த உள்ளடக்கத்தில் நீங்கள் ஆர்வமாக இருந்தால், உங்கள் "
+"வாடிக்கையாளர் உங்கள் பிராந்தியத்தில் உள்ள வேறு சில வாடிக்கையாளர்களிடமிருந்து அதைப் "
+"பெறுவார். உள்ளக ஒன்றை விட பன்னாட்டு போக்குவரத்து அதிக விலை கொண்ட சில நாடுகளில் (எ.கா. "
+"ஒரு [தேசிய இன்ட்ராநெட்] [தேசிய இன்ட்ராநெட்] முன்னிலையில்), இது உண்மையில் உங்கள் பணத்தை "
+"மிச்சப்படுத்தும்."
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid "[Slashdot effect]: https://en.wikipedia.org/wiki/Slashdot_effect"
-msgstr ""
+msgstr "[Slashdot effect]: https://en.wikipedia.org/wiki/Slashdot_effect"
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid "[National intranet]: https://en.wikipedia.org/wiki/National_intranet"
