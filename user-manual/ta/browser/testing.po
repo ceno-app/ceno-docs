@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-testing/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: browser/testing.md:block 1 (header)
 msgid "Testing the Browser"
-msgstr ""
+msgstr "உலாவியை சோதித்தல்"
 
 #: browser/testing.md:block 2 (paragraph)
 msgid ""
@@ -17,12 +23,19 @@ msgid ""
 "different access mechanisms. Keep in mind however that in day-to-day usage "
 "of Ceno, you will seldom need to change the default settings at all."
 msgstr ""
+"இப்போது உங்களுக்குத் தெரியும் [நிறுவல்] (நிறுவல். வெவ்வேறு அணுகல் வழிமுறைகளைத் "
+"தேர்ந்தெடுப்பது மற்றும் முடக்குவது ஆகியவை இதில் அடங்கும். இருப்பினும், செனோவின் அன்றாட "
+"பயன்பாட்டில், இயல்புநிலை அமைப்புகளை நீங்கள் எப்போதாவது மாற்ற வேண்டும் என்பதை நினைவில் "
+"கொள்ளுங்கள்."
 
 #: browser/testing.md:block 3 (paragraph)
 msgid ""
 "To complete all the tests below you will need at least two devices connected "
 "to the same Wi-Fi network, and a third one on a completely different network."
 msgstr ""
+"கீழே உள்ள அனைத்து சோதனைகளையும் முடிக்க உங்களுக்கு ஒரே வைஃபை நெட்வொர்க்குடன் இணைக்கப்பட்ட "
+"குறைந்தது இரண்டு சாதனங்கள் தேவைப்படும், மேலும் மூன்றாவது முற்றிலும் மாறுபட்ட நெட்வொர்க்கில் "
+"தேவைப்படும்."
 
 #: browser/testing.md:block 4 (paragraph)
 msgid ""
@@ -32,10 +45,15 @@ msgid ""
 "browser gets stuck for more than a couple of minutes while loading a page, "
 "you may hit stop and reload it (although this may alter results slightly)."
 msgstr ""
+"அனைத்து சோதனைகளும் [பொது உலாவல்] (பொது-private.md) ஐப் பயன்படுத்தி செய்யப்படும். "
+"ஏதேனும் எதிர்பார்த்தபடி வேலை செய்யவில்லை என்றால், தயவுசெய்து பொறுமையாக இருங்கள் "
+"[சரிசெய்தல்] (சரிசெய்தல்] (சரிசெய்தல்.எம்டி) பற்றிய பகுதியை சரிபார்க்கவும். குறிப்பாக, "
+"ஒரு பக்கத்தை ஏற்றும்போது உலாவி இரண்டு நிமிடங்களுக்கு மேல் சிக்கிக்கொண்டால், நீங்கள் நிறுத்தி "
+"அதை மீண்டும் ஏற்றலாம் (இது முடிவுகளை சற்று மாற்றக்கூடும் என்றாலும்)."
 
 #: browser/testing.md:block 5 (header)
 msgid "Accessing an injector"
-msgstr ""
+msgstr "ஒரு இன்செக்டரை அணுகும்"
 
 #: browser/testing.md:block 6 (paragraph)
 msgid ""
@@ -46,14 +64,20 @@ msgid ""
 "provider or country, looking up the bridge swarm and trying to contact the "
 "injector via some other Ouinet client."
 msgstr ""
+"உங்கள் செனோ உலாவி ஒரு இன்செக்டரை அடைய முடியுமா என்பதை முதலில் சரிபார்க்கிறோம். இது "
+"அற்பமானதாகத் தோன்றலாம், ஆனால் உங்கள் வாடிக்கையாளர் ஏற்கனவே செயல்பாட்டில் பல ஓவினெட் "
+"அம்சங்களைப் பயன்படுத்துவார்: இன்செக்டர் திரளில் இன்செக்டர் முகவரியைப் பார்ப்பது, அதை நேரடியா"
+"க தொடர்பு கொள்ள முயற்சிக்கிறது, மேலும் இது உங்கள் அணுகல் வழங்குநர் அல்லது நாட்டால் "
+"தடுக்கப்பட்டால், அதைப் பார்க்கிறது பிரிட்ச் ச்வர்ம் மற்றும் வேறு சில ஓயினெட் கிளையன்ட் வழியாக "
+"இன்செக்டரை தொடர்பு கொள்ள முயற்சிக்கிறது."
 
 #: browser/testing.md:block 7 (paragraph)
 msgid "In the first device perform the following steps:"
-msgstr ""
+msgstr "முதல் சாதனத்தில் பின்வரும் படிகளைச் செய்யுங்கள்:"
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "First of all, install Ceno and start it. Its home page will appear."
-msgstr ""
+msgstr "முதலில், செனோவை நிறுவி தொடங்கவும். அதன் முகப்பு பக்கம் தோன்றும்."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
@@ -61,6 +85,9 @@ msgid ""
 "page. Since we only want to test injector access, uncheck all the boxes for "
 "content sources except *Via the Ceno network (public)*."
 msgstr ""
+"பயன்பாட்டின் முதன்மையான மெனுவைத் திறந்து * செனோ அமைப்புகள் * பக்கத்தைத் திறக்க * அமைப்புகள்"
+" * தேர்வு செய்யவும். நாங்கள் இன்செக்டர் அணுகலை மட்டுமே சோதிக்க விரும்புவதால், செனோ பிணையம்"
+" (பொது) *வழியாக *தவிர உள்ளடக்க ஆதாரங்களுக்கான அனைத்து பெட்டிகளையும் தேர்வு செய்யவும்."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
@@ -69,10 +96,14 @@ msgid ""
 "window. If you know about a site which is usually blocked for you, go ahead "
 "and enter it!"
 msgstr ""
+"செனோவின் முகப்பு பக்கத்திற்குச் செல்லுங்கள். பரிந்துரைக்கப்பட்ட வலைத்தளங்களில் ஒன்றைத் "
+"தேர்ந்தெடுக்கவும் அல்லது சாளரத்தின் மேற்புறத்தில் உள்ள முகவரி பட்டியில் வேறு சில தளங்களின் "
+"முகவரி ஐ உள்ளிடவும். வழக்கமாக உங்களுக்காக தடுக்கப்பட்ட ஒரு தளத்தைப் பற்றி உங்களுக்குத் "
+"தெரிந்தால், மேலே சென்று நுழையுங்கள்!"
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "The chosen site should eventually show up."
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட தளம் இறுதியில் காண்பிக்கப்பட வேண்டும்."
 
 #: browser/testing.md:block 9 (paragraph)
 msgid ""
@@ -80,6 +111,8 @@ msgid ""
 "address bar to enter the site's URL with `https://` at the beginning "
 "(instead of `http://`) and repeat the test."
 msgstr ""
+"** குறிப்பு: ** நீங்கள் முறையான ஒன்றிற்கு பதிலாக ஒரு போலி பக்கத்தைப் பெற்றால், முகவரி "
+"பட்டியைப் பயன்படுத்தி தளத்தின் முகவரி ஐ `https: //` உடன் உள்ளிட சோதனை."
 
 #: browser/testing.md:block 10 (paragraph)
 msgid ""
@@ -87,6 +120,9 @@ msgid ""
 "injector! Since you are able to query swarms and contact other clients, you "
 "are also likely to be able to retrieve content from the distributed cache."
 msgstr ""
+"தளம் ஏற்றினால், உங்கள் சாதனம் இன்செக்டரை அடைய முடியும் என்பதில் நீங்கள் மகிழ்ச்சியடையலாம்! "
+"நீங்கள் திரள்களை வினவவும், பிற வாடிக்கையாளர்களை தொடர்பு கொள்ளவும் முடியும் என்பதால், "
+"விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பிலிருந்து உள்ளடக்கத்தை மீட்டெடுக்கவும் முடியும்."
 
 #: browser/testing.md:block 11 (paragraph)
 msgid ""
@@ -95,11 +131,16 @@ msgid ""
 "retrieved form the different sources. Only *Via Ceno network (public)* "
 "should have a non-zero value since the other sources were disabled."
 msgstr ""
+"மூலம், நீங்கள் செனோ ஐகானை முகவரி பட்டியில் தள்ளினால், அது கீழே உள்ளதைப் போன்ற ஒரு "
+"பாப்அப்பைத் திறக்கும், தளத்திலிருந்து எத்தனை கூறுகள் மீட்டெடுக்கப்பட்டன என்பதைக் காட்டுகிறது. "
+"மற்ற ஆதாரங்கள் முடக்கப்பட்டதால், செனோ பிணையம் (பொது) வழியாக மட்டுமே பூச்சியமற்ற மதிப்பைக் "
+"கொண்டிருக்க வேண்டும்."
 
 #: browser/testing.md:block 12 (paragraph)
 msgid ""
 "![Figure: Sources used when testing injection](images/sources-inject.png)"
 msgstr ""
+"! [படம்: ஊசியை சோதிக்கும் போது பயன்படுத்தப்படும் ஆதாரங்கள்] (படங்கள்/ஆதாரங்கள்-inject.png)"
 
 #: browser/testing.md:block 13 (paragraph)
 msgid ""
@@ -107,14 +148,18 @@ msgid ""
 "may have seen a popup like the one below, with non-zero counts in *Direct "
 "from website* or *Via Ceno network (private)*."
 msgstr ""
+"இதற்கு நேர்மாறாக, இயல்புநிலை அமைப்புகளுடன் நீங்கள் தனிப்பட்ட உலாவலைப் பயன்படுத்தியிருந்தால்"
+", கீழே உள்ளதைப் போன்ற ஒரு பாப்அப்பை நீங்கள் பார்த்திருக்கலாம், பூச்சியமற்ற எண்ணிக்கைகள் "
+"*வலைத்தளத்திலிருந்து நேரடியாக *அல்லது *வழியாக செனோ பிணையம் (தனியார்) *."
 
 #: browser/testing.md:block 14 (paragraph)
 msgid "![Figure: Sources used with private browsing](images/sources-proxy.png)"
 msgstr ""
+"! [படம்: தனியார் உலாவலுடன் பயன்படுத்தப்படும் ஆதாரங்கள்] (படங்கள்/ஆதாரங்கள்-proxy.png)"
 
 #: browser/testing.md:block 15 (header)
 msgid "Getting content from close users"
-msgstr ""
+msgstr "நெருங்கிய பயனர்களிடமிருந்து உள்ளடக்கத்தைப் பெறுதல்"
 
 #: browser/testing.md:block 16 (paragraph)
 msgid ""
@@ -123,6 +168,10 @@ msgid ""
 "cache. The simplest way is to use Ceno's device-to-device support to check "
 "whether getting and verifying signed content works."
 msgstr ""
+"உங்கள் முதல் சாதனம் ஒரு இன்செக்டரிடமிருந்து சில உள்ளடக்கங்களைப் பெற முடிந்ததால், "
+"விநியோகிக்கப்பட்ட கேச் மீது மற்றொரு சாதனத்துடன் அதைப் பகிர முடியுமா என்று சோதிப்போம். "
+"கையொப்பமிடப்பட்ட உள்ளடக்கத்தைப் பெறுவதற்கும் சரிபார்க்கவும் செயல்படுகிறதா என்பதைச் சரிபார்க்க "
+"CENO இன் சாதனத்திலிருந்து சாதன ஆதரவைப் பயன்படுத்துவதே எளிமையான வழி."
 
 #: browser/testing.md:block 17 (paragraph)
 msgid ""
@@ -132,10 +181,14 @@ msgid ""
 "connect it to the same Wi-Fi network. Next, follow the steps below on the "
 "second device:"
 msgstr ""
+"முதல் சாதனத்தில் மேலே உள்ள சோதனையை வெற்றிகரமாக முடித்த பிறகு, செனோவை இயக்கவும் (செனோ "
+"படவுரு அதன் அறிவிப்புப் பட்டியில் தோன்ற வேண்டும்). பின்னர் இரண்டாவது சாதனத்தைப் பிடித்துக் "
+"கொள்ளுங்கள் (சோதனைக்கு உதவ நீங்கள் ஒரு நண்பரை அழைக்கலாம்) அதே வைஃபை நெட்வொர்க்குடன் "
+"இணைக்கவும். அடுத்து, இரண்டாவது சாதனத்தில் கீழே உள்ள படிகளைப் பின்பற்றவும்:"
 
 #: browser/testing.md:block 18 (ordered list)
 msgid "Install Ceno if needed and start it as above."
-msgstr ""
+msgstr "தேவைப்பட்டால் செனோவை நிறுவி மேலே தொடங்கவும்."
 
 #: browser/testing.md:block 18 (ordered list)
 msgid ""
@@ -143,6 +196,9 @@ msgid ""
 "distributed cache access, uncheck all the boxes for content sources except "
 "*Shared by other Ceno users*."
 msgstr ""
+"மேலே உள்ள * செனோ அமைப்புகள் * பக்கத்தைத் திறக்கவும். விநியோகிக்கப்பட்ட கேச் அணுகலை மட்டுமே"
+" நாங்கள் சோதிக்க விரும்புவதால், மற்ற செனோ பயனர்களால் பகிரப்பட்ட *தவிர உள்ளடக்க "
+"ஆதாரங்களுக்கான அனைத்து பெட்டிகளையும் தேர்வுநீக்கவும் *."
 
 #: browser/testing.md:block 18 (ordered list)
 msgid ""
@@ -150,6 +206,9 @@ msgid ""
 "you did above (i.e. by selecting one of the recommended web sites or "
 "entering its URL in the address bar)."
 msgstr ""
+"செனோவின் முகப்பு பக்கத்திற்குச் சென்று, நீங்கள் மேலே செய்ததைப் போலவே அதே தளத்தைப் "
+"பார்வையிடவும் (அதாவது பரிந்துரைக்கப்பட்ட வலைத்தளங்களில் ஒன்றைத் தேர்ந்தெடுப்பதன் மூலம் அல்லது "
+"அதன் முகவரி ஐ முகவரி பட்டியில் உள்ளிடுவதன் மூலம்)."
 
 #: browser/testing.md:block 19 (paragraph)
 msgid ""
@@ -157,6 +216,9 @@ msgid ""
 "between its devices. This \"client isolation\" may happen in public networks "
 "like those of parks, bars or hotels. Please try again on a different network."
 msgstr ""
+"இது வேலை செய்யவில்லை என்றால், உங்கள் வைஃபை பிணையம் அதன் சாதனங்களுக்கு இடையில் நேரடி "
+"தகவல்தொடர்புகளைத் தடுக்கும். இந்த \"கிளையன்ட் தனிமைப்படுத்தல்\" பூங்காக்கள், பார்கள் அல்லது "
+"ஓட்டல்கள் போன்ற பொது வலைப்பின்னல்களில் நிகழலாம். வேறு நெட்வொர்க்கில் மீண்டும் முயற்சிக்கவும்."
 
 #: browser/testing.md:block 20 (paragraph)
 msgid ""
@@ -164,12 +226,18 @@ msgid ""
 "other clients. Pushing the Ceno address bar icon should show a popup like "
 "the one below, where only *Shared by other Ceno users* has a non-zero value."
 msgstr ""
+"இது வேலை செய்தால், இரு சாதனங்களும் அந்த உள்ளடக்கத்தை மற்ற வாடிக்கையாளர்களுக்கு வழங்க "
+"முடியும் என்று பொருள். செனோ முகவரி பார் ஐகானைத் தள்ளுவது கீழே உள்ளதைப் போன்ற ஒரு "
+"பாப்அப்பைக் காட்ட வேண்டும், அங்கு மற்ற செனோ பயனர்களால் பகிரப்பட்ட * மட்டுமே பூச்சியமற்ற "
+"மதிப்பைக் கொண்டுள்ளது."
 
 #: browser/testing.md:block 21 (paragraph)
 msgid ""
 "![Figure: Sources used when testing distributed cache retrieval](images/"
 "sources-dcache.png)"
 msgstr ""
+"! [படம்: விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பை சோதிக்கும்போது பயன்படுத்தப்படும் ஆதாரங்கள்] "
+"(படங்கள்/ஆதாரங்கள்-dcache.png)"
 
 #: browser/testing.md:block 22 (paragraph)
 msgid ""
@@ -178,16 +246,22 @@ msgid ""
 "indeed part of the distributed cache, but they happen to already be stored "
 "in your device, so Ceno does not need to retrieve them over the network."
 msgstr ""
+"இறுதியாக, நீங்கள் பகிரப்பட்ட *ஒரு கவுண்டர் இருப்பதை நீங்கள் கவனித்திருக்கலாம். இது வேறுபட்ட "
+"மூலமல்ல *per *: இங்கே கணக்கிடப்பட்ட உறுப்புகள் உண்மையில் விநியோகிக்கப்பட்ட தற்காலிக "
+"சேமிப்பின் ஒரு பகுதியாகும், ஆனால் அவை ஏற்கனவே உங்கள் சாதனத்தில் சேமிக்கப்படுகின்றன, எனவே "
+"செனோ அவற்றை நெட்வொர்க்கில் மீட்டெடுக்க தேவையில்லை."
 
 #: browser/testing.md:block 23 (header)
 msgid "Getting content from remote users"
-msgstr ""
+msgstr "தொலை பயனர்களிடமிருந்து உள்ளடக்கத்தைப் பெறுதல்"
 
 #: browser/testing.md:block 24 (paragraph)
 msgid ""
 "We have done a small-scale test of the distributed cache. Let us now test "
 "how it works over the Internet."
 msgstr ""
+"விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பின் சிறிய அளவிலான சோதனை செய்துள்ளோம். இது இணையத்தில் "
+"எவ்வாறு செயல்படுகிறது என்பதை இப்போது சோதிப்போம்."
 
 #: browser/testing.md:block 25 (paragraph)
 msgid ""
@@ -195,6 +269,9 @@ msgid ""
 "first device as with the previous test, and stop Ceno on the second device "
 "(by showing its notifications and pushing \"Tap to stop\")."
 msgstr ""
+"மேலே உள்ள சோதனையை வெற்றிகரமாக முடித்த பிறகு, முந்தைய சோதனையைப் போலவே முதல் சாதனத்தில்"
+" செனோவை இயக்கவும், இரண்டாவது சாதனத்தில் செனோவை நிறுத்துங்கள் (அதன் அறிவிப்புகளைக் "
+"காண்பிப்பதன் மூலமும், \"நிறுத்தத் தட்டவும்\")."
 
 #: browser/testing.md:block 26 (paragraph)
 msgid ""
@@ -202,6 +279,9 @@ msgid ""
 "different Wi-Fi network (maybe another friend can help from home). The steps "
 "to follow for that device are exactly the same as those in the previous test."
 msgstr ""
+"இந்த நேரத்தில் உங்களுக்கு மூன்றாவது சாதனம் தேவைப்படும், ஆனால் அது வேறு வைஃபை "
+"நெட்வொர்க்குடன் இணைக்கப்பட வேண்டும் (ஒருவேளை மற்றொரு நண்பர் வீட்டிலிருந்து உதவலாம்). அந்த "
+"சாதனத்திற்கு பின்பற்ற வேண்டிய படிகள் முந்தைய சோதனையில் உள்ளதைப் போலவே இருக்கும்."
 
 #: browser/testing.md:block 27 (paragraph)
 msgid ""
@@ -209,7 +289,10 @@ msgid ""
 "The first device is able to seed content to others, and it can most probably "
 "also act as a bridge."
 msgstr ""
+"மூன்றாவது சாதனம் சோதனைக்கு பயன்படுத்தப்படும் தளத்தை ஏற்ற முடிந்தால், நீங்கள் அனைவரும் "
+"அமைக்கப்பட்டிருக்கிறீர்கள். முதல் சாதனம் மற்றவர்களுக்கு உள்ளடக்கத்தை விதைக்க முடியும், மேலும் "
+"இது ஒரு பாலமாகவும் செயல்படக்கூடும்."
 
 #: browser/testing.md:block 28 (paragraph)
 msgid "Congratulations!"
-msgstr ""
+msgstr "வாழ்த்துக்கள்!"
