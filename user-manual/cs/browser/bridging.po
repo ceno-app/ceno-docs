@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: Maxine Clementine Caulfield <maxine.rattus@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
+"browser-bridging/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: browser/bridging.md:block 1 (header)
 msgid "Helping other Ceno users browse the Web"
-msgstr ""
+msgstr "Pomáhá ostatním uživatelům Ceno procházet web"
 
 #: browser/bridging.md:block 2 (paragraph)
 msgid ""
