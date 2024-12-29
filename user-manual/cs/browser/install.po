@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-20 11:17+0000\n"
-"Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
+"PO-Revision-Date: 2024-12-30 23:00+0000\n"
+"Last-Translator: Tomáš Kadlec <t.kadlec.g@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-install/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: browser/install.md:block 1 (header)
 msgid "Installing Ceno"
@@ -117,6 +117,10 @@ msgid ""
 "action will just open Ceno with a new public browsing tab showing its home "
 "page. The *Erase* action demands more explanation."
 msgstr ""
+"Oznámení služby Ceno Browser uvedené výše obsahuje několik doprovodných "
+"akcí, které lze spustit klepnutím na ně. Akce \"Domů\" otevře prohlížeč Ceno "
+"s novou veřejnou záložkou zobrazující úvodní stránku. Akce Vymazat vyžaduje "
+"podrobnější vysvětlení."
 
 #: browser/install.md:block 12 (quote)
 msgid ""
@@ -125,6 +129,9 @@ msgid ""
 "only see the *Home* action, your device may be too old to support the "
 "*Erase* action."
 msgstr ""
+"**Poznámka:** Pokud akce pod oznámením nejsou viditelné, přetáhněte oznámení "
+"z jeho středu směrem dolů, aby se rozbalilo. Pokud vidíte pouze akci Domů, "
+"vaše zařízení může být příliš staré na podporu akce *Vymazat*."
 
 #: browser/install.md:block 13 (paragraph)
 msgid ""
@@ -134,6 +141,11 @@ msgid ""
 "your data accidentally, this will not remove anything yet, but just show an "
 "additional action for a brief moment, as pictured below:"
 msgstr ""
+"Pokud budete někdy potřebovat rychle zastavit Ceno a vymazat veškerá data s "
+"ním spojená (nejen uložený obsah, ale také nastavení jako oblíbené položky, "
+"hesla a celou historii procházení), můžete klepnout na* Vymazat*. Aby "
+"nedošlo k náhodné ztrátě vašich dat, tato akce nic neodstraní okamžitě, ale "
+"pouze na krátký okamžik zobrazí další možnost, jak je znázorněno níže:"
 
 #: browser/install.md:block 14 (paragraph)
 msgid ""
@@ -147,10 +159,13 @@ msgid ""
 "removed *without further questions*, effectively leaving your device as if "
 "Ceno had never been used."
 msgstr ""
+"Pokud klepnete na políčko *Ano*, Ceno se zastaví a všechna jeho data budou "
+"odstraněna *bez dalších dotazů*, čímž vaše zařízení zůstane ve stavu, jako "
+"by Ceno nikdy nebylo použito."
 
 #: browser/install.md:block 16 (paragraph)
 msgid "If you do not tap on the action, it will go away in a few seconds."
-msgstr ""
+msgstr "Pokud tuto akci nezvolíte, během několika sekund zmizí."
 
 #: browser/install.md:block 17 (quote)
 msgid ""
@@ -159,21 +174,28 @@ msgid ""
 "Android's general *Settings* page and, under the *Apps* entry, choose Ceno "
 "and then *Clear data*."
 msgstr ""
+"**Poznámka**: Výše popsaná metoda vyžaduje, aby Ceno běželo na vašem "
+"zařízení. Pro dosažení stejného výsledku, když je Ceno vypnuté, můžete "
+"použít obecnou stránku *Nastavení* v systému Android. V sekci *Aplikace* "
+"vyberte Ceno a poté zvolte *Vymazat data*."
 
 #: browser/install.md:block 17 (quote)
 msgid "As a harsher alternative, you may completely uninstall the app."
-msgstr ""
+msgstr "Jako ráznější alternativu můžete aplikaci zcela odinstalovat."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "**Warning:** Android may still keep other traces of having used an app "
 "besides its data, for instance in its system log."
 msgstr ""
+"**Upozornění**: Android může i přes odstranění dat stále uchovávat jiné "
+"stopy o používání aplikace, například v systémovém logu."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 msgstr ""
+"[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
