@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"PO-Revision-Date: 2025-01-11 18:22+0000\n"
 "Last-Translator: Maxine Clementine Caulfield <maxine.rattus@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-settings/cs/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9-rc\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: browser/settings.md:block 1 (header)
 msgid "Ceno settings"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: browser/settings.md:block 6 (header)
 msgid "Choosing access mechanisms"
-msgstr ""
+msgstr "Výběr přístupových mechanismů"
 
 #: browser/settings.md:block 7 (paragraph)
 msgid ""
