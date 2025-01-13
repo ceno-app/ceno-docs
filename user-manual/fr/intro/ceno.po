@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-05 22:49+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2025-01-13 16:31+0000\n"
+"Last-Translator: FLVAL <info@1terre.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/censorship-no/"
 "ceno/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #
 #: intro/ceno.md:block 1 (header)
@@ -143,14 +143,6 @@ msgstr ""
 "Web à d’autres utilisateurs."
 
 #: intro/ceno.md:block 11 (quote)
-#, fuzzy
-#| msgid ""
-#| "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may "
-#| "allow others to know whether you have accessed or are sharing certain Web "
-#| "content. Please take careful consideration of which risks you can assume "
-#| "by using this tool. See the sections on [public vs. private browsing](../"
-#| "concepts/public-private.md) and [risks](../concepts/risks.md) for further "
-#| "information."
 msgid ""
 "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may allow "
 "others to know whether you have accessed or are sharing certain Web content. "
@@ -163,9 +155,9 @@ msgstr ""
 "utiliser Ceno peut permettre à d’autres personnes de savoir si vous avez "
 "accédé à certains contenus Web ou si vous les partagez. Évaluez "
 "soigneusement les risques que vous pouvez accepter en utilisant cet outil. "
-"Consultez les sections sur [la navigation publique comparée à la navigation "
-"privée](../concepts/public-privé.md) et les [risques](../concepts/risques."
-"md) pour plus de précisions."
+"Consultez les sections sur "
+"[la navigation publique comparée à la navigation privée](../concepts/public-"
+"prive.md) et les [risques](../concepts/risques.md) pour plus de précisions."
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[Censorship.no!]: https://censorship.no/"
