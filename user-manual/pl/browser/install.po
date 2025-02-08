@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2025-02-08 15:02+0000\n"
+"PO-Revision-Date: 2025-02-09 16:02+0000\n"
 "Last-Translator: Hubert Naciasta <hubert.naciasta@tuta.io>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-install/pl/>\n"
@@ -80,7 +80,7 @@ msgstr ""
 
 #: browser/install.md:block 6 (header)
 msgid "Stopping Ceno completely"
-msgstr ""
+msgstr "Całkowite zatrzymywanie Ceny"
 
 #: browser/install.md:block 7 (paragraph)
 msgid ""
@@ -130,8 +130,8 @@ msgid ""
 msgstr ""
 "Powiadomienie *usługi Przeglądarki Ceno* opisane powyżej zawiera kilka "
 "dodatkowych działań, które mogą być aktywowane, naciskając na nie. Opcja *"
-"Strona domowa* otwierają Ceno z nową publiczną tabelą pokazującą swoją "
-"stronę domową. Opcja *Wyczyść* wymaga dalszego wyjaśnienia."
+"Strona domowa* otwiera Cenę z nową kartą w trybie przeglądania Publicznego. "
+"Opcja *Wyczyść* wymaga dalszych wyjaśnień."
 
 #: browser/install.md:block 12 (quote)
 msgid ""
@@ -164,7 +164,7 @@ msgid ""
 "![Figure: The last action stops Ceno and clears all its data](images/tap-"
 "purge.png)"
 msgstr ""
-"![Ilustracja: Ostatnia opcja zatrzymuje Cenę i czyści wszystkie jej dane]("
+"![Ilustracja: Ostatnia opcja zatrzymuje Cenę i czyści wszystkie jego dane]("
 "images/tap-purge.png)"
 
 #: browser/install.md:block 15 (paragraph)
