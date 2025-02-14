@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2025-02-14 15:23+0000\n"
+"PO-Revision-Date: 2025-02-14 16:46+0000\n"
 "Last-Translator: Hubert Naciasta <hubert.naciasta@tuta.io>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
 "browser-bridging/pl/>\n"
@@ -95,13 +95,13 @@ msgstr ""
 "**Uwaga techniczna:** Niestety wyłączenie optymalizacji zużycia baterii "
 "przez Ceno zdaje się nie dotyczyć Ouinetu. Jest to spowodowane głównie "
 "[trybem Doze](https://developer.android.com/training/monitoring-device-state/"
-"doze-standby "
-"\"Deweloperzy systemu Android – Optimize for Doze and App Standby\") systemu "
-"Android, który wpływa negatywnie na działanie natywnych bibliotek Ouinetu. "
-"Twoje urządzenie może dodatkowo mieć swoje własne opcje oszczędzania "
-"energii, które mogą zakłócać działanie Ceno. Zapoznaj się działem na stronie "
-"[Don't kill my app!][Don't kill my app!] poświęconym producentowi twojego "
-"urządzenia (strona w języku angielskim), aby dowiedzieć się więcej."
+"doze-standby \"Android Developers – Optimize for Doze and App Standby\") "
+"systemu Android, który wpływa negatywnie na działanie natywnych bibliotek "
+"Ouinetu. Twoje urządzenie może dodatkowo mieć swoje własne opcje "
+"oszczędzania energii, które mogą zakłócać działanie Ceno. Zapoznaj się "
+"działem na stronie [Don't kill my app!][Don't kill my app!] poświęconym "
+"producentowi twojego urządzenia (strona w języku angielskim), aby dowiedzieć "
+"się więcej."
 
 #: browser/bridging.md:block 8 (paragraph)
 msgid ""
@@ -141,7 +141,7 @@ msgid ""
 "this will turn the screen off. Instead, just wait for the device to lock "
 "itself with the screen on."
 msgstr ""
-"Jeśli naciśniesz przycisk zasilanie, aby zablokować telefon, ekran zostanie "
+"Jeśli naciśniesz przycisk zasilania, aby zablokować telefon, ekran zostanie "
 "wyłączony. Zamiast tego lepiej jest poczekać, aż telefon sam się zablokuje "
 "bez wyłączania ekranu."
 
@@ -242,11 +242,11 @@ msgstr ""
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**Reachability status**"
-msgstr ""
+msgstr "**Stan dostępności**"
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**UPnP status**"
-msgstr ""
+msgstr "**Stan usługi UPnP**"
 
 #: browser/bridging.md:block 24 (paragraph)
 msgid ""
@@ -331,7 +331,7 @@ msgstr ""
 
 #: browser/bridging.md:block 33 (quote)
 msgid "**Local UDP endpoints**"
-msgstr ""
+msgstr "**Lokalne punkty końcowe UDP**"
 
 #: browser/bridging.md:block 34 (paragraph)
 msgid ""
