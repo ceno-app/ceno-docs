@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2025-02-14 07:24+0000\n"
+"PO-Revision-Date: 2025-02-14 15:23+0000\n"
 "Last-Translator: Hubert Naciasta <hubert.naciasta@tuta.io>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
 "browser-bridging/pl/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10-rc\n"
+"X-Generator: Weblate 5.10\n"
 
 #: browser/bridging.md:block 1 (header)
 msgid "Helping other Ceno users browse the Web"
@@ -157,7 +157,7 @@ msgstr ""
 
 #: browser/bridging.md:block 11 (header)
 msgid "Running a bridge on a computer"
-msgstr ""
+msgstr "Używanie komputera jako mostek Ceno"
 
 #: browser/bridging.md:block 12 (paragraph)
 msgid ""
@@ -167,6 +167,12 @@ msgid ""
 "[docker-install] in your platform. For Debian derivatives like Ubuntu or "
 "Linux Mint, you can just run: `sudo apt install docker.io`"
 msgstr ""
+"Jeśli twój komputer wspiera [kontenery Docker][docker], możesz uruchomić na "
+"nim klienta Ceno skonfigurowanego, aby działał w roli mostka. Jeśli Docker "
+"nie jest jeszcze zainstalowany, postępuj zgodnie z instrukcjami, aby "
+"[zainstalować Docker Engine][docker-install] na twoim systemie operacyjnym. "
+"Na systemach operacyjnych pochodnych od Debiana – takich jak Ubuntu lub "
+"Linux Mint – możesz użyć „sudo apt install docker.io”"
 
 #: browser/bridging.md:block 13 (paragraph)
 msgid ""
@@ -175,7 +181,7 @@ msgid ""
 "the command line):"
 msgstr ""
 "Aby przygotować kontener z klientem Ceno do pracy, wystarczy uruchomić "
-"poniższą komendę w emulatorze terminala (może i nie wygląda ona za "
+"poniższą komendę w emulatorze terminala (może i nie wygląda ona zbytnio "
 "przyjaźnie, ale możesz bez obaw wkleić ją do wiersza poleceń):"
 
 #: browser/bridging.md:block 15 (paragraph)
@@ -193,6 +199,11 @@ msgid ""
 "Docker client documentation][ceno-client-doc] for more information on how to "
 "manipulate the container."
 msgstr ""
+"Powyższa komenda aktywuje kontener „ceno-client”, który będzie uruchamiał "
+"się przy każdym uruchomieniu komputera, o ile go nie wyłączysz. Po więcej "
+"informacji o tym, jak można dostosować kontener, zapoznaj się z ["
+"dokumentacją klienta Ceno jako kontener Docker (strona w języku angielskim"
+")][ceno-client-doc]."
 
 #: browser/bridging.md:block 18 (quote)
 msgid ""
@@ -200,6 +211,10 @@ msgid ""
 "access that page, open instead the [client front-end](../client/front-end."
 "md), which contains mostly equivalent information."
 msgstr ""
+"**Uwaga:** *Ustawienia Ceno* nie są dostępne w tym kliencie. Jeśli "
+"zostaniesz poinstruowany, aby przejść do tej strony, zamiast tego otwórz "
+"[front-end klienta](../client/front-end.md) zawierający w większości podobne "
+"informacje."
 
 #: browser/bridging.md:block 19 (header)
 msgid "Enabling UPnP on your Wi-Fi router"
