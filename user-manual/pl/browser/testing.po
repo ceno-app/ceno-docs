@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-16 04:04+0200\n"
-"PO-Revision-Date: 2024-07-11 01:09+0000\n"
-"Last-Translator: Eryk Michalak <gnu.ewm@protonmail.com>\n"
+"PO-Revision-Date: 2025-02-21 11:42+0000\n"
+"Last-Translator: Hubert Naciasta <hubert.naciasta@tuta.io>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-testing/pl/>\n"
 "Language: pl\n"
@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.10.1-dev\n"
 
 #
 #: browser/testing.md:block 1 (header)
 msgid "Testing the Browser"
-msgstr "Sprawdzanie przeglądarki"
+msgstr "Testowanie poprawnego działania przeglądarki"
 
 #: browser/testing.md:block 2 (paragraph)
 msgid ""
