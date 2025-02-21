@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2025-02-05 15:02+0000\n"
+"PO-Revision-Date: 2025-02-21 16:46+0000\n"
 "Last-Translator: Hubert Naciasta <hubert.naciasta@tuta.io>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-settings/pl/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10.1-dev\n"
 
 #
 #: browser/settings.md:block 1 (header)
@@ -62,7 +62,7 @@ msgstr ""
 
 #: browser/settings.md:block 5 (paragraph)
 msgid "![Figure: The Ceno Settings page](images/settings.png)"
-msgstr "![Ilustracja: Strona ustawień Ceno](images/settings.png)"
+msgstr "![Ilustracja: Strona „Ustawienia Ceno”](images/settings.png)"
 
 #: browser/settings.md:block 6 (header)
 msgid "Choosing access mechanisms"
