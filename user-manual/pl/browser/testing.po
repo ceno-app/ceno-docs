@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-16 04:04+0200\n"
-"PO-Revision-Date: 2025-02-25 03:07+0000\n"
+"PO-Revision-Date: 2025-02-25 16:31+0000\n"
 "Last-Translator: Hubert Naciasta <hubert.naciasta@tuta.io>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-testing/pl/>\n"
@@ -64,6 +64,12 @@ msgid ""
 "provider or country, looking up the bridge swarm and trying to contact the "
 "injector via some other Ouinet client."
 msgstr ""
+"Zacznijmy od upewnienia się, czy Przeglądarka Ceno może skontaktować się ze "
+"wstrzykiwaczem. Nawet taka, błaha na pierwszy rzut oka, czynność wiąże się "
+"użyciem funkcji charakterystycznych dla sieci Ouinet: wyszukiwanie adresu "
+"dostępnego wstrzykiwacza i podjęcie próby połączenia bezpośredniego albo, "
+"jeśli połączenie jest zablokowane przez dostawcę lub rząd, pośrednio, przez "
+"mostek."
 
 #: browser/testing.md:block 7 (paragraph)
 msgid "In the first device perform the following steps:"
@@ -71,7 +77,7 @@ msgstr ""
 
 #: browser/testing.md:block 8 (ordered list)
 msgid "First of all, install Ceno and start it. Its home page will appear."
-msgstr ""
+msgstr "Zainstaluj Przeglądarkę Ceno i uruchom ją."
 
 #: browser/testing.md:block 8 (ordered list)
 msgid ""
