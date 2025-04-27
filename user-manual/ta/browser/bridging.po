@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
 "browser-bridging/ta/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-rc\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: browser/bridging.md:block 1 (header)
 msgid "Helping other Ceno users browse the Web"
@@ -288,7 +288,7 @@ msgstr ""
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[Linksys](https://www.linksys.com/us/support-article?articleNum=138290)"
-msgstr "[Linksys](https://www.linksys.com/us/support-article?articleNum=138290)"
+msgstr "[இணைஅமை](https://www.linksys.com/us/support-article?articleNum=138290)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
@@ -300,14 +300,14 @@ msgstr ""
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[Huawei](https://consumer.huawei.com/ph/support/content/en-us00275342/)"
-msgstr "[Huawei](https://consumer.huawei.com/ph/support/content/en-us00275342/)"
+msgstr "[உவாயி](https://consumer.huawei.com/ph/support/content/en-us00275342/)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[Xfinity](https://www.xfinity.com/support/articles/configure-device-"
 "discovery-for-wifi)"
 msgstr ""
-"[Xfinity](https://www.xfinity.com/support/articles/configure-device-"
+"[எக்பினிட்டி](https://www.xfinity.com/support/articles/configure-device-"
 "discovery-for-wifi)"
 
 #: browser/bridging.md:block 30 (unordered list)
@@ -392,7 +392,7 @@ msgstr "[எனது பயன்பாட்டை கொல்ல வேண�
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[docker]: https://en.wikipedia.org/wiki/Docker_(software)"
-msgstr "[docker]: https://en.wikipedia.org/wiki/Docker_(software)"
+msgstr "[டாக்கர்]: https://en.wikipedia.org/wiki/Docker_(software)"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[docker-install]: https://docs.docker.com/engine/install/"
