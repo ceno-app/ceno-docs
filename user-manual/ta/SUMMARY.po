@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
 "user-manual/ta/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-rc\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: SUMMARY.md:block 1 (header)
 msgid "Summary"
@@ -21,7 +21,7 @@ msgstr "[தணிக்கை. இல்லை!] (README.MD)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Introduction](intro/README.md)"
-msgstr "[அறிமுகம்] (அறிமுகம்/README.MD)"
+msgstr "[அறிமுகம்](intro/README.MD)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[What is Ceno Browser?](intro/ceno.md)"
@@ -37,7 +37,7 @@ msgstr "[விரைவான தொடக்க வழிகாட்டி] (
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Frequently Asked Questions](intro/faq.md)"
-msgstr "[அடிக்கடி கேட்கப்படும் கேள்விகள்] (அறிமுகம்/கேள்விகள்."
+msgstr "[அடிக்கடி கேட்கப்படும் கேள்விகள்] (intro/faq.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Main concepts](concepts/README.md)"
@@ -45,7 +45,7 @@ msgstr "[முக்கிய கருத்துக்கள்] (கரு�
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[How does it work?](concepts/how.md)"
-msgstr "[இது எவ்வாறு இயங்குகிறது?] (கருத்துகள்/எப்படி."
+msgstr "[இது எவ்வாறு இயங்குகிறது?](concepts/how.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Public vs. Personal browsing](concepts/public-personal.md)"
@@ -91,4 +91,4 @@ msgstr "[சரிசெய்தல்] (உலாவி/சரிசெய்�
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Annex: The Ouinet client front-end](client/front-end.md)"
-msgstr "[Annex: The Ouinet client front-end](client/front-end.md)"
+msgstr "[இணைப்பு: ஓய்னெட் கிளையன்ட் முன்-முனை](client/front-end.md)"
