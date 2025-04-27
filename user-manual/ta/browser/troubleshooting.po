@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
 "browser-troubleshooting/ta/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-rc\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: browser/troubleshooting.md:block 1 (header)
 msgid "Troubleshooting"
@@ -394,9 +394,9 @@ msgid ""
 msgstr ""
 "CENO தானாகவே தளங்களை அணுக மிகவும் பாதுகாப்பான HTTPS நெறிமுறைக்கு மாறுகிறது, "
 "இல்லையெனில் வெற்று, பாதுகாப்பற்ற HTTP ஐப் பயன்படுத்தி அணுகப்படும். இது உட்பொதிக்கப்பட்ட "
-"[இயல்புநிலையாக] [இயல்புநிலையாக] [HTTPS] நீட்டிப்பால் செய்யப்படுகிறது, நீங்கள் "
-"`எடுத்துக்காட்டு.காம்` போன்ற வெற்று டொமைன் பெயரை உள்ளிடும்போது அல்லது இருப்பிட பட்டியில்` "
-"http: // example.com/… `போன்ற HTTP முகவரி , அல்லது ஒரு பக்கத்தில் அத்தகைய முகவரி "
+"[HTTPS இயல்புநிலையாக] [HTTPSஇயல்புநிலையாக] [HTTPS] நீட்டிப்பால் செய்யப்படுகிறது, நீங்கள்"
+" `எடுத்துக்காட்டு.காம்` போன்ற வெற்று டொமைன் பெயரை உள்ளிடும்போது அல்லது இருப்பிட பட்டியில்`"
+" http: // example.com/… `போன்ற HTTP முகவரி , அல்லது ஒரு பக்கத்தில் அத்தகைய முகவரி "
 "உடன் இணைப்பைப் பின்பற்றும்போது."
 
 #: browser/troubleshooting.md:block 36 (paragraph)
