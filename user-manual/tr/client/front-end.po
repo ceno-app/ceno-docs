@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2024-03-29 01:01+0000\n"
+"PO-Revision-Date: 2025-05-08 01:01+0000\n"
 "Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "client-front-end/tr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #
 #: client/front-end.md:block 1 (header)
@@ -123,7 +123,7 @@ msgid ""
 msgstr ""
 "İstemci bağlanabilirliği ve içerik ekleyici adreslemesi hakkında bilgiler. "
 "Varsayılan `bep5` yöntemi [burada açıklandığı gibi](../concepts/how.md) "
-"BitTorrent içerik ekleyici havuzundan İnternet adreslerine bakar."
+"BitTorrent içerik ekleyici havuzundan internet adreslerine bakar."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
