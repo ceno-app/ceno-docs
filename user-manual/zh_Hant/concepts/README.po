@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-25 01:01+0000\n"
+"Last-Translator: demigod <op02@bfdx.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/concepts-readme/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: concepts/README.md:block 1 (header)
 msgid "Main concepts"
-msgstr ""
+msgstr "主要概念"
 
 #: concepts/README.md:block 2 (paragraph)
 msgid ""
@@ -17,6 +23,9 @@ msgid ""
 "cryptography. These techniques are cleverly combined by Ouinet so as to make "
 "the experience of using Ceno as close as possible to normal Web browsing."
 msgstr ""
+"為了實現規避多種網絡幹擾和短缺的目標，Ceno "
+"利用了萬維網、文件共享系統和高級密碼學領域的各種技術。Ouinet "
+"巧妙地結合了這些技術，使使用 Ceno 的體驗盡可能接近正常的 Web 瀏覽。"
 
 #: concepts/README.md:block 3 (paragraph)
 msgid ""
@@ -25,3 +34,6 @@ msgid ""
 "content we are trying to access, and the advantages and risks that they "
 "entail. This chapter will cover these topics."
 msgstr ""
+"盡管如此，要充分利用 Ceno，了解 Ouinet "
+"的運作方式、根據我們嘗試訪問的內容類型可以使用的不同使用方式以及它們帶來的優"
+"勢和風險是有幫助的。本章將介紹這些主題。"
