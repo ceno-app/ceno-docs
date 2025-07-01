@@ -1,13 +1,21 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-02 10:01+0000\n"
+"Last-Translator: Elias Dammach <eliasdammach208@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/censorship-no/"
+"user-manual-conceptspublic-personal/ar/>\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: concepts/public-personal.md:block 1 (header)
+#, fuzzy
 msgid "Public vs. Personal browsing"
-msgstr ""
+msgstr "تصفح عام و خاص"
 
 #: concepts/public-personal.md:block 2 (paragraph)
 msgid ""
