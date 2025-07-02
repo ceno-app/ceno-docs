@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 11:01+0000\n"
+"Last-Translator: Johanie Martin Lafond <omgwtfgtfoomw@gmail.com>\n"
+"Language-Team: French (Canada) <https://hosted.weblate.org/projects/"
+"censorship-no/ouinet/fr_CA/>\n"
 "Language: fr_CA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: intro/ouinet.md:block 1 (header)
 msgid "What is Ouinet?"
-msgstr ""
+msgstr "Qu'est-ce que Ouinet ?"
 
 #: intro/ouinet.md:block 2 (paragraph)
 msgid ""
@@ -18,6 +24,13 @@ msgid ""
 "([peer-to-peer][P2P] or P2P) to help access and store new Web content, and "
 "to request and deliver previously accessed content to others."
 msgstr ""
+"[Ouinet][Ouinet] est une technologie de base qui permet à Ceno Browser de "
+"partager du contenu Web avec d'autres appareils. Ouinet se présente sous la "
+"forme d'un code informatique réutilisable (une bibliothèque) qu'une "
+"application comme Ceno peut utiliser pour devenir un participant à un réseau "
+"de nœuds coopératifs qui communiquent directement ([peer-to-peer][P2P] ou "
+"P2P) pour aider à accéder et stocker de nouveaux contenus Web, et pour "
+"demander et livrer du contenu précédemment accedé par d'autres."
 
 #: intro/ouinet.md:block 3 (paragraph)
 msgid ""
