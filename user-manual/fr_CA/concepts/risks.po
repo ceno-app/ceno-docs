@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 11:01+0000\n"
+"Last-Translator: Johanie Martin Lafond <omgwtfgtfoomw@gmail.com>\n"
+"Language-Team: French (Canada) <https://hosted.weblate.org/projects/"
+"censorship-no/risks/fr_CA/>\n"
 "Language: fr_CA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: concepts/risks.md:block 1 (header)
 msgid "Risks in using Ceno/Ouinet"
-msgstr ""
+msgstr "Risques d'utilisation de Ceno/Ouinet"
 
 #: concepts/risks.md:block 2 (paragraph)
 msgid ""
@@ -17,6 +23,12 @@ msgid ""
 "help you understand their implications according to the different roles you "
 "may play when using Ceno:"
 msgstr ""
+"Comme pour tout système informatique suffisamment complexe, et surtout un "
+"système innovant, en utilisant Ceno Browser (et tout client Ouinet en "
+"général) n'est pas exempt de certains risques. Dans cette section, nous "
+"allons les compiler et les décrire pour vous aider à comprendre leurs "
+"implications en fonction des différents rôles que vous pouvez jouer lors de "
+"l'utilisation de Ceno:"
 
 #: concepts/risks.md:block 3 (unordered list)
 msgid "as a *user* browsing Web sites"
