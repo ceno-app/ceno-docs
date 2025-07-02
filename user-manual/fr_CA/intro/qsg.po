@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 11:01+0000\n"
+"Last-Translator: Johanie Martin Lafond <omgwtfgtfoomw@gmail.com>\n"
+"Language-Team: French (Canada) <https://hosted.weblate.org/projects/"
+"censorship-no/qsg/fr_CA/>\n"
 "Language: fr_CA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: intro/qsg.md:block 1 (header)
 msgid "Quick start guide"
-msgstr ""
+msgstr "Guide de démarrage rapide"
 
 #: intro/qsg.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +22,10 @@ msgid ""
 "your requests, as well as to store and share retrieved content with others. "
 "[Read more about Ceno](ceno.md)."
 msgstr ""
+"Ceno Browser vous permet d'accéder à n'importe quel site web sur Internet, "
+"même s'il est censuré dans votre pays. Ceno utilise une infrastructure de "
+"pairs-à-pairs pour orienter vos demandes, ainsi que pour stocker et partager "
+"du contenu récupéré avec d'autres. [Read more about Ceno](ceno.md)."
 
 #: intro/qsg.md:block 3 (header)
 msgid "How to get started"
