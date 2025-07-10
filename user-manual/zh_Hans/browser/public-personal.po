@@ -13,7 +13,7 @@ msgstr ""
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
-msgstr "公共和个人浏览模式"
+msgstr "公共浏览和个人浏览模式"
 
 #: browser/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -36,11 +36,11 @@ msgid ""
 "choose *Personal Tabs* on the homepage or switch to the Personal mode icon "
 "in the Tabs menu."
 msgstr ""
-"此设置适用于您在浏览器中打开的*每个选项卡*，即您可以拥有公共浏览选项卡和个人"
-"浏览选项卡。每当您启动 Ceno "
+"此设置适用于您在浏览器中打开的*每个标签页*，即您可以拥有公共浏览标签页卡和个"
+"人浏览标签页。每当您启动 Ceno "
 "或打开一个新标签页时(通过主页上的“公共标签页”选项或地址栏中清除图标旁边的标签"
-"页图标)时，Ceno的默认设置是使用公共浏览。要在个人浏览模式下打开新标签，只需在"
-"主页上选择*个人标签页*或切换到标签菜单中的个人模式图标。"
+"页图标)时，Ceno的默认设置是使用公共浏览。要在个人浏览模式下打开新标签页，只需"
+"在主页上选择*个人标签页*或切换到标签菜单中的个人模式图标。"
 
 #: browser/public-personal.md:block 4 (paragraph)
 msgid ""
