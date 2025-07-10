@@ -36,12 +36,12 @@ msgid ""
 "the [protocol specifications][protocol specifications]."
 msgstr ""
 "如果你正在寻找技术文档，请参阅[Ceno 文档库][Ceno documentation repository]"
-"，在那里你可以找到进一步阅读的指引、实现的详细信息，及协议规范ns]"
+"，在那里你可以找到进一步阅读的指引、实现的详细信息，以及[协议规范]"
 "[protocol specifications]。"
 
 #: README.md:block 3 (paragraph)
 msgid "[Ceno Browser]: https://gitlab.com/censorship-no/ceno-browser"
-msgstr "[Ceno Browser]: https://gitlab.com/censorship-no/ceno-browser"
+msgstr "[Ceno 浏览器]: https://gitlab.com/censorship-no/ceno-browser"
 
 #: README.md:block 3 (paragraph)
 msgid "[Censorship.no!]: https://censorship.no/"
@@ -54,7 +54,7 @@ msgstr ""
 #: README.md:block 3 (paragraph)
 msgid ""
 "[Ceno documentation repository]: https://gitlab.com/censorship-no/ceno-docs/"
-msgstr "[Ceno文档存储库]: https://gitlab.com/censorship-no/ceno-docs/"
+msgstr "[Ceno 文档库]: https://gitlab.com/censorship-no/ceno-docs/"
 
 #: README.md:block 3 (paragraph)
 msgid ""
