@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2023-05-17 03:03+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"censorship-no/browser-settings/zh_Hans/>\n"
+"PO-Revision-Date: 2025-07-10 19:21+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/manual/browser-settings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #
 #: browser/settings.md:block 1 (header)
@@ -54,7 +54,7 @@ msgstr ""
 
 #: browser/settings.md:block 5 (paragraph)
 msgid "![Figure: The Ceno Settings page](images/settings.png)"
-msgstr ""
+msgstr "![图片：Ceno 设置页面](images/settings.png)"
 
 #: browser/settings.md:block 6 (header)
 msgid "Choosing access mechanisms"
@@ -67,6 +67,10 @@ msgid ""
 "retrieve content while using either [Public or Personal browsing](public-"
 "personal.md) tabs. All boxes are enabled by default."
 msgstr ""
+"页面顶部的四个复选框可选择启用或禁用 Ceno 作为 Ouinet 客户端在使用"
+"[公共浏览或个人浏览](public-"
+"personal.md)标签页时用来检索内容的不同机制或*来源*。默认情况下，所有选项都处"
+"于启用状态。"
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
