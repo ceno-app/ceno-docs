@@ -39,8 +39,9 @@ msgstr ""
 "此设置适用于您在浏览器中打开的*每个标签页*，即您可以拥有公共浏览标签页卡和个"
 "人浏览标签页。每当您启动 Ceno "
 "或打开一个新标签页时(通过主页上的“公共标签页”选项或地址栏中清除图标旁边的标签"
-"页图标)时，Ceno的默认设置是使用公共浏览。要在个人浏览模式下打开新标签页，只需"
-"在主页上选择*个人标签页*或切换到标签菜单中的个人模式图标。"
+"页图标)时， Ceno "
+"的默认设置是使用公共浏览。要在个人浏览模式下打开新标签页，只需在主页上选择*个"
+"人标签页*或切换到标签菜单中的个人模式图标。"
 
 #: browser/public-personal.md:block 4 (paragraph)
 msgid ""
@@ -54,7 +55,7 @@ msgstr "![图片：公共浏览标签页](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
-msgstr "相比之下，私有选项卡的工具栏颜色较深："
+msgstr "相比之下，个人标签页的工具栏颜色较深："
 
 #: browser/public-personal.md:block 7 (paragraph)
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
