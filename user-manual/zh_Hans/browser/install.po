@@ -60,10 +60,10 @@ msgid ""
 "Ouinet users. If in doubt, please contact [cenoers@equalitie.org](mailto:"
 "cenoers@equalitie.org) before installing a suspicious app."
 msgstr ""
-"**警告：** "
-"请*保持极度警惕*从上述列出的来源之外的渠道安装的Ceno浏览器。由于该应用的特殊"
-"性质，非官方渠道的Ceno浏览器可能会侵犯用户隐私，或攻击Ceno和Ouinet用户。如有"
-"疑问，安装可疑应用前请联系[cenoers@equalit.ie](mailto:cenoers@equalit.ie)。"
+"**警告：**请*保持极度警惕*从上述列出的来源之外的渠道安装的 Ceno "
+"浏览器。由于该应用的特殊性质，非官方渠道的 Ceno 浏览器可能会侵犯用户隐私，"
+"或攻击 Ceno 和 Ouinet 用户。如有疑问，安装可疑应用前请联系"
+"[cenoers@equalit.ie](mailto:cenoers@equalit.ie)。"
 
 #: browser/install.md:block 6 (header)
 msgid "Stopping Ceno completely"
@@ -182,13 +182,12 @@ msgstr "**警告：**除了应用本身的数据外，Android "
 msgid ""
 "[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 msgstr ""
-"[Ceno-Google Play]: https://play.google.com/store/apps/"
-"details?id=ie.equalit.ceno"
+"[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
-msgstr "[Ceno-GitLab]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
+msgstr "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
-msgstr "[Ceno-paskoocheh.com]: https://paskoocheh.com/tools/124/android.html"
+msgstr "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
