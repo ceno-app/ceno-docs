@@ -16,7 +16,7 @@ msgstr ""
 
 #: concepts/advantages.md:block 1 (header)
 msgid "Advantages of using Ceno/Ouinet"
-msgstr "使用 Ceno/Ouinet 的好处"
+msgstr "Ceno/Ouinet 的优势"
 
 #: concepts/advantages.md:block 2 (paragraph)
 msgid ""
@@ -25,9 +25,9 @@ msgid ""
 "traffic for one another, sign content for later verification, and store "
 "signed content for seeding to others. Some advantages worth mentioning are:"
 msgstr ""
-"与其他翻墙技术相比，使用 Ceno 和 Ouinet 的主要优势源于客户端和注入器之间的合"
-"作，为彼此转发流量，签署内容以供以后验证，并存储签名内容以播种给其他人。一些"
-"值得一提的优点是："
+"与其他翻墙技术相比，使用 Ceno 和 Ouinet "
+"的主要优势源于客户端与注入器的协作，它们相互转发流量、为内容签名以供后续验证"
+"，还会存储已签名内容并分发给其他用户。值得一提的一些优势包括："
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid ""
@@ -71,10 +71,10 @@ msgid ""
 "resource usage spikes at origin servers when some of their content becomes "
 "very popular (the so-called [Slashdot effect][Slashdot effect])."
 msgstr ""
-"更快的浏览速度：由于您的客户端可以同时从多个客户端获取同一内容的不同部分，内"
-"容传输的负载会分配到不同的网络和设备上，从而避免堵塞通往单个客户端的路径（尤"
-"其是传输视频这类大资源时）。这不仅在连接其他国家的基础设施有限时很有用，也能"
-"帮助发布者在其部分内容走红时，避免源服务器出现资源使用激增（即所谓的"
+"**更快的浏览速度：**由于您的客户端可以同时从多个客户端获取同一内容的不同部分"
+"，内容传输的负载会分配到不同的网络和设备上，从而避免堵塞通往单个客户端的路径"
+"（尤其是传输视频这类大资源时）。这不仅在连接其他国家的基础设施有限时很有用，"
+"也能帮助发布者在其部分内容走红时，避免源服务器出现资源使用激增（即所谓的"
 "[Slashdot效应][Slashdot effect]）。"
 
 #: concepts/advantages.md:block 3 (unordered list)
@@ -87,11 +87,11 @@ msgid ""
 "of a [national intranet][National intranet]), this can actually save you "
 "money."
 msgstr ""
-"**更便宜的浏览：** 在特定地区流行的内容往往会被复制到该地区的 Ceno/Ouinet 客"
-"户端中，即使源服务器在国外。如果您对该内容感兴趣，您的客户可能会从您所在地区"
-"的其他客户那里获得它。在一些国际流量比本地流量更昂贵的国家/地区（例如，"
-"在存在 [national intranet][National intranet] "
-"的情况下），这实际上可以为您节省资金。"
+"**浏览成本更低：**在特定地区受欢迎的内容，即便其源服务器在国外，"
+"往往也会被该地区的 Ceno/Ouinet "
+"客户端复制。如果你想访问这类内容，你的客户端很可能会从你所在地区的其他客户端"
+"获取。在一些国家，国际流量比本地流量更贵（例如存在[国家内联网]"
+"[National intranet]的情况下），这种方式实际上能帮你省钱。"
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid "[Slashdot effect]: https://en.wikipedia.org/wiki/Slashdot_effect"
@@ -99,4 +99,4 @@ msgstr "[Slashdot效应]: https://en.wikipedia.org/wiki/Slashdot_effect"
 
 #: concepts/advantages.md:block 3 (unordered list)
 msgid "[National intranet]: https://en.wikipedia.org/wiki/National_intranet"
-msgstr "[国家级内网]: https://en.wikipedia.org/wiki/National_intranet"
+msgstr "[国家内联网]: https://en.wikipedia.org/wiki/National_intranet"
