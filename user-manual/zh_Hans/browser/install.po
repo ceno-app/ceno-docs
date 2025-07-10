@@ -164,31 +164,31 @@ msgid ""
 "and then *Clear data*."
 msgstr ""
 "**注意：**上述方法需要 Ceno 在您的设备上处于运行状态。若 Ceno "
-"已停止运行，要达到同样效果，你可以打开的 Android 的通用设置页面，在“应用”"
+"已停止运行，要达到同样效果，你可以打开的 Android 的通用*设置*页面，在*应用*"
 "条目下选择 Ceno，然后点击“清除数据”。"
 
 #: browser/install.md:block 17 (quote)
 msgid "As a harsher alternative, you may completely uninstall the app."
-msgstr "作为更严厉的选择，您可以完全卸载该应用程序。"
+msgstr "还有更强硬的选择，您可以完全卸载该应用程序。"
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "**Warning:** Android may still keep other traces of having used an app "
 "besides its data, for instance in its system log."
-msgstr "**警告：** Android "
-"可能仍会保留除数据之外的其他使用过应用程序的痕迹，例如在其系统日志中。"
+msgstr "**警告：**除了应用本身的数据外，Android "
+"可能还会保留使用过应用程序的其他痕迹，例如在系统日志中。"
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 msgstr ""
-"[ceno-Google Play]: https://play.google.com/store/apps/details?id=ie.equalit."
-"ceno"
+"[Ceno-Google Play]: https://play.google.com/store/apps/"
+"details?id=ie.equalit.ceno"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
-msgstr "[ceno-GitLab]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
+msgstr "[Ceno-GitLab]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
-msgstr "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
+msgstr "[Ceno-paskoocheh.com]: https://paskoocheh.com/tools/124/android.html"
