@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-03 02:50+0200\n"
-"PO-Revision-Date: 2024-06-11 15:55+0000\n"
-"Last-Translator: Steaunk <wchiennan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"censorship-no/faq/zh_Hans/>\n"
+"PO-Revision-Date: 2025-07-11 20:02+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/faq/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #
 #: intro/faq.md:block 1 (header)
@@ -21,15 +21,15 @@ msgstr "常见问题"
 
 #: intro/faq.md:block 2 (header)
 msgid "Usage"
-msgstr ""
+msgstr "使用"
 
 #: intro/faq.md:block 3 (header)
 msgid "Can Ceno Browser replace my current browser (Chrome/Firefox/Safari)?"
-msgstr ""
+msgstr "Ceno 浏览器能否代替我现在的浏览器(Chrome/Firefox/Safari)？"
 
 #: intro/faq.md:block 4 (paragraph)
 msgid "Short answer: yes, at least for some non-critical browsing."
-msgstr ""
+msgstr "简而言之：可以，至少对于一些非关键性的浏览来说是这样。"
 
 #: intro/faq.md:block 5 (paragraph)
 msgid ""
@@ -38,6 +38,10 @@ msgid ""
 "Ouinet technology for retrieving web content may affect its operation in "
 "subtle ways (some of them potentially involving your privacy)."
 msgstr ""
+"由于 Ceno 基于 Mozilla Firefox for "
+"Android，它提供了现代浏览器的所有功能。但是，它依赖 Ouinet "
+"技术来检索网络内容，这可能会以微妙的方式影响它的操作(其中一些可能涉及您的隐私"
+")。"
 
 #: intro/faq.md:block 6 (paragraph)
 msgid ""
@@ -46,6 +50,9 @@ msgid ""
 "changes are introduced which require you to uninstall the application or "
 "remove stored data (including bookmarks and site settings) before upgrading."
 msgstr ""
+"此外，由于 Ceno 和 Ouinet "
+"正在持续开发中，您可能会遇到一些不稳定的情况。这也可能意味着引入了向后不兼容"
+"的更改，要求您在升级之前卸载应用程序或删除存储的数据(包括书签和站点设置)。"
 
 #: intro/faq.md:block 7 (paragraph)
 msgid ""
