@@ -44,7 +44,7 @@ msgstr ""
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid "Run it."
-msgstr "运行它"
+msgstr "运行它。"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid ""
@@ -52,14 +52,17 @@ msgid ""
 "privacy for some page or if it is not loading as expected, use a Personal "
 "tab (see [Public vs. Personal browsing](../concepts/public-personal.md))."
 msgstr ""
+"正常浏览网页即可帮助其他用户访问这些网页；如果担心某些网页的隐私问题，或者网"
+"页加载不符合预期，请使用个人标签页（参见[公共浏览与个人浏览](../concepts/"
+"public-personal.md)）。"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid "Tap on the Ceno notification to stop it completely."
-msgstr ""
+msgstr "点击 Ceno 通知以完全停止它。"
 
 #: intro/qsg.md:block 6 (paragraph)
 msgid "Detailed installation instructions are [here](../browser/install.md)."
-msgstr ""
+msgstr "详细的安装说明[在这里](../browser/install.md)."
 
 #: intro/qsg.md:block 7 (header)
 msgid "Configuration"
