@@ -17,7 +17,7 @@ msgstr ""
 #
 #: intro/ouinet.md:block 1 (header)
 msgid "What is Ouinet?"
-msgstr "Ouinet 是什么？"
+msgstr "什么是 Ouinet？"
 
 #: intro/ouinet.md:block 2 (paragraph)
 msgid ""
@@ -28,12 +28,12 @@ msgid ""
 "([peer-to-peer][P2P] or P2P) to help access and store new Web content, and "
 "to request and deliver previously accessed content to others."
 msgstr ""
-"[Ouinet][Ouinet]是一项核心技术，能让 Ceno 浏览器与其他设备共享网络内容。"
+"[Ouinet][Ouinet] 是一项核心技术，能让 Ceno 浏览器与其他设备共享网络内容。"
 "Ouinet 以可复用的计算机代码（一个库）的形式存在，像 Ceno "
 "这样的应用程序可以借助它成为协作节点网络中的一员；这些节点通过直接通信（"
-"[点对点][P2P]"
-"或P2P）开展协作，助力访问和存储新的网络内容，同时请求并向他人传递此前访问过的"
-"内容。"
+"[点对点][P2P]或 "
+"P2P）开展协作，助力访问和存储新的网络内容，同时请求并向他人传递此前访问过的内"
+"容。"
 
 #: intro/ouinet.md:block 3 (paragraph)
 msgid ""
