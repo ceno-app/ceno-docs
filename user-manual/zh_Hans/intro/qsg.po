@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 20:01+0000\n"
+"PO-Revision-Date: 2025-07-11 20:02+0000\n"
 "Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/censorship-no/qsg/zh_Hans/>\n"
@@ -23,7 +23,7 @@ msgid ""
 "[Read more about Ceno](ceno.md)."
 msgstr ""
 "Ceno 浏览器让您能够访问互联网上的任何网站，即使该网站在您的国家受到审查。"
-"Ceno 利用点对点基础设施来路由你的请求，同时也存储并与他人分享获取的内容。"
+"Ceno 利用点对点基础设施来路由您的请求，同时也存储并与他人分享获取的内容。"
 "[了解更多关于 Ceno 的信息](ceno.md)。"
 
 #: intro/qsg.md:block 3 (header)
@@ -32,15 +32,15 @@ msgstr "如何开始"
 
 #: intro/qsg.md:block 4 (paragraph)
 msgid "You will need an Android device:"
-msgstr "你需要一台 Android 设备："
+msgstr "您需要一台 Android 设备："
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid ""
 "Install Ceno Browser from [Google Play][ceno-gplay], [GitHub][ceno-gh] or "
 "[Paskoocheh][ceno-pask]. *No special permissions are needed*."
 msgstr ""
-"从[Google Play][ceno-gplay]、[GitHub][ceno-gh]或[Paskoocheh][ceno-pask]安装 "
-"Ceno 浏览器。*无需特殊权限*。"
+"从 [Google Play][ceno-gplay]、[GitHub][ceno-gh] 或 [Paskoocheh][ceno-pask] "
+"安装 Ceno 浏览器。*无需特殊权限*。"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid "Run it."
@@ -89,17 +89,18 @@ msgstr "更多问题？"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "Please see the [FAQ](faq.md)."
-msgstr "请参阅[常见问题解答](faq.md)."
+msgstr "请参阅[常见问题解答](faq.md)。"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "Refer to the [troubleshooting guide](../browser/troubleshooting.md)."
-msgstr ""
+msgstr "请参阅[故障排除指南](../browser/troubleshooting.md)。"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid ""
 "Contact us by writing to [cenoers@equalitie.org](mailto:cenoers@equalitie."
 "org)."
-msgstr ""
+msgstr "通过发送邮件至[cenoers@equalitie.org]"
+"(mailto:cenoers@equalitie.org)与我们联系。"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid ""
@@ -109,7 +110,7 @@ msgstr ""
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/releases"
-msgstr ""
+msgstr "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/releases"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
