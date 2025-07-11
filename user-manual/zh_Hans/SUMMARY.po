@@ -3,21 +3,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-02 02:42+0200\n"
-"PO-Revision-Date: 2024-06-09 02:09+0000\n"
-"Last-Translator: 电棍老板 <qwertyuiop9296@outlook.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"censorship-no/user-manual/zh_Hans/>\n"
+"PO-Revision-Date: 2025-07-11 20:02+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/user-manual/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #
 #: SUMMARY.md:block 1 (header)
 msgid "Summary"
-msgstr "小结"
+msgstr "摘要"
 
 #: SUMMARY.md:block 2 (paragraph)
 msgid "[Censorship.no!](README.md)"
@@ -25,7 +25,7 @@ msgstr "[Censorship.no!](README.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Introduction](intro/README.md)"
-msgstr "[导言](intro/README.md)"
+msgstr "[简介](intro/README.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[What is Ceno Browser?](intro/ceno.md)"
