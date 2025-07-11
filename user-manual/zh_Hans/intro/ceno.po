@@ -17,7 +17,7 @@ msgstr ""
 #
 #: intro/ceno.md:block 1 (header)
 msgid "What is Ceno Browser?"
-msgstr "Ceno 浏览器是什么？"
+msgstr "什么是 Ceno 浏览器？"
 
 #: intro/ceno.md:block 2 (paragraph)
 msgid ""
@@ -82,7 +82,7 @@ msgstr ""
 
 #: intro/ceno.md:block 7 (header)
 msgid "Who is it for?"
-msgstr "Ceno 适用于谁？"
+msgstr "Ceno 面向哪些人群？"
 
 #: intro/ceno.md:block 8 (paragraph)
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 msgstr ""
 "使用 Ceno "
 "无需成为高级电脑用户，甚至无需了解点对点网络的运作方式。其用户体验类似于操作"
-"标准网页浏览器（Ceno 特有的功能在很大程度上隐藏在后台）。"
+"标准浏览器（Ceno 特有的功能在很大程度上隐藏在后台）。"
 
 #: intro/ceno.md:block 10 (paragraph)
 msgid ""
