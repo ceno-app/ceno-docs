@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 19:21+0000\n"
+"PO-Revision-Date: 2025-07-11 20:01+0000\n"
 "Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/censorship-no/qsg/zh_Hans/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: intro/qsg.md:block 1 (header)
 msgid "Quick start guide"
-msgstr ""
+msgstr "快速入门指南"
 
 #: intro/qsg.md:block 2 (paragraph)
 msgid ""
@@ -22,24 +22,29 @@ msgid ""
 "your requests, as well as to store and share retrieved content with others. "
 "[Read more about Ceno](ceno.md)."
 msgstr ""
+"Ceno 浏览器让您能够访问互联网上的任何网站，即使该网站在您的国家受到审查。"
+"Ceno 利用点对点基础设施来路由你的请求，同时也存储并与他人分享获取的内容。"
+"[了解更多关于 Ceno 的信息](ceno.md)。"
 
 #: intro/qsg.md:block 3 (header)
 msgid "How to get started"
-msgstr ""
+msgstr "如何开始"
 
 #: intro/qsg.md:block 4 (paragraph)
 msgid "You will need an Android device:"
-msgstr ""
+msgstr "你需要一台 Android 设备："
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid ""
 "Install Ceno Browser from [Google Play][ceno-gplay], [GitHub][ceno-gh] or "
 "[Paskoocheh][ceno-pask]. *No special permissions are needed*."
 msgstr ""
+"从[Google Play][ceno-gplay]、[GitHub][ceno-gh]或[Paskoocheh][ceno-pask]安装 "
+"Ceno 浏览器。*无需特殊权限*。"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid "Run it."
-msgstr ""
+msgstr "运行它"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid ""
