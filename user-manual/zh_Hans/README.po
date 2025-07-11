@@ -36,7 +36,7 @@ msgid ""
 "the [protocol specifications][protocol specifications]."
 msgstr ""
 "如果您正在寻找技术文档，请参阅[Ceno 文档库][Ceno documentation repository]"
-"，在那您你可以找到进一步阅读的指引、实现的详细信息，以及[协议规范]"
+"，在那您可以找到进一步阅读的指引、实现的详细信息，以及[协议规范]"
 "[protocol specifications]。"
 
 #: README.md:block 3 (paragraph)
