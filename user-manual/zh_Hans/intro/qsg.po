@@ -53,7 +53,7 @@ msgid ""
 "tab (see [Public vs. Personal browsing](../concepts/public-personal.md))."
 msgstr ""
 "正常浏览网页即可帮助其他用户访问这些网页；如果担心某些网页的隐私问题，或者网"
-"页加载不符合预期，请使用个人标签页（参见[公共浏览与个人浏览](../concepts/"
+"页加载不符合预期，请使用个人标签页（参见[公共浏览和个人浏览](../concepts/"
 "public-personal.md)）。"
 
 #: intro/qsg.md:block 5 (ordered list)
@@ -99,8 +99,8 @@ msgstr "请参阅[故障排除指南](../browser/troubleshooting.md)。"
 msgid ""
 "Contact us by writing to [cenoers@equalitie.org](mailto:cenoers@equalitie."
 "org)."
-msgstr "通过发送邮件至[cenoers@equalitie.org]"
-"(mailto:cenoers@equalitie.org)与我们联系。"
+msgstr "通过发送邮件至 [cenoers@equalitie.org](mailto:cenoers@equalitie.org) "
+"与我们联系。"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid ""
