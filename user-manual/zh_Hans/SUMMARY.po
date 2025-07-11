@@ -25,15 +25,15 @@ msgstr "[Censorship.no!](README.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Introduction](intro/README.md)"
-msgstr "[简介](intro/README.md)"
+msgstr "[引言](intro/README.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[What is Ceno Browser?](intro/ceno.md)"
-msgstr "[什么是Ceno浏览器？](intro/ceno.md)"
+msgstr "[什么是 Ceno 浏览器？](intro/ceno.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[What is Ouinet?](intro/ouinet.md)"
-msgstr "[什么是Ouinet？](intro/ouinet.md)"
+msgstr "[什么是 Ouinet？](intro/ouinet.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Quick start guide](intro/qsg.md)"
@@ -49,19 +49,19 @@ msgstr "[主要概念](concepts/README.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[How does it work?](concepts/how.md)"
-msgstr "[这是如何工作的？](concepts/how.md)"
+msgstr "[Ceno 是如何工作的？](concepts/how.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Public vs. Personal browsing](concepts/public-personal.md)"
-msgstr "[公开 vs. 个人浏览](concepts/public-personal.md)"
+msgstr "[公共浏览与个人浏览](concepts/public-personal.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Advantages of using Ceno/Ouinet](concepts/advantages.md)"
-msgstr "[使用 Ceno/Ouinet的好处](concepts/advantages.md)"
+msgstr "[Ceno/Ouinet 的优势](concepts/advantages.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Risks in using Ceno/Ouinet](concepts/risks.md)"
-msgstr "[使用Ceno/Ouinet的风险](concepts/risks.md)"
+msgstr "[Ceno/Ouinet 的风险](concepts/risks.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Using Ceno Browser](browser/README.md)"
@@ -73,7 +73,7 @@ msgstr "[安装 Ceno](browser/install.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Using Public or Personal browsing](browser/public-personal.md)"
-msgstr "[使用公共或个人浏览](browser/public-personal.md)"
+msgstr "[使用公共浏览或个人浏览](browser/public-personal.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Ceno settings](browser/settings.md)"
@@ -85,12 +85,12 @@ msgstr "[测试浏览器](browser/testing.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Helping others](browser/bridging.md)"
-msgstr "[帮助其他人](browser/bridging.md)"
+msgstr "[帮助他人](browser/bridging.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Troubleshooting](browser/troubleshooting.md)"
-msgstr "[快照](browser/troubleshooting.md)"
+msgstr "[故障排除](browser/troubleshooting.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Annex: The Ouinet client front-end](client/front-end.md)"
-msgstr "[附件:Ouinet客户前端](client/front-end.md)"
+msgstr "[附录：Ouinet客户端前端](client/front-end.md)"
