@@ -53,7 +53,7 @@ msgstr "[Ceno 是如何工作的？](concepts/how.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Public vs. Personal browsing](concepts/public-personal.md)"
-msgstr "[公共浏览与个人浏览](concepts/public-personal.md)"
+msgstr "[公共浏览和个人浏览](concepts/public-personal.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Advantages of using Ceno/Ouinet](concepts/advantages.md)"
@@ -89,8 +89,8 @@ msgstr "[帮助他人](browser/bridging.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Troubleshooting](browser/troubleshooting.md)"
-msgstr "[故障排除](browser/troubleshooting.md)"
+msgstr "[故障排除指南](browser/troubleshooting.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Annex: The Ouinet client front-end](client/front-end.md)"
-msgstr "[附录：Ouinet客户端前端](client/front-end.md)"
+msgstr "[附录：Ouinet 客户端前端](client/front-end.md)"
