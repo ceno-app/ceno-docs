@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-03 02:50+0200\n"
-"PO-Revision-Date: 2025-07-11 20:02+0000\n"
+"PO-Revision-Date: 2025-07-13 04:01+0000\n"
 "Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/censorship-no/faq/zh_Hans/>\n"
@@ -25,7 +25,7 @@ msgstr "使用"
 
 #: intro/faq.md:block 3 (header)
 msgid "Can Ceno Browser replace my current browser (Chrome/Firefox/Safari)?"
-msgstr "Ceno 浏览器能否代替我现在的浏览器(Chrome/Firefox/Safari)？"
+msgstr "Ceno 浏览器能否代替我现在的浏览器 (Chrome/Firefox/Safari)？"
 
 #: intro/faq.md:block 4 (paragraph)
 msgid "Short answer: yes, at least for some non-critical browsing."
@@ -146,11 +146,11 @@ msgstr "[点击此处](../concepts/how.md)了解更多关于 Ceno "
 
 #: intro/faq.md:block 19 (header)
 msgid "Can anyone see if I am using Ceno Browser to access censored Web sites?"
-msgstr ""
+msgstr "有人能知道我是否在使用 Ceno 浏览器访问被审查的网站吗？"
 
 #: intro/faq.md:block 20 (paragraph)
 msgid "Short answer: yes, with some technical knowledge and resources."
-msgstr ""
+msgstr "简而言之：是的，具备一定的技术知识和资源的话。"
 
 #: intro/faq.md:block 21 (paragraph)
 msgid ""
@@ -160,6 +160,10 @@ msgid ""
 "particular website, although they cannot list all the content that you are "
 "sharing."
 msgstr ""
+"Ceno "
+"并非匿名工具。能够监视你网络流量的攻击者，可以看到从你的设备向其他用户请求的"
+"内容或向其他用户提供的内容。攻击者还能判断你是否在分享某个特定网站，尽管他们"
+"无法列出你正在分享的所有内容。"
 
 #: intro/faq.md:block 22 (paragraph)
 msgid ""
@@ -168,18 +172,21 @@ msgid ""
 "encrypted connections. See [how content retrieval works](../concepts/how.md) "
 "and the associated [risks](../concepts/risks.md) for more information."
 msgstr ""
+"不过，首次接入网络的内容或使用[个人浏览](../concepts/public-"
+"personal.md)的内容，将通过加密连接传输。有关更多信息，请参阅[内容检索原理]("
+"../concepts/how.md)及相关的[风险](../concepts/risks.md)。"
 
 #: intro/faq.md:block 23 (header)
 msgid "Resource usage"
-msgstr ""
+msgstr "资源使用"
 
 #: intro/faq.md:block 24 (header)
 msgid "Does Ceno Browser use a lot of data?"
-msgstr ""
+msgstr "Ceno 浏览器会使用大量数据吗？"
 
 #: intro/faq.md:block 25 (paragraph)
 msgid "Short answer: more than your usual browser."
-msgstr ""
+msgstr "简而言之：比你平时用的浏览器多。"
 
 #: intro/faq.md:block 26 (paragraph)
 msgid ""
