@@ -1,0 +1,48 @@
+#
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: be\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: browser/README.md:block 1 (header)
+msgid "Using Ceno Browser"
+msgstr ""
+
+#: browser/README.md:block 2 (paragraph)
+msgid ""
+"This chapter gives you some hints on the usage of Ceno Browser as far as its "
+"Ouinet-related capabilities are concerned. Please always keep in mind that "
+"Ceno is based on [Firefox for Android][Firefox for Android], so for all "
+"questions on generic browsing topics you should refer to Mozilla's [Firefox "
+"for Android Support][Firefox for Android Support] pages."
+msgstr ""
+
+#: browser/README.md:block 3 (paragraph)
+msgid ""
+"When relevant, screen captures will be included to illustrate the text. "
+"Please note that these may slightly differ from what you see on your device, "
+"especially as Ceno development progresses. This documentation is up to date "
+"for Ceno version 1.6.0."
+msgstr ""
+
+#: browser/README.md:block 4 (paragraph)
+msgid ""
+"If your application exhibits behaviors substantially different from those "
+"described here, do not hesitate to contact us at [cenoers@equalitie.org]"
+"(mailto:cenoers@equalitie.org) and report the issue."
+msgstr ""
+
+#: browser/README.md:block 4 (paragraph)
+msgid "[Firefox for Android]: https://www.mozilla.org/firefox/android/"
+msgstr ""
+
+#: browser/README.md:block 4 (paragraph)
+msgid ""
+"[Firefox for Android Support]: https://support.mozilla.org/en-US/products/"
+"mobile"
+msgstr ""
