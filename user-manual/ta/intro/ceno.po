@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/ceno/"
+"ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: intro/ceno.md:block 1 (header)
 msgid "What is Ceno Browser?"
-msgstr ""
+msgstr "செனோ உலாவி என்றால் என்ன?"
 
 #: intro/ceno.md:block 2 (paragraph)
 msgid ""
@@ -19,6 +25,10 @@ msgid ""
 "Web content to persist in the network even during heavy filtering and "
 "throttling events."
 msgstr ""
+"செனோ ([தணிக்கை.னோ!] [தணிக்கை. [பியர்-டு-பியர்] [பி 2 பி] (பி 2 பி) ஃபேசன். இது "
+"பன்னாட்டு பிணையம் பரிமாற்றங்களில் ஒட்டுமொத்த நம்பகத்தன்மையைக் குறைக்கிறது, மேலும் கடுமையான "
+"வடிகட்டுதல் மற்றும் தூண்டுதல் நிகழ்வுகளின் போது கூட நெட்வொர்க்கில் அடிக்கடி கோரப்பட்ட வலை "
+"உள்ளடக்கம் தொடர்ந்து இருக்க அனுமதிக்கிறது."
 
 #: intro/ceno.md:block 3 (paragraph)
 msgid ""
@@ -28,6 +38,10 @@ msgid ""
 "anticipation of aggressive Internet filtering and the establishment of "
 "[national intranets][national intranets] to fence off nations from the Web."
 msgstr ""
+"செனோவை பிற சுற்றளவு முயற்சிகளிலிருந்து வேறுபடுத்துவது என்னவென்றால், தேசிய எல்லைகளில் "
+"(அல்லது மிகவும் வரையறுக்கப்பட்ட) இணைப்பு இல்லாதபோது கூட பயனர்கள் வலை உள்ளடக்கத்தைப் "
+"பகிர்ந்து கொள்ளலாம். வன்கவர்வு இணைய வடிகட்டுதல் மற்றும் வலையிலிருந்து நாடுகளை வேலைக்கு "
+"[தேசிய அகங்கள்] [தேசிய அகங்கள்] நிறுவுவதில் CENO கட்டப்பட்டுள்ளது."
 
 #: intro/ceno.md:block 4 (paragraph)
 msgid ""
@@ -37,10 +51,15 @@ msgid ""
 "technology allowing it to share content between devices (described in later "
 "sections)."
 msgstr ""
+"பிரபலமான, நவீன, நற்பொருத்தம் நிறைந்த மற்றும் பாதுகாப்பான இலவச/லிப்ரே/திறந்த மூல உலாவி, "
+"[ஆண்ட்ராய்டுக்கான பயர்பாக்ச்] [ஆண்ட்ராய்டுக்கான பயர்பாக்ச்] இன் தழுவிய பதிப்பில் செனோ உலாவி "
+"கட்டப்பட்டுள்ளது. செனோ ஃபயர்பாக்சை ** ouinet ** உடன் விரிவுபடுத்துகிறது, இது "
+"சாதனங்களுக்கு இடையில் உள்ளடக்கத்தைப் பகிர்ந்து கொள்ள அனுமதிக்கும் அடிப்படை தொழில்நுட்பம் "
+"(பிற்கால பிரிவுகளில் விவரிக்கப்பட்டுள்ளது)."
 
 #: intro/ceno.md:block 5 (header)
 msgid "Who develops Ceno?"
-msgstr ""
+msgstr "செனோவை உருவாக்குவது யார்?"
 
 #: intro/ceno.md:block 6 (paragraph)
 msgid ""
@@ -53,6 +72,11 @@ msgid ""
 "[cenoers@equalitie.org](mailto:cenoers@equalitie.org) in case of doubt or "
 "for further information."
 msgstr ""
+"[தணிக்கை. CENO மற்றும் தொடர்புடைய தொழில்நுட்பங்கள் இலவச/லிப்ரே/திறந்த மூல மென்பொருளாக "
+"([திட்ட மூல] (https://gitlab.com/censorship-no/ \"CENO மூலக் குறியீடு களஞ்சியங்கள்"
+"\") என உருவாக்கப்பட்டுள்ளன), யாரையும் பயன்படுத்த, ஆய்வு, பகிர்வு மற்றும் அதை மேம்படுத்தவும்"
+". ஐயம் அல்லது மேலதிக தகவல்களுக்கு [cenoers@equalitie.org] (mailto: "
+"cenoers@equalitie.org) ஐ தொடர்பு கொள்ளவும்."
 
 #: intro/ceno.md:block 7 (header)
 msgid "Who is it for?"
@@ -67,6 +91,12 @@ msgid ""
 "content among users, creating a decentralized network of peers helping each "
 "other."
 msgstr ""
+"CENO என்பது அனைவருக்கும் பொருந்தும், ஆனால் அவர்களின் நெட்வொர்க்கில் தணிக்கை செய்யப்படும் வலை "
+"உள்ளடக்கத்தில் ஆர்வமுள்ளவர்களுக்கு மற்றும் உலகளாவிய இணையத்துடன் இணைப்பு கவனக்குறைவான, "
+"நம்பமுடியாத அல்லது விலை உயர்ந்ததாக இருக்கும் நாடுகளில் வசிப்பவர்களுக்கும் குறிப்பாக "
+"வசதியானது. இது பயனர்களிடையே வலை உள்ளடக்கத்தைப் பகிர்வதை ஊக்குவிக்கிறது மற்றும் "
+"செயல்படுத்துகிறது, ஒருவருக்கொருவர் உதவும் சகாக்களின் பரவலாக்கப்பட்ட வலையமைப்பை "
+"உருவாக்குகிறது."
 
 #: intro/ceno.md:block 9 (paragraph)
 msgid ""
@@ -75,6 +105,10 @@ msgid ""
 "operating a standard Web browser (Ceno-specific functionality is largely "
 "hidden under the hood)."
 msgstr ""
+"நீங்கள் ஒரு மேம்பட்ட கணினி பயனராக இருக்க வேண்டிய அவசியமில்லை அல்லது CENO ஐப் பயன்படுத்த "
+"பியர்-டு-பியர் நெட்வொர்க்குகள் எவ்வாறு இயங்குகின்றன என்பதைப் புரிந்து கொள்ளவும் தேவையில்லை. "
+"பயனர் பட்டறிவு ஒரு நிலையான வலை உலாவியை இயக்குவதற்கு ஒத்ததாகும் (செனோ-குறிப்பிட்ட "
+"செயல்பாடு பெரும்பாலும் ஊட்டின் கீழ் மறைக்கப்படுகிறது)."
 
 #: intro/ceno.md:block 10 (paragraph)
 msgid ""
@@ -86,6 +120,13 @@ msgid ""
 "mobile data limits (should you have them), but also to increase the chances "
 "of being able to deliver Web content to other users."
 msgstr ""
+"எவ்வாறாயினும், உங்கள் வழக்கமான வலை உலாவியை விட அதிகமான இணைய போக்குவரத்தை செனோ உருவாக்"
+"க முடியும் - ஏனெனில் இது நெட்வொர்க்கில் எந்த வலை உள்ளடக்கத்தைப் பகிர்ந்து கொள்கிறது என்பதை "
+"மற்ற பயனர்களுக்குத் தெரியப்படுத்த வேண்டும், மேலும் இந்த உள்ளடக்கத்தை கோருவவர்களுக்கு வழங்கலாம்"
+". செனோ இவ்வாறு மிதமான நல்ல நாட்டின் இணைப்பை நம்பியுள்ளது. மொபைல் தரவு வரம்புகளை "
+"வெளியேற்றுவதைத் தவிர்ப்பதற்கு மட்டுமல்லாமல் (உங்களிடம் இருக்க வேண்டும்), ஆனால் பிற "
+"பயனர்களுக்கு வலை உள்ளடக்கத்தை வழங்குவதற்கான வாய்ப்புகளை அதிகரிக்கவும் வைஃபை உடன் "
+"இணைக்கும்போது CENO ஐப் பயன்படுத்த பரிந்துரைக்கிறோம்."
 
 #: intro/ceno.md:block 11 (quote)
 msgid ""
@@ -96,6 +137,11 @@ msgid ""
 "public-personal.md) and [risks](../concepts/risks.md) for further "
 "information."
 msgstr ""
+"** எச்சரிக்கை: ***செனோ ஒரு அநாமதேய கருவி அல்ல.*உண்மையில், CENO ஐப் பயன்படுத்துவது "
+"நீங்கள் சில வலை உள்ளடக்கத்தை அணுகியிருக்கிறீர்களா அல்லது பகிர்கிறீர்களா என்பதை மற்றவர்களுக்கு "
+"அறிய அனுமதிக்கலாம். இந்த கருவியைப் பயன்படுத்துவதன் மூலம் எந்த அபாயங்களை நீங்கள் கருதலாம் "
+"என்பதை கவனமாக கவனியுங்கள். மேலும் தகவலுக்கு [பொது எதிராக தனிப்பட்ட உலாவல்] (../ "
+"கருத்துக்கள்/பொது-தனிநபர்.எம்டி) மற்றும் [அபாயங்கள்] (../ கருத்துக்கள்/அபாயங்கள்."
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[Censorship.no!]: https://censorship.no/"
@@ -107,11 +153,11 @@ msgstr ""
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[national intranets]: https://en.wikipedia.org/wiki/National_intranet"
-msgstr ""
+msgstr "[national intranets]: https://en.wikipedia.org/wiki/National_intranet"
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[Firefox for Android]: https://www.mozilla.org/firefox/android/"
-msgstr ""
+msgstr "[Firefox க்கு Android]: https://www.mozilla.org/firefox/android/"
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[eQualitie]: https://equalit.ie/"
@@ -122,7 +168,9 @@ msgid ""
 "[Universal Declaration of Human Rights]: https://www.un.org/en/universal-"
 "declaration-human-rights/"
 msgstr ""
+"[Universal சாற்றுதல் of Human Rights]: https://www.un.org/en/"
+"universal-declaration-human-rights/"
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[ceno-repos]: https://gitlab.com/censorship-no/"
-msgstr ""
+msgstr "[செனோ-காப்பகங்கள்]: https://gitlab.com/censorship-no/"

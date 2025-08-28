@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"ouinet/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: intro/ouinet.md:block 1 (header)
 msgid "What is Ouinet?"
-msgstr ""
+msgstr "ஓவினெட் என்றால் என்ன?"
 
 #: intro/ouinet.md:block 2 (paragraph)
 msgid ""
@@ -18,6 +24,12 @@ msgid ""
 "([peer-to-peer][P2P] or P2P) to help access and store new Web content, and "
 "to request and deliver previously accessed content to others."
 msgstr ""
+"[OUinet] [Ouinet] என்பது ஒரு முக்கிய தொழில்நுட்பமாகும், இது CENO உலாவியை மற்ற "
+"சாதனங்களுடன் வலை உள்ளடக்கத்தைப் பகிர்ந்து கொள்ள அனுமதிக்கிறது. மீண்டும் பயன்படுத்தக்கூடிய "
+"கணினி குறியீடு (ஒரு நூலகம்) வடிவத்தில் OUinet வருகிறது, இது நேரடியாக தொடர்பு "
+"கொள்ளும் ([பியர்-டு-பியர்] [பி 2 பி] அல்லது பி 2 பி) ஒத்துழைக்கும் முனைகளின் "
+"வலையமைப்பில் பங்கேற்பாளராக மாற பயன்படுத்தலாம் புதிய வலை உள்ளடக்கத்தை சேமித்து, முன்னர் "
+"அணுகப்பட்ட உள்ளடக்கத்தை மற்றவர்களுக்கு கோருவதற்கும் வழங்குவதற்கும்."
 
 #: intro/ouinet.md:block 3 (paragraph)
 msgid ""
@@ -31,6 +43,16 @@ msgid ""
 "Ouinet allows replacing particular technologies with others if needed (for "
 "instance, some uses of µTP can be replaced by Tor's Pluggable Transports)."
 msgstr ""
+"ஓவினெட் அதன் ஒவ்வொரு செயல்பாடுகளையும் நிறைவேற்ற ஒரு புத்திசாலித்தனமான கலவையையும், "
+"தற்போதுள்ள தொழில்நுட்பங்களின் பயன்பாட்டையும் அடிப்படையாகக் கொண்டது: மற்ற பங்கேற்பாளர்களைக் "
+"கண்டறிவது கோப்பு பகிர்வு உலகத்திலிருந்து வரும் நுட்பங்களுடன் செய்யப்படுகிறது "
+"(பிட்டோரெண்டின் விநியோகிக்கப்பட்ட ஆச் அட்டவணை), அவற்றுடன் தொடர்புகொள்வது பொதுவான வலை "
+"மற்றும் கோப்பைப் பயன்படுத்துகிறது- பகிர்வு நெறிமுறைகள் (HTTP பதிலாள் கோரிக்கைகள் மற்றும் "
+"பிட்டொரெண்டின் µTP), மற்றும் நவீன தொழில் தரநிலைகள் தகவல்தொடர்புகளின் பாதுகாப்பையும் "
+"பரிமாற்றப்பட்ட உள்ளடக்கத்தின் நம்பகத்தன்மையையும் உறுதி செய்கின்றன (TLS குறியாக்கம் மற்றும் "
+"ED25519 கையொப்பங்கள்). தேவைப்பட்டால் குறிப்பிட்ட தொழில்நுட்பங்களை மற்றவர்களுடன் மாற்ற "
+"OUineint அனுமதிக்கிறது (உதாரணமாக, µTP இன் சில பயன்பாடுகளை டோரின் சொருகக்கூடிய "
+"போக்குவரத்துகளால் மாற்றலாம்)."
 
 #: intro/ouinet.md:block 4 (paragraph)
 msgid ""
@@ -38,16 +60,21 @@ msgid ""
 "Android library). In computers, it can be used by normal Web clients like "
 "browsers (as a local HTTP proxy)."
 msgstr ""
+"மொபைல் சாதனங்களில், ஓவினெட் இறுதி பயனர் பயன்பாடுகளில் (ஆண்ட்ராய்டு நூலகமாக) "
+"உட்பொதிக்கப்படலாம். கணினிகளில், உலாவிகள் போன்ற சாதாரண வலை வாடிக்கையாளர்களால் இதைப் "
+"பயன்படுத்தலாம் (உள்ளூர் HTTP ப்ராக்சியாக)."
 
 #: intro/ouinet.md:block 5 (paragraph)
 msgid ""
 "Same as Ceno Browser, Ouinet is developed by [eQualitie][eQualitie] as Free/"
 "Libre/Open-Source software."
 msgstr ""
+"செனோ உலாவியைப் போலவே, ஓவினெட் [சமநிலை] [சமநிலை] இலவச/லிப்ரே/திறந்த-மூல மென்பொருளா"
+"க உருவாக்கப்படுகிறது."
 
 #: intro/ouinet.md:block 6 (header)
 msgid "Who is it for?"
-msgstr ""
+msgstr "அது யாருக்காக?"
 
 #: intro/ouinet.md:block 7 (paragraph)
 msgid ""
@@ -57,6 +84,11 @@ msgid ""
 "server and improves content accessibility for users living in countries that "
 "block access to that server."
 msgstr ""
+"மென்பொருள் உருவாக்குநர்கள், உள்ளடக்க படைப்பாளர்கள் மற்றும் வெளியீட்டாளர்களுக்கு ஓவினெட் "
+"பெரும்பாலும் பயனுள்ளதாக இருக்கும், அவர்கள் தங்கள் பயன்பாடுகளின் பயனர்களை மற்ற பயனர்களுடன் "
+"மீட்டெடுக்கப்பட்ட உள்ளடக்கத்தைப் பகிர உதவ விரும்புகிறார்கள். இது பயன்பாட்டு சேவையகத்தின் "
+"ஒட்டுமொத்த தேவையை குறைக்கிறது மற்றும் அந்த சேவையகத்திற்கான அணுகலைத் தடுக்கும் நாடுகளில் "
+"வாழும் பயனர்களுக்கான உள்ளடக்க அணுகலை மேம்படுத்துகிறது."
 
 #: intro/ouinet.md:block 8 (paragraph)
 msgid ""
@@ -66,20 +98,28 @@ msgid ""
 "org](mailto:cenoers@equalitie.org), test it and report back - your feedback "
 "is very welcome!"
 msgstr ""
+"ஓவினெட் ஒரு வளர்ந்து வரும் சோதனைத் திட்டமாகும் என்பதை நினைவில் கொள்க: சில நற்பொருத்தங்கள் "
+"சில சூழ்நிலைகளில் நம்பத்தகுந்த வகையில் செயல்படாது, பிழைகள் இருக்கலாம் மற்றும் செயலிழப்புகள்"
+" ஏற்படலாம். [Cenoers@equalitie.org] (mailto: cenoers@equalitie.org) இல் எங்களை "
+"அணுக நாங்கள் உங்களை ஊக்குவிக்கிறோம், அதைச் சோதித்து மீண்டும் புகாரளிக்கவும் - உங்கள் கருத்து "
+"மிகவும் வரவேற்கத்தக்கது!"
 
 #: intro/ouinet.md:block 9 (quote)
 msgid ""
 "**Warning:** *Ouinet is not an anonymity tool*. If you are unsure about its "
 "adequacy for a certain task, do not hesitate to contact us."
 msgstr ""
+"** எச்சரிக்கை: ***OUineint ஒரு பெயர் தெரியாத கருவி அல்ல*. ஒரு குறிப்பிட்ட பணிக்கான "
+"அதன் போதுமான தன்மை குறித்து உங்களுக்குத் தெரியாவிட்டால், எங்களை தொடர்பு கொள்ள தயங்க "
+"வேண்டாம்."
 
 #: intro/ouinet.md:block 9 (quote)
 msgid "[Ouinet]: https://gitlab.com/equalitie/ouinet/"
-msgstr ""
+msgstr "[ஓவினெட்]: https://gitlab.com/equalitie/ouinet/"
 
 #: intro/ouinet.md:block 9 (quote)
 msgid "[P2P]: https://en.wikipedia.org/wiki/Peer-to-peer"
-msgstr ""
+msgstr "[P2P]: https://en.wikipedia.org/wiki/Peer-to-peer"
 
 #: intro/ouinet.md:block 9 (quote)
 msgid "[eQualitie]: https://equalit.ie/"

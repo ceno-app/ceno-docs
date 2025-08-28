@@ -1,13 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-11 21:14+0000\n"
+"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-public-private/ru/>\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
-msgstr ""
+msgstr "Публичный и персональный режим просмотра"
 
 #: browser/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +23,10 @@ msgid ""
 "the content that you browse with others (Public browsing) or not (Personal "
 "browsing)."
 msgstr ""
+"Как описано [в предыдущем разделе](./concepts/public-person.md), Ceno имеет "
+"два различных режима работы в зависимости от того, хотите ли вы поделиться "
+"контентом, который вы просматриваете, с другими (публичный просмотр) или нет "
+"(персональный просмотр)."
 
 #: browser/public-personal.md:block 3 (paragraph)
 msgid ""
@@ -27,24 +38,34 @@ msgid ""
 "choose *Personal Tabs* on the homepage or switch to the Personal mode icon "
 "in the Tabs menu."
 msgstr ""
+"Эта настройка применяется *к каждой вкладке*, которую вы открываете в "
+"браузере, т. е. у вас могут быть публичные вкладки и личные. По умолчанию, "
+"при запуске Ceno или открытии новой вкладки (с помощью опции \"Публичные "
+"вкладки\" на домашней странице или значка \"Вкладки\" рядом со значком "
+"\"Очистить\" в адресной строке) используется режим публичного просмотра. "
+"Чтобы открыть новую вкладку в режиме личного просмотра, просто выберите *"
+"Личные вкладки* на главной странице или переключитесь на значок личного "
+"режима в меню \"Вкладки\"."
 
 #: browser/public-personal.md:block 4 (paragraph)
 msgid ""
 "You can tell public tabs from personal ones because public tabs have a "
 "lighter (or white) tool bar:"
 msgstr ""
+"Вы можете отличить публичную вкладку от персональной, так как у публичных "
+"вкладок более светлая (или белая) панель:"
 
 #: browser/public-personal.md:block 5 (paragraph)
 msgid "![Figure: A Public browsing tab](images/public-tab.png)"
-msgstr ""
+msgstr "![Figure: Вкладка \"Публичный просмотр\"](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
-msgstr ""
+msgstr "А у личных более тёмная:"
 
 #: browser/public-personal.md:block 7 (paragraph)
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
-msgstr ""
+msgstr "![Figure: Вкладка \"Личный просмотр\"](images/private-tab.png)"
 
 #: browser/public-personal.md:block 8 (paragraph)
 msgid ""
@@ -52,3 +73,6 @@ msgid ""
 "help you know how it actually retrieved the different elements of the "
 "content. We will cover this icon later on."
 msgstr ""
+"Как только вы загрузили страницу в вкладке, иконка Ceno в строке адреса "
+"поможет вам узнать, как она на самом деле извлекла различные элементы "
+"контента. Мы закроем эту икону позже."

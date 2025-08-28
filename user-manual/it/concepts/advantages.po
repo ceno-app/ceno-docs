@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-14 04:18+0000\n"
+"Last-Translator: ambi <oskar@marvi.it>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/censorship-no/"
+"manual/advantages/it/>\n"
+"Language: it\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
+
+#: concepts/advantages.md:block 1 (header)
+msgid "Advantages of using Ceno/Ouinet"
+msgstr "Vantaggi nell'uso di Ceno/Ouinet"
+
+#: concepts/advantages.md:block 2 (paragraph)
+#, fuzzy
+msgid ""
+"The main advantages of using Ceno and Ouinet over other circumvention "
+"technologies stem from the cooperation of clients and injectors to forward "
+"traffic for one another, sign content for later verification, and store "
+"signed content for seeding to others. Some advantages worth mentioning are:"
+msgstr ""
+"I vantaggi principali di usare Ceno e Ouinet rispetto ad altre tecnologie di "
+"elusione derivano dalla cooperazione di client e iniettori per inoltrare il "
+"traffico l'uno all'altro, registrare contenuti per una verifica futura, e "
+"immagazzinare contenuti registrati per motivi di seeding per altri. Alcuni "
+"vantaggi degni di nota sono:"
+
+#: concepts/advantages.md:block 3 (unordered list)
+msgid ""
+"**Familiar usage:** Accessing Web content using Ceno Browser feels quite "
+"like surfing the Web on your habitual browser, even during complete "
+"blocking. There is no need for new custom links to popular content, or "
+"special actions from the user (like transferring files between applications)."
+msgstr ""
+"**Utilizzo famigliare:** Accedere contenuti del Web usando Ceno Browser è "
+"come navigare nel Web sul tuo browser abituale, anche durante il blocco "
+"completo. Non c'è la necessità di link personalizzati per contenuti "
+"popolari, o azioni particolari da parte dell'utente (come trasferire file da "
+"un'applicazione all'altra)."
+
+#: concepts/advantages.md:block 3 (unordered list)
+#, fuzzy
+msgid ""
+"**Increased availability of content:** Ouinet is able to provide content in "
+"an efficient and trusted manner in situations of extreme network "
+"interference. The more popular some particular content gets, the more copies "
+"of it get seeded by Ceno/Ouinet clients, and the more available it becomes."
+msgstr ""
+"**Maggior disponibilità di contenuti:** Ouinet è in grado di fornire "
+"contenuti in modo efficiente e sicuro in situation in cui la rete è "
+"occupata. Più un contenuto diventa popolare, più copie di esso vengono "
+"\"seedate\" da client Ceno/Ouinet, così da renderlo più accessibile."
+
+#: concepts/advantages.md:block 3 (unordered list)
+#, fuzzy
+msgid ""
+"Signed content may be brought into particular clients in a disconnected area "
+"over offline means (e.g. a USB drive) and thus made available to other "
+"clients."
+msgstr ""
+"I contenuti registrati possono essere portati in determinati client in "
+"un'area disconnessa tramite mezzi offline (ad esempio un'unità USB) e quindi "
+"resi disponibili ad altri client."
+
+#: concepts/advantages.md:block 3 (unordered list)
+msgid ""
+"**Faster browsing:** Since your client can retrieve different parts of the "
+"same content from various clients at the same time, the load of delivering "
+"the content is distributed among different networks and devices, thus "
+"avoiding clogging the paths to a single client (especially when delivering a "
+"big resource like a video). This is not only useful when infrastructure "
+"connecting to other countries is limited, but also for publishers to avoid "
+"resource usage spikes at origin servers when some of their content becomes "
+"very popular (the so-called [Slashdot effect][Slashdot effect])."
+msgstr ""
+"**Ricerca più veloce:** Dato che il tuo client può ricevere parti diverse "
+"dello stesso contenuto da vari client contemporaneamente, il contenuto viene "
+"diviso in parti diverse e distribuito tra varie connessioni e dispositivi, "
+"evitando quindi di intasare il percoso di un singolo client (specialmente "
+"quando viene inviata una risorsa grande come un video). Questo è utile non "
+"solo quando l'infrastruttura della rete rende limitata la connessione con "
+"altri paesi, ma anche per gli editori per evitare picchi di utilizzo delle "
+"risorse sui server di origine quando alcuni dei loro contenuti diventano "
+"molto popolari (il cosiddetto [effetto Slashdot] [effetto Slashdot])."
+
+#: concepts/advantages.md:block 3 (unordered list)
+#, fuzzy
+msgid ""
+"**Cheaper browsing:** Content popular in a particular region tends to get "
+"copied in Ceno/Ouinet clients in that region, even if the origin server is "
+"abroad. If you are interested in that content, your client will probably get "
+"it from some other client in your region. In some countries where "
+"international traffic is more expensive than local one (e.g. in the presence "
+"of a [national intranet][National intranet]), this can actually save you "
+"money."
+msgstr ""
+"**Ricerca più economica:** Un contenuto popolare in una regione specifica "
+"tende ad essere copiato nie client Ceno/Ouinet di quella regione, anche se "
+"il server di origine si trova altrove. Se sei interessato in quel contenuto, "
+"il tuo client probabilmente lo prenderà da altri client della tua regione. "
+"In alcuni paesi dove il traffico internazione è più costoso di quello locale "
+"(es. in presenza di un [national intranet][National intranet]), questo può "
+"farti spendere di meno."
+
+#: concepts/advantages.md:block 3 (unordered list)
+msgid "[Slashdot effect]: https://en.wikipedia.org/wiki/Slashdot_effect"
+msgstr ""
+
+#: concepts/advantages.md:block 3 (unordered list)
+msgid "[National intranet]: https://en.wikipedia.org/wiki/National_intranet"
+msgstr ""

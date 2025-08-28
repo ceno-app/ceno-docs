@@ -3,17 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2023-09-05 22:20+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2025-02-25 16:31+0000\n"
+"Last-Translator: Hubert Naciasta <hubert.naciasta@tuta.io>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
-"browser-install/pl/>\n"
+"manual/browser-install/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 #
 #: browser/install.md:block 1 (header)
@@ -45,8 +45,8 @@ msgid ""
 "[Paskoocheh][ceno-pask]: for users in countries blocking access to the "
 "previous channels."
 msgstr ""
-"[Paskoocheh][ceno-pask]: w przypadku użytkowników mieszkających w krajach "
-"blokujących możliwość skorzystania z poprzednich metod."
+"[Paskoocheh][ceno-pask]: w przypadku użytkowników w krajach blokujących "
+"możliwość skorzystania z metod opisanych powyżej."
 
 #: browser/install.md:block 4 (paragraph)
 msgid ""
@@ -61,15 +61,6 @@ msgstr ""
 "uprawnień*."
 
 #: browser/install.md:block 5 (quote)
-#, fuzzy
-#| msgid ""
-#| "**Warning:** Please be *extremely skeptical* about installing Ceno "
-#| "Browser from sources other than the ones listed above. Because of the "
-#| "application's nature, their potential users may become a target for all "
-#| "kinds of fake or manipulated versions used to violate user privacy or "
-#| "attack other Ceno and Ouinet users. If in doubt, please contact "
-#| "[cenoers@equalit.ie](mailto:cenoers@equalit.ie) before installing a "
-#| "suspicious app."
 msgid ""
 "**Warning:** Please be *extremely skeptical* about installing Ceno Browser "
 "from sources other than the ones listed above. Because of the application's "
@@ -78,17 +69,18 @@ msgid ""
 "Ouinet users. If in doubt, please contact [cenoers@equalitie.org](mailto:"
 "cenoers@equalitie.org) before installing a suspicious app."
 msgstr ""
-"**Uwaga:** Prosimy o zachowanie *szczególnego sceptyzmu* wobec metod "
-"instalacji Przeglądarki Ceno innych niż te podane powyżej. Z powodu natury "
-"aplikacji, jej potencjalni użytkownicy mogą stać się ofiarami wszelakich "
-"fałszywych lub zmodyfikowanych jej wersji wykorzystywanych do naruszenia "
-"prywatności użytkowników lub atakowania innych użytkowników Ceno i Ouinet. W "
-"razie wątpliwości prosimy o kontakt [cenoers@equalitie.org](mailto:"
-"cenoers@equalitie.org) przed instalacją aplikacji z podejrzanego źródła."
+"**Uwaga:** Prosimy o zachowanie *szczególnej ostrożności* wobec metod "
+"instalacji Przeglądarki Ceno innych niż te opisane powyżej. Z powodu "
+"charakteru Ceny, potencjalni użytkownicy mogą stać się ofiarami wszelakich "
+"fałszywych lub zmodyfikowanych jej wersji, wykorzystywanych do naruszenia "
+"prywatności użytkowników lub ataku na innych użytkowników Ceny i Ouinetu. W "
+"razie wątpliwości prosimy o kontakt pod adresem [cenoers@equalitie.org]"
+"(mailto:cenoers@equalitie.org) przed instalowaniem aplikacji z podejrzanego "
+"źródła."
 
 #: browser/install.md:block 6 (header)
 msgid "Stopping Ceno completely"
-msgstr ""
+msgstr "Całkowite zatrzymywanie Ceno"
 
 #: browser/install.md:block 7 (paragraph)
 msgid ""
@@ -98,6 +90,11 @@ msgid ""
 "allows other clients to use your device as a bridge and retrieve content "
 "from it at any time."
 msgstr ""
+"Po uruchomieniu aplikacji w pasku powiadomień twojego urządzenia pojawi się "
+"ikona Ceny, która sygnalizuje działanie *usługi Przeglądarki Ceno* – części "
+"Ceny, która stale działa w tle (nawet wtedy, kiedy nie surfujesz po "
+"internecie). Pozwala ona pozostałym klientom na używanie twojego urządzenia "
+"jako mostek i pozyskiwanie zawartości z jego pomocą w każdej chwili."
 
 #: browser/install.md:block 8 (paragraph)
 msgid ""
@@ -106,16 +103,23 @@ msgid ""
 "far from a charger). Tapping on the notification attached to the icon will "
 "stop both Ceno and its service at once (until you open Ceno again)."
 msgstr ""
+"Działanie tej usługi zwiększa użycie procesora i sieci, więc dobrym pomysłem "
+"jest wyłączenie jej, kiedy jesteś w ruchu (tzn. kiedy korzystasz z danych "
+"komórkowych lub nie masz przy sobie ładowarki). Naciśnięcie powiadomienia "
+"powiązanego z ikoną natychmiast zatrzyma zarówno Ceno, jak i jego usługę (do "
+"momentu ponownego uruchomienia Ceno)."
 
 #: browser/install.md:block 9 (paragraph)
 msgid ""
 "![Figure: Tap on the notification to stop the Ceno service](images/tap-stop."
 "png)"
 msgstr ""
+"![Ilustracja: Naciśnij powiadomienie, aby zatrzymać usługę Ceno](images/tap-"
+"stop.png)"
 
 #: browser/install.md:block 10 (header)
 msgid "Purging all Ceno data (the \"panic button\")"
-msgstr ""
+msgstr "Czyszczenie wszystkich danych Ceny („przycisk paniki”)"
 
 #: browser/install.md:block 11 (paragraph)
 msgid ""
@@ -124,6 +128,10 @@ msgid ""
 "action will just open Ceno with a new public browsing tab showing its home "
 "page. The *Erase* action demands more explanation."
 msgstr ""
+"Powiadomienie *usługi Przeglądarki Ceno* opisane powyżej zawiera kilka "
+"dodatkowych działań, które mogą być aktywowane, naciskając na nie. Opcja *"
+"Strona domowa* otwiera Cenę z nową kartą w trybie przeglądania Publicznego. "
+"Opcja *Wyczyść* wymaga dalszych wyjaśnień."
 
 #: browser/install.md:block 12 (quote)
 msgid ""
@@ -132,6 +140,10 @@ msgid ""
 "only see the *Home* action, your device may be too old to support the "
 "*Erase* action."
 msgstr ""
+"**Informacja:** Jeśli opisane wcześniej działania nie są widoczne, spróbuj "
+"rozwinąć powiadomienie, przeciągając nim do dołu ekranu. Jeśli widzisz tylko "
+"opcję *Strona domowa*, twoje urządzenie może być za stare, aby obsługiwać "
+"opcję *Wyczyść*."
 
 #: browser/install.md:block 13 (paragraph)
 msgid ""
@@ -141,12 +153,19 @@ msgid ""
 "your data accidentally, this will not remove anything yet, but just show an "
 "additional action for a brief moment, as pictured below:"
 msgstr ""
+"Jeśli kiedykolwiek zajdzie potrzeba szybkiego zatrzymania Ceno i usunięcia "
+"wszystkich danych z nim związanych (nie tylko zawartości w pamięci "
+"podręcznej, ale też historii przeglądania oraz ustawień, wliczając zakładki "
+"i hasła), możesz nacisnąć *Wyczyść*. Aby zapobiec przypadkowej utracie "
+"danych, otrzymasz prośbę o potwierdzenie takie, jak to pokazane poniżej:"
 
 #: browser/install.md:block 14 (paragraph)
 msgid ""
 "![Figure: The last action stops Ceno and clears all its data](images/tap-"
 "purge.png)"
 msgstr ""
+"![Ilustracja: Ostatnia opcja zatrzymuje Ceno i usuwa wszystkie jego dane]("
+"images/tap-purge.png)"
 
 #: browser/install.md:block 15 (paragraph)
 msgid ""
@@ -154,10 +173,15 @@ msgid ""
 "removed *without further questions*, effectively leaving your device as if "
 "Ceno had never been used."
 msgstr ""
+"Naciśnięcie opcji *Tak* zatrzyma Ceno i usunie wszystkie jego dane *bez "
+"żadnego dalszego potwierdzenia*, pozostawiając twoje urządzenie tak, jakby "
+"Ceno nigdy nie było na nim używane."
 
 #: browser/install.md:block 16 (paragraph)
 msgid "If you do not tap on the action, it will go away in a few seconds."
 msgstr ""
+"Jeśli nie naciśniesz opcji *Tak*, prośba o potwierdzenie zniknie po kilku "
+"sekundach."
 
 #: browser/install.md:block 17 (quote)
 msgid ""
@@ -169,23 +193,26 @@ msgstr ""
 
 #: browser/install.md:block 17 (quote)
 msgid "As a harsher alternative, you may completely uninstall the app."
-msgstr ""
+msgstr "Jako radykalne rozwiązanie możesz całkowicie odinstalować aplikację."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "**Warning:** Android may still keep other traces of having used an app "
 "besides its data, for instance in its system log."
 msgstr ""
+"**Uwaga:** System Android może przechowywać informacje o użyciu aplikacji "
+"poza jej danymi, na przykład w dzienniku zdarzeń."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 msgstr ""
+"[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
-msgstr ""
+msgstr "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
-msgstr ""
+msgstr "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"

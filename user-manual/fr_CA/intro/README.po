@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 11:01+0000\n"
+"Last-Translator: Johanie Martin Lafond <omgwtfgtfoomw@gmail.com>\n"
+"Language-Team: French (Canada) <https://hosted.weblate.org/projects/"
+"censorship-no/readme/fr_CA/>\n"
 "Language: fr_CA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: intro/README.md:block 1 (header)
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: intro/README.md:block 2 (paragraph)
 msgid ""
@@ -21,6 +27,16 @@ msgid ""
 "(https://censoredplanet.org/reports \"Censored Planet – Reports\")), both "
 "from private and state actors."
 msgstr ""
+"L'Internet et le World Wide Web sont devenus de plus en plus importants pour "
+"les gens du monde entier comme source de toutes sortes d'informations, et un "
+"moyen d'exercer les droits fondamentaux. Dans le même temps, les dernières "
+"années ont connu une augmentation de toutes sortes de censure des réseaux et "
+"d ' autres types d ' interférences entre les réseaux (voir les rapports de "
+"[OONI] (https://ooni.org/reports/ "
+"\"Open Observatory of Network Interference – Research reports\"), [Magma]"
+"(https://magma.lavafeld.org/publications/ \"Magma publications\"), "
+"[Censored Planet](https://censoredplanet.org/reports "
+"\"Censored Planet – Reports\"), à la fois des acteurs privés et étatiques."
 
 #: intro/README.md:block 3 (paragraph)
 msgid ""

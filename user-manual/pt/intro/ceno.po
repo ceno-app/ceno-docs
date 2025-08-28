@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-05 22:50+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2025-04-23 00:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "ceno/pt/>\n"
 "Language: pt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: intro/ceno.md:block 1 (header)
 msgid "What is Ceno Browser?"
@@ -140,14 +140,6 @@ msgstr ""
 "outros utilizadores."
 
 #: intro/ceno.md:block 11 (quote)
-#, fuzzy
-#| msgid ""
-#| "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may "
-#| "allow others to know whether you have accessed or are sharing certain Web "
-#| "content. Please take careful consideration of which risks you can assume "
-#| "by using this tool. See the sections on [public vs. private browsing](../"
-#| "concepts/public-private.md) and [risks](../concepts/risks.md) for further "
-#| "information."
 msgid ""
 "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may allow "
 "others to know whether you have accessed or are sharing certain Web content. "
@@ -160,7 +152,7 @@ msgstr ""
 "do Ceno pode permitir que outros saibam se você acedeu ou está a partilhar "
 "certos conteúdos da Web. Por favor, tenha cuidadosamente em consideração "
 "quais os riscos que pode assumir utilizando esta ferramenta. Ver as secções "
-"sobre [navegação pública vs. privada](.../conceitos/público-privado.md) e "
+"sobre [navegação Pública vs. Privada](.../conceitos/público-privado.md) e "
 "[riscos](.../conceitos/riscos.md) para mais informações."
 
 #: intro/ceno.md:block 11 (quote)

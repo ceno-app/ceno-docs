@@ -3,21 +3,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-03 02:50+0200\n"
-"PO-Revision-Date: 2023-05-21 06:52+0000\n"
-"Last-Translator: 钟华听歌 <feizijieluo@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"censorship-no/ouinet/zh_Hans/>\n"
+"PO-Revision-Date: 2025-07-13 04:01+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/ouinet/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #
 #: intro/ouinet.md:block 1 (header)
 msgid "What is Ouinet?"
-msgstr ""
+msgstr "什么是 Ouinet？"
 
 #: intro/ouinet.md:block 2 (paragraph)
 msgid ""
@@ -28,6 +28,12 @@ msgid ""
 "([peer-to-peer][P2P] or P2P) to help access and store new Web content, and "
 "to request and deliver previously accessed content to others."
 msgstr ""
+"[Ouinet][Ouinet] 是一项核心技术，能让 Ceno 浏览器与其他设备共享网络内容。"
+"Ouinet 以可复用的计算机代码（一个库）的形式存在，像 Ceno "
+"这样的应用程序可以借助它成为协作节点网络中的一员；这些节点通过直接通信（"
+"[点对点][P2P]或 "
+"P2P）开展协作，助力访问和存储新的网络内容，同时请求并向他人传递此前访问过的内"
+"容。"
 
 #: intro/ouinet.md:block 3 (paragraph)
 msgid ""
@@ -41,6 +47,14 @@ msgid ""
 "Ouinet allows replacing particular technologies with others if needed (for "
 "instance, some uses of µTP can be replaced by Tor's Pluggable Transports)."
 msgstr ""
+"Ouinet "
+"的各项功能是通过对现有技术的巧妙组合与运用来实现的：定位其他参与者采用的是文"
+"件共享领域的技术（如 BitTorrent "
+"的分布式哈希表）；与这些参与者通信则使用通用的网络及文件共享协议（如 HTTP "
+"代理请求和 BitTorrent 的 µTP 协议）；而现代行业标准（如 TLS 加密和 Ed25519 "
+"签名）则确保了通信的安全性以及所交换内容的真实性。Ouinet "
+"允许在需要时用其他技术替代特定技术（例如，µTP 的某些应用场景可替换为 Tor "
+"的可插拔传输协议）。"
 
 #: intro/ouinet.md:block 4 (paragraph)
 msgid ""
@@ -48,16 +62,19 @@ msgid ""
 "Android library). In computers, it can be used by normal Web clients like "
 "browsers (as a local HTTP proxy)."
 msgstr ""
+"在移动设备上，Ouinet 可被嵌入到终端用户应用程序中（作为一个 Android "
+"库）。在计算机上，它可被普通网络客户端（如浏览器）使用（作为一个本地 HTTP "
+"代理）。"
 
 #: intro/ouinet.md:block 5 (paragraph)
 msgid ""
 "Same as Ceno Browser, Ouinet is developed by [eQualitie][eQualitie] as Free/"
 "Libre/Open-Source software."
-msgstr ""
+msgstr "与 Ceno 浏览器一样，Ouinet 是由[eQualitie][eQualitie]开发的自由/开源软件。"
 
 #: intro/ouinet.md:block 6 (header)
 msgid "Who is it for?"
-msgstr "Ceno的目标用户"
+msgstr "Ceno 面向哪些人群？"
 
 #: intro/ouinet.md:block 7 (paragraph)
 msgid ""
@@ -67,6 +84,10 @@ msgid ""
 "server and improves content accessibility for users living in countries that "
 "block access to that server."
 msgstr ""
+"Ouinet "
+"对于希望使其应用程序的用户能够与其他用户共享检索到的内容的软件开发人员、内容"
+"创建者和发布者来说非常有用。这减少了对应用服务器的总体需求，并提高了居住在封"
+"锁该服务器访问的国家/地区的用户的内容可访问性。"
 
 #: intro/ouinet.md:block 8 (paragraph)
 msgid ""
@@ -76,16 +97,22 @@ msgid ""
 "org](mailto:cenoers@equalitie.org), test it and report back - your feedback "
 "is very welcome!"
 msgstr ""
+"请注意，Ouinet "
+"是一个不断发展的实验性项目：某些功能在特定场景下可能无法足够可靠地运行，可能"
+"存在漏洞并且可能会发生崩溃。我们鼓励您通过 [cenoers@equalitie.org]"
+"(mailto:cenoers@equalitie.org) "
+"与我们联系，进行测试并报告，我们非常欢迎您的反馈！"
 
 #: intro/ouinet.md:block 9 (quote)
 msgid ""
 "**Warning:** *Ouinet is not an anonymity tool*. If you are unsure about its "
 "adequacy for a certain task, do not hesitate to contact us."
-msgstr ""
+msgstr "**警告：** *Ouinet "
+"并非匿名工具*。如果您不确定它是否适合某项任务，请随时与我们联系。"
 
 #: intro/ouinet.md:block 9 (quote)
 msgid "[Ouinet]: https://gitlab.com/equalitie/ouinet/"
-msgstr ""
+msgstr "[Ouinet]: https://gitlab.com/equalitie/ouinet/"
 
 #: intro/ouinet.md:block 9 (quote)
 msgid "[P2P]: https://en.wikipedia.org/wiki/Peer-to-peer"

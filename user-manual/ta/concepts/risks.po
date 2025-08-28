@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"risks/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: concepts/risks.md:block 1 (header)
 msgid "Risks in using Ceno/Ouinet"
-msgstr ""
+msgstr "Ceno/Ouinet ஐப் பயன்படுத்துவதில் அபாயங்கள்"
 
 #: concepts/risks.md:block 2 (paragraph)
 msgid ""
@@ -17,28 +23,34 @@ msgid ""
 "help you understand their implications according to the different roles you "
 "may play when using Ceno:"
 msgstr ""
+"போதுமான சிக்கலான கணினி அமைப்பைப் போலவே, குறிப்பாக இதுபோன்ற புதுமையான ஒன்றையும் போலவே"
+", செனோ உலாவியைப் பயன்படுத்துவது (மற்றும் பொதுவாக எந்த ஓயினெட் கிளையன்ட்) சில "
+"அபாயங்களிலிருந்து விடுபடாது. இந்த பிரிவில், CENO ஐப் பயன்படுத்தும் போது நீங்கள் "
+"வகிக்கக்கூடிய வெவ்வேறு பாத்திரங்களின்படி அவற்றின் தாக்கங்களை புரிந்துகொள்ள உதவும் வகையில் "
+"அவற்றை தொகுத்து விவரிப்போம்:"
 
 #: concepts/risks.md:block 3 (unordered list)
 msgid "as a *user* browsing Web sites"
-msgstr ""
+msgstr "ஒரு * பயனர் * உலாவல் வலைத்தளங்களாக"
 
 #: concepts/risks.md:block 3 (unordered list)
 msgid ""
 "as a *seeder* sharing content over the distributed cache that you previously "
 "visited"
 msgstr ""
+"நீங்கள் முன்பு பார்வையிட்ட விநியோகிக்கப்பட்ட கேச் மீது உள்ளடக்கத்தைப் பகிர்வது * விதை *"
 
 #: concepts/risks.md:block 3 (unordered list)
 msgid "as a *bridge* allowing other users to reach an injector"
-msgstr ""
+msgstr "ஒரு * பாலமாக * மற்ற பயனர்களை ஒரு உட்செலுத்தியை அடைய அனுமதிக்கிறது"
 
 #: concepts/risks.md:block 4 (header)
 msgid "As a user"
-msgstr ""
+msgstr "ஒரு பயனராக"
 
 #: concepts/risks.md:block 5 (header)
 msgid "Can bridges see my communication with the origin server?"
-msgstr ""
+msgstr "ஆரிசின் சேவையகத்துடனான எனது தகவல்தொடர்புகளை பாலங்கள் பார்க்க முடியுமா?"
 
 #: concepts/risks.md:block 6 (paragraph)
 msgid ""
@@ -46,10 +58,14 @@ msgid ""
 "an injector. This communication is always encrypted and bridges do not have "
 "the private keys required to access the content of the communication."
 msgstr ""
+"இல்லை. ஒரு பாலத்தின் ஒரே பங்கு ஒரு வாடிக்கையாளருக்கும் ஊசி மருந்துக்கும் இடையில் மூல "
+"போக்குவரத்தை அனுப்புவதாகும். இந்த தகவல்தொடர்பு எப்போதும் குறியாக்கம் செய்யப்படுகிறது மற்றும்"
+" தகவல்தொடர்பு உள்ளடக்கத்தை அணுக தேவையான தனிப்பட்ட விசைகள் பாலங்களுக்கு இல்லை."
 
 #: concepts/risks.md:block 7 (header)
 msgid "Can injectors see my communication with the origin server?"
 msgstr ""
+"ஆரிசின் சேவையகத்துடனான எனது தகவல்தொடர்புகளை இன்செக்டர்கள் பார்க்க முடியுமா?"
 
 #: concepts/risks.md:block 8 (paragraph)
 msgid ""
@@ -58,6 +74,10 @@ msgid ""
 "from the request by the client, and only then is the request encrypted for "
 "and forwarded to the injector, which proceeds to decrypt it."
 msgstr ""
+"ஆம் மற்றும் இல்லை. பயனர் உள்ளடக்கத்தை [பொது உலாவல் பயன்முறையில்] (பொது-private.md) "
+"கோரும்போது, அனைத்து தனியார் தரவுகளும் (கடவுச்சொற்கள் மற்றும் குக்கீகள் போன்றவை) முதலில் "
+"வாடிக்கையாளரின் கோரிக்கையிலிருந்து அகற்றப்படும், அப்போதுதான் குறியாக்கம் செய்யப்பட்டு "
+"அனுப்பப்படும் கோரிக்கை இன்செக்டர், இது அதை மறைகுறியாக்குகிறது."
 
 #: concepts/risks.md:block 9 (paragraph)
 msgid ""
@@ -66,6 +86,9 @@ msgid ""
 "origin server. This means that in this other case the injector cannot "
 "decrypt the content."
 msgstr ""
+"மறுபுறம், கோரிக்கை தனிப்பட்ட உலாவல் பயன்முறையைப் பயன்படுத்தும் போது, அது கிளையண்டால் "
+"மாற்றியமைக்கப்படவில்லை, ஆனால் முழு தகவல்தொடர்பு மூல சேவையகத்திற்கும் குறியாக்கம் "
+"செய்யப்படுகிறது. இதன் பொருள் இந்த விசயத்தில் இன்செக்டர் உள்ளடக்கத்தை மறைகுறியாக்க முடியாது."
 
 #: concepts/risks.md:block 10 (quote)
 msgid ""
@@ -73,10 +96,13 @@ msgid ""
 "with query parameters removed, along with all but a limited set of "
 "fundamental and privacy-preserving HTTP header fields."
 msgstr ""
+"** தொழில்நுட்ப குறிப்பு: ** `get` http கோரிக்கைகள் உட்செலுத்தலுக்கான வேட்பாளர்கள், வினவல்"
+" அளவுருக்கள் அகற்றப்பட்டன, அனைவருடனும், ஆனால் ஒரு வரையறுக்கப்பட்ட அடிப்படை மற்றும் "
+"தனியுரிமையைப் பாதுகாக்கும் HTTP தலைப்பு புலங்கள்."
 
 #: concepts/risks.md:block 11 (header)
 msgid "Can injectors see my IP address?"
-msgstr ""
+msgstr "இன்செக்டர்கள் எனது ஐபி முகவரியைப் பார்க்க முடியுமா?"
 
 #: concepts/risks.md:block 12 (paragraph)
 msgid ""
@@ -84,10 +110,14 @@ msgid ""
 "Ceno user or a bridge. Thus requests going to the injector cannot be "
 "reliably assigned an originating IP addresses."
 msgstr ""
+"ஆம். இருப்பினும், ஒரு கோரிக்கை ஒரு செனோ பயனரிடமிருந்தோ அல்லது பாலத்திலிருந்தோ வந்ததா "
+"என்பதை உட்செலுத்திகளால் வேறுபடுத்த முடியாது. இவ்வாறு இன்செக்டருக்குச் செல்லும் கோரிக்கைகளை"
+" நம்பத்தகுந்த வகையில் ஒரு ஐபி முகவரிகளை நம்பத்தகுந்ததாக ஒதுக்க முடியாது."
 
 #: concepts/risks.md:block 13 (header)
 msgid "Can my private data leak to the distributed cache?"
 msgstr ""
+"விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பிற்கு எனது தனிப்பட்ட தரவு கசிய முடியுமா?"
 
 #: concepts/risks.md:block 14 (paragraph)
 msgid ""
@@ -99,6 +129,13 @@ msgid ""
 "if the origin server indicated that it is of a private nature, Ceno will not "
 "seed it either."
 msgstr ""
+"வட்டம் இல்லை. மேலே குறிப்பிட்டுள்ளபடி, செனோ உலாவி எந்தவொரு தனியார் தரவையும் "
+"(கடவுச்சொற்கள், குக்கீகள்…) ஊசி போடுவதற்கான எந்தவொரு கோரிக்கையிலிருந்தும் அகற்ற "
+"முயற்சிக்கிறது. கூடுதலாக, இன்செக்டர் எந்த விதைப்பையும் செய்யாது; உண்மையில், அதன் ஒரே "
+"நோக்கம் உள்ளடக்கத்தில் கையொப்பமிடுவதாகும், இதனால் ஓயினெட் வாடிக்கையாளர்கள் அதை விதைக்க "
+"முடியும். இதன் பொருள், உள்ளடக்கம் வாடிக்கையாளரிடம் மீண்டும் வரும்போது, அது மேலும் "
+"பகுப்பாய்வு செய்யப்படுகிறது, மேலும் மூல சேவையகம் இது ஒரு தனிப்பட்ட இயல்புடையதாகக் "
+"சுட்டிக்காட்டினால், செனோ அதை விதைக்காது."
 
 #: concepts/risks.md:block 15 (paragraph)
 msgid ""
@@ -109,10 +146,16 @@ msgid ""
 "org`). If you suspect that a page may be doing that, better be on the safe "
 "side and use Personal browsing for it."
 msgstr ""
+"இருப்பினும், மோசமாக வடிவமைக்கப்பட்ட அல்லது தீங்கிழைக்கும் பக்கங்களின் வழக்குகள் இருக்கலாம், "
+"அவை உங்களிடமிருந்து சில தகவல்களை சேகரிக்கக்கூடும் (ஒரு படிவத்தில் ஒரு மின்னஞ்சல் முகவரி "
+"அல்லது சாவாச்கிரிப்டைப் பயன்படுத்தி சில உலாவி கைரேகைகள் போன்றவை) மற்றும் அதை மற்றொரு "
+"இணைப்பு முகவரி இல் சாதாரண பாதை கூறுகளாக (எ.கா. `http: . ஒரு பக்கம் அதைச் "
+"செய்யக்கூடும் என்று நீங்கள் சந்தேகித்தால், பாதுகாப்பான பக்கத்தில் இருப்பது நல்லது, அதற்காக "
+"தனிப்பட்ட உலாவலைப் பயன்படுத்துங்கள்."
 
 #: concepts/risks.md:block 16 (header)
 msgid "Can the origin server know whether I am using Ceno?"
-msgstr ""
+msgstr "நான் செனோவைப் பயன்படுத்துகிறேனா என்று ஆரிசின் சேவையகத்திற்கு தெரியுமா?"
 
 #: concepts/risks.md:block 17 (paragraph)
 msgid ""
@@ -120,6 +163,9 @@ msgid ""
 "behaves as normal Firefox for Android does, so your particular device "
 "appears as a normal Firefox app of the same version."
 msgstr ""
+"அநேகமாக இல்லை. செனோ ஒரு தோற்றம் சேவையகத்தை நேரடியாக தொடர்பு கொள்ளும்போதெல்லாம், இது "
+"ஆண்ட்ராய்டு க்கான சாதாரண பயர்பாக்சாக செயல்படுகிறது, எனவே உங்கள் குறிப்பிட்ட சாதனம் அதே "
+"பதிப்பின் சாதாரண பயர்பாக்ச் பயன்பாடாக தோன்றும்."
 
 #: concepts/risks.md:block 18 (paragraph)
 msgid ""
@@ -127,12 +173,17 @@ msgid ""
 "server, there are (at least) two ways for the latter to know that Ceno or "
 "Ouinet is involved:"
 msgstr ""
+"இருப்பினும், அதன் மூல சேவையகத்திலிருந்து சில உள்ளடக்கங்களைப் பெற இது ஒரு இன்செக்டரைப் "
+"பயன்படுத்தும்போது, செனோ அல்லது ஓவினெட் சம்பந்தப்பட்டிருப்பதை அறிய இரண்டு வழிகள் உள்ளன "
+"(குறைந்தது) இரண்டு வழிகள் உள்ளன:"
 
 #: concepts/risks.md:block 19 (ordered list)
 msgid ""
 "The source address of the connection reaching the origin server is found in "
 "the injector swarm (since the connection comes indeed from the injector);"
 msgstr ""
+"தோற்றம் சேவையகத்தை அடையும் இணைப்பின் மூல முகவரி இன்செக்டர் திரளில் காணப்படுகிறது (இணைப்பு"
+" உண்மையில் இன்செக்டரிடமிருந்து வந்ததால்);"
 
 #: concepts/risks.md:block 19 (ordered list)
 msgid ""
@@ -142,6 +193,10 @@ msgid ""
 "the injector removes information unique to your particular device from the "
 "request."
 msgstr ""
+"உள்ளடக்கத்திற்கான கோரிக்கையில் சில தகவல்களின் இருப்பு அல்லது இல்லாமை OUinet இன் "
+"சிறப்பியல்பு. இன்செக்டர் உள்ளடக்கத்தைக் கோரும்போது இது நிகழ்கிறது, ஏனெனில் உங்கள் குறிப்பிட்"
+"ட சாதனத்திற்கு தனித்துவமான தகவல்களை கோரிக்கையிலிருந்து இன்செக்டர் நீக்குவதால், அந்த "
+"உள்ளடக்கத்தை மீட்டெடுக்கவும் கையொப்பமிடவும் உங்கள் வாடிக்கையாளர் கேட்டார்."
 
 #: concepts/risks.md:block 20 (paragraph)
 msgid ""
@@ -151,6 +206,11 @@ msgid ""
 "some personally identifiable information, it could be used to mark you as a "
 "Ceno user."
 msgstr ""
+"இவை கோரிக்கையை OUineint இலிருந்து வருவதைக் குறிக்கின்றன என்பதை நினைவில் கொள்க, ஆனால் "
+"அவை அதை உங்களுடன் அல்லது உங்கள் குறிப்பிட்ட சாதனத்துடன் இணைக்காது. இருப்பினும், முந்தைய "
+"கேள்வியில் குறிப்பிடப்பட்ட சில காரணங்களுக்காக கோரிக்கை செய்தால், தனிப்பட்ட முறையில் "
+"அடையாளம் காணக்கூடிய சில தகவல்களைக் கொண்டிருந்தால், உங்களை ஒரு செனோ பயனராகக் குறிக்க இது"
+" பயன்படுத்தப்படலாம்."
 
 #: concepts/risks.md:block 21 (paragraph)
 msgid ""
@@ -158,15 +218,15 @@ msgid ""
 "you to connect to it as an identifiable individual, from a specific region "
 "(or from a [national intranet][National intranet]), we recommend that you "
 "use a normal Web browser instead of Ceno."
-msgstr ""
+msgstr "பொதுவாக. செனோவுக்கு பதிலாக வலை உலாவி."
 
 #: concepts/risks.md:block 22 (header)
 msgid "As a seeder"
-msgstr ""
+msgstr "ஒரு விதை என"
 
 #: concepts/risks.md:block 23 (header)
 msgid "What data is seeded from my device?"
-msgstr ""
+msgstr "எனது சாதனத்திலிருந்து என்ன தரவு விதைக்கப்படுகிறது?"
 
 #: concepts/risks.md:block 24 (paragraph)
 msgid ""
@@ -175,10 +235,13 @@ msgid ""
 "users do not seed anything they have not accessed themselves in the recent "
 "past."
 msgstr ""
+"தற்போது, CENO ஆல் விதைக்கப்பட்ட ஒரே உள்ளடக்கம் பொது உலாவல் பயன்முறையில் கோரப்பட்ட எந்தவொரு "
+"தனியார் அல்லாத வலை உள்ளடக்கம் ஆகும். அண்மைக் கால காலங்களில் பயனர்கள் தங்களை அணுகாத எதையும் "
+"விதைக்க மாட்டார்கள் என்பதும் இதன் பொருள்."
 
 #: concepts/risks.md:block 25 (header)
 msgid "Can an anyone find out what I seed?"
-msgstr ""
+msgstr "நான் விதைப்பதை யாராவது கண்டுபிடிக்க முடியுமா?"
 
 #: concepts/risks.md:block 26 (paragraph)
 msgid ""
@@ -188,26 +251,33 @@ msgid ""
 "specific IP address and get a list of all the content seeded by clients "
 "behind it."
 msgstr ""
+"ஆம் மற்றும் இல்லை. ஓவினெட்டின் செயல்பாடுகளைப் பற்றி போதுமான புரிதலைக் கொண்ட எவரும் ஒரு "
+"குறிப்பிட்ட உள்ளடக்கத்தை (பிட்டோரெண்டைப் போல) பகிரப்படுவதைக் கண்டறிய ஒரு கருவியை உருவாக்"
+"க முடியும். இருப்பினும், ஒரு குறிப்பிட்ட ஐபி முகவரியை குறிவைத்து, அதன் பின்னால் உள்ள "
+"வாடிக்கையாளர்களால் விதைக்கப்பட்ட அனைத்து உள்ளடக்கங்களின் பட்டியலையும் பெற முடியாது."
 
 #: concepts/risks.md:block 27 (header)
 msgid "As a bridge"
-msgstr ""
+msgstr "ஒரு பாலமாக"
 
 #: concepts/risks.md:block 28 (header)
 msgid "Can others find my IP address?"
-msgstr ""
+msgstr "மற்றவர்கள் எனது ஐபி முகவரியைக் கண்டுபிடிக்க முடியுமா?"
 
 #: concepts/risks.md:block 29 (paragraph)
 msgid ""
 "Yes, every Ceno Browser able to communicate with injectors will register its "
 "IP address in the bridge swarm where other Ouinet clients can find them."
 msgstr ""
+"ஆம், உட்செலுத்துபவர்களுடன் தொடர்பு கொள்ளக்கூடிய ஒவ்வொரு செனோ உலாவியும் அதன் ஐபி முகவரியை"
+" பாலம் திரள் மீது பதிவு செய்யும், அங்கு மற்ற ஓயினெட் வாடிக்கையாளர்கள் அவற்றைக் காணலாம்."
 
 #: concepts/risks.md:block 30 (header)
 msgid ""
 "Is it possible that I am helping someone to access content which is illegal "
 "in my country?"
 msgstr ""
+"எனது நாட்டில் சட்டவிரோதமான உள்ளடக்கத்தை அணுக ஒருவருக்கு நான் உதவ முடியுமா?"
 
 #: concepts/risks.md:block 31 (paragraph)
 msgid ""
@@ -215,7 +285,11 @@ msgid ""
 "client and an injector. This means that a bridge shall never make direct "
 "requests for content to any other server on someone else's behalf."
 msgstr ""
+"ஆம். இருப்பினும், பிரிட்சச் ஒரு ஓவினெட் கிளையன்ட் மற்றும் ஒரு இன்செக்டருக்கு இடையில் "
+"மறைகுறியாக்கப்பட்ட தகவல்தொடர்புகளை மட்டுமே ரிலே செய்தது. இதன் பொருள், ஒரு பாலம் "
+"ஒருபோதும் வேறு எந்த சேவையகத்திற்கும் உள்ளடக்கத்திற்கான நேரடி கோரிக்கைகளை வேறொருவரின் "
+"சார்பாக செய்யாது."
 
 #: concepts/risks.md:block 31 (paragraph)
 msgid "[National intranet]: https://en.wikipedia.org/wiki/National_intranet"
-msgstr ""
+msgstr "[தேசிய இணையம்]: https://en.wikipedia.org/wiki/National_intranet"

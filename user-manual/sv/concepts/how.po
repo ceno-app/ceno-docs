@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-20 20:02+0000\n"
+"Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/censorship-no/"
+"how/sv/>\n"
 "Language: sv\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: concepts/how.md:block 1 (header)
 msgid "How does it work?"
-msgstr ""
+msgstr "Hur fungerar det?"
 
 #: concepts/how.md:block 2 (paragraph)
 msgid ""
@@ -19,7 +25,7 @@ msgstr ""
 
 #: concepts/how.md:block 3 (header)
 msgid "Accessing content directly"
-msgstr ""
+msgstr "Direktåtkomst till innehållet"
 
 #: concepts/how.md:block 4 (paragraph)
 msgid ""

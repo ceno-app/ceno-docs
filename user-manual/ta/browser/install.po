@@ -1,33 +1,43 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-install/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: browser/install.md:block 1 (header)
 msgid "Installing Ceno"
-msgstr ""
+msgstr "விலை நிறுவுதல்"
 
 #: browser/install.md:block 2 (paragraph)
 msgid "Ceno Browser can be installed via the following means:"
-msgstr ""
+msgstr "செனோ உலாவியை பின்வரும் வழிமுறைகள் மூலம் நிறுவலாம்:"
 
 #: browser/install.md:block 3 (unordered list)
 msgid ""
 "[Google Play][ceno-gplay] (*Ceno Browser* from *eQualitie*): the recommended "
 "source for most Android users."
 msgstr ""
+"[Google Play][ceno-gplay] (*Ceno Browser* இருந்து *eQualitie*): the "
+"recommended மூலம் க்கு பெரும்பாலானவை ஆண்ட்ராய்டு users."
 
 #: browser/install.md:block 3 (unordered list)
 msgid "[Gitlab][ceno-gh]: for Android devices without Google Play."
-msgstr ""
+msgstr "[GITLAB] [CENO-GH]: Google Play இல்லாமல் ஆண்ட்ராய்டு சாதனங்களுக்கு."
 
 #: browser/install.md:block 3 (unordered list)
 msgid ""
 "[Paskoocheh][ceno-pask]: for users in countries blocking access to the "
 "previous channels."
 msgstr ""
+"[பாச்கூச்சே] [செனோ-பாச்க்]: முந்தைய சேனல்களுக்கான அணுகலைத் தடுக்கும் நாடுகளில் உள்ள "
+"பயனர்களுக்கு."
 
 #: browser/install.md:block 4 (paragraph)
 msgid ""
@@ -35,6 +45,10 @@ msgid ""
 "4.1 Jelly Bean, thus most mobile devices released from late 2012 onward "
 "should work. Ceno needs *no special permissions* to run."
 msgstr ""
+"CENO க்கு குறைந்தபட்சம் ஆண்ட்ராய்டு 4.1 செல்லி பீன் இயங்கும் ARM64 அல்லது நியான் திறன் கொண்ட "
+"ARM32 சாதனம் தேவைப்படுகிறது, இதனால் 2012 இன் பிற்பகுதியில் இருந்து வெளியிடப்பட்ட "
+"பெரும்பாலான மொபைல் சாதனங்கள் வேலை செய்ய வேண்டும். செனோவை இயக்க * சிறப்பு அனுமதிகள் இல்லை"
+" * இயக்க."
 
 #: browser/install.md:block 5 (quote)
 msgid ""
@@ -45,10 +59,17 @@ msgid ""
 "Ouinet users. If in doubt, please contact [cenoers@equalitie.org](mailto:"
 "cenoers@equalitie.org) before installing a suspicious app."
 msgstr ""
+"** எச்சரிக்கை: ** தயவுசெய்து மேலே பட்டியலிடப்பட்டுள்ளதைத் தவிர வேறு மூலங்களிலிருந்து "
+"செனோ உலாவியை நிறுவுவது பற்றி*மிகவும் சந்தேகம்*. பயன்பாட்டின் இயல்பு காரணமாக, அவற்றின் "
+"சாத்தியமான பயனர்கள் பயனர் தனியுரிமையை மீறுவதற்குப் பயன்படுத்தப்படும் அல்லது பிற CENO "
+"மற்றும் OUinet பயனர்களைத் தாக்கப் பயன்படுத்தப்படும் அனைத்து வகையான போலி அல்லது கையாளப்பட்ட "
+"பதிப்புகளுக்கும் இலக்காக மாறக்கூடும். ஐயம் இருந்தால், சந்தேகத்திற்கிடமான பயன்பாட்டை "
+"நிறுவுவதற்கு முன் [cenoers@equalitie.org] (mailto: cenoers@equalitie.org) ஐ "
+"தொடர்பு கொள்ளவும்."
 
 #: browser/install.md:block 6 (header)
 msgid "Stopping Ceno completely"
-msgstr ""
+msgstr "செனோவை முழுவதுமாக நிறுத்துகிறது"
 
 #: browser/install.md:block 7 (paragraph)
 msgid ""
@@ -58,6 +79,11 @@ msgid ""
 "allows other clients to use your device as a bridge and retrieve content "
 "from it at any time."
 msgstr ""
+"ஒவ்வொரு முறையும் நீங்கள் பயன்பாட்டைத் தொடங்கும்போது, உங்கள் சாதனத்தின் அறிவிப்புப் பட்டியில் "
+"ஒரு செனோ படவுரு தோன்றும். இந்த படவுரு *செனோ உலாவி சேவையை *குறிக்கிறது, இது "
+"நிரந்தரமாக இயங்கும் செனோவின் ஒரு பகுதியாகும் (நீங்கள் உலாவாதபோது கூட) மற்றும் மற்ற "
+"வாடிக்கையாளர்கள் உங்கள் சாதனத்தை ஒரு பாலமாகப் பயன்படுத்தவும், எந்த நேரத்திலும் அதில் இருந்து"
+" உள்ளடக்கத்தை மீட்டெடுக்கவும் அனுமதிக்கிறது."
 
 #: browser/install.md:block 8 (paragraph)
 msgid ""
@@ -66,16 +92,21 @@ msgid ""
 "far from a charger). Tapping on the notification attached to the icon will "
 "stop both Ceno and its service at once (until you open Ceno again)."
 msgstr ""
+"அத்தகைய சேவையை இயக்குவது பிணையம் மற்றும் செயலி வளங்களைப் பயன்படுத்துவதால், நீங்கள் நகரும் "
+"போதெல்லாம் அதை நிறுத்த விரும்பலாம் (அதாவது வைஃபை அல்லது சார்சரிலிருந்து வெகு தொலைவில் "
+"இணைக்கப்படவில்லை). ஐகானுடன் இணைக்கப்பட்ட அறிவிப்பைத் தட்டினால், செனோ மற்றும் அதன் பணி "
+"இரண்டையும் ஒரே நேரத்தில் நிறுத்திவிடும் (நீங்கள் மீண்டும் செனோவைத் திறக்கும் வரை)."
 
 #: browser/install.md:block 9 (paragraph)
 msgid ""
 "![Figure: Tap on the notification to stop the Ceno service](images/tap-stop."
 "png)"
 msgstr ""
+"! [படம்: CENO சேவையை நிறுத்த அறிவிப்பைத் தட்டவும்] (படங்கள்/தட்டு-STOP.PNG)"
 
 #: browser/install.md:block 10 (header)
 msgid "Purging all Ceno data (the \"panic button\")"
-msgstr ""
+msgstr "அனைத்து செனோ தரவையும் சுத்தப்படுத்துதல் (\"பீதி பொத்தான்\")"
 
 #: browser/install.md:block 11 (paragraph)
 msgid ""
@@ -84,6 +115,10 @@ msgid ""
 "action will just open Ceno with a new public browsing tab showing its home "
 "page. The *Erase* action demands more explanation."
 msgstr ""
+"மேலே காட்டப்பட்டுள்ள * செனோ உலாவி பணி * அறிவிப்பில் சில அதனுடன் கூடிய செயல்கள் அடங்கும்"
+", அவை தட்டுவதன் மூலம் தூண்டப்படலாம். * முகப்பு * நடவடிக்கை அதன் முகப்புப் பக்கத்தைக் காட்டும்"
+" புதிய பொது உலாவல் தாவலுடன் செனோவைத் திறக்கும். * அழித்தல் * நடவடிக்கை மேலும் விளக்கத்தை"
+" கோருகிறது."
 
 #: browser/install.md:block 12 (quote)
 msgid ""
@@ -92,6 +127,9 @@ msgid ""
 "only see the *Home* action, your device may be too old to support the "
 "*Erase* action."
 msgstr ""
+"** குறிப்பு: ** அறிவிப்புக்குக் கீழே உள்ள செயல்கள் தெரியவில்லை என்றால், அதன் "
+"மையத்திலிருந்து அறிவிப்பை கீழே இழுக்கவும். நீங்கள் * முகப்பு * செயலை மட்டுமே காண "
+"முடிந்தால், உங்கள் சாதனம் * அழிப்பு * செயலை ஆதரிக்க மிகவும் பழையதாக இருக்கலாம்."
 
 #: browser/install.md:block 13 (paragraph)
 msgid ""
@@ -101,12 +139,17 @@ msgid ""
 "your data accidentally, this will not remove anything yet, but just show an "
 "additional action for a brief moment, as pictured below:"
 msgstr ""
+"நீங்கள் எப்போதாவது செனோவை விரைவாக நிறுத்தி, அது தொடர்பான எல்லா தரவையும் அழிக்க வேண்டுமா"
+" (தற்காலிக சேமிப்பு உள்ளடக்கம் மட்டுமல்ல, பிடித்தவை, கடவுச்சொற்கள் மற்றும் அனைத்து உலாவல் "
+"வரலாறு போன்ற அமைப்புகளும்), நீங்கள் *அழிக்க *தட்டலாம். உங்கள் தரவை தற்செயலாக இழப்பதைத் "
+"தவிர்ப்பதற்கு, இது இன்னும் எதையும் அகற்றாது, ஆனால் கீழே உள்ள படத்தில் ஒரு சுருக்கமான "
+"கணத்திற்கு கூடுதல் செயலைக் காட்டுங்கள்:"
 
 #: browser/install.md:block 14 (paragraph)
 msgid ""
 "![Figure: The last action stops Ceno and clears all its data](images/tap-"
 "purge.png)"
-msgstr ""
+msgstr "!]"
 
 #: browser/install.md:block 15 (paragraph)
 msgid ""
@@ -114,10 +157,13 @@ msgid ""
 "removed *without further questions*, effectively leaving your device as if "
 "Ceno had never been used."
 msgstr ""
+"*ஆம் *செயலில் நீங்கள் தட்டினால், செனோ நிறுத்தப்பட்டு அதன் அனைத்து தரவுகளும் அகற்றப்படும் "
+"*மேலும் கேள்விகள் இல்லாமல் *, செனோ ஒருபோதும் பயன்படுத்தப்படாதது போல் உங்கள் சாதனத்தை திறம்"
+"பட விட்டுவிடுகிறது."
 
 #: browser/install.md:block 16 (paragraph)
 msgid "If you do not tap on the action, it will go away in a few seconds."
-msgstr ""
+msgstr "நீங்கள் செயலைத் தட்டவில்லை என்றால், அது சில நொடிகளில் போய்விடும்."
 
 #: browser/install.md:block 17 (quote)
 msgid ""
@@ -126,16 +172,22 @@ msgid ""
 "Android's general *Settings* page and, under the *Apps* entry, choose Ceno "
 "and then *Clear data*."
 msgstr ""
+"** குறிப்பு: ** மேலே விவரிக்கப்பட்ட முறைக்கு உங்கள் சாதனத்தில் செனோ இயங்க வேண்டும். செனோ "
+"நிறுத்தப்படும்போது அதே விளைவை அடைய, நீங்கள் ஆண்ட்ராய்டு இன் பொது *அமைப்புகள் *பக்கத்தைப் "
+"பயன்படுத்தலாம், மேலும் *பயன்பாடுகள் *நுழைவின் கீழ், செனோவைத் தேர்வுசெய்து பின்னர் *தெளிவான "
+"தரவு *."
 
 #: browser/install.md:block 17 (quote)
 msgid "As a harsher alternative, you may completely uninstall the app."
-msgstr ""
+msgstr "ஒரு கடுமையான மாற்றாக, நீங்கள் பயன்பாட்டை முற்றிலும் நிறுவல் நீக்கலாம்."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "**Warning:** Android may still keep other traces of having used an app "
 "besides its data, for instance in its system log."
 msgstr ""
+"** எச்சரிக்கை: ** ஆண்ட்ராய்டு அதன் தரவைத் தவிர ஒரு பயன்பாட்டைப் பயன்படுத்துவதற்கான பிற "
+"தடயங்களை இன்னும் வைத்திருக்கக்கூடும், உதாரணமாக அதன் கணினி பதிவில்."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
@@ -144,7 +196,7 @@ msgstr ""
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
-msgstr ""
+msgstr "[Cen-GH]: https://gitlab.com/censorship-no/ceno-browser/-/releases"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"

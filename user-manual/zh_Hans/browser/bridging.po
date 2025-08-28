@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2023-05-17 03:01+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"censorship-no/browser-bridging/zh_Hans/>\n"
+"PO-Revision-Date: 2024-12-02 12:00+0000\n"
+"Last-Translator: Cube Kassaki <2524737581@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/browser-bridging/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #
 #: browser/bridging.md:block 1 (header)
@@ -84,6 +84,12 @@ msgid ""
 "interfere with Ceno; please check [Don't kill my app!][Don't kill my app!] "
 "for your device's brand."
 msgstr ""
+"** 技术性说明:** 这主要归功于安卓的[Doze mode](https://developer.android.com/"
+"training/monitoring-device-state/doze-standby \"Android Developers – "
+"Optimize for Doze and App Standby\")。 减缓了本地的Ouinet库的运作。 "
+"不幸的是,对于Ceno的电池优化似乎并不排除Ouinet。 "
+"你的特殊设备还可能包括自己可能干扰Ceno的省电功能;请查看[Don't kill my app!]["
+"Don't kill my app!]中贵设备的品牌。"
 
 #: browser/bridging.md:block 8 (paragraph)
 msgid ""
@@ -130,11 +136,12 @@ msgid ""
 "If that setup is not an option for you, do not desist yet! If you have a "
 "computer with good connectivity that stays on most of the time, please "
 "continue reading."
-msgstr ""
+msgstr "如果该设置不适合您，请不要停止！如果您的计算机具有良好的连接性，并且大部分时"
+"间都保持打开状态，请继续阅读。"
 
 #: browser/bridging.md:block 11 (header)
 msgid "Running a bridge on a computer"
-msgstr ""
+msgstr "在计算机上架设一座桥梁(桥接)"
 
 #: browser/bridging.md:block 12 (paragraph)
 msgid ""
@@ -144,19 +151,24 @@ msgid ""
 "[docker-install] in your platform. For Debian derivatives like Ubuntu or "
 "Linux Mint, you can just run: `sudo apt install docker.io`"
 msgstr ""
+"如果你的计算机支持[Docker容器][docker],你可以操作一个事先配置的Ceno客户端作为"
+"桥梁。 若尚未安装Docker,请在你的平台上[安装Docker引擎][docker-install]。对于 "
+"Debian 衍生类 Ubuntu 或 Linux Mint, 你只需要运行：`sudo apt install docker."
+"io`"
 
 #: browser/bridging.md:block 13 (paragraph)
 msgid ""
 "To deploy a Ceno client container you only need to run the following command "
 "on a terminal (it looks scary but you can just copy and paste it as is on "
 "the command line):"
-msgstr ""
+msgstr "要部署一个Ceno客户端容器,你只需要在终端上运行以下命令(它看起来很吓人，但是您"
+"只要在命令行上复制并粘贴它):"
 
 #: browser/bridging.md:block 15 (paragraph)
 msgid ""
 "If your computer is not based on GNU/Linux, the command needs to be slightly "
 "different:"
-msgstr ""
+msgstr "如果你的电脑不是GNU/Linux, 那么需要的指令会有所不同："
 
 #: browser/bridging.md:block 17 (paragraph)
 msgid ""
@@ -165,6 +177,9 @@ msgid ""
 "Docker client documentation][ceno-client-doc] for more information on how to "
 "manipulate the container."
 msgstr ""
+"该命令将启动一个名为 'ceno-client' 的容器，该容器将在每次启动时运行，除非你明"
+"确告诉它停止。有关如何操作容器的更多信息，请查看 [Ceno Docker 客户端文档"
+"][ceno-client-doc]。"
 
 #: browser/bridging.md:block 18 (quote)
 msgid ""
@@ -172,6 +187,8 @@ msgid ""
 "access that page, open instead the [client front-end](../client/front-end."
 "md), which contains mostly equivalent information."
 msgstr ""
+"**注意：** 此客户端没有 *Ceno 设置*：当下面指示访问该页面时，请打开 "
+"[客户端前端]（../client/front-end.md），其中包含大部分等效信息。"
 
 #: browser/bridging.md:block 19 (header)
 msgid "Enabling UPnP on your Wi-Fi router"
@@ -203,11 +220,11 @@ msgstr "像上图所示的状态，表明你的WiFi路由器上没有启用UPnP�
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**Reachability status**"
-msgstr ""
+msgstr "**可达状态**"
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**UPnP status**"
-msgstr ""
+msgstr "**UPnP状态**"
 
 #: browser/bridging.md:block 24 (paragraph)
 msgid ""
@@ -232,6 +249,12 @@ msgid ""
 "get a public address on your router or to establish port forwardings to the "
 "external endpoint."
 msgstr ""
+"**注意：** 即使 UPnP 正在工作，您的路由器可能仍然无法从外部访问。当 *Ceno "
+"设置* 报告类似于 [CGNAT][CGNAT] 地址 '100.X.Y.Z：N' 且 X 在 64 到 127 之间（"
+"在家庭 ISP 中越来越常见）或类似于私有地址 '10.X.Y.Z：N'、'172.X.Y.Z：N' 且 X "
+"在 16 到 31 之间，以及 '192.168.X.Y' 时，可能会出现这种情况：N`.如果是这样，"
+"请联系您的 ISP "
+"或网络管理员，以便在您的路由器上获取公共地址或建立到外部终端节点的端口转发。"
 
 #: browser/bridging.md:block 29 (paragraph)
 msgid ""
@@ -244,39 +267,47 @@ msgstr ""
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[Linksys](https://www.linksys.com/us/support-article?articleNum=138290)"
-msgstr ""
+msgstr "[思科领势](https://www.linksys.com/us/support-article?articleNum=138290)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[D-Link](https://eu.dlink.com/uk/en/support/faq/routers/wired-routers/di-"
 "series/how-do-i-enable-upnp-on-my-router)"
 msgstr ""
+"[D-Link](https://eu.dlink.com/uk/en/support/faq/routers/wired-routers/"
+"di-series/how-do-i-enable-upnp-on-my-router)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[Huawei](https://consumer.huawei.com/ph/support/content/en-us00275342/)"
-msgstr ""
+msgstr "[华为](https://consumer.huawei.com/ph/support/content/en-us00275342/)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[Xfinity](https://www.xfinity.com/support/articles/configure-device-"
 "discovery-for-wifi)"
 msgstr ""
+"[Xfinity](https://www.xfinity.com/support/articles/configure-device-"
+"discovery-for-wifi)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[TP-Link](https://community.tp-link.com/us/home/kb/detail/348)"
-msgstr ""
+msgstr "[TP-Link](https://community.tp-link.com/us/home/kb/detail/348)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[Netgear](https://kb.netgear.com/24306/How-do-I-enable-Universal-Plug-and-"
 "Play-on-my-Nighthawk-router)"
 msgstr ""
+"[网件](https://kb.netgear.com/24306/How-do-I-enable-Universal-Plug-and-Play-"
+"on-my-Nighthawk-router)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[Ubiquiti](https://www.geekzone.co.nz/forums.asp?"
 "forumid=66&topicid=205740&page_no=5#1725168)"
 msgstr ""
+"[优倍快](https://www.geekzone.co.nz/forums."
+"asp?forumid=66&topicid=205740&page_no=5#1725168)"
 
 #: browser/bridging.md:block 31 (header)
 msgid "Using port forwarding as an alternative to UPnP"
@@ -298,7 +329,7 @@ msgstr ""
 
 #: browser/bridging.md:block 33 (quote)
 msgid "**Local UDP endpoints**"
-msgstr ""
+msgstr "**本地 UDP端点**"
 
 #: browser/bridging.md:block 34 (paragraph)
 msgid ""
@@ -326,35 +357,41 @@ msgid ""
 "[Doze mode]: https://developer.android.com/training/monitoring-device-state/"
 "doze-standby"
 msgstr ""
+"[待机模式]: https://developer.android.com/training/monitoring-device-state/"
+"doze-standby"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[Don't kill my app!]: https://dontkillmyapp.com/"
-msgstr ""
+msgstr "[不要杀我的应用！]: https://dontkillmyapp.com/"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[docker]: https://en.wikipedia.org/wiki/Docker_(software)"
-msgstr ""
+msgstr "[Docker]: https://en.wikipedia.org/wiki/Docker_(software)"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[docker-install]: https://docs.docker.com/engine/install/"
-msgstr ""
+msgstr "[docker-安装]: https://docs.docker.com/engine/install/"
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
 "[ceno-client-doc]: https://gitlab.com/censorship-no/ceno-docker-"
 "client#running-the-client"
 msgstr ""
+"[ceno-客户端-文档]: https://gitlab.com/censorship-no/ceno-docker-client"
+"#running-the-client"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[UPnP]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play"
-msgstr ""
+msgstr "[UPnP]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play"
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
 "[upnp-risks]: https://www.howtogeek.com/122487/htg-explains-is-upnp-a-"
 "security-risk"
 msgstr ""
+"[upnp-风险]: https://www.howtogeek.com/122487/htg-explains-is-upnp-a"
+"-security-risk"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[CGNAT]: https://en.wikipedia.org/wiki/Carrier-grade_NAT"
-msgstr ""
+msgstr "[CGNAT]: https://en.wikipedia.org/wiki/Carrier-grade_NAT"

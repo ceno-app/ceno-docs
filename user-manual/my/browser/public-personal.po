@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-30 04:12+0000\n"
+"Last-Translator: Mya Myintzu Hlaing <myamyintzu10@gmail.com>\n"
+"Language-Team: Burmese <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-public-private/my/>\n"
 "Language: my\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/public-personal.md:block 1 (header)
 msgid "Public and Personal browsing modes"
-msgstr ""
+msgstr "အများသုံးနှင့် တကိုယ်ရည်သုံး ရှာဖွေခြင်း မုဒ်များ"
 
 #: browser/public-personal.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +22,12 @@ msgid ""
 "the content that you browse with others (Public browsing) or not (Personal "
 "browsing)."
 msgstr ""
+"[ပြီးခဲ့သည့်အပိုင်း](../concepts/public-personal.md)တွင် ဖော်ပြခဲ့သည့်အတိုင်း"
+" သင်ရှာဖွေထားသည့် ဝဘ်အကြောင်းအရာများကို အခြားအသုံးပြုသူများနှင့် "
+"မျှဝေလိုခြင်း(အများသုံး ရှာဖွေခြင်း) သို့မဟုတ် တစ်ကိုယ်ရည် သီးသန့် "
+"အသုံးပြုလိုခြင်း(တကိုယ်ရည်သုံး ရှာဖွေခြင်း)ကဲ့သို့သော "
+"လုပ်ဆောင်ချက်ပေါ်မူတည်ပြီး CENO တွင် မတူညီသော လုပ်ဆောင်ချက် မုဒ် နှစ်မျိုး "
+"ရှိပါသည်။"
 
 #: browser/public-personal.md:block 3 (paragraph)
 msgid ""
@@ -27,24 +39,40 @@ msgid ""
 "choose *Personal Tabs* on the homepage or switch to the Personal mode icon "
 "in the Tabs menu."
 msgstr ""
+"ယခုဆက်တင်သည် ဘရောက်ဇာတွင် သင်ဖွင့်ထားသည့် *တပ်ဗ်တစ်ခုချင်းစီ*အတွက် "
+"သက်ရောက်မှုရှိပါသည်၊ ဆိုလိုသည်မှာ သင့်အနေဖြင့် အများသုံး ရှာဖွေမှု "
+"တပ်ဗ်များနှင့် တကိုယ်ရည်သုံး ရှာဖွေမှု တပ်ဗ်များကို သုံးနိုင်ပါသည်။ Ceno ၏ "
+"ပုံသေသတ်မှတ်ချက်မှာ သင်အပ်ပ်ကို စတင်လိုက်သည့်အခါ သို့မဟုတ် တပ်ဗ်အသစ်တစ်ခု "
+"ဖွင့်လိုက်သည့်အခါ (ပင်မစာမျက်နှာရှိ "
+"'အများသုံးတပ်ဗ်များ'ရွေးချယ်မှုမှသော်လည်းကောင်း သို့မဟုတ် လိပ်စာဘားရှိ "
+"ပယ်ဖျက်မည် အိုင်ကွန်ဘေးတွင်ရှိသော တပ်ဗ်အိုင်ကွန်ကို "
+"ရွေးချယ်မှုမှသော်လည်းကောင်း) အများသုံးရှာဖွေခြင်းကိုသာ အသုံးပြုပါသည်။ "
+"တကိုယ်ရည်သုံးရှာဖွေခြင်းမုဒ်တွင် တပ်ဗ်အသစ်တစ်ခု ဖွင့်ချင်ပါက ပင်မစာမျက်နှာရှိ"
+" *တကိုယ်ရည်သုံးတပ်ဗ်များ*ကို ‌ရွေးချယ်ပါ သို့မဟုတ် တပ်ဗ်မီနူးရှိ "
+"တကိုယ်ရည်သုံးမုဒ်အိုင်ကွန်ကို နှိပ်ပြီး ပြောင်းလဲလိုက်ပါ။"
 
 #: browser/public-personal.md:block 4 (paragraph)
 msgid ""
 "You can tell public tabs from personal ones because public tabs have a "
 "lighter (or white) tool bar:"
 msgstr ""
+"အများသုံးတပ်ဗ်များနှင့် တကိုယ်ရည်သုံးတပ်ဗ်များကို သင့်အနေဖြင့် "
+"ခွဲခြားသိရှိနိုင်သည်။ အဘယ်ကြောင့်ဆိုသော် အများသုံးတပ်ဗ်များသည် "
+"ပိုမိုဖျော့တော့သော (သို့မဟုတ် အဖြူရောင်) tool bar ဖြစ်ပါသည်။"
 
 #: browser/public-personal.md:block 5 (paragraph)
 msgid "![Figure: A Public browsing tab](images/public-tab.png)"
-msgstr ""
+msgstr "![ပုံ - အများသုံးရှာဖွေခြင်းတပ်ဗ်တစ်ခု](images/public-tab.png)"
 
 #: browser/public-personal.md:block 6 (paragraph)
 msgid "In contrast, private tabs have a darker tool bar:"
 msgstr ""
+"ဆန့်ကျင်ဘက်အားဖြင့် တစ်ကိုယ်ရည်သုံးတပ်ဗ်များသည် ပိုမို အရောင်ရင့်သော tool "
+"bar ရှိပါသည်။"
 
 #: browser/public-personal.md:block 7 (paragraph)
 msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
-msgstr ""
+msgstr "![ပုံ - တကိုယ်ရည်သုံးရှာဖွေခြင်းတပ်ဗ်တစ်ခု](images/private-tab.png)"
 
 #: browser/public-personal.md:block 8 (paragraph)
 msgid ""
@@ -52,3 +80,7 @@ msgid ""
 "help you know how it actually retrieved the different elements of the "
 "content. We will cover this icon later on."
 msgstr ""
+"သင် တပ်ဗ်တစ်ခုတွင် စာမျက်နှာတစ်ခုအား ရှာဖွေပြီးပါက လိပ်စာဘားရှိ Ceno "
+"အိုင်ကွန်သည် အကြောင်းအရာ၏ မတူညီသောအစိတ်အပိုင်းများအား မည်ကဲ့သို့ ရယူခဲ့သည်ကို"
+" သင်သိနိုင်ရန် ကူညီနိုင်လိမ့်မည်။ ယခု အိုင်ကွန်အား နောက်ပိုင်းတွင် "
+"ဖော်ပြသွားပါမည်။"

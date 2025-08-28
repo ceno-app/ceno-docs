@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-settings/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: browser/settings.md:block 1 (header)
 msgid "Ceno settings"
-msgstr ""
+msgstr "அமைப்புகளின் விலை"
 
 #: browser/settings.md:block 2 (paragraph)
 msgid ""
@@ -17,6 +23,10 @@ msgid ""
 "strategies against network interference, as well as reporting issues with "
 "the app."
 msgstr ""
+"சில ஓவினெட்-குறிப்பிட்ட அமைப்புகளை மாற்றவும், உங்கள் வாடிக்கையாளரைப் பற்றிய தகவல்களை எளி"
+"ய முறையில் பெறவும் CENO உலாவி உங்களை அனுமதிக்கிறது. சாதாரண செயல்பாட்டிற்கு இது "
+"தேவையில்லை, ஆனால் பிணையம் குறுக்கீட்டிற்கு எதிராக வெவ்வேறு உத்திகளைச் சோதிப்பதற்கும், "
+"பயன்பாட்டுடன் சிக்கல்களைப் புகாரளிப்பதற்கும் இது உதவியாக இருக்கும்."
 
 #: browser/settings.md:block 3 (quote)
 msgid ""
@@ -26,6 +36,11 @@ msgid ""
 "cache retrieval under public browsing, hinting the user about the source of "
 "the content being visualized, and notifying about new versions of Ouinet."
 msgstr ""
+"** தொழில்நுட்ப குறிப்பு: ** இந்த விருப்பங்கள்*செனோ நீட்டிப்பு*ஆல் வழங்கப்படுகின்றன, இது ஒரு"
+" பயர்பாக்ச் நீட்டிப்பு, இது செனோவுடன் பெட்டியிலிருந்து நிறுவப்பட்டுள்ளது மற்றும் பொது "
+"உலாவலின் கீழ் உள்ளடக்க ஊசி மற்றும் கேச் மீட்டெடுப்பை செயல்படுத்துவது போன்ற ஓவின்டுடன் சரியான "
+"ஒருங்கிணைப்பை கவனித்துக்கொள்கிறது, காட்சிப்படுத்தப்பட்ட உள்ளடக்கத்தின் மூலத்தைப் பற்றி பயனரைக் "
+"குறிக்கிறது, மேலும் ஓவினெட்டின் புதிய பதிப்புகளைப் பற்றி அறிவித்தல்."
 
 #: browser/settings.md:block 4 (paragraph)
 msgid ""
@@ -33,14 +48,17 @@ msgid ""
 "*Ceno* in the app's main menu. Please note that the menu entry may take a "
 "few seconds to pop up on app start. The page should look like this:"
 msgstr ""
+"பயன்பாட்டின் முதன்மையான பட்டியலில் * செனோ * ஐத் தேர்ந்தெடுப்பதன் மூலம் அணுகக்கூடிய ஒரு "
+"பக்கத்தில் இந்த நற்பொருத்தங்கள் கிடைக்கின்றன. பயன்பாட்டு தொடக்கத்தில் பாப் அப் செய்ய பட்டியல் "
+"நுழைவு சில வினாடிகள் ஆகலாம் என்பதை நினைவில் கொள்க. பக்கம் இப்படி இருக்க வேண்டும்:"
 
 #: browser/settings.md:block 5 (paragraph)
 msgid "![Figure: The Ceno Settings page](images/settings.png)"
-msgstr ""
+msgstr "! [படம்: CENO அமைப்புகள் பக்கம்] (படங்கள்/அமைப்புகள். Png)"
 
 #: browser/settings.md:block 6 (header)
 msgid "Choosing access mechanisms"
-msgstr ""
+msgstr "அணுகல் வழிமுறைகளைத் தேர்ந்தெடுப்பது"
 
 #: browser/settings.md:block 7 (paragraph)
 msgid ""
@@ -49,18 +67,26 @@ msgid ""
 "retrieve content while using either [Public or Personal browsing](public-"
 "personal.md) tabs. All boxes are enabled by default."
 msgstr ""
+"பக்கத்தின் மேற்புறத்தில் உள்ள நான்கு தேர்வுப்பெட்டிகள் [பொது அல்லது தனிப்பட்ட உலாவல்] "
+"(பொது-personal.md) தாவல்களைப் பயன்படுத்தும் போது உள்ளடக்கத்தை மீட்டெடுக்க ஓவினெட் "
+"கிளையண்டாக செனோ பயன்படுத்தும் வெவ்வேறு வழிமுறைகள் அல்லது * ஆதாரங்களை * தேர்ந்தெடுக்கவும் "
+"அல்லது முடக்கவும். எல்லா பெட்டிகளும் இயல்பாக இயக்கப்பட்டுள்ளன."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
 "*Direct from website* (or **origin access**) allows Ceno to try to reach the "
 "origin server directly before attempting other mechanisms enabled below."
 msgstr ""
+"*வலைத்தளத்திலிருந்து நேரடியாக*(அல்லது ** தோற்றம் அணுகல் **) கீழே இயக்கப்பட்ட பிற "
+"வழிமுறைகளை முயற்சிக்கும் முன் மூல சேவையகத்தை நேரடியாக அடைய செனோவை அனுமதிக்கிறது."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
 "Although this mechanism works in both Personal and Public browsing modes, "
 "content thus retrieved cannot be shared with others."
 msgstr ""
+"இந்த வழிமுறை தனிப்பட்ட மற்றும் பொது உலாவல் முறைகளில் செயல்படுகிறது என்றாலும், இவ்வாறு "
+"மீட்டெடுக்கப்பட்ட உள்ளடக்கத்தை மற்றவர்களுடன் பகிர்ந்து கொள்ள முடியாது."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -70,6 +96,12 @@ msgid ""
 "disabling this option may avoid such connections and trivial tracking (but "
 "not completely, see [risks](../concepts/risks.md))."
 msgstr ""
+"பெரும்பாலான வலை உள்ளடக்கத்தைப் பெறுவது குறிப்பாக மெதுவாகவோ அல்லது விலை உயர்ந்ததாகவோ "
+"இல்லை என்றால், இந்த வழிமுறை பெரும்பாலான பயன்பாட்டு நிகழ்வுகளுக்கு போதுமானதாக இருக்கலாம்"
+". இருப்பினும், இத்தகைய நேரடி இணைப்புகள் உங்கள் ISP அல்லது அரசாங்கத்தால் கண்காணிக்கப்படலாம். "
+"ஓரளவிற்கு, இந்த விருப்பத்தை முடக்குவது அத்தகைய இணைப்புகள் மற்றும் கீழான கண்காணிப்பைத் "
+"தவிர்க்கலாம் (ஆனால் முழுமையாக இல்லை, [அபாயங்கள்] (../ கருத்துக்கள்/அபாயங்கள். எம்.டி) ஐப் "
+"பார்க்கவும்)."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -80,16 +112,24 @@ msgid ""
 "safer Ceno mechanisms. Please check the section on [troubleshooting]"
 "(troubleshooting.md) to learn more about this issue."
 msgstr ""
+"மேலும், பாதுகாப்பற்ற HTTP (மிகவும் பாதுகாப்பான HTTPS க்கு பதிலாக) ஒரு வலைத்தளத்தை "
+"அணுகும்போது, ஒரு தணிக்கை இணைப்பைத் தடுத்து, பயனருக்கு ஒரு போலி தளத்தை வழங்கலாம், இது "
+"ஒரு சேதத்தைச் செனோ தானாகவே கண்டறிய முடியாது. இது போன்ற சந்தர்ப்பங்களில், இந்த விருப்பத்தை"
+" முடக்க இது உதவக்கூடும், இதனால் எப்போதும் மற்ற, பாதுகாப்பான செனோ வழிமுறைகளை நாடலாம். "
+"இந்தச் சிக்கலைப் பற்றி மேலும் அறிய [சரிசெய்தல்](troubleshooting.md) பற்றிய பகுதியைச் "
+"சரிபார்க்கவும்."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
 "*Via the Ceno network (private)* (or **proxy access**) allows Ceno to use "
 "injectors as normal HTTP proxy servers to reach origin servers."
 msgstr ""
+"*செனோ பிணையம் வழியாக (தனியார்)*(அல்லது ** பதிலாள் அணுகல் **) மூலப்பொருட்களை அடைவதற்கு"
+" சாதாரண HTTP பதிலாள் சேவையகங்களாகப் பயன்படுத்த செனோவை அனுமதிக்கிறது."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid "This mechanism only works in Personal browsing mode."
-msgstr ""
+msgstr "இந்த வழிமுறை தனிப்பட்ட உலாவல் பயன்முறையில் மட்டுமே செயல்படுகிறது."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -99,6 +139,11 @@ msgid ""
 "others). Other participants, such as bridges, will never see the unencrypted "
 "traffic."
 msgstr ""
+"HTTP களில் உள்ளடக்கத்தை அணுகும்போது, மூல சேவையகங்கள் மட்டுமே போக்குவரத்தை மறைகுறியாக்க "
+"முடியும். எளிய HTTP ஐப் பயன்படுத்தும் போது, இன்செக்டர் மறைகுறியாக்கப்பட்ட போக்குவரத்தையும் "
+"காணலாம் (ஆனால் அது இன்னும் அதன் உள்ளடக்கத்தை மற்றவர்களுடன் கையொப்பமிடவோ பகிர்ந்து கொள்ளவோ "
+"கூடாது). பாலங்கள் போன்ற பிற பங்கேற்பாளர்கள் மறைகுறியாக்கப்பட்ட போக்குவரத்தை ஒருபோதும் பார்க்"
+"க மாட்டார்கள்."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -107,21 +152,27 @@ msgid ""
 "The injector gets the content from an origin server, signs it, and sends it "
 "back to Ceno - which then begins seeding it."
 msgstr ""
+". இன்செக்டர் ஒரு தோற்றம் சேவையகத்திலிருந்து உள்ளடக்கத்தைப் பெறுகிறது, அதில் கையெழுத்திட்டு"
+", அதை மீண்டும் செனோவுக்கு அனுப்புகிறது - பின்னர் அதை விதைக்கத் தொடங்குகிறது."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
 "Other participants (such as bridges) will not see the unencrypted traffic."
 msgstr ""
+"மற்ற பங்கேற்பாளர்கள் (பாலங்கள் போன்றவை) மறைகுறியாக்கப்பட்ட போக்குவரத்தை காண மாட்டார்கள்."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid "This mechanism only works in public browsing mode."
-msgstr ""
+msgstr "இந்த வழிமுறை பொது உலாவல் பயன்முறையில் மட்டுமே செயல்படுகிறது."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
 "*Shared by other Ceno users* allows Ceno to try to retrieve content from the "
 "**distributed cache**, i.e. from other Ceno and Ouinet clients seeding it."
 msgstr ""
+"*பிற செனோ பயனர்களால் பகிரப்பட்டது*** விநியோகிக்கப்பட்ட கேச் ** இலிருந்து உள்ளடக்கத்தை "
+"மீட்டெடுக்க செனோவை அனுமதிக்கிறது, அதாவது மற்ற செனோ மற்றும் ஓவினெட் "
+"வாடிக்கையாளர்களிடமிருந்து அதை விதைக்கிறது."
 
 #: browser/settings.md:block 9 (paragraph)
 msgid ""
@@ -129,34 +180,44 @@ msgid ""
 "browsing mode will render them useless. If you establish such a "
 "configuration, a warning will be shown as depicted below:"
 msgstr ""
+"பொது அல்லது தனிப்பட்ட உலாவல் பயன்முறையில் கிடைக்கும் அனைத்து வழிமுறைகளையும் முடக்குவது "
+"அவை பயனற்றதாக இருக்கும். அத்தகைய உள்ளமைவை நீங்கள் நிறுவினால், கீழே சித்தரிக்கப்பட்டுள்ளபடி "
+"ஒரு எச்சரிக்கை காண்பிக்கப்படும்:"
 
 #: browser/settings.md:block 10 (paragraph)
 msgid ""
 "![Figure: Invalid settings for private browsing](images/settings-no-private."
 "png)"
 msgstr ""
+"! [படம்: தனியார் உலாவலுக்கான தவறான அமைப்புகள்] (படங்கள்/அமைப்புகள்-no-private.png)"
 
 #: browser/settings.md:block 11 (header)
 msgid "About your app"
-msgstr ""
+msgstr "உங்கள் பயன்பாடு பற்றி"
 
 #: browser/settings.md:block 12 (paragraph)
 msgid ""
 "This page also provides you with some information about your Ceno Browser "
 "app and Ouinet client:"
 msgstr ""
+"இந்த பக்கம் உங்கள் செனோ உலாவி பயன்பாடு மற்றும் ஓயினெட் கிளையன்ட் பற்றிய சில தகவல்களையும் "
+"உங்களுக்கு வழங்குகிறது:"
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*Local cache size* shows an approximation of how much storage is taken by "
 "the content being seeded from your device's local cache."
 msgstr ""
+"* உள்ளக கேச் அளவு* உங்கள் சாதனத்தின் உள்ளக தற்காலிக சேமிப்பிலிருந்து விதைக்கப்படும் "
+"உள்ளடக்கத்தால் எவ்வளவு சேமிப்பு எடுக்கப்படுகிறது என்பதற்கான தோராயத்தைக் காட்டுகிறது."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*Content shared by you* allows you to check the content being announced by "
 "your device."
 msgstr ""
+"* நீங்கள் பகிரப்பட்ட உள்ளடக்கம்* உங்கள் சாதனத்தால் அறிவிக்கப்படும் உள்ளடக்கத்தை சரிபார்க்க உங்களை "
+"அனுமதிக்கிறது."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
@@ -164,18 +225,24 @@ msgid ""
 "to run successfully. Otherwise, there may be connectivity issues or some "
 "internal error. Please include this information in your issue reports."
 msgstr ""
+". இல்லையெனில், இணைப்பு சிக்கல்கள் அல்லது சில உள் பிழை இருக்கலாம். உங்கள் வெளியீட்டு "
+"அறிக்கைகளில் இந்த தகவலைச் சேர்க்கவும்."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*Reachability status* indicates how likely it is for your device to be able "
 "to effectively seed content to other clients. Also include in reports."
 msgstr ""
+"* அணுகல் நிலை* உங்கள் சாதனம் மற்ற வாடிக்கையாளர்களுக்கு விதை உள்ளடக்கத்தை திறம்பட செய்ய "
+"எவ்வளவு சாத்தியம் என்பதைக் குறிக்கிறது. அறிக்கைகளிலும் சேர்க்கவும்."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*UPnP status* indicates whether Ceno was able to tell your router or access "
 "point to allow incoming connections towards it. Also include in reports."
 msgstr ""
+"* யுபிஎன்பி நிலை* அதை நோக்கி உள்வரும் இணைப்புகளை அனுமதிக்க செனோ உங்கள் திசைவி அல்லது "
+"அணுகல் புள்ளியைச் சொல்ல முடியுமா என்பதைக் குறிக்கிறது. அறிக்கைகளிலும் சேர்க்கவும்."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
@@ -183,6 +250,9 @@ msgid ""
 "to seed signed content to other clients. These are shown to help test and "
 "debug the app, and should not be generally disclosed."
 msgstr ""
+"* உள்ளக யுடிபி இறுதிப் புள்ளிகள்* உங்கள் சாதனத்தில் உள்ள இணைய முகவரிகள் மற்ற "
+"வாடிக்கையாளர்களுக்கு விதை கையொப்பமிடப்பட்ட உள்ளடக்கத்திற்கு பயன்படுத்தப்படுகின்றன. பயன்பாட்டை"
+" சோதிக்கவும் பிழைத்திருத்தவும் இவை காட்டப்படுகின்றன, பொதுவாக வெளிப்படுத்தக்கூடாது."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
@@ -190,6 +260,9 @@ msgid ""
 "your Ceno traffic. Only available with UPnP-enabled routers, they are also "
 "useful for diagnostics and not to be generally disclosed."
 msgstr ""
+"* வெளிப்புற யுடிபி இறுதிப் புள்ளிகள்* உங்கள் செனோ போக்குவரத்துக்கு வழங்கப்பட்ட உங்கள் "
+"திசைவியில் உள்ள இணைய முகவரிகள். யுபிஎன்பி-இயக்கப்பட்ட திசைவிகளுடன் மட்டுமே கிடைக்கிறது"
+", அவை கண்டறியும் மற்றும் பொதுவாக வெளிப்படுத்தப்படக்கூடாது."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
@@ -197,6 +270,9 @@ msgid ""
 "outside of your network see when communicating with your device. Also for "
 "diagnostics and not to be disclosed."
 msgstr ""
+"* பொது யுடிபி இறுதிப் புள்ளிகள்* உங்கள் சாதனத்துடன் தொடர்பு கொள்ளும்போது உங்கள் "
+"நெட்வொர்க்குக்கு வெளியே உள்ள ஓவினெட் வாடிக்கையாளர்கள் பார்க்கும் இணைய முகவரிகள். "
+"நோயறிதலுக்காகவும் வெளிப்படுத்தப்படக்கூடாது."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
@@ -206,33 +282,42 @@ msgid ""
 "ports) to set or add your own, then choose *Save*. The changes will be "
 "applied the next time that your Ouinet client is started."
 msgstr ""
+"* கூடுதல் பிட்டோரண்ட் பூட்ச்ட்ராப்ச்* உங்கள் சாதனத்தை பிட்டோரண்ட் நெட்வொர்க்கில் செல்ல உதவும் "
+"சேவையகங்கள், இயல்புநிலை வேலை செய்யாவிட்டால். அறிக்கைகளிலும் சேர்க்கவும். உங்கள் சொந்தத்தை "
+"அமைக்க அல்லது சேர்க்க ஓச்ட்களின் (விருப்பமான துறைமுகங்களுடன்) இடத்தால் பிரிக்கப்பட்ட பட்டியலை"
+" நீங்கள் திருத்தலாம், பின்னர் *சேமி *என்பதைத் தேர்வுசெய்க. உங்கள் OUineted கிளையன்ட் "
+"தொடங்கப்பட்ட அடுத்த முறை மாற்றங்கள் பயன்படுத்தப்படும்."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*Ceno Browser* indicates the exact version of Ceno that you are using. Also "
 "include in reports."
 msgstr ""
+"* செனோ உலாவி* நீங்கள் பயன்படுத்தும் செனோவின் சரியான பதிப்பைக் குறிக்கிறது. அறிக்கைகளிலும்"
+" சேர்க்கவும்."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*Ceno Extension* shows the version of the extension that integrates Firefox "
 "with Ceno. Also include in reports."
 msgstr ""
+"* செனோ நீட்டிப்பு* செனோவுடன் பயர்பாக்சை ஒருங்கிணைக்கும் நீட்டிப்பின் பதிப்பைக் காட்டுகிறது. "
+"அறிக்கைகளிலும் சேர்க்கவும்."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*Ouinet* shows the version of Ouinet backing Ceno. Also include in reports."
-msgstr ""
+msgstr ". அறிக்கைகளிலும் சேர்க்கவும்."
 
 #: browser/settings.md:block 13 (unordered list)
 msgid ""
 "*Ouinet protocol* is the version number of the protocol that Ceno uses to "
 "talk to other Ouinet clients and injectors. Also include in reports."
-msgstr ""
+msgstr ". அறிக்கைகளிலும் சேர்க்கவும்."
 
 #: browser/settings.md:block 14 (header)
 msgid "Purging the local cache"
-msgstr ""
+msgstr "உள்ளக தற்காலிக சேமிப்பை தூய்மைப்படுத்துதல்"
 
 #: browser/settings.md:block 15 (paragraph)
 msgid ""
@@ -241,6 +326,10 @@ msgid ""
 "This allows you to free up some storage space in your device while keeping "
 "other Ceno settings like Favorites."
 msgstr ""
+"மேலே உள்ள * உள்ளக கேச் அளவு * மதிப்புக்கு அடுத்து, விதைப்பதை நிறுத்தவும், உங்கள் "
+"சாதனத்தால் பகிரப்பட்ட அனைத்து உள்ளடக்கங்களையும் ஓவினெட் வழியாகவும் அனுமதிக்கும் ஒரு "
+"பொத்தானை அனுமதிக்கிறது. பிடித்தவை போன்ற பிற செனோ அமைப்புகளை வைத்திருக்கும்போது உங்கள் "
+"சாதனத்தில் சில சேமிப்பக இடத்தை விடுவிக்க இது உங்களை அனுமதிக்கிறது."
 
 #: browser/settings.md:block 16 (paragraph)
 msgid ""
@@ -250,6 +339,11 @@ msgid ""
 "then *Clear private data*. You will be asked about which items you want to "
 "clear."
 msgstr ""
+"நீங்கள் செனோவின் இயல்பான உலாவல் தற்காலிக சேமிப்பை அழிக்க விரும்பினால் (உலாவியால் "
+"பயன்படுத்தப்பட்ட ஆனால் மற்றவர்களுடன் பகிரப்படவில்லை) அல்லது குக்கீகள், உலாவல் வரலாறு அல்லது "
+"பிடித்தவை போன்ற பிற உருப்படிகள், பயன்பாட்டின் முதன்மையான பட்டியலில் *அமைப்புகளை *தேர்வு "
+"செய்ய வேண்டும், பின்னர் *தனிப்பட்ட தரவை அழிக்கவும் *. நீங்கள் எந்த பொருட்களை அழிக்க "
+"விரும்புகிறீர்கள் என்பது பற்றி உங்களிடம் கேட்கப்படும்."
 
 #: browser/settings.md:block 17 (paragraph)
 msgid ""
@@ -257,10 +351,13 @@ msgid ""
 "please learn how to use the \"panic button\" feature described in "
 "[Installing Ceno](install.md)."
 msgstr ""
+"எல்லாவற்றையும் ஒரே நேரத்தில் கைவிட (குறிப்பாக நீங்கள் அவசரமாக இருந்தால்), [CENO ஐ "
+"நிறுவுதல்] (Install.md) இல் விவரிக்கப்பட்டுள்ள \"அச்சம் பொத்தான்\" அம்சத்தை எவ்வாறு "
+"பயன்படுத்துவது என்பதை அறியவும்."
 
 #: browser/settings.md:block 18 (header)
 msgid "Collecting log messages"
-msgstr ""
+msgstr "பதிவு செய்திகளை சேகரித்தல்"
 
 #: browser/settings.md:block 19 (paragraph)
 msgid ""
@@ -269,16 +366,21 @@ msgid ""
 "a file. This should only be used when diagnosing some problem in Ceno; just "
 "follow these steps:"
 msgstr ""
+"பக்கத்தின் கீழே ஒரு * இயக்கு பதிவு கோப்பு * செக் பாக்ச் உள்ளது, இது ஓவினெட்டின் அனைத்து உள்"
+" செய்திகளையும் சேகரித்து அவற்றை ஒரு கோப்பில் பதிவிறக்கம் செய்ய அனுமதிக்கிறது. செனோவில் "
+"சில சிக்கல்களைக் கண்டறியும்போது மட்டுமே இதைப் பயன்படுத்த வேண்டும்; இந்த படிகளைப் "
+"பின்பற்றவும்:"
 
 #: browser/settings.md:block 20 (ordered list)
 msgid "At the *Ceno Settings* page, check *Enable log file*."
-msgstr ""
+msgstr "*CENO அமைப்புகள் *பக்கத்தில், பதிவு கோப்பை இயக்கவும் *."
 
 #: browser/settings.md:block 20 (ordered list)
 msgid ""
 "Go back to browsing and do whatever actions that trigger the troublesome "
 "behavior."
 msgstr ""
+"மீண்டும் உலாவலுக்குச் சென்று, தொந்தரவான நடத்தையைத் தூண்டும் செயல்களைச் செய்யுங்கள்."
 
 #: browser/settings.md:block 20 (ordered list)
 msgid ""
@@ -287,10 +389,15 @@ msgid ""
 "ask you at this point whether to allow Ceno access to stored media: this is "
 "needed to be able to save the file."
 msgstr ""
+"* CENO அமைப்புகள் * பக்கத்திற்குத் திரும்பி, * இயக்க பதிவு கோப்பு * தேர்வுப்பெட்டிக்கு "
+"அடுத்த * பதிவிறக்கம் * இணைப்பைக் சொடுக்கு செய்க. பின்னர் பயன்படுத்த கோப்பை சேமிக்கவும். "
+"சேமிக்கப்பட்ட மீடியாவிற்கு செனோ அணுகலை அனுமதிக்கலாமா என்று அண்ட்ராய்டு உங்களிடம் கேட்கலாம்:"
+" கோப்பை சேமிக்க இது தேவை."
 
 #: browser/settings.md:block 20 (ordered list)
 msgid "Uncheck *Enable log file* to avoid the logs from growing too large."
 msgstr ""
+"சரிபார்க்கவும் * பதிவுகள் மிகப் பெரியதாக வளராமல் தவிர்க்க பதிவு கோப்பை இயக்கவும் *."
 
 #: browser/settings.md:block 21 (paragraph)
 msgid ""
@@ -298,3 +405,6 @@ msgid ""
 "avoid making it public since it may contain sensitive information about your "
 "browsing."
 msgstr ""
+"வெளியீட்டு அறிக்கையை ஆவணப்படுத்த நீங்கள் இப்போது சேமித்த பதிவு கோப்பைப் பயன்படுத்தலாம், ஆனால்"
+" உங்கள் உலாவல் பற்றிய முக்கியமான தகவல்களைக் கொண்டிருக்கலாம் என்பதால் அதை "
+"பகிரங்கப்படுத்துவதைத் தவிர்க்க முயற்சிக்கவும்."

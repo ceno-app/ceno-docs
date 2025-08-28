@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-22 19:59+0000\n"
+"PO-Revision-Date: 2024-09-05 16:09+0000\n"
 "Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/censorship-no/"
 "user-manual/id/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.2.1-rc\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: SUMMARY.md:block 1 (header)
 msgid "Summary"
@@ -48,10 +48,8 @@ msgid "[How does it work?](concepts/how.md)"
 msgstr "[Bagaimana cara kerjanya?](concepts/how.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
-#, fuzzy
-#| msgid "[Public vs. private browsing](concepts/public-private.md)"
 msgid "[Public vs. Personal browsing](concepts/public-personal.md)"
-msgstr "[Browsing publik vs. pribadi](concepts/public-private.md)"
+msgstr "[Penjelajahan Publik vs. Privat](concepts/public-personal.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Advantages of using Ceno/Ouinet](concepts/advantages.md)"
@@ -70,10 +68,9 @@ msgid "[Installing Ceno](browser/install.md)"
 msgstr "[Memasang Ceno](browser/install.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
-#, fuzzy
-#| msgid "[Using public or private browsing](browser/public-private.md)"
 msgid "[Using Public or Personal browsing](browser/public-personal.md)"
-msgstr "[Menggunakan browsing publik atau pribadi](browser/public-private.md)"
+msgstr ""
+"[Menggunakan penjelajahan Publik atau Privat](browser/public-personal.md)"
 
 #: SUMMARY.md:block 3 (unordered list)
 msgid "[Ceno settings](browser/settings.md)"

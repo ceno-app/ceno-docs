@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 10:05+0000\n"
+"PO-Revision-Date: 2024-08-29 05:09+0000\n"
 "Last-Translator: Taufik Adi Wicaksono <taufikadi.wicaksono@tutamail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/censorship-no/"
-"browser-settings/id/>\n"
+"manual/browser-settings/id/>\n"
 "Language: id\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.7.1-dev\n"
 
 #: browser/settings.md:block 1 (header)
 msgid "Ceno settings"
@@ -64,12 +64,6 @@ msgid "Choosing access mechanisms"
 msgstr "Memilih mekanisme akses"
 
 #: browser/settings.md:block 7 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "The four checkboxes on the top of the page selectively enable or disable "
-#| "the different mechanisms or *sources* that Ceno as a Ouinet client uses "
-#| "to retrieve content while using either [public or private browsing]"
-#| "(public-private.md) tabs. All boxes are enabled by default."
 msgid ""
 "The four checkboxes on the top of the page selectively enable or disable the "
 "different mechanisms or *sources* that Ceno as a Ouinet client uses to "
@@ -79,7 +73,7 @@ msgstr ""
 "Empat kotak centang di bagian atas halaman secara selektif mengaktifkan atau "
 "menonaktifkan berbagai mekanisme atau *sumber* yang digunakan Ceno sebagai "
 "klien Ouinet untuk mengambil konten saat menggunakan tab [penjelajahan "
-"publik atau privat](public-private.md). Semua kotak dicentang secara bawaan."
+"Publik atau Privat](public-personal.md). Semua kotak dicentang secara bawaan."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -91,16 +85,12 @@ msgstr ""
 "diaktifkan di bawah."
 
 #: browser/settings.md:block 8 (unordered list)
-#, fuzzy
-#| msgid ""
-#| "Although this mechanism works in both private and public browsing modes, "
-#| "content thus retrieved cannot be shared with others."
 msgid ""
 "Although this mechanism works in both Personal and Public browsing modes, "
 "content thus retrieved cannot be shared with others."
 msgstr ""
-"Meskipun mekanisme ini dapat bekerja dalam mode penjelajahan privat dan "
-"publik, konten yang diambil tidak dapat dibagikan dengan orang lain."
+"Meskipun mekanisme ini dapat bekerja dalam mode penjelajahan Privat dan "
+"Publik, konten yang diambil tidak dapat dibagikan dengan orang lain."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -144,10 +134,8 @@ msgstr ""
 "server asal."
 
 #: browser/settings.md:block 8 (unordered list)
-#, fuzzy
-#| msgid "This mechanism only works in private browsing mode."
 msgid "This mechanism only works in Personal browsing mode."
-msgstr "Mekanisme ini hanya berfungsi di dalam mode penjelajahan privat."
+msgstr "Mekanisme ini hanya berfungsi di dalam mode penjelajahan Privat."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -198,18 +186,13 @@ msgstr ""
 "Ouinet lain yang menyebarkannya."
 
 #: browser/settings.md:block 9 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "Disabling all of the mechanisms available for either public or private "
-#| "browsing mode will render them useless. If you establish such a "
-#| "configuration, a warning will be shown as depicted below:"
 msgid ""
 "Disabling all of the mechanisms available for either Public or Personal "
 "browsing mode will render them useless. If you establish such a "
 "configuration, a warning will be shown as depicted below:"
 msgstr ""
-"Menonaktifkan semua mekanisme yang tersedia untuk mode penelusuran publik "
-"atau privat akan membuatnya tidak berguna. Jika Anda membuat konfigurasi "
+"Menonaktifkan semua mekanisme yang tersedia untuk mode penelusuran Publik "
+"atau Privat akan membuatnya tidak berguna. Jika Anda membuat konfigurasi "
 "seperti itu, peringatan akan ditampilkan seperti yang digambarkan di bawah "
 "ini:"
 

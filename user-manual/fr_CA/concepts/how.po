@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 11:01+0000\n"
+"Last-Translator: Johanie Martin Lafond <omgwtfgtfoomw@gmail.com>\n"
+"Language-Team: French (Canada) <https://hosted.weblate.org/projects/"
+"censorship-no/how/fr_CA/>\n"
 "Language: fr_CA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: concepts/how.md:block 1 (header)
 msgid "How does it work?"
-msgstr ""
+msgstr "Comment ça marche ?"
 
 #: concepts/how.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +22,10 @@ msgid ""
 "introduced (highlighted **in bold letters**) and used afterwards for "
 "efficiency and to avoid confusion."
 msgstr ""
+"Cette section expliquera l'opération de Ceno et de Ouinet en passant par une "
+"série de scénarios. La terminologie et les concepts importants pour Ouinet "
+"seront introduits (**en caractères gras**) et utilisés par la suite pour "
+"l'efficacité et pour éviter la confusion."
 
 #: concepts/how.md:block 3 (header)
 msgid "Accessing content directly"

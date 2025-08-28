@@ -1,33 +1,43 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-30 23:00+0000\n"
+"Last-Translator: Tomáš Kadlec <t.kadlec.g@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
+"manual/browser-install/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: browser/install.md:block 1 (header)
 msgid "Installing Ceno"
-msgstr ""
+msgstr "Instalace prohlížeče Ceno"
 
 #: browser/install.md:block 2 (paragraph)
 msgid "Ceno Browser can be installed via the following means:"
-msgstr ""
+msgstr "Prohlížeč Ceno může být nainstalován následujícími způsoby:"
 
 #: browser/install.md:block 3 (unordered list)
 msgid ""
 "[Google Play][ceno-gplay] (*Ceno Browser* from *eQualitie*): the recommended "
 "source for most Android users."
 msgstr ""
+"Google Play][ceno-gplay] (*Ceno Browser* od *eQualitie*): doporučený zdroj "
+"pro vetšinu uživatelů Android."
 
 #: browser/install.md:block 3 (unordered list)
 msgid "[Gitlab][ceno-gh]: for Android devices without Google Play."
-msgstr ""
+msgstr "[Gitlab][ceno-gh]: pro zařízení Android bez Google Play."
 
 #: browser/install.md:block 3 (unordered list)
 msgid ""
 "[Paskoocheh][ceno-pask]: for users in countries blocking access to the "
 "previous channels."
 msgstr ""
+"[Paskoocheh][ceno-pask]: pro uživatele jejichž země blokuje přístup k "
+"předchozím způsobům."
 
 #: browser/install.md:block 4 (paragraph)
 msgid ""
@@ -35,6 +45,10 @@ msgid ""
 "4.1 Jelly Bean, thus most mobile devices released from late 2012 onward "
 "should work. Ceno needs *no special permissions* to run."
 msgstr ""
+"Ceno vyžaduje zařízení ARM64 nebo Neon podporující ARM32 s operačním "
+"systémem Android 4.1 Jelly Bean, takže by měla fungovat většina mobilních "
+"zařízení vydaných od konce roku 2012. Ceno nepotřebuje ke svému běhu *žádná "
+"zvláštní oprávnění*."
 
 #: browser/install.md:block 5 (quote)
 msgid ""
@@ -45,10 +59,18 @@ msgid ""
 "Ouinet users. If in doubt, please contact [cenoers@equalitie.org](mailto:"
 "cenoers@equalitie.org) before installing a suspicious app."
 msgstr ""
+"**Varování:** Prosím buďte *extrémně obezřetní* pokud budete instalovat "
+"prohlížeč Ceno z jiných zdrojů než výše uvedených. Z důvodů vlastností "
+"aplikace, její potenciální uživatelé se mohou stát cílem všech možných "
+"falešných nebo zmanipulovaných verzí, použitých k porušení soukromí "
+"uživatelů nebo cílem útoků na ostatní Ceno a Ouinet uživatele. Pokud máte "
+"pochybnosti, prosím kontaktujte [cenoers@equalitie."
+"org](mailto:cenoers@equalitie.org) před tím než nainstalujete podezřelou "
+"aplikaci."
 
 #: browser/install.md:block 6 (header)
 msgid "Stopping Ceno completely"
-msgstr ""
+msgstr "Úplné zastavení Ceno"
 
 #: browser/install.md:block 7 (paragraph)
 msgid ""
@@ -58,6 +80,11 @@ msgid ""
 "allows other clients to use your device as a bridge and retrieve content "
 "from it at any time."
 msgstr ""
+"Pokaždé, když spustíte aplikaci, se objeví ikona Ceno v oznamovací liště "
+"zařízení. Tato ikona představuje *službu prohlížeče Ceno*, která je částín "
+"Ceno jež běží stále (i v případě pokud zrovna neprohlížíte) a umožňuje "
+"ostatním klientům použít Vaše zařízení jako Most a získat z něj obsah "
+"kdykoli."
 
 #: browser/install.md:block 8 (paragraph)
 msgid ""
@@ -66,16 +93,22 @@ msgid ""
 "far from a charger). Tapping on the notification attached to the icon will "
 "stop both Ceno and its service at once (until you open Ceno again)."
 msgstr ""
+"Vzhledem k tomu, že spuštění takové služby využívá síťové a procesorové "
+"prostředky, můžete ji zastavit, kdykoli jste na cestách (tj. nejste "
+"připojeni k Wi-Fi nebo nejste daleko od nabíječky). Klepnutím na oznámení "
+"připojené k ikoně zastavíte Ceno i jeho službu najednou (dokud Ceno znovu "
+"neotevřete)."
 
 #: browser/install.md:block 9 (paragraph)
 msgid ""
 "![Figure: Tap on the notification to stop the Ceno service](images/tap-stop."
 "png)"
 msgstr ""
+"![Obrazec: Klepněte na oznámení k zastavení služby Ceno](images/tap-stop.png)"
 
 #: browser/install.md:block 10 (header)
 msgid "Purging all Ceno data (the \"panic button\")"
-msgstr ""
+msgstr "Vymazání všech Ceno dat (\"panické tlačítko\")"
 
 #: browser/install.md:block 11 (paragraph)
 msgid ""
@@ -84,6 +117,10 @@ msgid ""
 "action will just open Ceno with a new public browsing tab showing its home "
 "page. The *Erase* action demands more explanation."
 msgstr ""
+"Oznámení služby Ceno Browser uvedené výše obsahuje několik doprovodných "
+"akcí, které lze spustit klepnutím na ně. Akce \"Domů\" otevře prohlížeč Ceno "
+"s novou veřejnou záložkou zobrazující úvodní stránku. Akce Vymazat vyžaduje "
+"podrobnější vysvětlení."
 
 #: browser/install.md:block 12 (quote)
 msgid ""
@@ -92,6 +129,9 @@ msgid ""
 "only see the *Home* action, your device may be too old to support the "
 "*Erase* action."
 msgstr ""
+"**Poznámka:** Pokud akce pod oznámením nejsou viditelné, přetáhněte oznámení "
+"z jeho středu směrem dolů, aby se rozbalilo. Pokud vidíte pouze akci Domů, "
+"vaše zařízení může být příliš staré na podporu akce *Vymazat*."
 
 #: browser/install.md:block 13 (paragraph)
 msgid ""
@@ -101,6 +141,11 @@ msgid ""
 "your data accidentally, this will not remove anything yet, but just show an "
 "additional action for a brief moment, as pictured below:"
 msgstr ""
+"Pokud budete někdy potřebovat rychle zastavit Ceno a vymazat veškerá data s "
+"ním spojená (nejen uložený obsah, ale také nastavení jako oblíbené položky, "
+"hesla a celou historii procházení), můžete klepnout na* Vymazat*. Aby "
+"nedošlo k náhodné ztrátě vašich dat, tato akce nic neodstraní okamžitě, ale "
+"pouze na krátký okamžik zobrazí další možnost, jak je znázorněno níže:"
 
 #: browser/install.md:block 14 (paragraph)
 msgid ""
@@ -114,10 +159,13 @@ msgid ""
 "removed *without further questions*, effectively leaving your device as if "
 "Ceno had never been used."
 msgstr ""
+"Pokud klepnete na políčko *Ano*, Ceno se zastaví a všechna jeho data budou "
+"odstraněna *bez dalších dotazů*, čímž vaše zařízení zůstane ve stavu, jako "
+"by Ceno nikdy nebylo použito."
 
 #: browser/install.md:block 16 (paragraph)
 msgid "If you do not tap on the action, it will go away in a few seconds."
-msgstr ""
+msgstr "Pokud tuto akci nezvolíte, během několika sekund zmizí."
 
 #: browser/install.md:block 17 (quote)
 msgid ""
@@ -126,21 +174,28 @@ msgid ""
 "Android's general *Settings* page and, under the *Apps* entry, choose Ceno "
 "and then *Clear data*."
 msgstr ""
+"**Poznámka**: Výše popsaná metoda vyžaduje, aby Ceno běželo na vašem "
+"zařízení. Pro dosažení stejného výsledku, když je Ceno vypnuté, můžete "
+"použít obecnou stránku *Nastavení* v systému Android. V sekci *Aplikace* "
+"vyberte Ceno a poté zvolte *Vymazat data*."
 
 #: browser/install.md:block 17 (quote)
 msgid "As a harsher alternative, you may completely uninstall the app."
-msgstr ""
+msgstr "Jako ráznější alternativu můžete aplikaci zcela odinstalovat."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "**Warning:** Android may still keep other traces of having used an app "
 "besides its data, for instance in its system log."
 msgstr ""
+"**Upozornění**: Android může i přes odstranění dat stále uchovávat jiné "
+"stopy o používání aplikace, například v systémovém logu."
 
 #: browser/install.md:block 18 (quote)
 msgid ""
 "[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 msgstr ""
+"[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 
 #: browser/install.md:block 18 (quote)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/-/releases"

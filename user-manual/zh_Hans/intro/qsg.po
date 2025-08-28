@@ -1,13 +1,19 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-11 20:02+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/qsg/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: intro/qsg.md:block 1 (header)
 msgid "Quick start guide"
-msgstr ""
+msgstr "快速入门指南"
 
 #: intro/qsg.md:block 2 (paragraph)
 msgid ""
@@ -16,24 +22,29 @@ msgid ""
 "your requests, as well as to store and share retrieved content with others. "
 "[Read more about Ceno](ceno.md)."
 msgstr ""
+"Ceno 浏览器让您能够访问互联网上的任何网站，即使该网站在您的国家受到审查。"
+"Ceno 利用点对点基础设施来路由您的请求，同时也存储并与他人分享获取的内容。"
+"[了解更多关于 Ceno 的信息](ceno.md)。"
 
 #: intro/qsg.md:block 3 (header)
 msgid "How to get started"
-msgstr ""
+msgstr "如何开始"
 
 #: intro/qsg.md:block 4 (paragraph)
 msgid "You will need an Android device:"
-msgstr ""
+msgstr "您需要一台 Android 设备："
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid ""
 "Install Ceno Browser from [Google Play][ceno-gplay], [GitHub][ceno-gh] or "
 "[Paskoocheh][ceno-pask]. *No special permissions are needed*."
 msgstr ""
+"从 [Google Play][ceno-gplay]、[GitHub][ceno-gh] 或 [Paskoocheh][ceno-pask] "
+"安装 Ceno 浏览器。*无需特殊权限*。"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid "Run it."
-msgstr ""
+msgstr "运行它。"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid ""
@@ -41,58 +52,66 @@ msgid ""
 "privacy for some page or if it is not loading as expected, use a Personal "
 "tab (see [Public vs. Personal browsing](../concepts/public-personal.md))."
 msgstr ""
+"正常浏览网页即可帮助其他用户访问这些网页；如果担心某些网页的隐私问题，或者网"
+"页加载不符合预期，请使用个人标签页（参见[公共浏览和个人浏览](../concepts/"
+"public-personal.md)）。"
 
 #: intro/qsg.md:block 5 (ordered list)
 msgid "Tap on the Ceno notification to stop it completely."
-msgstr ""
+msgstr "点击 Ceno 通知以完全停止它。"
 
 #: intro/qsg.md:block 6 (paragraph)
 msgid "Detailed installation instructions are [here](../browser/install.md)."
-msgstr ""
+msgstr "详细的安装说明[在这里](../browser/install.md)。"
 
 #: intro/qsg.md:block 7 (header)
 msgid "Configuration"
-msgstr ""
+msgstr "配置"
 
 #: intro/qsg.md:block 8 (paragraph)
 msgid ""
 "Ceno Browser should work out-of-the-box. You can find some [diagnostics and "
 "settings](../browser/settings.md) under the *Ceno* menu entry."
 msgstr ""
+"Ceno 浏览器应该可以开箱即用。您可以在 *Ceno* 菜单选项下找到一些"
+"[诊断功能和设置](../browser/settings.md)。"
 
 #: intro/qsg.md:block 9 (paragraph)
 msgid ""
 "If you want to make sure that your app is also helping others access blocked "
 "content, please [read this section](../browser/bridging.md)."
-msgstr ""
+msgstr "如果您想确保您的应用程序也在帮助他人访问被屏蔽的内容，[请阅读此部分](../"
+"browser/bridging.md)。"
 
 #: intro/qsg.md:block 10 (header)
 msgid "More questions?"
-msgstr ""
+msgstr "更多问题？"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "Please see the [FAQ](faq.md)."
-msgstr ""
+msgstr "请参阅[常见问题解答](faq.md)。"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "Refer to the [troubleshooting guide](../browser/troubleshooting.md)."
-msgstr ""
+msgstr "请参阅[故障排除指南](../browser/troubleshooting.md)。"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid ""
 "Contact us by writing to [cenoers@equalitie.org](mailto:cenoers@equalitie."
 "org)."
-msgstr ""
+msgstr "通过发送邮件至 [cenoers@equalitie.org](mailto:cenoers@equalitie.org) "
+"与我们联系。"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid ""
 "[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 msgstr ""
+"[ceno-gplay]: https://play.google.com/store/apps/details?id=ie.equalit.ceno"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/releases"
-msgstr ""
+msgstr "[ceno-gh]: https://gitlab.com/censorship-no/ceno-browser/releases"
 
 #: intro/qsg.md:block 11 (unordered list)
 msgid "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"
-msgstr ""
+msgstr "[ceno-pask]: https://paskoocheh.com/tools/124/android.html"

@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 11:01+0000\n"
+"Last-Translator: Johanie Martin Lafond <omgwtfgtfoomw@gmail.com>\n"
+"Language-Team: French (Canada) <https://hosted.weblate.org/projects/"
+"censorship-no/homepage-readme/fr_CA/>\n"
 "Language: fr_CA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: README.md:block 1 (header)
 msgid "Censorship.no! User Manual"
-msgstr ""
+msgstr "Censure.non! Manuel des utilisateurs"
 
 #: README.md:block 2 (paragraph)
 msgid ""
@@ -15,6 +21,9 @@ msgid ""
 "technologies, as created for the [Censorship.no!][Censorship.no!] project by "
 "[eQualitie][eQualitie]."
 msgstr ""
+"Ce manuel s'adresse aux utilisateurs de [Ceno Browser][Ceno Browser] et aux "
+"technologies connexes, telles que créées pour le projet [Censorship.no!]"
+"[Censorship.no!] de [eQualitie][eQualitie]."
 
 #: README.md:block 3 (paragraph)
 msgid ""

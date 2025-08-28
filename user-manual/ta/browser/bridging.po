@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"browser-bridging/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: browser/bridging.md:block 1 (header)
 msgid "Helping other Ceno users browse the Web"
-msgstr ""
+msgstr "மற்ற செனோ பயனர்கள் வலையை உலாவ உதவுகிறது"
 
 #: browser/bridging.md:block 2 (paragraph)
 msgid ""
@@ -21,6 +27,14 @@ msgid ""
 "through an encrypted tunnel), nor will any of this traffic remain on your "
 "device."
 msgstr ""
+"அதனுடன் இணைக்கப்பட்ட ஒவ்வொரு முனையிலிருந்தும் ஒரு பியர்-டு-பியர் பிணையம் கட்டப்பட்டுள்ளது "
+"(ஆம், அதாவது உங்களையும் குறிக்கிறது!). அதிக முனைகள், பிணையம் மாறும் வலுவான மற்றும் "
+"பல்துறை. இணையத்தை தணிக்கை செய்யாத ஒரு நாட்டிலிருந்து நீங்கள் செனோ உலாவியை இயக்குகிறீர்கள் "
+"என்றால் (அல்லது சிலரைப் போல பெரிதாக இல்லை), மற்ற செனோ பயனர்களுக்கு ** பிரிட்ச் ** "
+"முனையாக மாறுவதன் மூலம் உதவுவதைக் கவனியுங்கள். பெரிதும் தணிக்கை செய்யப்பட்ட நாடுகளிலும், "
+"செனோ இன்செக்டர்களிலும் வசிக்கும் வாடிக்கையாளர்களிடையே போக்குவரத்தை வழிநடத்தத் தொடங்குவீர்கள்"
+". அவற்றின் போக்குவரத்தை நீங்கள் காண முடியாது (இது ஒரு மறைகுறியாக்கப்பட்ட சுரங்கப்பாதை "
+"மூலம் அனுப்பப்படும்), இந்த போக்குவரத்து எதுவும் உங்கள் சாதனத்தில் இருக்காது."
 
 #: browser/bridging.md:block 3 (quote)
 msgid ""
@@ -30,10 +44,15 @@ msgid ""
 "(but keep in mind the [risks](../concepts/risks.md) of serving such content "
 "to others)."
 msgstr ""
+"** குறிப்பு: ** இந்த பிரிவில் விவரிக்கப்பட்டுள்ள உள்ளமைவு, விநியோகிக்கப்பட்ட தற்காலிக "
+"சேமிப்பில் மற்றவர்களுக்கு உள்ளடக்கத்தை திறம்பட விதைக்க உங்கள் சாதனத்திற்கு உதவக்கூடும், எனவே "
+"தயவுசெய்து தணிக்கை செய்யும் நாட்டில் செனோவைப் பயன்படுத்தும் போது அதைப் பயன்படுத்துவதைக் "
+"கவனியுங்கள் (ஆனால் [அபாயங்களை நினைவில் கொள்ளுங்கள் [அபாயங்கள் ] (../ கருத்துக்கள்/அபாயங்கள்)"
+" அத்தகைய உள்ளடக்கத்தை மற்றவர்களுக்கு பணி செய்வதற்கான)."
 
 #: browser/bridging.md:block 4 (header)
 msgid "How to become a Ceno bridge"
-msgstr ""
+msgstr "செனோ பாலமாக மாறுவது எப்படி"
 
 #: browser/bridging.md:block 5 (paragraph)
 msgid ""
@@ -42,6 +61,9 @@ msgid ""
 "port forwarding configured for Ceno. See the next sections for further "
 "details."
 msgstr ""
+"இந்த செயல்பாடு ஏற்கனவே செனோ உலாவியில் கட்டமைக்கப்பட்டுள்ளது. உங்கள் சாதனம் UPNP இயக்கப்பட்ட "
+"அல்லது வெளிப்படையான துறைமுகம் பகிர்தல் CENO க்காக கட்டமைக்கப்பட்ட வைஃபை நெட்வொர்க்குடன் "
+"இணைக்கப்பட வேண்டும். மேலும் விவரங்களுக்கு அடுத்த பிரிவுகளைப் பார்க்கவும்."
 
 #: browser/bridging.md:block 6 (paragraph)
 msgid ""
@@ -49,6 +71,9 @@ msgid ""
 "a proper bridge while you are actively using it, as power-saving features "
 "will throttle the operation of Ceno otherwise."
 msgstr ""
+"இருப்பினும், ஆண்ட்ராய்டு ஒரு மொபைல் சாதனத்தை நீங்கள் தீவிரமாகப் பயன்படுத்தும்போது சரியான "
+"பாலமாக செயல்பட அனுமதிக்கும் என்பதை நினைவில் கொள்க, ஏனெனில் மின்சாரம் சேமிக்கும் "
+"நற்பொருத்தங்கள் செனோவின் செயல்பாட்டைத் தூண்டும்."
 
 #: browser/bridging.md:block 7 (quote)
 msgid ""
@@ -61,20 +86,27 @@ msgid ""
 "interfere with Ceno; please check [Don't kill my app!][Don't kill my app!] "
 "for your device's brand."
 msgstr ""
+". ) சொந்த ஓவினெட் நூலகத்தின் செயல்பாட்டை மெதுவாக்குகிறது. துரதிர்ச்டவசமாக, CENO க்கான "
+"பேட்டரி தேர்வுமுறையை முடக்குவது அதிலிருந்து OUinet ஐ விலக்குவதாகத் தெரியவில்லை. உங்கள்"
+" குறிப்பிட்ட சாதனத்தில் செனோவுடன் தலையிடக்கூடிய அதன் சொந்த ஆற்றல் சேமிப்பு அம்சங்களும் "
+"இருக்கலாம்; தயவுசெய்து சரிபார்க்கவும் [எனது பயன்பாட்டை கொல்ல வேண்டாம்!] [எனது பயன்பாட்டை "
+"கொல்ல வேண்டாம்!] உங்கள் சாதனத்தின் பிராண்டுக்கு."
 
 #: browser/bridging.md:block 8 (paragraph)
 msgid ""
 "Thus if you intend to have Ceno acting as a permanent, always-reachable "
 "bridge, besides a properly configured Wi-Fi network you will need to:"
 msgstr ""
+"ஆகவே, செனோ ஒரு நிரந்தர, எப்போதும் அடையக்கூடிய பாலமாக செயல்பட விரும்பினால், ஒழுங்காக "
+"உள்ளமைக்கப்பட்ட வைஃபை நெட்வொர்க்கைத் தவிர நீங்கள் தேவைப்படும்:"
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid "Have your device plugged in to power at all times."
-msgstr ""
+msgstr "உங்கள் சாதனம் எல்லா நேரங்களிலும் சக்தியை செருகவும்."
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid "Have the device's screen on at all times."
-msgstr ""
+msgstr "சாதனத்தின் திரையை எல்லா நேரங்களிலும் வைத்திருங்கள்."
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid ""
@@ -85,6 +117,11 @@ msgid ""
 "select *While charging* or *Either*. A very dimmed down clock will appear on "
 "a black background while the device is not active."
 msgstr ""
+"அதிக மின் நுகர்வு மற்றும் அருவருப்பான, நிரந்தர விளக்குகள் இல்லாமல் இதைச் செய்வதற்கான ஒரு "
+"வசதியான வழி ஆண்ட்ராய்டின் திரை சேவரைப் பயன்படுத்துகிறது: இதை * அமைப்புகள் / காட்சி / "
+"திரை சேமிப்பாளர் * (அல்லது * பகல் கனவு *) கீழ் இயக்கவும் *மெனுவில் திரை சேவர்*ஐ எப்போது "
+"தொடங்க வேண்டும் மற்றும்*அல்லது*ஒன்று*சார்ச் செய்யும் போது*தேர்ந்தெடுக்கவும். சாதனம் செயலில் "
+"இல்லாதபோது மிகவும் மங்கலான கடிகாரம் கருப்பு பின்னணியில் தோன்றும்."
 
 #: browser/bridging.md:block 9 (ordered list)
 msgid ""
@@ -92,6 +129,9 @@ msgid ""
 "this will turn the screen off. Instead, just wait for the device to lock "
 "itself with the screen on."
 msgstr ""
+"சாதனத்தை பூட்ட நீங்கள் ஆற்றல் பொத்தானைப் பயன்படுத்தக்கூடாது என்பதை நினைவில் கொள்க, ஏனெனில் "
+"இது திரையை அணைக்கும். அதற்கு பதிலாக, சாதனம் திரை மூலம் தன்னை பூட்டிக் கொள்ளும் வரை "
+"காத்திருங்கள்."
 
 #: browser/bridging.md:block 10 (paragraph)
 msgid ""
@@ -99,10 +139,13 @@ msgid ""
 "computer with good connectivity that stays on most of the time, please "
 "continue reading."
 msgstr ""
+"அந்த அமைப்பு உங்களுக்கு ஒரு விருப்பமாக இல்லாவிட்டால், இன்னும் விலக வேண்டாம்! உங்களிடம் நல்ல "
+"இணைப்பு கொண்ட கணினி இருந்தால், பெரும்பாலான நேரங்களில் இருக்கும், தயவுசெய்து தொடர்ந்து "
+"படிக்கவும்."
 
 #: browser/bridging.md:block 11 (header)
 msgid "Running a bridge on a computer"
-msgstr ""
+msgstr "கணினியில் ஒரு பாலத்தை இயக்குகிறது"
 
 #: browser/bridging.md:block 12 (paragraph)
 msgid ""
@@ -112,6 +155,11 @@ msgid ""
 "[docker-install] in your platform. For Debian derivatives like Ubuntu or "
 "Linux Mint, you can just run: `sudo apt install docker.io`"
 msgstr ""
+"உங்கள் கணினி [டோக்கர் கொள்கலன்கள்] [டோக்கர்] ஐ ஆதரித்தால், நீங்கள் ஒரு பாலமாக செயல்படுவதற்கு "
+"முன்பே கட்டமைக்கப்பட்ட செனோ கிளையண்டை இயக்கலாம். கப்பல்துறை இன்னும் நிறுவப்படவில்லை என்றால், "
+"தயவுசெய்து உங்கள் மேடையில் [டோக்கர் எஞ்சின்] [டோக்கர்-இன்ச்டால்] ஐ நிறுவ வழிமுறைகளைப் "
+"பின்பற்றவும். உபுண்டு அல்லது லினக்ச் புதினா போன்ற டெபியன் வழித்தோன்றல்களுக்கு, நீங்கள் "
+"இயக்கலாம்: `sudo apt install docker.io`"
 
 #: browser/bridging.md:block 13 (paragraph)
 msgid ""
@@ -119,12 +167,17 @@ msgid ""
 "on a terminal (it looks scary but you can just copy and paste it as is on "
 "the command line):"
 msgstr ""
+"ஒரு செனோ கிளையன்ட் கொள்கலனை வரிசைப்படுத்த நீங்கள் ஒரு முனையத்தில் பின்வரும் கட்டளையை "
+"மட்டுமே இயக்க வேண்டும் (இது பயமாக இருக்கிறது, ஆனால் கட்டளை வரியில் உள்ளதைப் போல நீங்கள் "
+"அதை நகலெடுத்து ஒட்டலாம்):"
 
 #: browser/bridging.md:block 15 (paragraph)
 msgid ""
 "If your computer is not based on GNU/Linux, the command needs to be slightly "
 "different:"
 msgstr ""
+"உங்கள் கணினி குனு/லினக்சை அடிப்படையாகக் கொண்டிருக்கவில்லை என்றால், கட்டளை சற்று "
+"வித்தியாசமாக இருக்க வேண்டும்:"
 
 #: browser/bridging.md:block 17 (paragraph)
 msgid ""
@@ -133,6 +186,9 @@ msgid ""
 "Docker client documentation][ceno-client-doc] for more information on how to "
 "manipulate the container."
 msgstr ""
+"கட்டளை `செனோ-கிளையன்ட்` என்ற கொள்கலனைத் தொடங்கும், அது ஒவ்வொரு துவக்கத்திலும் இயங்கும். "
+"கொள்கலனை எவ்வாறு கையாள்வது என்பது பற்றிய கூடுதல் தகவலுக்கு [CENO DOCKER CLIENT "
+"ஆவணங்கள்] [CENO-Client-DOC] ஐ சரிபார்க்கவும்."
 
 #: browser/bridging.md:block 18 (quote)
 msgid ""
@@ -140,10 +196,13 @@ msgid ""
 "access that page, open instead the [client front-end](../client/front-end."
 "md), which contains mostly equivalent information."
 msgstr ""
+"** குறிப்பு: ** இந்த கிளையண்டிற்கு*செனோ அமைப்புகள் இல்லை*: அந்தப் பக்கத்தை அணுக கீழே "
+"அறிவுறுத்தப்படும்போது, அதற்கு பதிலாக [கிளையன்ட் முன்-இறுதி] (../ கிளையன்ட்/முன்-எண்ட் எம்."
+"டி) திறக்கவும், இது பெரும்பாலும் சமமான தகவல்களைக் கொண்டுள்ளது ."
 
 #: browser/bridging.md:block 19 (header)
 msgid "Enabling UPnP on your Wi-Fi router"
-msgstr ""
+msgstr "உங்கள் வைஃபை திசைவிக்கு யுபிஎன்பி உதவுகிறது"
 
 #: browser/bridging.md:block 20 (paragraph)
 msgid ""
@@ -151,6 +210,9 @@ msgid ""
 "client) reachable to the Ceno network. The [Ceno Settings](settings.md) page "
 "will indicate the UPnP status on your local network."
 msgstr ""
+"[யுபிஎன்பி] [யுபிஎன்பி] என்பது உங்கள் செனோ உலாவி (அல்லது கணினி கிளையன்ட்) செனோ "
+"நெட்வொர்க்கிற்கு அடையக்கூடிய எளிதான வழியாகும். [CENO அமைப்புகள்] (settings.md) பக்கம் "
+"உங்கள் உள்ளக நெட்வொர்க்கில் UPNP நிலையை குறிக்கும்."
 
 #: browser/bridging.md:block 21 (quote)
 msgid ""
@@ -158,32 +220,42 @@ msgid ""
 "network to external interference. Please make yourself [aware of the risks]"
 "[upnp-risks] and also consider using alternative methods as explained below."
 msgstr ""
+"** குறிப்பு: ** வைஃபை திசைவிக்கு யுபிஎன்பியை இயக்குவது உங்கள் பிணையத்தில் உள்ள "
+"சாதனங்களை வெளிப்புற குறுக்கீட்டிற்கு வெளிப்படுத்தலாம். தயவுசெய்து [அபாயங்கள் குறித்து] "
+"[UPNP-RIKS] ஐ அறிந்து கொள்ளுங்கள், மேலும் கீழே விளக்கப்பட்டுள்ளபடி மாற்று முறைகளைப் "
+"பயன்படுத்துவதையும் கருத்தில் கொள்ளுங்கள்."
 
 #: browser/bridging.md:block 22 (paragraph)
 msgid ""
 "A status like the one below indicates that UPnP is not available or not "
 "working on your WiFi router:"
 msgstr ""
+"கீழே உள்ளதைப் போன்ற ஒரு நிலை, யுபிஎன்பி கிடைக்கவில்லை அல்லது உங்கள் வைஃபை திசைவியில் "
+"வேலை செய்யவில்லை என்பதைக் குறிக்கிறது:"
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**Reachability status**"
-msgstr ""
+msgstr "** அணுகல் நிலை **"
 
 #: browser/bridging.md:block 23 (quote)
 msgid "**UPnP status**"
-msgstr ""
+msgstr "** UPNP நிலை **"
 
 #: browser/bridging.md:block 24 (paragraph)
 msgid ""
 "The status below indicates that UPnP is likely working and Ceno is currently "
 "verifying connectivity:"
 msgstr ""
+"கீழேயுள்ள நிலை யுபிஎன்பி செயல்படக்கூடும் என்பதையும், செனோ தற்போது இணைப்பை சரிபார்க்கிறது "
+"என்பதையும் குறிக்கிறது:"
 
 #: browser/bridging.md:block 26 (paragraph)
 msgid ""
 "The status below indicates that UPnP is working and you can bridge "
 "connections for other Ceno users:"
 msgstr ""
+"கீழேயுள்ள நிலை யுபிஎன்பி செயல்படுகிறது என்பதைக் குறிக்கிறது மற்றும் பிற CENO "
+"பயனர்களுக்கான இணைப்புகளை நீங்கள் குறைக்கலாம்:"
 
 #: browser/bridging.md:block 28 (quote)
 msgid ""
@@ -196,6 +268,14 @@ msgid ""
 "get a public address on your router or to establish port forwardings to the "
 "external endpoint."
 msgstr ""
+"**Note:** இரட்டை if UPnP is working, your router சி-வைகாசி still not be "
+"reachable இருந்து the outside. [CGNAT] [CGNAT] போல தோற்றமளிக்கும் * CENO அமைப்புகள்"
+" * அறிக்கைகள் * வெளிப்புற யுடிபி இறுதிப் புள்ளிகள் * `100.x.y.z: n` உடன் 64 மற்றும் "
+"127 க்கு இடையில் (வீட்டு ISP களில் பெருகிய முறையில் பொதுவானவை) அல்லது தனிப்பட்டவை "
+"addresses `10.X.Y.Z:N`, `172.X.Y.Z:N` with ஃச் between 16 and 31, and `192.168"
+".X.Y:N`. அப்படியானால், உங்கள் திசைவியில் பொது முகவரியைப் பெற அல்லது வெளிப்புற இறுதிப் "
+"புள்ளியில் துறைமுகம் முன்னோக்குகளை நிறுவ உங்கள் ISP அல்லது பிணையம் நிர்வாகியை தொடர்பு "
+"கொள்ளவும்."
 
 #: browser/bridging.md:block 29 (paragraph)
 msgid ""
@@ -203,46 +283,56 @@ msgid ""
 "features. Herein a list of some manufacturers' instructions for enabling "
 "UPnP:"
 msgstr ""
+"சந்தையில் பல வைஃபை திசைவிகள் உள்ளன, ஒவ்வொன்றும் அவற்றின் சொந்த அம்சங்களைக் கொண்டுள்ளன. UPNP "
+"ஐ இயக்குவதற்கான சில உற்பத்தியாளர்களின் வழிமுறைகளின் பட்டியல் இங்கே:"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[Linksys](https://www.linksys.com/us/support-article?articleNum=138290)"
-msgstr ""
+msgstr "[இணைஅமை](https://www.linksys.com/us/support-article?articleNum=138290)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[D-Link](https://eu.dlink.com/uk/en/support/faq/routers/wired-routers/di-"
 "series/how-do-i-enable-upnp-on-my-router)"
 msgstr ""
+"[D-Link](https://eu.dlink.com/uk/en/support/faq/routers/wired-routers/"
+"di-series/how-do-i-enable-upnp-on-my-router)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[Huawei](https://consumer.huawei.com/ph/support/content/en-us00275342/)"
-msgstr ""
+msgstr "[உவாயி](https://consumer.huawei.com/ph/support/content/en-us00275342/)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[Xfinity](https://www.xfinity.com/support/articles/configure-device-"
 "discovery-for-wifi)"
 msgstr ""
+"[எக்பினிட்டி](https://www.xfinity.com/support/articles/configure-device-"
+"discovery-for-wifi)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid "[TP-Link](https://community.tp-link.com/us/home/kb/detail/348)"
-msgstr ""
+msgstr "[TP-Link](https://community.tp-link.com/us/home/kb/detail/348)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[Netgear](https://kb.netgear.com/24306/How-do-I-enable-Universal-Plug-and-"
 "Play-on-my-Nighthawk-router)"
 msgstr ""
+"[Netgear](https://kb.netgear.com/24306/How-do-I-enable-Universal-Plug-and-"
+"Play-on-my-Nighthawk-router)"
 
 #: browser/bridging.md:block 30 (unordered list)
 msgid ""
 "[Ubiquiti](https://www.geekzone.co.nz/forums.asp?"
 "forumid=66&topicid=205740&page_no=5#1725168)"
 msgstr ""
+"[Ubiquiti](https://www.geekzone.co.nz/forums."
+"asp?forumid=66&topicid=205740&page_no=5#1725168)"
 
 #: browser/bridging.md:block 31 (header)
 msgid "Using port forwarding as an alternative to UPnP"
-msgstr ""
+msgstr "யுபிஎன்பிக்கு மாற்றாக துறைமுகம் பகிர்தலைப் பயன்படுத்துதல்"
 
 #: browser/bridging.md:block 32 (paragraph)
 msgid ""
@@ -253,10 +343,16 @@ msgid ""
 "forward the connections to and the relevant port, open the *Ceno Settings* "
 "page and look under the *Local UDP endpoints*."
 msgstr ""
+"உங்கள் திசைவியில் யுபிஎன்பி இயக்குவதற்கு பதிலாக, CENO நெட்வொர்க்கிலிருந்து இணைப்புகள் "
+"உங்கள் சாதனத்திற்கு அனுப்பப்படுகிறதா என்பதை உறுதிப்படுத்த ஒரு துறைமுகம் பகிர்தல் விதியை "
+"உருவாக்கலாம். நீங்கள் திசைவியின் நிர்வாக இடைமுகத்தில் உள்நுழைந்து * துறைமுகம் பகிர்தல் * "
+"விருப்பத்தைக் கண்டுபிடிக்க வேண்டும். இணைப்புகள் மற்றும் தொடர்புடைய துறைமுகத்தை நீங்கள் எந்த "
+"ஐபி முகவரியை அனுப்ப வேண்டும் என்பதைப் பார்க்க, *செனோ அமைப்புகள் *பக்கத்தைத் திறந்து *உள்ளூர்"
+" யுடிபி எண்ட்பாயிண்ட்ச் *இன் கீழ் பாருங்கள்."
 
 #: browser/bridging.md:block 33 (quote)
 msgid "**Local UDP endpoints**"
-msgstr ""
+msgstr "** உள்ளக யுடிபி இறுதிப் புள்ளிகள் **"
 
 #: browser/bridging.md:block 34 (paragraph)
 msgid ""
@@ -266,6 +362,11 @@ msgid ""
 "periodically review the *Ceno Settings* page to see that your device is "
 "reachable to the Ceno network."
 msgstr ""
+"துறைமுகம் பகிர்தல் யுடிபி நெறிமுறைக்கு இருக்க வேண்டும் (டி.சி.பி அல்ல). செனோ முதல் "
+"ரன்னில் ஒரு சீரற்ற துறைமுகத்தைத் தேர்ந்தெடுத்து அடுத்தடுத்த ரன்களுக்கு வைத்திருக்கிறது, ஆனால்"
+" உங்கள் சாதனத்தின் உள்ளக பிணையம் ஐபி முகவரி அவ்வப்போது மாறக்கூடும். உங்கள் சாதனம் CENO "
+"நெட்வொர்க்கை அடையக்கூடியது என்பதைக் காண நீங்கள் அவ்வப்போது * CENO அமைப்புகள் * பக்கத்தை "
+"மதிப்பாய்வு செய்ய வேண்டும்."
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
@@ -273,41 +374,50 @@ msgid ""
 "assigns the same IP address to your device (e.g. via a static DHCP lease for "
 "the device's MAC address)."
 msgstr ""
+"** தொழில்நுட்ப குறிப்பு: ** மாற்றாக, திசைவி எப்போதும் உங்கள் சாதனத்திற்கு ஒரே ஐபி "
+"முகவரியை ஒதுக்குகிறது என்பதை உறுதிப்படுத்தலாம் (எ.கா. சாதனத்தின் MAC முகவரிக்கு "
+"நிலையான DHCP குத்தகை வழியாக)."
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
 "[Doze mode]: https://developer.android.com/training/monitoring-device-state/"
 "doze-standby"
 msgstr ""
+"[Twelve mode]: https://developer.android.com/training/"
+"monitoring-device-state/doze-standby"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[Don't kill my app!]: https://dontkillmyapp.com/"
-msgstr ""
+msgstr "[எனது பயன்பாட்டை கொல்ல வேண்டாம்!]: Https://dontkillmyapp.com/"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[docker]: https://en.wikipedia.org/wiki/Docker_(software)"
-msgstr ""
+msgstr "[டாக்கர்]: https://en.wikipedia.org/wiki/Docker_(software)"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[docker-install]: https://docs.docker.com/engine/install/"
-msgstr ""
+msgstr "[docker-install]: https://docs.docker.com/engine/install/"
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
 "[ceno-client-doc]: https://gitlab.com/censorship-no/ceno-docker-"
 "client#running-the-client"
 msgstr ""
+"[ceno-client-doc]: https://gitlab.com/censorship-no/ceno-docker-client"
+"#running-the-client"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[UPnP]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play"
-msgstr ""
+msgstr "[UPnP]: https://en.wikipedia.org/wiki/Universal_Plug_and_Play"
 
 #: browser/bridging.md:block 35 (quote)
 msgid ""
 "[upnp-risks]: https://www.howtogeek.com/122487/htg-explains-is-upnp-a-"
 "security-risk"
 msgstr ""
+"[upnp-risks]: https://www.howtogeek.com/122487/htg-explains-is-upnp-a"
+"-security-risk"
 
 #: browser/bridging.md:block 35 (quote)
 msgid "[CGNAT]: https://en.wikipedia.org/wiki/Carrier-grade_NAT"
-msgstr ""
+msgstr "[CGNAT]: https://en.wikipedia.org/wiki/Carrier-Grade_Nat"

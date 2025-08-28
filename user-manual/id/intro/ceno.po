@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-05 22:49+0000\n"
-"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"PO-Revision-Date: 2025-04-23 00:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/censorship-no/"
 "ceno/id/>\n"
 "Language: id\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: intro/ceno.md:block 1 (header)
 msgid "What is Ceno Browser?"
@@ -139,14 +139,6 @@ msgstr ""
 "untuk meningkatkan peluang untuk mengirimkan konten web ke pengguna lainnya."
 
 #: intro/ceno.md:block 11 (quote)
-#, fuzzy
-#| msgid ""
-#| "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may "
-#| "allow others to know whether you have accessed or are sharing certain Web "
-#| "content. Please take careful consideration of which risks you can assume "
-#| "by using this tool. See the sections on [public vs. private browsing](../"
-#| "concepts/public-private.md) and [risks](../concepts/risks.md) for further "
-#| "information."
 msgid ""
 "**Warning:** *Ceno is not an anonymity tool.* In fact, using Ceno may allow "
 "others to know whether you have accessed or are sharing certain Web content. "
@@ -158,9 +150,9 @@ msgstr ""
 "**Peringatan:** *Ceno bukanlah alat anonimitas.* Bahkan, menggunakan Ceno "
 "memungkinkan orang lain untuk mengetahui apakah Anda telah mengakses atau "
 "membagikan konten web tertentu. Mohon pertimbangkan dengan cermat risiko apa "
-"yang dapat Anda tanggung dengan menggunakan alat ini. Lihat bagian "
-"[penjelajahan publik vs. privat](../konsep/publik-privat.md) dan [risiko](../"
-"konsep/risks.md) untuk informasi lebih lanjut."
+"yang dapat Anda tanggung dengan menggunakan alat ini. Lihat bagian ["
+"penjelajahan publik vs. personal](../konsep/publik-personal.md) dan "
+"[risiko](../konsep/risks.md) untuk informasi lebih lanjut."
 
 #: intro/ceno.md:block 11 (quote)
 msgid "[Censorship.no!]: https://censorship.no/"

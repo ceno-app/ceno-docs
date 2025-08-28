@@ -1,19 +1,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-10 09:03+0000\n"
-"Last-Translator: Kamil Rumanuel Rukola <kamca87@gmail.com>\n"
+"PO-Revision-Date: 2024-08-31 14:09+0000\n"
+"Last-Translator: Daniel  Alker <daniel.alker@seznam.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-readme/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: browser/README.md:block 1 (header)
 msgid "Using Ceno Browser"
-msgstr "Pomocí prohlížeče cen"
+msgstr "Pomocí prohlížeče Ceno"
 
 #: browser/README.md:block 2 (paragraph)
 msgid ""
@@ -27,7 +27,8 @@ msgstr ""
 "o možnosti související s Ouinetem. Mějte prosím vždy na paměti, že Ceno je "
 "založeno na [Firefox pro Android][Firefox pro Android], takže pro všechny "
 "otázky týkající se obecných témat procházení byste se měli podívat na "
-"stránky [Podpora Firefoxu pro Android][Firefox pro Android] od Mozilly."
+"stránky [Podpora Firefoxu pro Android][Firefox pro Android] od společnosti "
+"Mozilla."
 
 #: browser/README.md:block 3 (paragraph)
 msgid ""
@@ -56,7 +57,6 @@ msgid "[Firefox for Android]: https://www.mozilla.org/firefox/android/"
 msgstr "[Firefox pro Android]: https://www.mozilla.org/firefox/android/"
 
 #: browser/README.md:block 4 (paragraph)
-#, fuzzy
 msgid ""
 "[Firefox for Android Support]: https://support.mozilla.org/en-US/products/"
 "mobile"

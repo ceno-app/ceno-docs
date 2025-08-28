@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2023-12-21 16:06+0000\n"
+"PO-Revision-Date: 2024-03-30 04:12+0000\n"
 "Last-Translator: Mya Myintzu Hlaing <myamyintzu10@gmail.com>\n"
 "Language-Team: Burmese <https://hosted.weblate.org/projects/censorship-no/"
 "manual/browser-settings/my/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #
 #: browser/settings.md:block 1 (header)
@@ -71,11 +71,11 @@ msgid ""
 "retrieve content while using either [Public or Personal browsing](public-"
 "personal.md) tabs. All boxes are enabled by default."
 msgstr ""
-"စာမျက်နှာထိပ်ဘက်ရှိ အမှန်ခြစ်ရန် အကွက် လေးခုသည် [အများသုံး သို့မဟုတ် သီးသန့် "
-"ရှာဖွေခြင်း](public-personal.md) တပ်ဗ်များမှ တစ်ခုခုကို အသုံးပြုနေစဉ် "
-"အကြောင်းအရာကို ပြန်ထုတ်ရန် Ouinet လက်ခံစက်အနေနှင့် Ceno က အသုံးပြုသော "
-"ကွဲပြားသည့် စက်ကိရိယာ သို့မဟုတ် *ရင်းမြစ်များ* ကို ရွေးချယ်၍ ဖွင့်သည် "
-"သို့မဟုတ် ပိတ်သည်။ ပုံသေအားဖြင့် အကွက်အားလုံးကို ဖွင့်ထားသည်။"
+"စာမျက်နှာထိပ်ဘက်ရှိ အမှန်ခြစ်ရန် အကွက် လေးခုသည် [အများသုံး သို့မဟုတ် "
+"တကိုယ်ရည်သုံး ရှာဖွေခြင်း](public-personal.md) တပ်ဗ်များမှ တစ်ခုခုကို "
+"အသုံးပြုနေစဉ် အကြောင်းအရာကို ပြန်ထုတ်ရန် Ouinet လက်ခံစက်အနေနှင့် Ceno က "
+"အသုံးပြုသော ကွဲပြားသည့် စက်ကိရိယာ သို့မဟုတ် *ရင်းမြစ်များ* ကို ရွေးချယ်၍ "
+"ဖွင့်သည် သို့မဟုတ် ပိတ်သည်။ ပုံသေအားဖြင့် အကွက်အားလုံးကို ဖွင့်ထားသည်။"
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -90,7 +90,7 @@ msgid ""
 "Although this mechanism works in both Personal and Public browsing modes, "
 "content thus retrieved cannot be shared with others."
 msgstr ""
-"ဤစက်ကိရိယာသည် သီးသန့်နှင့် အများသုံး ရှာဖွေခြင်းမုဒ် နှစ်ခုလုံးအတွက် "
+"ဤစက်ကိရိယာသည် တကိုယ်ရည်သုံးနှင့် အများသုံး ရှာဖွေခြင်းမုဒ် နှစ်ခုလုံးအတွက် "
 "အလုပ်လုပ်သည့်တိုင်အောင် ထိုသို့ ပြန်ထုတ်ထားသော အကြောင်းအရာကို "
 "အခြားသူများနှင့် မမျှဝေနိုင်ပါ။"
 
@@ -132,8 +132,9 @@ msgstr ""
 "ရောက်ရှိရန် Ceno အား ထိုးသွင်းဖိုင်များကို ပုံမှန် HTTP ပရောက်စီ ဆာဗာများအဖြစ် အသုံးပြုခွင့်ပေးသည်။"
 
 #: browser/settings.md:block 8 (unordered list)
+#, fuzzy
 msgid "This mechanism only works in Personal browsing mode."
-msgstr "ဤစက်ကိရိယာသည် သီးသန့် ရှာဖွေမှုမုဒ်တွင်သာ အလုပ်လုပ်သည်။"
+msgstr "ဤစက်ကိရိယာသည် တကိုယ်ရည်သုံးရှာဖွေမှုမုဒ်၌သာ အလုပ်လုပ်သည်။"
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -185,10 +186,10 @@ msgid ""
 "browsing mode will render them useless. If you establish such a "
 "configuration, a warning will be shown as depicted below:"
 msgstr ""
-"အများသုံး သို့မဟုတ် သီးသန့် ရှာဖွေမှုမုဒ်အတွက် ရရှိနိုင်သော "
+"အများသုံး သို့မဟုတ် တကိုယ်ရည်သုံးရှာဖွေမှုမုဒ်အတွက် ရရှိနိုင်သော "
 "စက်ကိရိယာအားလုံးကို ပိတ်ခြင်းသည် ၎င်းတို့ကို အသုံးမဝင် ဖြစ်စေလိမ့်မည်။ သင်သည်"
 " ထိုစီစဉ်သတ်မှတ်မှုကို တည်ဆောက်ပါက အောက်တွင် ဖော်ပြထားသည့်အတိုင်း "
-"သတိပေးချက်ကို ပြသပါမည်။"
+"သတိပေးချက်ကို ပြသလိမ့်မည်။"
 
 #: browser/settings.md:block 10 (paragraph)
 msgid ""

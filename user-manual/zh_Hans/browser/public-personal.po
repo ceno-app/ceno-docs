@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-10 19:21+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/manual/browser-public-private/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+#: browser/public-personal.md:block 1 (header)
+msgid "Public and Personal browsing modes"
+msgstr "公共浏览和个人浏览模式"
+
+#: browser/public-personal.md:block 2 (paragraph)
+msgid ""
+"As described [in a previous section](../concepts/public-personal.md), Ceno "
+"has two different modes of operation depending on whether you want to share "
+"the content that you browse with others (Public browsing) or not (Personal "
+"browsing)."
+msgstr ""
+"如[上一节](../concepts/public-personal.md)所述，Ceno "
+"有两种不同的操作模式，具体取决于您是否要与他人共享您浏览的内容（公共浏览）或"
+"不共享（个人浏览）。"
+
+#: browser/public-personal.md:block 3 (paragraph)
+msgid ""
+"This setting applies *to each tab* that you open in the browser, i.e. you "
+"can have Public browsing tabs and Personal browsing tabs. Ceno's default "
+"whenever you start it or open a new tab (via the 'Public Tabs' option on the "
+"homepage or the Tabs icon next to the Clear icon in the address bar) is to "
+"use Public browsing. To open a new tab in Personal browsing mode, just "
+"choose *Personal Tabs* on the homepage or switch to the Personal mode icon "
+"in the Tabs menu."
+msgstr ""
+"此设置适用于您在浏览器中打开的*每个标签页*，即您可以拥有公共浏览标签页卡和个"
+"人浏览标签页。每当您启动 Ceno "
+"或打开一个新标签页时(通过主页上的“公共标签页”选项或地址栏中清除图标旁边的标签"
+"页图标)时， Ceno "
+"的默认设置是使用公共浏览。要在个人浏览模式下打开新标签页，只需在主页上选择*个"
+"人标签页*或切换到标签菜单中的个人模式图标。"
+
+#: browser/public-personal.md:block 4 (paragraph)
+msgid ""
+"You can tell public tabs from personal ones because public tabs have a "
+"lighter (or white) tool bar:"
+msgstr "您可以区分公共标签页和个人标签页，因为公共标签页有一个较浅(或白色)的工具栏："
+
+#: browser/public-personal.md:block 5 (paragraph)
+msgid "![Figure: A Public browsing tab](images/public-tab.png)"
+msgstr "![图片：公共浏览标签页](images/public-tab.png)"
+
+#: browser/public-personal.md:block 6 (paragraph)
+msgid "In contrast, private tabs have a darker tool bar:"
+msgstr "相比之下，个人标签页的工具栏颜色较深："
+
+#: browser/public-personal.md:block 7 (paragraph)
+msgid "![Figure: A Personal browsing tab](images/private-tab.png)"
+msgstr "![图片：个人浏览标签页](images/private-tab.png)"
+
+#: browser/public-personal.md:block 8 (paragraph)
+msgid ""
+"Once you have loaded a page in a tab, the Ceno icon in the address bar will "
+"help you know how it actually retrieved the different elements of the "
+"content. We will cover this icon later on."
+msgstr "在标签页中加载页面后，地址栏中的 Ceno "
+"图标将帮助您了解它实际上是如何检索内容的不同元素的。我们稍后会介绍这个图标。"

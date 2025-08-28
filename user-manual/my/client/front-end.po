@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-05 20:50+0200\n"
-"PO-Revision-Date: 2024-01-18 07:30+0000\n"
+"PO-Revision-Date: 2024-03-19 18:01+0000\n"
 "Last-Translator: Mya Myintzu Hlaing <myamyintzu10@gmail.com>\n"
 "Language-Team: Burmese <https://hosted.weblate.org/projects/censorship-no/"
 "client-front-end/my/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #
 #: client/front-end.md:block 1 (header)
@@ -31,13 +31,15 @@ msgstr ""
 "ထည့်သွင်းထားသည်။ ၎င်းတို့အနက် အချို့ကို Ceno အဆက်တွင် ရယူအသုံးပြုနိုင်မည် မဟုတ်ပါ။"
 
 #: client/front-end.md:block 3 (paragraph)
+#, fuzzy
 msgid ""
 "The front-end is accessible using any plain Web browser running on the same "
 "device (you can use Ceno too). Its default address is <http://127.0.0.1:8078/"
 ">. If you open it, you will see something like the figure below."
 msgstr ""
-"ထိုရှေ့စာမျက်နှာကို သင့်စက်ရှိ မည်သည့် ဘရောက်ဇာနှင့်မဆို ဖွင့်ကြည့်နိုင်သည် (Ceno ဘရောက်ဇာကိုလည်း သုံးနိုင်သည်)။ "
-"လိပ်စာမှာ <http://127.0.0.1:8078/> ဖြစ်သည်။ ဖွင့်လိုက်လျှင် ဤသို့တွေ့ရမည်။"
+"ထိုရှေ့စာမျက်နှာကို သင့်စက်ရှိ မည်သည့် ဘရောက်ဇာနှင့်မဆို ဖွင့်ကြည့်နိုင်သည် ("
+"Ceno ဘရောက်ဇာကိုလည်း သုံးနိုင်သည်)။ လိပ်စာမှာ <http://127.0.0.1:8078/> "
+"ဖြစ်သည်။ ဖွင့်လိုက်လျှင် ဤသို့တွေ့ရမည်။"
 
 #: client/front-end.md:block 4 (paragraph)
 msgid "![Figure: The client front-end](images/front-end.png)"

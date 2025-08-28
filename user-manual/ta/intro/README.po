@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-13 22:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"readme/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 #: intro/README.md:block 1 (header)
 msgid "Introduction"
-msgstr ""
+msgstr "அறிமுகம்"
 
 #: intro/README.md:block 2 (paragraph)
 msgid ""
@@ -21,6 +27,13 @@ msgid ""
 "(https://censoredplanet.org/reports \"Censored Planet – Reports\")), both "
 "from private and state actors."
 msgstr ""
+"இணையமும் உலகளாவிய வலையும் உலகெங்கிலும் உள்ள மக்களுக்கு எல்லா வகையான தகவல்களுக்கும் ஒரு "
+"ஆதாரமாகவும், அடிப்படை உரிமைகளைப் பயன்படுத்துவதற்கான ஒரு வழியாகவும் மிகவும் "
+"முக்கியத்துவம் வாய்ந்தவை. அதே நேரத்தில், அண்மைக் கால ஆண்டுகளில் அனைத்து வகையான பிணையம் "
+"தணிக்கை மற்றும் பிற வகை பிணைய குறுக்கீடுகள் அதிகரிப்பு காணப்படுகின்றன ([OONI] "
+"(https://oni.org/reports/ இன் அறிக்கைகளைப் பார்க்கவும் அறிக்கைகள் \"), [மாக்மா] "
+"(https://magma.lavafeld.org/publications/\" மாக்மா வெளியீடுகள் \"), [தணிக்கை "
+"செய்யப்பட்ட கிரகம்] ( தனியார் மற்றும் மாநில நடிகர்களிடமிருந்து."
 
 #: intro/README.md:block 3 (paragraph)
 msgid ""
@@ -32,6 +45,13 @@ msgid ""
 "you need is connected to the network and has enough available resources to "
 "talk to your device at that moment."
 msgstr ""
+"நீங்கள் மீட்டெடுக்க விரும்பும் உள்ளடக்கத்தை வைத்திருக்கும் * வலை சேவையகங்கள் * (உள்ளடக்க "
+"படைப்பாளர்கள், வெளியீட்டாளர்கள் அல்லது இணைய பணி வழங்குநர்களால் நடத்தப்படுகிறது) எனப்படும் "
+"சிறப்பு கணினிகளை அடைய உங்கள் சாதனங்களை வலை நம்பியுள்ளது, மேலும் ஒத்திசைக்கப்பட்ட வழியில் "
+"அவ்வாறு செய்ய வேண்டும் - மேலும் இருப்பது போன்றது சில கடிதங்களை பரிமாறிக்கொள்வதை விட "
+"தொலைபேசியில் ஒரு நேரடி அரட்டை. துரதிர்ச்டவசமாக, உங்களுக்கு தேவையான வலை சேவையகம் "
+"பிணையத்துடன் இணைக்கப்பட்டுள்ளது மற்றும் அந்த நேரத்தில் உங்கள் சாதனத்துடன் பேச போதுமான "
+"ஆதாரங்கள் உள்ளன."
 
 #: intro/README.md:block 4 (paragraph)
 msgid ""
@@ -44,6 +64,14 @@ msgid ""
 "that run them) need to be trusted by both the origin server and your "
 "devices, and they also need to be reachable at all times."
 msgstr ""
+"* உள்ளடக்க விநியோக நெட்வொர்க்குகள் * (அல்லது வணிக ரீதியான அகமாய் மற்றும் கிளவுட்ஃப்ளேர் போன்"
+"ற சி.டி.என்-கள் அல்லது குடிமை சமூகத்தை சார்ந்த விலகல் போன்றவை) இந்த வலை "
+"சேவையகங்களிலிருந்து சில சுமைகளை உலகெங்கிலும் உள்ள தரவு மையங்களுக்கு விநியோகிப்பதன் "
+"மூலம் எடுத்துள்ளன , இதனால் அது உங்கள் சாதனங்களுடன் நெருக்கமாக இருக்க முடியும், இதனால் "
+"அடைவதற்கு வேகமாக இருக்கும், அதே நேரத்தில் மூல சேவையகங்களை நேரடி அணுகலிலிருந்து "
+"பாதுகாக்க வேண்டும். இருப்பினும், தற்போது சிடிஎன் சேவையகங்கள் (இதனால் அவற்றை இயக்கும் "
+"நிறுவனங்கள்) ஆரிசின் சேவையகம் மற்றும் உங்கள் சாதனங்கள் இரண்டையும் நம்ப வேண்டும், மேலும் அவை "
+"எல்லா நேரங்களிலும் அடையப்பட வேண்டும்."
 
 #: intro/README.md:block 5 (paragraph)
 msgid ""
@@ -56,21 +84,30 @@ msgid ""
 "that content - even if I was somehow able to access it a few hours ago and "
 "we're living some streets apart."
 msgstr ""
+"துரதிர்ச்டவசமாக, பொது இணைப்பு பற்றாக்குறை (வளரும் நாடுகள் அல்லது குறைவான, வறிய அல்லது "
+"கிராமப்புற பிராந்தியங்கள்), விலை உயர்ந்தது (சில நாடுகள் பன்னாட்டு போக்குவரத்திற்கு அதிக "
+"கட்டணம் வசூலிப்பதால்) அல்லது ஒரு மாநில வீரரால் தீவிரமாக தடுக்கப்பட்டுள்ளன (வெளிப்படையாக "
+"அல்லது அதன் விளைவாக ஒரு பொது பணிநிறுத்தம்). இந்த சந்தர்ப்பங்களில், ஆரிசின் வலை சேவையகங்கள்"
+" அல்லது சிடிஎன் சேவையகங்களை அடைவது கடினம் அல்லது சாத்தியமற்றது, மேலும் உங்கள் சாதனத்தால் "
+"அந்த உள்ளடக்கத்தைப் பெற முடியாது - சில மணிநேரங்களுக்கு முன்பு நான் அதை எப்படியாவது அணு"
+"க முடிந்தாலும், நாங்கள் சில தெருக்களில் வாழ்ந்தாலும் கூட ."
 
 #: intro/README.md:block 6 (paragraph)
 msgid ""
 "This is where Ceno Browser and Ouinet come into play. This chapter will "
 "introduce you to them."
 msgstr ""
+"இங்குதான் செனோ உலாவி மற்றும் ஓயினெட் ஆகியவை செயல்பாட்டுக்கு வருகின்றன. இந்த அத்தியாயம் "
+"உங்களை அவர்களுக்கு அறிமுகப்படுத்தும்."
 
 #: intro/README.md:block 6 (paragraph)
 msgid "[ooni-reports]: https://ooni.org/reports/"
-msgstr ""
+msgstr "[Ooni- அறிக்கைகள்]: https://oni.org/reports/"
 
 #: intro/README.md:block 6 (paragraph)
 msgid "[magma-reports]: https://magma.lavafeld.org/publications/"
-msgstr ""
+msgstr "[magma-reports]: https://magma.lavafeld.org/publications/"
 
 #: intro/README.md:block 6 (paragraph)
 msgid "[cplan-reports]: https://censoredplanet.org/reports"
-msgstr ""
+msgstr "[cplan-reports]: https://censoredplanet.org/reports"

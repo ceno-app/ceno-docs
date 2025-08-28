@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-17 03:03+0000\n"
+"PO-Revision-Date: 2024-03-11 21:10+0000\n"
 "Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
-"censorship-no/browser-settings/pt_BR/>\n"
+"censorship-no/manual/browser-settings/pt_BR/>\n"
 "Language: pt_BR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: browser/settings.md:block 1 (header)
 msgid "Ceno settings"
@@ -64,23 +64,17 @@ msgid "Choosing access mechanisms"
 msgstr "Escolhendo os mecanismos de acesso"
 
 #: browser/settings.md:block 7 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "The four checkboxes on the top of the page selectively enable or disable "
-#| "the different mechanisms or *sources* that Ceno as a Ouinet client uses "
-#| "to retrieve content while using either [public or private browsing]"
-#| "(public-private.md) tabs. All boxes are enabled by default."
 msgid ""
 "The four checkboxes on the top of the page selectively enable or disable the "
 "different mechanisms or *sources* that Ceno as a Ouinet client uses to "
 "retrieve content while using either [Public or Personal browsing](public-"
 "personal.md) tabs. All boxes are enabled by default."
 msgstr ""
-"As quatro caixas de seleção no topo da página seletivamente habilitam ou "
-"desabilitam os diferentes mecanismos ou *sources* que o Ceno, como um "
-"cliente Ouinet, usa para recuperar conteúdo enquanto utiliza tanto as abas "
-"de [navegação pública quanto privativa](public-private.md). Todas as caixas "
-"estão habilitadas por padrão."
+"As quatro caixas de seleção na parte superior da página ativam ou desativam "
+"seletivamente os diferentes mecanismos ou *fontes* que Ceno, como cliente "
+"Ouinet, usa para recuperar conteúdo enquanto usa as guias [Navegação pública "
+"ou pessoal](public-personal.md). Todas as caixas estão habilitadas por "
+"padrão."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -92,17 +86,12 @@ msgstr ""
 "mecanismos habilitados abaixo."
 
 #: browser/settings.md:block 8 (unordered list)
-#, fuzzy
-#| msgid ""
-#| "Although this mechanism works in both private and public browsing modes, "
-#| "content thus retrieved cannot be shared with others."
 msgid ""
 "Although this mechanism works in both Personal and Public browsing modes, "
 "content thus retrieved cannot be shared with others."
 msgstr ""
-"Embora esse mecanismo funcione em ambos os modos de navegação, pública e "
-"privativa, o conteúdo assim recuperado não pode ser compartilhado com outras "
-"pessoas."
+"Embora este mecanismo funcione nos modos de navegação Pessoal e Público, o "
+"conteúdo assim recuperado não pode ser compartilhado com outras pessoas."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -146,10 +135,8 @@ msgstr ""
 "de origem."
 
 #: browser/settings.md:block 8 (unordered list)
-#, fuzzy
-#| msgid "This mechanism only works in private browsing mode."
 msgid "This mechanism only works in Personal browsing mode."
-msgstr "Esse mecanismo somente funciona no modo de navegação privativa."
+msgstr "Este mecanismo só funciona no modo de navegação Pessoal."
 
 #: browser/settings.md:block 8 (unordered list)
 msgid ""
@@ -198,19 +185,14 @@ msgstr ""
 "que o estão semeando."
 
 #: browser/settings.md:block 9 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "Disabling all of the mechanisms available for either public or private "
-#| "browsing mode will render them useless. If you establish such a "
-#| "configuration, a warning will be shown as depicted below:"
 msgid ""
 "Disabling all of the mechanisms available for either Public or Personal "
 "browsing mode will render them useless. If you establish such a "
 "configuration, a warning will be shown as depicted below:"
 msgstr ""
-"Desabilitar todos os mecanismos disponíveis tanto para o modo de navegação "
-"pública quanto para o privativo irá torná-los inúteis. Se você estabelecer "
-"tais configurações, um aviso será exibido como ilustrado abaixo:"
+"Desabilitar todos os mecanismos disponíveis para o modo de navegação Pública "
+"ou Pessoal irá torná-los inúteis. Se você estabelecer tal configuração, um "
+"aviso será mostrado conforme mostrado abaixo:"
 
 #: browser/settings.md:block 10 (paragraph)
 msgid ""

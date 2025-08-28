@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"homepage-readme/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: README.md:block 1 (header)
 msgid "Censorship.no! User Manual"
-msgstr ""
+msgstr "தணிக்கை. இல்லை! பயனர் கையேடு"
 
 #: README.md:block 2 (paragraph)
 msgid ""
@@ -15,6 +21,9 @@ msgid ""
 "technologies, as created for the [Censorship.no!][Censorship.no!] project by "
 "[eQualitie][eQualitie]."
 msgstr ""
+"இந்த கையேடு [செனோ உலாவி] [செனோ உலாவி] மற்றும் தொடர்புடைய தொழில்நுட்பங்களின் பயனர்களை "
+"இலக்காகக் கொண்டுள்ளது, இது [தணிக்கை. இல்லை!] [தணிக்கை. இல்லை!] திட்டத்திற்காக "
+"உருவாக்கப்பட்டது."
 
 #: README.md:block 3 (paragraph)
 msgid ""
@@ -23,26 +32,33 @@ msgid ""
 "find pointers for further reading and details on implementation, as well as "
 "the [protocol specifications][protocol specifications]."
 msgstr ""
+"நீங்கள் தொழில்நுட்ப ஆவணங்களைத் தேடுகிறீர்களானால், தயவுசெய்து [CENO ஆவணப்படுத்தல் களஞ்சியம்] ["
+"CENO ஆவணப்படுத்தல் களஞ்சியம்] ஐப் பார்க்கவும், அங்கு மேலதிக வாசிப்பு மற்றும் செயல்படுத்தல் "
+"குறித்த விவரங்கள் மற்றும் [நெறிமுறை விவரக்குறிப்புகள்] [நெறிமுறை விவரக்குறிப்புகள்] "
+"ஆகியவற்றிற்கான சுட்டிகள் இருப்பதைக் காணலாம்."
 
 #: README.md:block 3 (paragraph)
 msgid "[Ceno Browser]: https://gitlab.com/censorship-no/ceno-browser"
-msgstr ""
+msgstr "[Price Browser]: https://gitlab.com/censorship-o/ceno-browser"
 
 #: README.md:block 3 (paragraph)
 msgid "[Censorship.no!]: https://censorship.no/"
-msgstr ""
+msgstr "[Censorship.no!]: https://censorship.no/"
 
 #: README.md:block 3 (paragraph)
 msgid "[eQualitie]: https://equalit.ie/"
-msgstr ""
+msgstr "[சமநிலை]: https://equalit.ie/"
 
 #: README.md:block 3 (paragraph)
 msgid ""
 "[Ceno documentation repository]: https://gitlab.com/censorship-no/ceno-docs/"
 msgstr ""
+"[Ceno ஆவணப்படுத்துதல் repository]: https://gitlab.com/censorship-no/ceno-docs/"
 
 #: README.md:block 3 (paragraph)
 msgid ""
 "[protocol specifications]: https://gitlab.com/equalitie/ouinet/blob/master/"
 "doc/ouinet-network-whitepaper.md"
 msgstr ""
+"[நெறிமுறை விவரக்குறிப்புகள்]: https://gitlab.com/equalitie/ouinet/blob/master/"
+"doc/ouinet-network-whitepaper.md"

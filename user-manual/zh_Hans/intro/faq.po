@@ -3,32 +3,33 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-03 02:50+0200\n"
-"PO-Revision-Date: 2021-03-03 01:50+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-13 04:01+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/censorship-no/faq/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #
 #: intro/faq.md:block 1 (header)
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "常见问题"
 
 #: intro/faq.md:block 2 (header)
 msgid "Usage"
-msgstr ""
+msgstr "使用"
 
 #: intro/faq.md:block 3 (header)
 msgid "Can Ceno Browser replace my current browser (Chrome/Firefox/Safari)?"
-msgstr ""
+msgstr "Ceno 浏览器能否代替我现在的浏览器 (Chrome/Firefox/Safari)？"
 
 #: intro/faq.md:block 4 (paragraph)
 msgid "Short answer: yes, at least for some non-critical browsing."
-msgstr ""
+msgstr "简而言之：可以，至少对于一些非关键性的浏览来说是这样。"
 
 #: intro/faq.md:block 5 (paragraph)
 msgid ""
@@ -37,6 +38,10 @@ msgid ""
 "Ouinet technology for retrieving web content may affect its operation in "
 "subtle ways (some of them potentially involving your privacy)."
 msgstr ""
+"由于 Ceno 基于 Mozilla Firefox for "
+"Android，它提供了现代浏览器的所有功能。但是，它依赖 Ouinet "
+"技术来检索网络内容，这可能会以微妙的方式影响它的操作(其中一些可能涉及您的隐私"
+")。"
 
 #: intro/faq.md:block 6 (paragraph)
 msgid ""
@@ -45,6 +50,9 @@ msgid ""
 "changes are introduced which require you to uninstall the application or "
 "remove stored data (including bookmarks and site settings) before upgrading."
 msgstr ""
+"此外，由于 Ceno 和 Ouinet "
+"正在持续开发中，您可能会遇到一些不稳定的情况。这也可能意味着引入了向后不兼容"
+"的更改，要求您在升级之前卸载应用程序或删除存储的数据（包括书签和站点设置）。"
 
 #: intro/faq.md:block 7 (paragraph)
 msgid ""
@@ -52,14 +60,16 @@ msgid ""
 "you use your habitual Web browser instead of Ceno. Please read the section "
 "on [risks](../concepts/risks.md) for more information."
 msgstr ""
+"对于不受审查的网站上的重要工作，我们建议您使用您习惯的浏览器，而不是 "
+"Ceno。请阅读[风险](../concepts/risks.md)一节，了解更多信息。"
 
 #: intro/faq.md:block 8 (header)
 msgid "Can I use Ceno Browser to access Twitter, Facebook and Gmail?"
-msgstr ""
+msgstr "我可以使用 Ceno 浏览器访问 Twitter、Facebook 和 Gmail 吗？"
 
 #: intro/faq.md:block 9 (paragraph)
 msgid "Short answer: yes, by using Personal tabs."
-msgstr ""
+msgstr "简而言之：是的，通过使用个人标签页。"
 
 #: intro/faq.md:block 10 (paragraph)
 msgid ""
@@ -70,6 +80,11 @@ msgid ""
 "down all private data (like passwords and cookies) from Web traffic to "
 "ensure that it does not leak to other untrusted Ceno or Ouinet users."
 msgstr ""
+"尽管 Ceno "
+"努力提供尽可能类似于正常网页浏览的用户体验，但一些用于避免网络干扰的技术并不"
+"适用于这种动态网站。Ceno "
+"的默认操作模式（即公共浏览）就是这种情况，因为它从网络流量中剥离所有私人数据"
+"（如密码和 Cookies ），以确保不会泄露给其他不受信任的 Ceno 或 Ouinet 用户。"
 
 #: intro/faq.md:block 11 (paragraph)
 msgid ""
@@ -79,30 +94,35 @@ msgid ""
 "else. However, this requires that network traffic from your device can reach "
 "those websites in some way."
 msgstr ""
+"为了避免这种情况，并允许在 Ceno "
+"中使用这种动态网站，您可以使用个人标签页（即个人浏览），这样可以保持私人数据"
+"完整，并保持与网站的加密连接，从而防止其他任何人访问。但是，这要求您设备的网"
+"络流量能够以某种方式到达这些网站。"
 
 #: intro/faq.md:block 12 (paragraph)
 msgid ""
 "For further details, please refer to the section on the differences between "
 "[Public and Personal browsing](../concepts/public-personal.md)."
-msgstr ""
+msgstr "有关更多详细信息，请参阅[公共浏览和个人浏览](../concepts/public-"
+"personal.md)。"
 
 #: intro/faq.md:block 13 (header)
 msgid "Privacy and security"
-msgstr ""
+msgstr "隐私和安全"
 
 #: intro/faq.md:block 14 (header)
 msgid "Will my device store content that I did not request?"
-msgstr ""
+msgstr "我的设备会存储我没有请求的内容吗？"
 
 #: intro/faq.md:block 15 (paragraph)
 msgid "Short answer: no."
-msgstr ""
+msgstr "简而言之：不会。"
 
 #: intro/faq.md:block 16 (paragraph)
 msgid ""
 "Ceno only shares content that you requested (using [Public browsing](../"
 "concepts/public-personal.md))."
-msgstr ""
+msgstr "Ceno 仅共享您使用[公共浏览](../concepts/public-personal.md)请求的内容。"
 
 #: intro/faq.md:block 17 (paragraph)
 msgid ""
@@ -112,20 +132,25 @@ msgid ""
 "already does a pretty good job at detecting and blocking such attempts, you "
 "should still avoid visiting suspicious sites."
 msgstr ""
+"请注意，恶意网站仍可能试图在您不知情的情况下，诱使您的浏览器从其他网站检索内"
+"容，从而迫使您的设备存储内容并与其他用户共享。虽然 Firefox "
+"代码在检测和阻止这种尝试方面已经做得很好了，但是您仍然应该避免访问可疑的网站"
+"。"
 
 #: intro/faq.md:block 18 (paragraph)
 msgid ""
 "Read more about how your Ceno Browser retrieves and shares Web content with "
 "others [here](../concepts/how.md)."
-msgstr ""
+msgstr "[点击此处](../concepts/how.md)了解更多关于 Ceno "
+"浏览器如何检索网页内容并与其他人分享的信息。"
 
 #: intro/faq.md:block 19 (header)
 msgid "Can anyone see if I am using Ceno Browser to access censored Web sites?"
-msgstr ""
+msgstr "有人能知道我是否在使用 Ceno 浏览器访问被审查的网站吗？"
 
 #: intro/faq.md:block 20 (paragraph)
 msgid "Short answer: yes, with some technical knowledge and resources."
-msgstr ""
+msgstr "简而言之：是的，具备一定的技术知识和资源的话。"
 
 #: intro/faq.md:block 21 (paragraph)
 msgid ""
@@ -135,6 +160,10 @@ msgid ""
 "particular website, although they cannot list all the content that you are "
 "sharing."
 msgstr ""
+"Ceno "
+"并非匿名工具。能够监视你网络流量的攻击者，可以看到从你的设备向其他用户请求的"
+"内容或向其他用户提供的内容。攻击者还能判断你是否在分享某个特定网站，尽管他们"
+"无法列出你正在分享的所有内容。"
 
 #: intro/faq.md:block 22 (paragraph)
 msgid ""
@@ -143,18 +172,21 @@ msgid ""
 "encrypted connections. See [how content retrieval works](../concepts/how.md) "
 "and the associated [risks](../concepts/risks.md) for more information."
 msgstr ""
+"不过，首次接入网络的内容或使用[个人浏览](../concepts/public-"
+"personal.md)的内容，将通过加密连接传输。有关更多信息，请参阅[内容检索原理]("
+"../concepts/how.md)及相关的[风险](../concepts/risks.md)。"
 
 #: intro/faq.md:block 23 (header)
 msgid "Resource usage"
-msgstr ""
+msgstr "资源使用"
 
 #: intro/faq.md:block 24 (header)
 msgid "Does Ceno Browser use a lot of data?"
-msgstr ""
+msgstr "Ceno 浏览器会使用大量数据吗？"
 
 #: intro/faq.md:block 25 (paragraph)
 msgid "Short answer: more than your usual browser."
-msgstr ""
+msgstr "简而言之：比你平时用的浏览器多。"
 
 #: intro/faq.md:block 26 (paragraph)
 msgid ""

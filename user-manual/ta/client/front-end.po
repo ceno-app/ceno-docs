@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-28 10:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/censorship-no/"
+"client-front-end/ta/>\n"
 "Language: ta\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: client/front-end.md:block 1 (header)
 msgid "Annex: The Ouinet client front-end"
-msgstr ""
+msgstr "இணைப்பு: ஓவினெட் கிளையன்ட் முன் இறுதியில்"
 
 #: client/front-end.md:block 2 (paragraph)
 msgid ""
@@ -16,6 +22,11 @@ msgid ""
 "Many of them are also offered by the Ceno Extension via the [*Ceno Settings* "
 "page](../browser/settings.md), though others are only available here."
 msgstr ""
+"ஓவினெட் வாங்கி (எ.கா. செனோ உலாவியால் நடத்தப்படுவது போல) சில தகவல்கள் மற்றும் செயல்களுடன்"
+" ஒரு முன்-இறுதி பக்கத்தை வழங்குகிறது, இது கிளையண்டிலிருந்து பிழைத்திருத்தத்திற்கு "
+"பயனுள்ளதாக இருக்கும். அவற்றில் பல CENO நீட்டிப்பால் [* CENO அமைப்புகள்* பக்கம்] (../ "
+"உலாவி/senttings.md) வழியாக வழங்கப்படுகின்றன, இருப்பினும் மற்றவை இங்கே மட்டுமே "
+"கிடைக்கின்றன."
 
 #: client/front-end.md:block 3 (paragraph)
 msgid ""
@@ -23,20 +34,25 @@ msgid ""
 "device (you can use Ceno too). Its default address is <http://127.0.0.1:8078/"
 ">. If you open it, you will see something like the figure below."
 msgstr ""
+"ஒரே சாதனத்தில் இயங்கும் எந்த எளிய வலை உலாவியைப் பயன்படுத்தி முன் இறுதியில் அணுக முடியும்"
+" (நீங்கள் CENO ஐயும் பயன்படுத்தலாம்). அதன் இயல்புநிலை முகவரி <http://127.0.0.1:8078/"
+">. நீங்கள் அதைத் திறந்தால், கீழே உள்ள எண்ணிக்கை போன்ற ஒன்றைக் காண்பீர்கள்."
 
 #: client/front-end.md:block 4 (paragraph)
 msgid "![Figure: The client front-end](images/front-end.png)"
-msgstr ""
+msgstr "! [படம்: கிளையன்ட் முன்-இறுதி] (படங்கள்/முன்-end.png)"
 
 #: client/front-end.md:block 5 (paragraph)
 msgid "The items shown in the page include:"
-msgstr ""
+msgstr "பக்கத்தில் காட்டப்பட்டுள்ள உருப்படிகள் பின்வருமாறு:"
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
 "A link to enable the client as a certificate authority (CA) at your browser, "
 "since the client needs to intercept HTTPS traffic."
 msgstr ""
+"கிளையன்ட் உங்கள் உலாவியில் சான்றிதழ் அதிகாரமாக (CA) செயல்படுத்துவதற்கான இணைப்பு, ஏனெனில் "
+"வாடிக்கையாளர் HTTPS போக்குவரத்தை இடைமறிக்க வேண்டும்."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
@@ -46,18 +62,27 @@ msgid ""
 "for injection to work. We very strongly recommend using a *separate, "
 "specific browser profile* for this purpose."
 msgstr ""
+"ஓவினெட் கிளையண்டை சோதிக்க ஒரு வெற்று உலாவியைப் பயன்படுத்த மட்டுமே உங்களுக்கு இது தேவை, "
+"இந்த விசயத்தில் நீங்கள் அதன் HTTP/HTTPS ப்ராக்சிகளை `127.0.0.1: 8077` ஆக கட்டமைக்க "
+"வேண்டும், மேலும் [CENO நீட்டிப்பு] [CENO நீட்டிப்பு] ஐ கைமுறையாக இயக்கவும் உட்செலுத்துதல் "
+"வேலை செய்ய. இந்த நோக்கத்திற்காக * தனி, குறிப்பிட்ட உலாவி சுயவிவரத்தை * பயன்படுத்த நாங்கள்"
+" மிகவும் கடுமையாக பரிந்துரைக்கிறோம்."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
 "Please note that none of this needs to be done for Ceno Browser, since it is "
 "already configured like that."
 msgstr ""
+"செனோ உலாவிக்கு இவை எதுவும் செய்ய வேண்டியதில்லை என்பதை நினைவில் கொள்க, ஏனெனில் இது "
+"ஏற்கனவே அப்படி கட்டமைக்கப்பட்டுள்ளது."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
 "Buttons to enable or disable the different mechanisms used by the client to "
 "access content."
 msgstr ""
+"உள்ளடக்கத்தை அணுக கிளையன்ட் பயன்படுத்தும் வெவ்வேறு வழிமுறைகளை இயக்க அல்லது முடக்க "
+"பொத்தான்கள்."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
@@ -66,6 +91,9 @@ msgid ""
 "useful for reporting errors). The log file can also be enabled and retrieved "
 "from here."
 msgstr ""
+"இயல்புநிலை `தகவல்` (தகவல் செய்திகள், எச்சரிக்கைகள் மற்றும் பிழைகள்) அல்லது` பிழைத்திருத்தம்`"
+" (பிழைகளைப் புகாரளிப்பதற்கு பயனுள்ள சொற்கள் வெளியீடு பயனுள்ளதாக) போன்ற வெவ்வேறு பதிவு "
+"நிலைகளைத் தேர்வுசெய்ய தேர்வாளர்கள். பதிவுக் கோப்பை இங்கிருந்து மீட்டெடுக்கலாம்."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
@@ -73,11 +101,16 @@ msgid ""
 "(though you may change it again from here). When disabling the log file, the "
 "original log level is restored."
 msgstr ""
+"பதிவு கோப்பை இயக்கும் போது, பதிவு நிலை தானாக `பிழைத்திருத்தமாக அமைக்கப்படும் (நீங்கள் "
+"அதை மீண்டும் இங்கிருந்து மாற்றலாம் என்றாலும்). பதிவு கோப்பை முடக்கும்போது, அசல் பதிவு நிலை"
+" மீட்டமைக்கப்படுகிறது."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
 "Global client state and version information. Useful when reporting errors."
 msgstr ""
+"உலகளாவிய கிளையன்ட் நிலை மற்றும் பதிப்பு செய்தி. பிழைகளைப் புகாரளிக்கும் போது பயனுள்ளதா"
+"க இருக்கும்."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
@@ -85,12 +118,17 @@ msgid ""
 "`bep5` method looks up Internet addresses in a BitTorrent injector swarm, as "
 "explained [here](../concepts/how.md)."
 msgstr ""
+"கிளையன்ட் இணைப்பு மற்றும் இன்செக்டர் முகவரி பற்றிய தகவல்கள். இயல்புநிலை `BEP5` முறை ஒரு "
+"பிட்டோரண்ட் இன்செக்டர் திரளில் இணைய முகவரிகளைப் பார்க்கிறது [இங்கே] (../ கருத்துக்கள்/HOW."
+"MD)."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
 "The public key used to verify signatures from injectors in the distributed "
 "cache."
 msgstr ""
+"விநியோகிக்கப்பட்ட தற்காலிக சேமிப்பில் உட்செலுத்துபவர்களிடமிருந்து கையொப்பங்களை சரிபார்க்க "
+"பொது விசை பயன்படுத்தப்படுகிறது."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
@@ -98,13 +136,18 @@ msgid ""
 "size of the cache, a button to purge it completely, and a link to the list "
 "of announced cache entries."
 msgstr ""
+"உங்கள் உள்ளக தற்காலிக சேமிப்பு பற்றிய தகவல்கள் அதிகபட்ச உள்ளடக்க அகவை, தற்காலிக சேமிப்பின் "
+"தோராயமான அளவு, அதை முழுவதுமாக சுத்தப்படுத்த ஒரு பொத்தான் மற்றும் அறிவிக்கப்பட்ட கேச் "
+"உள்ளீடுகளின் பட்டியலுக்கான இணைப்பு."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid ""
 "The directory of the external, static cache if enabled (Ceno does not "
 "currently use this)."
 msgstr ""
+"இயக்கப்பட்டால் வெளிப்புற, நிலையான தற்காலிக சேமிப்பின் அடைவு (CENO தற்போது இதைப் "
+"பயன்படுத்தவில்லை)."
 
 #: client/front-end.md:block 6 (unordered list)
 msgid "[Ceno Extension]: https://gitlab.com/censorship-no/ceno-ext-settings/"
-msgstr ""
+msgstr "[செனோ நீட்டிப்பு]: https://gitlab.com/censorship-no/ceno-ext-settings/"

@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-26 18:50+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
+"PO-Revision-Date: 2025-04-23 00:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "risks/pt/>\n"
 "Language: pt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: concepts/risks.md:block 1 (header)
 msgid "Risks in using Ceno/Ouinet"
@@ -82,22 +82,16 @@ msgstr ""
 "com a decodificação."
 
 #: concepts/risks.md:block 9 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "On the other hand, when the request uses private browsing mode, it is not "
-#| "modified by the client, but the whole communication is encrypted for the "
-#| "origin server. This means that in this other case the injector cannot "
-#| "decrypt the content."
 msgid ""
 "On the other hand, when the request uses Personal browsing mode, it is not "
 "modified by the client, but the whole communication is encrypted for the "
 "origin server. This means that in this other case the injector cannot "
 "decrypt the content."
 msgstr ""
-"Por outro lado, quando a solicitação usa o modo de navegação privativa, ela "
-"não é modificada pelo cliente, mas a comunicação como um todo é "
-"criptografada para o servidor de origem. Isso significa que neste outro caso "
-"o injetor não pode decodificar o conteúdo."
+"Por outro lado, quando o pedido utiliza o modo de navegação pessoal, não é "
+"modificado pelo cliente, mas toda a comunicação é encriptada para o servidor "
+"de origem. Isto significa que, neste outro caso, o injetor não pode "
+"desencriptar o conteúdo."
 
 #: concepts/risks.md:block 10 (quote)
 msgid ""
@@ -147,14 +141,6 @@ msgstr ""
 "que é de natureza privada, o Ceno também não irá semeá-lo."
 
 #: concepts/risks.md:block 15 (paragraph)
-#, fuzzy
-#| msgid ""
-#| "Still, there could be cases of badly designed or malicious pages which "
-#| "may collect some information from you (like an email address in a form or "
-#| "some browser fingerprints using JavaScript) and stuff it in another link "
-#| "URL as normal path components (e.g. `http://example.com/subscribe/"
-#| "you@example.org`). If you suspect that a page may be doing that, better "
-#| "be on the safe side and use private browsing for it."
 msgid ""
 "Still, there could be cases of badly designed or malicious pages which may "
 "collect some information from you (like an email address in a form or some "
@@ -168,8 +154,8 @@ msgstr ""
 "formulário ou fingerprints de algum navegador que use JavaScript) e incluí-"
 "los em outro link URL como componentes de um caminho normal (exemplo, "
 "`http://example.com/subscribe/you@example.org`). Se suspeita que uma página "
-"pode estar fazendo isso, melhor se prevenir e usar a navegação privativa "
-"para navegá-la."
+"pode estar fazendo isso, melhor se prevenir e usar a navegação Pessoal para "
+"navegá-la."
 
 #: concepts/risks.md:block 16 (header)
 msgid "Can the origin server know whether I am using Ceno?"

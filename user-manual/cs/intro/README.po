@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-10-20 11:17+0000\n"
+"Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
+"readme/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8-rc\n"
 
 #: intro/README.md:block 1 (header)
 msgid "Introduction"
-msgstr ""
+msgstr "Úvod"
 
 #: intro/README.md:block 2 (paragraph)
 msgid ""
@@ -21,6 +27,14 @@ msgid ""
 "(https://censoredplanet.org/reports \"Censored Planet – Reports\")), both "
 "from private and state actors."
 msgstr ""
+"Internet a celosvětová síť se stávají pro lidi na celém světě stále "
+"důležitějšími zdroji nejrůznějších informací a prostředkem k uplatňování "
+"základních práv. Zároveň v posledních letech dochází k nárůstu všech druhů "
+"cenzury sítí a dalších typů síťových zásahů (viz zprávy [OONI](https://ooni."
+"org/reports/ „Open Observatory of Network Interference - Research reports“), "
+"[Magma](https://magma.lavafeld.org/publications/ „Magma publications“), ["
+"Censored Planet](https://censoredplanet.org/reports „Censored Planet - "
+"Reports“)), a to jak ze strany soukromých, tak státních subjektů."
 
 #: intro/README.md:block 3 (paragraph)
 msgid ""
@@ -32,6 +46,13 @@ msgid ""
 "you need is connected to the network and has enough available resources to "
 "talk to your device at that moment."
 msgstr ""
+"Web je založen na tom, že vaše zařízení jsou schopna se spojit se "
+"speciálními počítači zvanými *webové servery* (provozovanými tvůrci obsahu, "
+"vydavateli nebo poskytovateli internetových služeb), které uchovávají obsah, "
+"který chcete získat, a to synchronizovaným způsobem - spíše jako při živém "
+"rozhovoru po telefonu než při výměně několika dopisů. Bohužel to vyžaduje, "
+"aby byl webový server, který potřebujete, připojen k síti a měl dostatek "
+"dostupných zdrojů, aby mohl v danou chvíli komunikovat s vaším zařízením."
 
 #: intro/README.md:block 4 (paragraph)
 msgid ""
@@ -44,6 +65,14 @@ msgid ""
 "that run them) need to be trusted by both the origin server and your "
 "devices, and they also need to be reachable at all times."
 msgstr ""
+"Nástup *sítí pro doručování obsahu* (neboli CDN, jako jsou komerční Akamai a "
+"Cloudflare nebo občanská společnost Deflect) částečně odlehčil těmto webovým "
+"serverům tím, že distribuoval kopie obsahu do datových center po celém "
+"světě, aby byl obsah blíže k vašim zařízením, a tím pádem rychleji dostupný, "
+"přičemž původní servery zůstaly chráněny před přímým přístupem. V současné "
+"době však musí být servery CDN (a tedy i organizace, které je provozují) "
+"důvěryhodné jak pro původní server, tak pro vaše zařízení, a musí být také "
+"vždy dosažitelné."
 
 #: intro/README.md:block 5 (paragraph)
 msgid ""
@@ -56,21 +85,31 @@ msgid ""
 "that content - even if I was somehow able to access it a few hours ago and "
 "we're living some streets apart."
 msgstr ""
+"Bohužel opět existují situace, kdy je obecná konektivita nedostatečná ("
+"rozvojové země nebo nedostatečně obsluhované, chudé nebo venkovské regiony), "
+"drahá (v některých zemích je mezinárodní provoz zpoplatněn více) nebo byla "
+"aktivně zablokována státním hráčem (výslovně nebo v důsledku obecného "
+"vypnutí). V těchto případech je dosažení původních webových serverů nebo "
+"dokonce serverů CDN obtížné nebo nemožné a vaše zařízení nebude schopno "
+"tento obsah získat - i když jsem se k němu před několika hodinami nějakým "
+"způsobem dostal a bydlíme několik ulic od sebe."
 
 #: intro/README.md:block 6 (paragraph)
 msgid ""
 "This is where Ceno Browser and Ouinet come into play. This chapter will "
 "introduce you to them."
 msgstr ""
+"Zde přicházejí na řadu prohlížeče Ceno Browser a Ouinet. V této kapitole se "
+"s nimi seznámíte."
 
 #: intro/README.md:block 6 (paragraph)
 msgid "[ooni-reports]: https://ooni.org/reports/"
-msgstr ""
+msgstr "[ooni-reports]: https://ooni.org/reports/"
 
 #: intro/README.md:block 6 (paragraph)
 msgid "[magma-reports]: https://magma.lavafeld.org/publications/"
-msgstr ""
+msgstr "[magma-reports]: https://magma.lavafeld.org/publications/"
 
 #: intro/README.md:block 6 (paragraph)
 msgid "[cplan-reports]: https://censoredplanet.org/reports"
-msgstr ""
+msgstr "[cplan-reports]: https://censoredplanet.org/reports"

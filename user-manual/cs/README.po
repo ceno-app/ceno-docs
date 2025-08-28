@@ -1,13 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-08-31 14:09+0000\n"
+"Last-Translator: Daniel  Alker <daniel.alker@seznam.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/censorship-no/"
+"homepage-readme/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: README.md:block 1 (header)
 msgid "Censorship.no! User Manual"
-msgstr ""
+msgstr "Censorship.no! Příručka pro užívání"
 
 #: README.md:block 2 (paragraph)
 msgid ""
@@ -15,6 +21,9 @@ msgid ""
 "technologies, as created for the [Censorship.no!][Censorship.no!] project by "
 "[eQualitie][eQualitie]."
 msgstr ""
+"Tato příručka je určena uživatelům [Ceno Browser][Ceno Browser] a "
+"souvisejících technologií, které pro projekt [Censorship.no!][Censorship.no!]"
+" vytvořila společnost [eQualitie][eQualitie]."
 
 #: README.md:block 3 (paragraph)
 msgid ""
@@ -23,26 +32,33 @@ msgid ""
 "find pointers for further reading and details on implementation, as well as "
 "the [protocol specifications][protocol specifications]."
 msgstr ""
+"Pokud hledáte technickou dokumentaci, podívejte se na [úložiště dokumentace "
+"Ceno][úložiště dokumentace Ceno], kde najdete odkazy na další čtení a "
+"podrobnosti o implementaci, a také na [specifikace protokolu][specifikace "
+"protokolu]."
 
 #: README.md:block 3 (paragraph)
 msgid "[Ceno Browser]: https://gitlab.com/censorship-no/ceno-browser"
-msgstr ""
+msgstr "[Ceno Prohlížeč]: https://gitlab.com/censorship-no/ceno-browser"
 
 #: README.md:block 3 (paragraph)
 msgid "[Censorship.no!]: https://censorship.no/"
-msgstr ""
+msgstr "[Censorship.no!]: https://censorship.no/"
 
 #: README.md:block 3 (paragraph)
 msgid "[eQualitie]: https://equalit.ie/"
-msgstr ""
+msgstr "[eQualitie]: https://equalit.ie/"
 
 #: README.md:block 3 (paragraph)
 msgid ""
 "[Ceno documentation repository]: https://gitlab.com/censorship-no/ceno-docs/"
 msgstr ""
+"[Úložiště dokumentace Ceno]: https://gitlab.com/censorship-no/ceno-docs/"
 
 #: README.md:block 3 (paragraph)
 msgid ""
 "[protocol specifications]: https://gitlab.com/equalitie/ouinet/blob/master/"
 "doc/ouinet-network-whitepaper.md"
 msgstr ""
+"[specifikace protokolu]: https://gitlab.com/equalitie/ouinet/blob/master/doc/"
+"ouinet-network-whitepaper.md"
